@@ -1,0 +1,111 @@
+T1	Entity 0 9	Vitamin D
+T2	SNP 18 34	genetic variants
+R1	SNP_coupled_gene Arg1:T2 Arg2:T1	
+T3	Entity 54 72	vitamin D exposure
+T4	Cancer 78 91	breast cancer
+T5	Association 92 96	risk
+E1	Association:T5 bc:T4 snp_int:T2 snp_int2:T51
+T6	Entity 103 129	Caucasian women in Ontario
+R3	Population_assignment Arg1:T2 Arg2:T6	
+T7	Spec 238 250	investigated
+T8	Entity 264 268;281 299	gene vitamin D pathways
+T9	SNP 269 277	variants
+R4	SNP_coupled_gene Arg1:T9 Arg2:T8	
+T10	Association 304 314	associated
+E2	Association:T10 snp_int:T9 bc:T11
+R5	Speculation_marker Arg1:E2 Arg2:T7	
+T11	Cancer 320 333	breast cancer
+T12	Therapeutic_response 343 349	modify
+E3	Therapeutic_response:T12 Theme2:T11 Agent:T50
+T13	Entity 393 411	vitamin D exposure
+T14	Entity 433 452	aged 25 to 74 years
+R6	Speculation_marker Arg1:E3 Arg2:T7	
+R7	Risk_Factor Arg1:T9 Arg2:T14	
+T15	Entity 838 861	vitamin D related genes
+T16	Entity 873 898	vitamin D binding protein
+T17	Entity 900 902	GC
+R9	Equiv Arg1:T17 Arg2:T16	
+T18	Entity 905 923	vitamin D receptor
+T19	Entity 925 928	VDR
+R10	Equiv Arg1:T19 Arg2:T18	
+T20	Entity 935 960	cytochrome P450 type 24A1
+T21	Entity 962 969	CYP24A1
+R11	Equiv Arg1:T21 Arg2:T20	
+R12	Member Arg1:T15 Arg2:T16	
+R13	Member Arg1:T15 Arg2:T18	
+R14	Member Arg1:T15 Arg2:T20	
+T22	Spec 764 772	evaluate
+T23	Association 773 785	associations
+E4	Association:T23 snp_int:T24 bc:T11
+R15	Speculation_marker Arg1:E4 Arg2:T22	
+T24	SNP 794 828	19 single nucleotide polymorphisms
+T25	SNP 797 828	single nucleotide polymorphisms
+T26	SNP 830 833	SNP
+R16	Equiv Arg1:T26 Arg2:T25	
+R17	Equiv Arg1:T24 Arg2:T9	
+R18	SNP_coupled_gene Arg1:T24 Arg2:T15	
+R19	Equiv Arg1:T8 Arg2:T15	
+T27	SNP 1044 1053	Some SNPs
+T28	Level 1071 1084	significantly
+T29	Association 1085 1095	associated
+E5	Association:T29 bc:T30 snp_int:T27
+A1	Level E5 High
+T30	Cancer 1101 1114	breast cancer
+R20	Level_marker Arg1:E5 Arg2:T28	
+T31	Cancer 1134 1147	breast cancer
+T32	Entity 1177 1179	GC
+T33	SNP 1180 1186	rs7041
+T34	Entity 1187 1189	TT
+R22	Genotype Arg1:T33 Arg2:T34	
+R23	SNP_coupled_gene Arg1:T33 Arg2:T32	
+T35	Association 1157 1167	associated
+E6	Association:T35 snp_int:T33 bc:T31
+T36	SNP 1290 1299	rs2228570
+T37	Entity 1280 1283	VDR
+T38	SNP 1284 1288	Fok1
+R24	Equiv Arg1:T36 Arg2:T38	
+R25	SNP_coupled_gene Arg1:T38 Arg2:T37	
+T39	Entity 1301 1303	ff
+R26	Genotype Arg1:T36 Arg2:T39	
+E7	Association:T35 bc:T31 snp_int:T36
+T40	Effect_Type 1261 1270	inversely
+R27	Effect_type_marker Arg1:E7 Arg2:T40	
+A2	Effect_Type E7 Decrease
+A3	SNP_Type T36 Missense
+R28	Member Arg1:T27 Arg2:T33	
+R29	Member Arg1:T27 Arg2:T36	
+R21	Level_marker Arg1:E7 Arg2:T28	
+R30	Level_marker Arg1:E6 Arg2:T28	
+A4	Level E7 High
+A5	Level E6 High
+R31	Member Arg1:T24 Arg2:T27	
+T41	SNP 1473 1480;1499 1515	certain genetic variants
+R2	Equiv Arg1:T41 Arg2:T27	
+T42	Spec 1516 1519	may
+T43	Association 1520 1529	influence
+E8	Association:T43 bc:T44 snp_int:T41
+T44	Cancer 1530 1543	breast-cancer
+R32	Speculation_marker Arg1:E8 Arg2:T42	
+T45	Entity 1481 1498	vitamin D related
+R33	SNP_coupled_gene Arg1:T41 Arg2:T45	
+T46	Spec 1562 1578	limited evidence
+T47	SNP 1584 1600	genetic variants
+T48	Therapeutic_response 1601 1607;1670 1674	modify risk
+E9	Therapeutic_response:T48 Agent:T47
+T49	Entity 1633 1651	vitamin D exposure
+R34	Speculation_marker Arg1:E9 Arg2:T46	
+R35	SNP_coupled_gene Arg1:T47 Arg2:T45	
+T50	SNP 269 277	variants
+R38	SNP_coupled_gene Arg1:T50 Arg2:T8	
+R8	Risk_Factor Arg1:T50 Arg2:T13	
+R39	Risk_Factor Arg1:T50 Arg2:T14	
+T51	SNP 18 34	genetic variants
+R37	Risk_Factor Arg1:T51 Arg2:T3	
+R40	SNP_coupled_gene Arg1:T51 Arg2:T1	
+R41	Population_assignment Arg1:T51 Arg2:T6	
+R42	Population_assignment Arg1:T9 Arg2:T6	
+R43	Population_assignment Arg1:T50 Arg2:T6	
+R36	Member Arg1:T24 Arg2:T47	
+T52	Cancer 1656 1669	breast cancer
+R44	Risk_Factor Arg1:T47 Arg2:T49	
+A6	SNP_Type T38 Missense

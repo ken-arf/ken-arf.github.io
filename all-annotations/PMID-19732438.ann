@@ -1,0 +1,61 @@
+T1	Neg 0 2	No
+T2	Association 3 14	association
+E1	Association:T2 snp_int:T4 bc:T5
+R1	Negation_marker Arg1:E1 Arg2:T1	
+T3	Entity 35 41	TCF7L2
+T4	SNP 42 49	variant
+T5	Cancer 62 68;80 86	breast cancer
+R2	SNP_coupled_gene Arg1:T4 Arg2:T3	
+T6	Patho_physiology 217 232	Type 2 diabetes
+E2	Patho_physiology:T6 Agent:T32
+T7	Cancer 295 317	familial breast cancer
+A1	Cancer_Type T7 Familial
+T8	Entity 583 589	TCF7L2
+T9	SNP 590 600	rs12255372
+R3	Equiv Arg1:T9 Arg2:T4	
+R4	SNP_coupled_gene Arg1:T9 Arg2:T8	
+T10	Neg 747 749	No
+T11	Association 750 762	associations
+E3	Association:T11 bc:T12 snp_int:T9
+T12	Cancer 776 782;794 800	breast cancer
+R5	Negation_marker Arg1:E3 Arg2:T10	
+T13	Neg 882 884	no
+T14	Association 885 897	associations
+E4	Association:T14 bc:T12 snp_int:T15
+R6	Negation_marker Arg1:E4 Arg2:T13	
+T15	SNP 590 600	rs12255372
+R7	SNP_coupled_gene Arg1:T15 Arg2:T8	
+T16	Entity 940 943	age
+T17	Entity 945 948	BMI
+T18	Entity 950 964	family history
+T19	Entity 966 971	stage
+T20	Entity 973 978	grade
+T21	Entity 980 989	histology
+T22	Entity 994 1008	tumor behavior
+R8	Risk_Factor Arg1:T15 Arg2:T16	
+R9	Risk_Factor Arg1:T15 Arg2:T17	
+R10	Risk_Factor Arg1:T15 Arg2:T18	
+R11	Risk_Factor Arg1:T15 Arg2:T19	
+R12	Risk_Factor Arg1:T15 Arg2:T20	
+R13	Risk_Factor Arg1:T15 Arg2:T21	
+R14	Risk_Factor Arg1:T15 Arg2:T22	
+T23	Neg 1180 1182	no
+T24	Spec 1183 1202	compelling evidence
+T25	Association 1207 1218	association
+E5	Association:T25 bc:T29 snp_int:T27
+T26	Patho_physiology 1038 1072	Wnt/beta-catenin signaling pathway
+E6	Patho_physiology:T26 Agent:T27
+T27	SNP 1103 1113	rs12255372
+T28	Entity 1168 1174	TCF7L2
+R15	SNP_coupled_gene Arg1:T27 Arg2:T28	
+R16	Speculation_marker Arg1:E5 Arg2:T24	
+R17	Negation_marker Arg1:E5 Arg2:T23	
+T29	Cancer 1224 1230;1242 1248	breast cancer
+T30	Spec 241 253	some studies
+T31	Association 260 264	risk
+E7	Association:T31 bc:T7 snp_int:T32
+R18	Speculation_marker Arg1:E7 Arg2:T30	
+T32	SNP 173 180	variant
+T33	Entity 89 95	TCF7L2
+R19	SNP_coupled_gene Arg1:T32 Arg2:T33	
+R20	Equiv Arg1:T32 Arg2:T9	

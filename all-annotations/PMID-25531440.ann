@@ -1,0 +1,74 @@
+T2	Entity 421 449	Southeast Chinese population
+T1	Entity 494 498	6q25
+T3	SNP 500 509	rs2046210
+T4	Entity 518 522	TOX3
+T5	SNP 524 533	rs4784227
+R1	SNP_coupled_gene Arg1:T5 Arg2:T4	
+R2	SNP_location Arg1:T3 Arg2:T1	
+T6	SNP 944 962	both polymorphisms
+R4	Equiv Arg1:T6 Arg2:T31	
+R5	Population_assignment Arg1:T3 Arg2:T2	
+R6	Population_assignment Arg1:T5 Arg2:T2	
+T7	Level 968 981	significantly
+T8	Association 982 992	associated
+E1	Association:T8 snp_int:T6 bc:T9
+A1	Level E1 High
+R7	Level_marker Arg1:E1 Arg2:T7	
+T9	Cancer 1010 1023	breast cancer
+T10	SNP 1076 1085	rs2046210
+T11	SNP 1135 1144	rs4784227
+R8	Member Arg1:T6 Arg2:T10	
+R9	Member Arg1:T6 Arg2:T11	
+T12	Entity 1213 1221	T allele
+T13	SNP 1225 1234	rs4784227
+R10	SNP_allele Arg1:T13 Arg2:T12	
+T14	Level 1239 1252	significantly
+T15	Association 1253 1263	associated
+E2	Association:T15 snp_int:T13 bc:T9
+A3	Level E2 High
+R11	Level_marker Arg1:E2 Arg2:T14	
+T16	Effect_Type 1269 1277	elevated
+A4	Effect_Type E2 Increase
+R12	Effect_type_marker Arg1:E2 Arg2:T16	
+T17	Entity 1287 1301	postmenopausal
+T18	Entity 1354 1367	premenopausal
+T19	Neg 1347 1350	not
+T20	SNP 1225 1234	rs4784227
+R13	SNP_allele Arg1:T20 Arg2:T12	
+R14	Risk_Factor Arg1:T13 Arg2:T17	
+E3	Association:T15 snp_int:T20
+R15	Negation_marker Arg1:E3 Arg2:T19	
+R16	Risk_Factor Arg1:T20 Arg2:T18	
+T21	SNP 1458 1474	genetic variants
+T22	Spec 1515 1518	may
+T23	Level 1524 1533	important
+T24	Association 1519 1539	play important roles
+E4	Association:T24 snp_int:T21 bc:T25
+A5	Level E4 High
+R18	Speculation_marker Arg1:E4 Arg2:T22	
+R19	Level_marker Arg1:E4 Arg2:T23	
+T25	Cancer 1543 1556	breast cancer
+T26	Entity 1574 1592	Chinese population
+R20	Population_assignment Arg1:T21 Arg2:T26	
+T27	Association 0 12	Associations
+E5	Association:T27 snp_int:T28 bc:T29
+T28	SNP 16 19;27 43	two genetic variants
+A2	SNP_Class T28 Common_variant
+T29	Cancer 49 61	breast cance
+T30	Entity 73 91	chinese population
+R21	Population_assignment Arg1:T28 Arg2:T30	
+R22	Equiv Arg1:T2 Arg2:T30	
+T31	SNP 464 467;475 479	two SNPs
+A6	SNP_Class T31 Common_variant
+R23	Equiv Arg1:T28 Arg2:T31	
+R24	Member Arg1:T31 Arg2:T3	
+R25	Member Arg1:T31 Arg2:T5	
+T32	Spec 358 365	explore
+T33	Association 370 374	role
+E6	Association:T33 bc:T34 snp_int:T31
+R26	Speculation_marker Arg1:E6 Arg2:T32	
+T34	Cancer 378 391	breast cancer
+T35	Entity 1489 1493	6q25
+R3	SNP_location Arg1:T21 Arg2:T35	
+T36	Entity 1505 1509	TOX3
+R17	SNP_coupled_gene Arg1:T21 Arg2:T36	

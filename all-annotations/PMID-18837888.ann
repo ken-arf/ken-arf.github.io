@@ -1,0 +1,165 @@
+T1	Entity 0 9	HER-2/neu
+T2	SNP 10 19	Ile655Val
+R1	SNP_coupled_gene Arg1:T2 Arg2:T1	
+T3	Organic_inorganic_molecules_affected 10 19	Ile655Val
+E1	Organic_inorganic_molecules_affected:T3 Theme:T4 Agent:T2
+T4	Entity 10 16	Ile655
+T5	Association 41 45	risk
+E2	Association:T5 bc:T6 snp_int:T2
+T6	Cancer 49 62	breast cancer
+T7	Entity 92 145	proto-oncogene human epidermal growth factor receptor
+R2	Equiv Arg1:T1 Arg2:T7	
+T8	Patho_physiology 184 208	malignant transformation
+E3	Patho_physiology:T8 Agent:T10
+T9	Patho_physiology 213 223	metastasis
+E4	Patho_physiology:T9 Agent:T10
+T10	SNP 65 84	Genetic alterations
+R3	Member Arg1:T10 Arg2:T2	
+R4	SNP_coupled_gene Arg1:T10 Arg2:T7	
+T11	Organic_inorganic_molecules_affected 278 308	codon 655 isoleucine to valine
+E5	Organic_inorganic_molecules_affected:T11 
+R5	Equiv Arg1:E1 Arg2:E5	
+T12	SNP 278 308	codon 655 isoleucine to valine
+R6	Equiv Arg1:T12 Arg2:T2	
+T13	Entity 351 357	coding
+R7	SNP_location Arg1:T12 Arg2:T13	
+T14	Association 373 377	risk
+E6	Association:T14 bc:T15 snp_int:T12
+T15	Cancer 381 394	breast cancer
+T16	Spec 416 428	inconsistent
+R8	Speculation_marker Arg1:E6 Arg2:T16	
+T17	Spec 448 460	investigated
+T18	Association 465 476	association
+E7	Association:T18 snp_int:T20 bc:T21
+R9	Speculation_marker Arg1:E7 Arg2:T17	
+T19	Entity 480 489	HER-2/neu
+T20	SNP 490 499	Ile655Val
+R10	SNP_coupled_gene Arg1:T20 Arg2:T19	
+T22	Entity 548 567	Sudanese population
+T21	Cancer 529 542	breast cancer
+R11	Population_assignment Arg1:T20 Arg2:T22	
+T23	Interaction 586 599	joint effects
+E8	Interaction:T23 Entity:T25 Entity2:T27
+T24	Entity 603 612	HER-2/neu
+T25	SNP 613 621	variants
+R12	SNP_coupled_gene Arg1:T25 Arg2:T24	
+T26	Entity 650 654	ESR1
+T27	SNP 654 659	C325G
+R13	SNP_coupled_gene Arg1:T27 Arg2:T26	
+T28	Spec 678 684	tested
+T29	Association 695 706	association
+E9	Association:T29 bc:T30 snp_int:E8
+T30	Cancer 712 725	breast cancer
+R14	Speculation_marker Arg1:E9 Arg2:T28	
+T31	Entity 654 659	C325G
+R15	Nucleotide_substitution Arg1:T27 Arg2:T31	
+R16	Member Arg1:T25 Arg2:T12	
+T32	SNP 810 819	rs1136200
+T33	Entity 782 791	HER-2/neu
+T34	SNP 792 801	Ile655Val
+R17	SNP_coupled_gene Arg1:T34 Arg2:T33	
+R18	Equiv Arg1:T34 Arg2:T32	
+R19	Equiv Arg1:T34 Arg2:T20	
+T35	Entity 1340 1347	Ile/Ile
+T36	Entity 1362 1369	Ile/Val
+T37	Level 1376 1400	borderline significantly
+T38	Effect_Type 1411 1417	higher
+T39	Association 1418 1422	risk
+E10	Association:T39 bc:T40 snp_int:T42
+E11	Association:T39 bc:T40 snp_int:T41
+T40	Cancer 1426 1439	breast cancer
+R20	Effect_type_marker Arg1:E10 Arg2:T38	
+R21	Level_marker Arg1:E10 Arg2:T37	
+A1	Effect_Type E10 Increase
+T41	SNP 810 819	rs1136200
+T42	SNP 810 819	rs1136200
+R22	Genotype Arg1:T42 Arg2:T36	
+R23	SNP_coupled_gene Arg1:T42 Arg2:T33	
+R24	SNP_coupled_gene Arg1:T41 Arg2:T33	
+R25	Population_assignment Arg1:T42 Arg2:T22	
+R26	Population_assignment Arg1:T41 Arg2:T22	
+R27	Genotype Arg1:T41 Arg2:T35	
+T43	Entity 1534 1537	age
+T44	Entity 1542 1552	menopausal
+T45	Neg 1572 1574	no
+T46	Entity 1534 1537	age
+T47	Entity 1542 1552	menopausal
+R28	Negation_marker Arg1:T47 Arg2:T45	
+R29	Negation_marker Arg1:T46 Arg2:T45	
+R30	Risk_Factor Arg1:T42 Arg2:T46	
+R31	Risk_Factor Arg1:T42 Arg2:T44	
+R32	Risk_Factor Arg1:T41 Arg2:T43	
+R33	Risk_Factor Arg1:T41 Arg2:T47	
+R34	Risk_Factor Arg1:T42 Arg2:T43	
+R35	Risk_Factor Arg1:T42 Arg2:T47	
+R36	Risk_Factor Arg1:T41 Arg2:T44	
+R37	Risk_Factor Arg1:T41 Arg2:T46	
+T48	Level 1603 1623	significantly higher
+T49	Association 1624 1628	risk
+E12	Association:T49 bc:T50 snp_int:T52 snp_int2:T55
+R38	Level_marker Arg1:E12 Arg2:T48	
+A2	Level E12 High
+T50	Cancer 1632 1645	breast cancer
+T51	Entity 1688 1692	ESR1
+T52	SNP 1692 1695	325
+T53	Entity 1696 1698	CC
+R39	Genotype Arg1:T52 Arg2:T53	
+R40	SNP_coupled_gene Arg1:T52 Arg2:T51	
+T54	Entity 1737 1746	HER-2/neu
+T55	SNP 1746 1757	655 Ile/Val
+R41	SNP_coupled_gene Arg1:T55 Arg2:T54	
+T56	Entity 1832 1841	HER-2/neu
+T57	SNP 1842 1851	Ile655Val
+T58	Level 2095 2106	significant
+T59	Interaction 2117 2128	interaction
+E13	Interaction:T59 Entity:T61 Entity2:T63
+R42	Level_marker Arg1:E13 Arg2:T58	
+A3	Level E13 High
+T60	Entity 2137 2141	ESR1
+T61	SNP 2141 2145	325C
+R43	SNP_coupled_gene Arg1:T61 Arg2:T60	
+T62	Entity 2172 2181	HER-2/neu
+T63	SNP 2182 2191	Ile655Val
+R44	SNP_coupled_gene Arg1:T63 Arg2:T62	
+T64	Spec 2201 2204	may
+R45	Speculation_marker Arg1:E13 Arg2:T64	
+T65	Level 2229 2235	higher
+T66	Association 2236 2240	risk
+E14	Association:T66 bc:T67 snp_int:E13
+R46	Level_marker Arg1:E14 Arg2:T65	
+T67	Cancer 2244 2257	breast cancer
+A4	Level E14 High
+R47	Speculation_marker Arg1:E14 Arg2:T64	
+R48	Equiv Arg1:T61 Arg2:T27	
+R49	Population_assignment Arg1:E13 Arg2:T22	
+R50	SNP_coupled_gene Arg1:T57 Arg2:T56	
+T68	Association 1873 1877	risk
+E15	Association:T68 bc:T69 snp_int:T57
+T69	Cancer 1881 1894	breast cancer
+T70	Level 1899 1921	borderline significant
+R51	Level_marker Arg1:E15 Arg2:T70	
+T71	Entity 1931 1943	heterozygous
+T72	SNP 1842 1851	Ile655Val
+R52	Genotype Arg1:T72 Arg2:T71	
+R53	SNP_coupled_gene Arg1:T72 Arg2:T56	
+T73	Level 1961 1967	higher
+T74	Association 1968 1972	risk
+E17	Association:T74 bc:T69 snp_int:T72
+R54	Level_marker Arg1:E17 Arg2:T73	
+A5	Level E17 High
+R55	Population_assignment Arg1:T55 Arg2:T22	
+T75	Entity 1665 1675	homozygous
+R56	Genotype Arg1:T52 Arg2:T75	
+T76	Entity 1712 1724	heterozygous
+R57	Genotype Arg1:T55 Arg2:T76	
+R58	Population_assignment Arg1:T72 Arg2:T22	
+R59	Population_assignment Arg1:T57 Arg2:T22	
+R60	Population_assignment Arg1:T52 Arg2:T22	
+A6	SNP_Type T2 Missense
+A7	SNP_Type T12 Missense
+A8	SNP_Type T20 Missense
+A9	SNP_Type T34 Missense
+A10	SNP_Type T55 Missense
+A11	SNP_Type T57 Missense
+A12	SNP_Type T72 Missense
+A13	SNP_Type T63 Missense

@@ -1,0 +1,123 @@
+T1	Entity 0 19	Methionine synthase
+T2	SNP 20 26	A2756G
+R1	SNP_coupled_gene Arg1:T2 Arg2:T1	
+T3	Association 58 62	risk
+E1	Association:T3 snp_int:T2
+T4	Spec 78 91	meta-analysis
+R2	Speculation_marker Arg1:E1 Arg2:T4	
+T5	Entity 119 122	MTR
+R3	Equiv Arg1:T5 Arg2:T1	
+T6	SNP 142 148	A2756G
+R4	SNP_coupled_gene Arg1:T6 Arg2:T5	
+T7	Association 172 176	risk
+E2	Association:T7 bc:T8 snp_int:T6
+T8	Cancer 191 204	breast cancer
+T9	SNP 331 337	A2756G
+T10	Spec 293 303	estimation
+T11	Association 311 322	association
+E3	Association:T11 snp_int:T9 bc:T12
+R5	Speculation_marker Arg1:E3 Arg2:T10	
+T12	Cancer 342 355	breast cancer
+T13	Entity 482 485	MTR
+T14	SNP 486 492	A2756G
+R6	SNP_coupled_gene Arg1:T14 Arg2:T13	
+T15	Spec 447 457	estimating
+T16	Association 462 473	association
+E4	Association:T16 snp_int:T14 bc:T17
+R7	Speculation_marker Arg1:E4 Arg2:T15	
+R8	Equiv Arg1:T9 Arg2:T14	
+T17	Cancer 497 510	breast cancer
+T18	Spec 677 686	suggested
+T19	Level 701 715	no significant
+T20	Association 716 727	association
+E5	Association:T20 snp_int:T21 bc:T22
+R9	Level_marker Arg1:E5 Arg2:T19	
+A1	Level E5 Low
+T21	SNP 736 742	A2756G
+T22	Cancer 747 760	breast cancer
+R10	Speculation_marker Arg1:E5 Arg2:T18	
+T23	Association 1036 1040	risk
+E6	Association:T23 snp_int:T26 bc:T22
+A2	Effect_Type E6 Decrease
+T24	Effect_Type 1026 1035	decreased
+R11	Effect_type_marker Arg1:E6 Arg2:T24	
+T25	Entity 1044 1054	Caucasians
+T26	SNP 736 742	A2756G
+T27	Entity 995 1003	G allele
+R12	SNP_allele Arg1:T26 Arg2:T27	
+R13	Population_assignment Arg1:T26 Arg2:T25	
+T28	Entity 878 904	Hardy-Weinberg equilibrium
+T30	Entity 1056 1058	PB
+T31	Entity 1060 1076	population-based
+R15	Equiv Arg1:T31 Arg2:T30	
+T32	Entity 1092 1105	large studies
+T33	Entity 1056 1058;1078 1086	PB subgroup
+R16	Risk_Factor Arg1:T26 Arg2:T33	
+R17	Risk_Factor Arg1:T26 Arg2:T32	
+R18	Member Arg1:T6 Arg2:T26	
+R19	Equiv Arg1:T6 Arg2:T21	
+T34	Neg 1128 1139	disappeared
+T35	Association 1115 1127	associations
+E7	Association:T35 bc:T22 snp_int:T37
+R20	Negation_marker Arg1:E7 Arg2:T34	
+T36	Entity 1146 1177	removing the studies not in HWE
+T37	SNP 736 742	A2756G
+R21	SNP_allele Arg1:T37 Arg2:T27	
+R22	Risk_Factor Arg1:T37 Arg2:T36	
+R23	Risk_Factor Arg1:T37 Arg2:T25	
+R24	Risk_Factor Arg1:T37 Arg2:T30	
+R25	Member Arg1:T6 Arg2:T37	
+T38	Entity 1227 1240	small studies
+T39	Effect_Type 1199 1208	increased
+T40	Association 1209 1213	risk
+E8	Association:T40 bc:T22 snp_int:T41
+A3	Effect_Type E8 Increase
+R26	Effect_type_marker Arg1:E8 Arg2:T39	
+T41	SNP 736 742	A2756G
+R27	Risk_Factor Arg1:T41 Arg2:T38	
+R28	Population_assignment Arg1:T41 Arg2:T25	
+R29	Risk_Factor Arg1:T41 Arg2:T33	
+T42	Entity 1174 1177	HWE
+R30	Equiv Arg1:T42 Arg2:T28	
+R14	SNP_allele Arg1:T41 Arg2:T27	
+R31	Member Arg1:T6 Arg2:T26	
+T29	Entity 1283 1286	MTR
+T43	SNP 1287 1293	A2756G
+R32	SNP_coupled_gene Arg1:T43 Arg2:T29	
+T44	Neg 1310 1313	not
+T45	Association 1314 1324	associated
+E9	Association:T45 snp_int:T29 bc:T46 snp_int2:T43
+R33	Negation_marker Arg1:E9 Arg2:T44	
+T46	Cancer 1356 1369	breast cancer
+T47	Spec 1270 1277	suggest
+R34	Speculation_marker Arg1:E9 Arg2:T47	
+T48	Effect_Type 1390 1399	decreased
+T49	Association 1400 1404	risk
+E10	Association:T49 
+A4	Effect_Type E10 Decrease
+R35	Effect_type_marker Arg1:E10 Arg2:T48	
+T53	Effect_Type 1455 1464	increased
+T54	Association 1465 1469	risk
+E11	Association:T54 
+A5	Effect_Type E11 Increase
+R36	Effect_type_marker Arg1:E11 Arg2:T53	
+T55	Spec 1501 1515	selection bias
+R37	Speculation_marker Arg1:E11 Arg2:T55	
+R38	Speculation_marker Arg1:E10 Arg2:T55	
+R39	Equiv Arg1:E10 Arg2:E6	
+R40	Equiv Arg1:E11 Arg2:E8	
+T50	Spec 1487 1493	may be
+R41	Speculation_marker Arg1:T55 Arg2:T50	
+T51	Entity 142 143;147 148	A G
+R42	Nucleotide_substitution Arg1:T6 Arg2:T51	
+T52	Entity 331 332;336 337	A G
+R43	Nucleotide_substitution Arg1:T9 Arg2:T52	
+T56	Entity 486 487;491 492	A G
+R44	Nucleotide_substitution Arg1:T14 Arg2:T56	
+T57	Entity 736 737;741 742	A G
+R45	Nucleotide_substitution Arg1:T26 Arg2:T57	
+R46	Nucleotide_substitution Arg1:T21 Arg2:T57	
+R47	Nucleotide_substitution Arg1:T41 Arg2:T57	
+R48	Nucleotide_substitution Arg1:T37 Arg2:T57	
+T58	Entity 1287 1288;1292 1293	A G
+R49	Nucleotide_substitution Arg1:T43 Arg2:T58	

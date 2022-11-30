@@ -1,0 +1,116 @@
+T1	SNP 26 34	c.538G>A
+T2	SNP 36 41	G180R
+R1	Equiv Arg1:T2 Arg2:T1	
+T3	Organic_inorganic_molecules_affected 36 41	G180R
+E1	Organic_inorganic_molecules_affected:T3 Theme:T4 Agent:T2
+T4	Entity 36 40	G180
+T5	Entity 46 52	ABCC11
+R2	SNP_coupled_gene Arg1:T2 Arg2:T5	
+T6	Entity 31 34	G>A
+R3	Nucleotide_substitution Arg1:T1 Arg2:T6	
+T7	Neg 56 59	not
+T8	Association 60 70	associated
+E2	Association:T8 bc:T9 snp_int:T2
+R4	Negation_marker Arg1:E2 Arg2:T7	
+T9	Cancer 76 89	breast cancer
+T10	Entity 98 107	Europeans
+R5	Population_assignment Arg1:T2 Arg2:T10	
+T11	Organic_inorganic_molecules_affected 11 21	associated
+E3	Organic_inorganic_molecules_affected:T11 Theme:T12 Agent:T1
+T12	Entity 4 10	earwax
+T13	SNP 110 131	Genetic polymorphisms
+T14	Entity 135 162	human ABC-transporter genes
+R6	SNP_coupled_gene Arg1:T13 Arg2:T14	
+R7	Member Arg1:T14 Arg2:T5	
+T15	Spec 173 182	suggested
+T16	Association 186 194	modulate
+E4	Association:T16 bc:T17 snp_int:T13
+T17	Cancer 195 208	breast cancer
+R8	Speculation_marker Arg1:E4 Arg2:T15	
+T18	Entity 255 261	ABCC11
+T19	Entity 263 267	MRP8
+R10	Equiv Arg1:T18 Arg2:T19	
+T20	Entity 548 556	G-allele
+T21	SNP 564 572	c.538G>A
+T22	Entity 566 569	538
+T23	Entity 569 572	G>A
+T24	Entity 28 31	538
+R9	SNP_location Arg1:T1 Arg2:T24	
+T25	Organic_inorganic_molecules_affected 537 547	associated
+E5	Organic_inorganic_molecules_affected:T25 Theme:T26 Agent:T21
+T26	Entity 526 536	wet earwax
+R11	SNP_location Arg1:T21 Arg2:T22	
+R12	Nucleotide_substitution Arg1:T21 Arg2:T23	
+R13	SNP_allele Arg1:T21 Arg2:T20	
+T27	Association 619 623	risk
+E6	Association:T27 bc:T29 snp_int:T21
+A1	Effect_Type E6 Increase
+T28	Effect_Type 609 618	increased
+R14	Effect_type_marker Arg1:E6 Arg2:T28	
+T29	Cancer 628 641	breast cancer
+T30	Entity 645 659	Japanese women
+R15	Population_assignment Arg1:T21 Arg2:T30	
+T31	Neg 674 676	no
+T32	Spec 677 685	evidence
+T33	Association 698 709	association
+E7	Association:T33 bc:T29 snp_int:T35
+R16	Speculation_marker Arg1:E7 Arg2:T32	
+R17	Negation_marker Arg1:E7 Arg2:T31	
+T34	Entity 731 746	Caucasian women
+T35	SNP 564 572	c.538G>A
+R18	SNP_allele Arg1:T35 Arg2:T20	
+R19	SNP_location Arg1:T35 Arg2:T22	
+R20	Nucleotide_substitution Arg1:T35 Arg2:T23	
+R21	Population_assignment Arg1:T35 Arg2:T34	
+T36	Association 779 790	association
+E8	Association:T36 snp_int:T37 bc:T41
+T37	SNP 798 806	c.538G>A
+T38	Entity 818 824	ABCC11
+R22	SNP_coupled_gene Arg1:T37 Arg2:T38	
+R23	SNP_coupled_gene Arg1:T35 Arg2:T18	
+R24	SNP_coupled_gene Arg1:T21 Arg2:T18	
+T39	Entity 800 803	538
+T40	Entity 803 806	G>A
+R25	Nucleotide_substitution Arg1:T37 Arg2:T40	
+R26	SNP_location Arg1:T37 Arg2:T39	
+T41	Cancer 830 843	breast cancer
+T42	Spec 760 774	confirm/refute
+R27	Speculation_marker Arg1:E8 Arg2:T42	
+T43	Entity 946 964;970 977	case-control study Germany
+R28	Population_assignment Arg1:T37 Arg2:T43	
+T44	Neg 1031 1033	No
+T45	Association 1034 1045	association
+E9	Association:T45 snp_int:T46
+R29	Negation_marker Arg1:E9 Arg2:T44	
+T46	SNP 1089 1095	538G>A
+T47	Entity 1089 1092	538
+T48	Entity 1092 1095	G>A
+T49	Entity 1107 1113	ABCB11
+R30	SNP_location Arg1:T46 Arg2:T47	
+R31	Nucleotide_substitution Arg1:T46 Arg2:T48	
+R32	SNP_coupled_gene Arg1:T46 Arg2:T49	
+T50	Cancer 1119 1132	breast cancer
+R33	Equiv Arg1:T46 Arg2:T50	
+T51	Spec 1158 1165	suggest
+T52	SNP 1175 1183	c.538G>A
+T53	Entity 1197 1203	ABCC11
+R34	SNP_coupled_gene Arg1:T52 Arg2:T53	
+T54	Entity 1177 1180	538
+T55	Entity 1180 1183	G>A
+R35	SNP_coupled_gene Arg1:T52 Arg2:T55	
+R36	SNP_location Arg1:T52 Arg2:T54	
+T56	Neg 1209 1212	not
+T57	Association 1213 1223	contribute
+E10	Association:T57 bc:T58 snp_int:T52
+T58	Cancer 1227 1248	breast carcinogenesis
+T59	Entity 1252 1257;1261 1277	women European descent
+R37	Equiv Arg1:T34 Arg2:T59	
+R38	Negation_marker Arg1:E10 Arg2:T56	
+R39	Speculation_marker Arg1:E10 Arg2:T51	
+R40	Population_assignment Arg1:T52 Arg2:T59	
+A2	SNP_Type T2 Missense
+A3	SNP_Type T21 Missense
+A4	SNP_Type T35 Missense
+A5	SNP_Type T37 Missense
+A6	SNP_Type T46 Missense
+A7	SNP_Type T52 Missense

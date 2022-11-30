@@ -1,0 +1,69 @@
+T1	SNP 113 130	genetic variation
+T2	Spec 101 112	investigate
+T3	Entity 134 150	hormone pathways
+R1	SNP_coupled_gene Arg1:T1 Arg2:T3	
+T4	Association 166 170	risk
+E1	Association:T4 bc:T5 snp_int:T1 bc2:T9
+T5	Cancer 186 216	subtype-specific breast cancer
+R2	Speculation_marker Arg1:E1 Arg2:T2	
+T6	Entity 229 245	African ancestry
+T7	Entity 247 249	AA
+R3	Equiv Arg1:T7 Arg2:T6	
+T8	Entity 220 225;247 249	women AA
+R4	Population_assignment Arg1:T1 Arg2:T8	
+T9	Cancer 203 216	breast cancer
+A1	Cancer_Type T5 Other
+T17	SNP 1218 1232	12 common SNPs
+A3	SNP_Class T17 Common_variant
+T18	Entity 1237 1242	CALM2
+T19	Entity 1244 1248	CETP
+T20	Entity 1250 1255	NR0B1
+T21	Entity 1257 1262	IGF2R
+T22	Entity 1264 1270	CYP1B1
+T23	Entity 1272 1275	PGR
+T24	Entity 1277 1282	MAPK3
+T25	Entity 1288 1294	MAP3K1
+R6	SNP_coupled_gene Arg1:T17 Arg2:T18	
+R7	SNP_coupled_gene Arg1:T17 Arg2:T19	
+R8	SNP_coupled_gene Arg1:T17 Arg2:T20	
+R9	SNP_coupled_gene Arg1:T17 Arg2:T21	
+R10	SNP_coupled_gene Arg1:T17 Arg2:T22	
+R11	SNP_coupled_gene Arg1:T17 Arg2:T23	
+R12	SNP_coupled_gene Arg1:T17 Arg2:T24	
+R13	SNP_coupled_gene Arg1:T17 Arg2:T25	
+T26	Association 1296 1306	associated
+E3	Association:T26 snp_int:T17 bc:T11 bc2:T10
+T10	Cancer 1323 1353	subtype-specific breast cancer
+A2	Cancer_Type T10 Other
+T11	Cancer 1340 1353	breast cancer
+T12	SNP 1404 1414	Rs11571215
+R5	Member Arg1:T1 Arg2:T17	
+T13	Entity 1418 1421	PGR
+R14	SNP_coupled_gene Arg1:T12 Arg2:T13	
+T14	Entity 1423 1444	progesterone receptor
+R15	Equiv Arg1:T13 Arg2:T14	
+T15	Level 1458 1471	most strongly
+T16	Association 1472 1482	associated
+E2	Association:T16 snp_int:T12 bc:T27
+A4	Level E2 High
+R16	Level_marker Arg1:E2 Arg2:T15	
+T27	Cancer 1488 1499	ER- disease
+A5	Cancer_Type T27 ER-
+T28	Organic_inorganic_molecules_affected 1472 1482	associated
+E4	Organic_inorganic_molecules_affected:T28 Theme:T29 Agent:T12
+T29	Entity 1488 1490	ER
+T30	Neg 1490 1491	-
+R17	Negation_marker Arg1:E4 Arg2:T30	
+R18	Member Arg1:T17 Arg2:T12	
+T31	Entity 1515 1546	eight genes in hormone pathways
+T32	Entity 1197 1206	top genes
+R19	Equiv Arg1:T31 Arg2:T32	
+T33	SNP 1567 1575	variants
+A6	SNP_Class T33 Common_variant
+R20	Equiv Arg1:T33 Arg2:T17	
+T34	Association 1576 1586	associated
+E5	Association:T34 snp_int:T33 bc:T35
+T35	Cancer 1592 1605	breast cancer
+T36	Entity 1609 1617	AA women
+R21	Population_assignment Arg1:T33 Arg2:T36	
+R22	SNP_coupled_gene Arg1:T33 Arg2:T31	

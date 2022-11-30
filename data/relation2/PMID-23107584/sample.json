@@ -1,0 +1,109 @@
+{
+    "nodes": [
+        {
+            "id": "T8",
+            "name": "Differential allele-specific expression",
+            "group": 2,
+            "trigger": 1,
+            "value": 16
+        },
+        {
+            "id": "T2",
+            "name": "DMBT1",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T1",
+            "name": "rs2981745",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T4",
+            "name": "putative",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "breast cancer",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "risk locus",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "appears to be",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T7",
+            "name": "DASE",
+            "group": 2,
+            "trigger": 1,
+            "value": 24
+        },
+        {
+            "id": "T10",
+            "name": "DMBT1",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        }
+    ],
+    "links": [
+        {
+            "source": "T6",
+            "target": "T5",
+            "value": 1
+        },
+        {
+            "source": "T6",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T7",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T7",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T4",
+            "value": 2
+        }
+    ]
+}

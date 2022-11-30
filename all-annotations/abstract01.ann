@@ -1,0 +1,32 @@
+T1	SNP 288 297	rs4415084
+T2	SNP 302 312	rs10941679
+T3	Entity 317 321	5p12
+R1	SNP_location Arg1:T1 Arg2:T3	
+R2	SNP_location Arg1:T2 Arg2:T3	
+T4	Association 327 338	confer risk
+E1	Association:T4 bc:T5 snp_int:E2
+T5	Cancer 359 397	estrogen receptor (ER)-positive tumors
+A1	Cancer_Type T5 ER+
+T6	Interaction 298 301	and
+E2	Interaction:T6 Entity:T1 Entity2:T2
+T7	Entity 463 469	MRPS30
+R3	SNP_location Arg1:T1 Arg2:T7	
+R4	SNP_location Arg1:T2 Arg2:T7	
+T9	Association 35 56	confer susceptibility
+E3	Association:T9 snp_int:E2 bc:T8
+T8	Cancer 60 100	estrogen receptor-positive breast cancer
+A3	Cancer_Type T8 ER+
+T10	Entity 60 77	estrogen receptor
+T11	Effect_Type 78 86	positive
+T12	Organic_inorganic_molecules_affected 35 56	confer susceptibility
+E4	Organic_inorganic_molecules_affected:T12 Theme:T10 Agent:E2
+A2	Effect_Type E4 Increase
+R5	Effect_type_marker Arg1:E4 Arg2:T11	
+T13	Entity 359 376	estrogen receptor
+T14	Entity 378 380	ER
+R6	Equiv Arg1:T13 Arg2:T14	
+T15	Effect_Type 382 390	positive
+T16	Organic_inorganic_molecules_affected 327 338	confer risk
+E5	Organic_inorganic_molecules_affected:T16 Theme:T13 Agent:E2
+A4	Effect_Type E5 Increase
+R7	Effect_type_marker Arg1:E5 Arg2:T15	

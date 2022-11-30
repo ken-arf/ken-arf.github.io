@@ -1,0 +1,101 @@
+T1	SNP 0 19	Novel polymorphisms
+T2	Entity 23 32	caspase-8
+R1	SNP_coupled_gene Arg1:T1 Arg2:T2	
+T3	Association 37 47	associated
+E1	Association:T3 bc:T4 snp_int:T1
+T4	Cancer 53 66	breast cancer
+T5	SNP 342 373	single nucleotide polymorphisms
+T6	SNP 375 379	SNPs
+R2	Equiv Arg1:T6 Arg2:T5	
+T7	SNP 375 379;392 395	SNPs one
+T8	Entity 399 408	caspase-8
+T9	Entity 410 415	CASP8
+R3	Equiv Arg1:T8 Arg2:T9	
+R4	SNP_coupled_gene Arg1:T7 Arg2:T8	
+T10	Association 439 449	associated
+E2	Association:T10 bc:T11 snp_int:T7
+T11	Cancer 474 487	breast cancer
+T12	Spec 614 626	hypothesized
+T13	Patho_physiology 543 570	receptor-mediated apoptosis
+E3	Patho_physiology:T13 Agent:T7
+T14	SNP 632 647	additional SNPs
+T15	Entity 651 656	CASP8
+R5	SNP_coupled_gene Arg1:T14 Arg2:T15	
+T16	Association 666 676	associated
+E4	Association:T16 snp_int:T14 bc:T17
+R6	Speculation_marker Arg1:E4 Arg2:T12	
+T17	Cancer 682 695	breast cancer
+T18	Entity 850 874	non-Hispanic white women
+T19	Association 923 934;945 969	Odds ratios 95% confidence intervals
+E5	Association:T19 snp_int:T21 bc:T24 bc3:T25 bc4:T28 bc5:T29 bc6:T32
+T20	Spec 981 991	calculated
+R7	Speculation_marker Arg1:E5 Arg2:T20	
+T21	SNP 996 1004	each SNP
+T22	Entity 763 768	CASP8
+T23	SNP 740 759	Twelve tagging SNPs
+R9	SNP_coupled_gene Arg1:T23 Arg2:T22	
+R8	Member Arg1:T23 Arg2:T21	
+A1	SNP_Class T23 tSNP
+T24	Cancer 1011 1014	all
+R10	Equiv Arg1:T24 Arg2:T17	
+R11	Population_assignment Arg1:T23 Arg2:T18	
+T25	Cancer 1016 1033;1039 1047;1138 1152	estrogen receptor positive breast cancers
+T26	Entity 1035 1037	ER
+T27	Entity 1016 1033	estrogen receptor
+R12	Equiv Arg1:T26 Arg2:T27	
+A2	Cancer_Type T25 ER+
+T28	Cancer 1049 1060;1138 1152	ER-negative breast cancers
+A3	Cancer_Type T28 ER-
+T29	Cancer 1062 1102;1110 1118;1138 1152	human epidermal growth factor receptor 2 positive breast cancers
+T30	Entity 1104 1108	HER2
+T31	Entity 1062 1100	human epidermal growth factor receptor
+R13	Equiv Arg1:T30 Arg2:T31	
+T32	Cancer 1124 1152	HER2-negative breast cancers
+A4	Cancer_Type T32 HER2-
+A5	Cancer_Type T29 HER2+
+T33	SNP 1337 1346	rs2293554
+T34	Level 1351 1378	statistically significantly
+T35	Association 1379 1389	associated
+E6	Association:T35 snp_int:T33 bc:T36
+A6	Level E6 High
+R14	Level_marker Arg1:E6 Arg2:T34	
+T36	Cancer 1395 1422	HER2-positive breast cancer
+A7	Cancer_Type T36 HER2+
+T37	Association 1193 1203	associated
+E7	Association:T37 snp_int:T38 bc:T39 bc2:T40 bc3:T41
+T38	SNP 1175 1187	Several SNPs
+R15	Member Arg1:T23 Arg2:T38	
+R16	Member Arg1:T23 Arg2:T33	
+T39	Cancer 1209 1212	all
+T40	Cancer 1214 1225;1245 1259	ER-positive breast cancers
+T41	Cancer 1231 1259	HER2-positive breast cancers
+A8	Cancer_Type T40 ER+
+A9	Cancer_Type T41 HER2+
+T42	Entity 1500 1505	CASP8
+T43	SNP 1506 1510	SNPs
+R17	SNP_coupled_gene Arg1:T43 Arg2:T42	
+T44	SNP 1600 1609	some SNPs
+T45	Entity 1613 1618	CASP8
+R18	SNP_coupled_gene Arg1:T44 Arg2:T45	
+R19	Member Arg1:T44 Arg2:T38	
+R20	Member Arg1:T44 Arg2:T33	
+T46	Association 1623 1633	associated
+E8	Association:T46 bc:T47 snp_int:T44
+T47	Cancer 1639 1669	subtype-specific breast cancer
+A10	Cancer_Type T47 Other
+T48	Entity 1534 1547	other cohorts
+R21	Population_assignment Arg1:T43 Arg2:T48	
+T49	Association 1488 1495	results
+E9	Association:T49 snp_int:T43 bc:T51
+T50	Spec 1511 1530	should be validated
+R22	Speculation_marker Arg1:E9 Arg2:T50	
+T51	Cancer 1553 1569	subtype-specific
+A11	Cancer_Type T51 Other
+T52	Entity 1723 1728	CASP8
+T53	SNP 1729 1733	SNPs
+R23	SNP_coupled_gene Arg1:T53 Arg2:T52	
+T54	Cancer 1738 1751;1760 1767	breast cancer subtype
+T55	Association 1752 1756	risk
+E10	Association:T55 bc:T54 snp_int:T53
+R24	Population_assignment Arg1:T1 Arg2:T18	
+R25	Equiv Arg1:T44 Arg2:T1	

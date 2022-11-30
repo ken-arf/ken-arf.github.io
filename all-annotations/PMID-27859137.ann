@@ -1,0 +1,93 @@
+T1	Entity 123 150	Terminal duct lobular units
+T8	SNP 1175 1183	rs616488
+T9	SNP 1193 1203	rs11242675
+T10	SNP 1216 1225	rs6001930
+T11	Entity 1185 1190	PEX14
+T12	Entity 1205 1210	FOXQ1
+T13	Entity 1227 1231	MKL1
+T14	Entity 1254 1271	higher TDLU count
+R5	SNP_coupled_gene Arg1:T8 Arg2:T11	
+R6	SNP_coupled_gene Arg1:T9 Arg2:T12	
+R7	SNP_coupled_gene Arg1:T10 Arg2:T13	
+T15	SNP 1316 1325	rs1353747
+T16	Entity 1327 1332	PDE4D
+T17	SNP 1338 1347	rs6472903
+T18	Entity 1349 1356	8q21.11
+R11	SNP_location Arg1:T17 Arg2:T18	
+R12	SNP_coupled_gene Arg1:T15 Arg2:T16	
+T21	SNP 1448 1457	rs1353747
+T22	SNP 1470 1478	rs204247
+T23	Entity 1459 1464	PDE4D
+T24	Entity 1480 1486	RANBP9
+R16	SNP_coupled_gene Arg1:T21 Arg2:T23	
+R17	SNP_coupled_gene Arg1:T22 Arg2:T24	
+T26	Entity 541 546	women
+T27	Association 584 595	established
+E1	Association:T27 
+T28	Cancer 596 609	breast cancer
+R21	Equiv Arg1:T28 Arg2:E1	
+T29	Cell_types_tissues_affected 490 500	involution
+E2	Cell_types_tissues_affected:T29 Agent:T31 Theme:T30
+T30	Entity 485 489	TDLU
+T31	SNP 420 424	SNPs
+T32	Association 372 386	susceptibility
+E3	Association:T32 bc:T33 snp_int:T31
+T33	Cancer 358 371	breast cancer
+T34	Spec 452 479	whether they are associated
+R22	Speculation_marker Arg1:E2 Arg2:T34	
+T37	Spec 568 580	investigated
+T39	SNP 581 583;610 614	62 SNPs
+R26	Population_assignment Arg1:T39 Arg2:T26	
+T41	Entity 638 642	TDLU
+T42	Cell_types_tissues_affected 643 653	involution
+E6	Cell_types_tissues_affected:T42 Theme:T41 Agent:T39
+T43	Level 1049 1078	not statistically significant
+T44	SNP 980 987	36 SNPs
+T45	SNP 983 987;989 994	SNPs 58.1%
+R27	Equiv Arg1:T44 Arg2:T45	
+T46	Cell_types_tissues_affected 1001 1008	related
+E7	Cell_types_tissues_affected:T46 Theme:T48 Agent:T45
+A1	Effect_Type E7 Increase
+A2	Level E7 Low
+T47	Effect_Type 1012 1018;1024 1030	higher counts
+T48	Entity 1019 1023	TDLU
+R28	Effect_type_marker Arg1:E7 Arg2:T47	
+R29	Level_marker Arg1:E7 Arg2:T43	
+T50	Cell_types_tissues_affected 1238 1248	associated
+E8	Cell_types_tissues_affected:T50 Theme:T14 Agent:T10 Agent2:T9 Agent3:T8
+T51	Cell_types_tissues_affected 1122 1142	nominally associated
+E9	Cell_types_tissues_affected:T51 
+R9	Equiv Arg1:E9 Arg2:E8	
+T52	Effect_Type 1254 1260;1266 1271	higher count
+A3	Effect_Type E8 Increase
+R10	Effect_type_marker Arg1:E8 Arg2:T52	
+R30	Risk_Factor Arg1:T8 Arg2:T14	
+R31	Risk_Factor Arg1:T9 Arg2:T14	
+R32	Risk_Factor Arg1:T10 Arg2:T14	
+T53	Effect_Type 1379 1385;1392 1406	higher count per TDLU
+T54	Cell_types_tissues_affected 1363 1373	associated
+E10	Cell_types_tissues_affected:T54 Theme:T55 Agent:T17 Agent2:T15
+A4	Effect_Type E10 Increase
+R33	Effect_type_marker Arg1:E10 Arg2:T53	
+T55	Entity 1386 1391	acini
+T19	Entity 1379 1406	higher acini count per TDLU
+R34	Risk_Factor Arg1:T17 Arg2:T19	
+R35	Risk_Factor Arg1:T15 Arg2:T19	
+T56	Cell_types_tissues_affected 1493 1503	associated
+E11	Cell_types_tissues_affected:T56 Theme:T57 Theme2:T58 Agent:T21 Agent2:T22
+T57	Entity 1524 1528	TDLU
+T58	Entity 1533 1538	acini
+T59	Effect_Type 1513 1523;1539 1545	product of counts
+R36	Effect_type_marker Arg1:E11 Arg2:T59	
+A5	Effect_Type E11 Increase
+T61	SNP 1604 1622	breast cancer SNPs
+T62	Spec 1623 1626	may
+T63	Level 1627 1639	not strongly
+T64	Cell_types_tissues_affected 1655 1665	involution
+E12	Cell_types_tissues_affected:T64 Theme:T65 Agent:T61
+T65	Entity 1650 1654	TDLU
+A6	Level E12 Low
+R38	Level_marker Arg1:E12 Arg2:T63	
+R13	Speculation_marker Arg1:E6 Arg2:T37	
+R23	Speculation_marker Arg1:E12 Arg2:T62	
+R1	Equiv Arg1:T30 Arg2:T1	

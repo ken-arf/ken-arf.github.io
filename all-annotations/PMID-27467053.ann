@@ -1,0 +1,88 @@
+T1	Entity 628 645	European ancestry
+T2	SNP 1613 1622	rs2588809
+T4	Entity 1702 1706	TSMC
+R2	Risk_Factor Arg1:T2 Arg2:T4	
+T3	Association 1721 1732	association
+E1	Association:T3 snp_int:T2 bc:T7
+T6	Level 1737 1748	significant
+R3	Level_marker Arg1:E1 Arg2:T6	
+A1	Level E1 High
+T7	Cancer 1752 1757	ER(+)
+A2	Cancer_Type T7 Horm+ve_other
+T8	Entity 1752 1754	ER
+T9	Effect_Type 1755 1756	+
+T10	Entity 920 948	total somatic mutation count
+T11	Entity 950 954	TSMC
+R4	Equiv Arg1:T10 Arg2:T11	
+T12	Level 1737 1748;1809 1812	significant not
+E2	Association:T3 bc:T13 snp_int:T17
+A3	Level E2 Low
+R6	Level_marker Arg1:E2 Arg2:T12	
+T13	Cancer 1819 1824	ER(-)
+A4	Cancer_Type T13 ER-
+T14	Entity 1819 1821	ER
+T15	Neg 1822 1823	-
+T16	Entity 1842 1847;1857 1860	ER(-) PRS
+T17	SNP 1613 1622	rs2588809
+R7	Risk_Factor Arg1:T17 Arg2:T4	
+T18	Entity 1776 1781;1791 1794	ER(+) PRS
+R8	Risk_Factor Arg1:T2 Arg2:T18	
+R9	Risk_Factor Arg1:T17 Arg2:T16	
+T19	Entity 1054 1074	polygenic risk score
+T20	Entity 1076 1079	PRS
+R10	Equiv Arg1:T19 Arg2:T20	
+T21	Entity 1146 1164	oestrogen-receptor
+T22	Entity 1166 1168	ER
+R11	Equiv Arg1:T21 Arg2:T22	
+T23	Entity 1174 1195	progesterone-receptor
+T24	Entity 1197 1199	PR
+R12	Equiv Arg1:T23 Arg2:T24	
+T25	SNP 1387 1396	rs2588809
+T26	Entity 1409 1415	RAD51B
+R13	SNP_coupled_gene Arg1:T25 Arg2:T26	
+T28	Association 1319 1330	association
+E3	Association:T28 snp_int:T25 bc:T29 bc2:T30
+T27	Entity 1420 1424	TSMC
+R14	Risk_Factor Arg1:T25 Arg2:T27	
+T29	Cancer 1469 1474;1485 1492	ER(+) tumours
+A5	Cancer_Type T29 ER+
+T30	Cancer 1479 1492	ER(-) tumours
+A6	Cancer_Type T30 ER-
+T31	Entity 1469 1471	ER
+T32	Effect_Type 1472 1473	+
+T33	Entity 1479 1481	ER
+T34	Neg 1482 1483	-
+T35	Organic_inorganic_molecules_affected 1319 1330	association
+E4	Organic_inorganic_molecules_affected:T35 Agent:T25 Theme:T31
+E5	Organic_inorganic_molecules_affected:T35 Agent:T25 Theme:T33
+A7	Effect_Type E4 Increase
+R15	Effect_type_marker Arg1:E4 Arg2:T32	
+R16	Negation_marker Arg1:E5 Arg2:T34	
+T5	Entity 1566 1569	PRS
+R17	Risk_Factor Arg1:T2 Arg2:T5	
+R18	Risk_Factor Arg1:T17 Arg2:T5	
+T36	Spec 1961 1973	if confirmed
+T37	Association 1894 1905	association
+E6	Association:T37 
+R19	Speculation_marker Arg1:E6 Arg2:T36	
+R20	Equiv Arg1:E1 Arg2:E6	
+R21	Equiv Arg1:E2 Arg2:E6	
+T38	Organic_inorganic_molecules_affected 1721 1732	association
+E7	Organic_inorganic_molecules_affected:T38 Theme:T14 Agent:T2
+E8	Organic_inorganic_molecules_affected:T38 Theme:T8 Agent:T17
+R22	Effect_type_marker Arg1:E8 Arg2:T9	
+A8	Effect_Type E8 Increase
+R23	Negation_marker Arg1:E7 Arg2:T15	
+T39	Entity 1121 1137	age at diagnosis
+T40	Entity 1139 1144;1208 1224	stage of breast cancer
+T41	Entity 1267 1269;1277 1283	ER status
+T42	Entity 1274 1283	PR status
+R24	Risk_Factor Arg1:T25 Arg2:T42	
+R25	Risk_Factor Arg1:T25 Arg2:T41	
+R26	Risk_Factor Arg1:T25 Arg2:T39	
+R27	Risk_Factor Arg1:T25 Arg2:T40	
+T43	Entity 1372 1383	risk allele
+R28	SNP_allele Arg1:T25 Arg2:T43	
+R1	Population_assignment Arg1:T25 Arg2:T1	
+R5	Equiv Arg1:T17 Arg2:T25	
+R29	Equiv Arg1:T2 Arg2:T25	

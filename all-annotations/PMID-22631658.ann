@@ -1,0 +1,129 @@
+T4	SNP 27 40	polymorphisms
+T5	Entity 98 111	Mexican women
+T6	SNP 259 262	SNP
+T7	SNP 226 257	single nucleotide polymorphisms
+R4	Equiv Arg1:T6 Arg2:T7	
+T8	Entity 267 278	P450 system
+R5	SNP_coupled_gene Arg1:T6 Arg2:T8	
+T9	Association 290 298	reported
+E1	Association:T9 bc:T10 snp_int:T6
+T10	Cancer 302 305	BCa
+T11	Cancer 133 146	Breast cancer
+R6	Equiv Arg1:T10 Arg2:T11	
+T12	SNP 381 390	rs3735684
+T13	Entity 392 396	7021
+T14	Entity 397 400	G>A
+R7	SNP_location Arg1:T12 Arg2:T13	
+R8	Nucleotide_substitution Arg1:T12 Arg2:T14	
+T15	SNP 403 413	rs11553651
+T16	Entity 415 420	15016
+T17	Entity 421 424	G>T
+R9	SNP_location Arg1:T15 Arg2:T16	
+R10	Nucleotide_substitution Arg1:T15 Arg2:T17	
+T18	SNP 430 440	rs56195291
+T19	Entity 442 447	60020
+T20	Entity 448 451	C>G
+R11	SNP_location Arg1:T18 Arg2:T19	
+R12	Nucleotide_substitution Arg1:T18 Arg2:T20	
+T21	Entity 474 480	CYP2W1
+T22	Entity 474 477;482 486	CYP 4F11
+T23	Entity 474 477;491 494	CYP 8A1
+R13	SNP_coupled_gene Arg1:T12 Arg2:T21	
+R14	SNP_coupled_gene Arg1:T15 Arg2:T22	
+R15	SNP_coupled_gene Arg1:T18 Arg2:T23	
+T24	Entity 537 550	Mexican women
+R16	Population_assignment Arg1:T12 Arg2:T24	
+R17	Population_assignment Arg1:T15 Arg2:T24	
+R18	Population_assignment Arg1:T18 Arg2:T24	
+T25	Spec 565 574	potential
+T26	Association 575 586	association
+E2	Association:T26 bc:T27 snp_int:T12 snp_int2:T15 snp_int3:T18
+T27	Cancer 619 622	BCa
+R19	Speculation_marker Arg1:E2 Arg2:T25	
+A1	SNP_Type T12 Missense
+A2	SNP_Type T18 Missense
+T30	Entity 1176 1178	CC
+R20	Genotype Arg1:T18 Arg2:T30	
+T35	Entity 1461 1464	HRT
+T28	SNP 1870 1877	variant
+T29	Entity 1891 1897	CYP2W1
+R21	SNP_coupled_gene Arg1:T28 Arg2:T29	
+T31	Entity 1771 1777	Tobaco
+T32	Entity 1779 1786	obesity
+T33	Entity 1791 1804	hyperglycemia
+T34	Level 1805 1818	significantly
+T36	Effect_Type 1819 1828	increased
+T37	Association 1833 1837	risk
+E3	Association:T37 snp_int:T28 bc:T38
+A3	Effect_Type E3 Increase
+A4	Level E3 High
+R22	Effect_type_marker Arg1:E3 Arg2:T36	
+R23	Level_marker Arg1:E3 Arg2:T34	
+T38	Cancer 1841 1844	BCa
+R24	Risk_Factor Arg1:T28 Arg2:T33	
+R25	Risk_Factor Arg1:T28 Arg2:T32	
+R26	Risk_Factor Arg1:T28 Arg2:T31	
+R27	Equiv Arg1:T28 Arg2:T39	
+T39	SNP 1947 1956	rs3735684
+T40	Entity 1940 1946	CYP2W1
+R28	SNP_coupled_gene Arg1:T39 Arg2:T40	
+T41	Entity 1958 1965	CYP4F11
+T42	SNP 1966 1976	rs11553651
+T43	SNP 1988 1998	rs56195291
+T44	Entity 1981 1987	CYP8A1
+R29	SNP_coupled_gene Arg1:T43 Arg2:T44	
+R30	SNP_coupled_gene Arg1:T42 Arg2:T41	
+T45	Spec 1922 1930	indicate
+T46	Entity 2041 2054	Mexican women
+T47	SNP 1999 2003	SNPs
+R31	Member Arg1:T47 Arg2:T43	
+R32	Member Arg1:T47 Arg2:T42	
+R33	Member Arg1:T47 Arg2:T39	
+T48	Association 2018 2029	risk factor
+E4	Association:T48 bc:T49 snp_int:T47
+T49	Cancer 2034 2037	BCa
+T50	Level 2008 2017	not a key
+R34	Level_marker Arg1:E4 Arg2:T50	
+A5	Level E4 Low
+R35	Population_assignment Arg1:T47 Arg2:T46	
+T51	Neg 2071 2074	not
+T52	Association 2085 2096	association
+E5	Association:T52 snp_int:T58 bc:T56
+R36	Negation_marker Arg1:E5 Arg2:T51	
+T56	Cancer 2154 2157	BCa
+T57	Entity 2168 2186	Mexican population
+T58	SNP 2136 2149	polymorphisms
+R37	Equiv Arg1:T58 Arg2:T47	
+R38	Population_assignment Arg1:T58 Arg2:T57	
+R39	Speculation_marker Arg1:E4 Arg2:T45	
+T53	Entity 2197 2201;2223 2235	some risk factors
+R40	Member Arg1:T53 Arg2:T31	
+R41	Member Arg1:T53 Arg2:T32	
+R42	Member Arg1:T53 Arg2:T33	
+T54	Entity 2250 2256	CYP2W1
+T55	SNP 2257 2266	genotypes
+R43	SNP_coupled_gene Arg1:T55 Arg2:T54	
+R44	Risk_Factor Arg1:T55 Arg2:T53	
+R45	Equiv Arg1:T55 Arg2:T28	
+T59	Association 2280 2294	susceptibility
+E6	Association:T59 bc:T60 snp_int:T55
+T60	Cancer 2298 2301	BCa
+R46	Equiv Arg1:E6 Arg2:E3	
+R47	Population_assignment Arg1:T4 Arg2:T5	
+T61	Entity 60 66	CYP2W1
+T62	SNP 67 76	genotypes
+R48	SNP_coupled_gene Arg1:T62 Arg2:T61	
+T63	Entity 82 94	risk factors
+R50	Risk_Factor Arg1:T62 Arg2:T63	
+R51	Member Arg1:T4 Arg2:T12	
+R52	Member Arg1:T4 Arg2:T15	
+R53	Member Arg1:T4 Arg2:T18	
+R1	Equiv Arg1:T62 Arg2:T12	
+T1	Entity 0 6	CYP2W1
+T2	Entity 8 15	CYP4F11
+T3	Entity 20 26	CYP8A1
+R2	Member Arg1:T8 Arg2:T1	
+R3	Member Arg1:T8 Arg2:T2	
+R49	Member Arg1:T8 Arg2:T3	
+A6	SNP_Type T39 Missense
+A7	SNP_Type T43 Missense

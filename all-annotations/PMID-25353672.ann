@@ -1,0 +1,62 @@
+T1	Entity 98 118	Mammographic density
+T4	Entity 590 605	Caucasian women
+T5	Entity 611 625	45 to 68 years
+T6	Entity 1011 1016	women
+T7	Entity 1022 1040	40 to 70 years old
+T8	Entity 1059 1074	Australian Twin
+T10	SNP 1356 1366	rs11205277
+T11	Entity 1286 1293	Spanish
+R3	Population_assignment Arg1:T10 Arg2:T11	
+T12	Spec 1302 1310	Evidence
+T13	Cell_types_tissues_affected 1331 1333	MD
+E1	Cell_types_tissues_affected:T13 Agent:T10 Theme:T9
+R4	Speculation_marker Arg1:E1 Arg2:T12	
+R5	Population_assignment Arg1:T10 Arg2:T4	
+R6	Risk_Factor Arg1:T10 Arg2:T5	
+T14	SNP 1482 1490	this SNP
+T15	SNP 1356 1366	rs11205277
+R7	Equiv Arg1:T14 Arg2:T15	
+R8	Risk_Factor Arg1:T14 Arg2:T7	
+R9	Population_assignment Arg1:T14 Arg2:T6	
+R10	Population_assignment Arg1:T14 Arg2:T8	
+T16	Level 1453 1461	marginal
+T17	Cell_types_tissues_affected 1495 1514	absolute dense area
+E2	Cell_types_tissues_affected:T17 Agent:T14 Theme:T9
+R11	Level_marker Arg1:E2 Arg2:T16	
+A1	Level E2 Low
+T19	SNP 1622 1632	rs11205277
+T20	SNP 1634 1644	rs11205303
+T21	Interaction 1589 1616	high linkage disequilibrium
+E3	Interaction:T21 Entity:T19 Entity2:T20 Entity3:T22 Entity4:T24
+T22	SNP 1581 1585	SNPs
+T23	Entity 1653 1659	MTMR11
+R12	SNP_coupled_gene Arg1:T20 Arg2:T23	
+T24	SNP 1717 1727	rs67807996
+T25	Entity 1736 1742	OTUD7B
+R13	SNP_coupled_gene Arg1:T24 Arg2:T25	
+T28	Spec 1542 1550	evidence
+T29	Cell_types_tissues_affected 1574 1576	MD
+E4	Cell_types_tissues_affected:T29 Agent:E3 Theme:T9
+R16	Speculation_marker Arg1:E4 Arg2:T28	
+T9	Entity 650 656	breast
+T2	Entity 1331 1333	MD
+R1	Equiv Arg1:T2 Arg2:T1	
+T3	Spec 1828 1836	evidence
+T18	SNP 1840 1865	common genetic variations
+A2	SNP_Class T18 Common_variant
+T26	Cell_types_tissues_affected 1889 1891	MD
+E5	Cell_types_tissues_affected:T26 Agent:T18
+R2	Speculation_marker Arg1:E5 Arg2:T3	
+R14	Member Arg1:T18 Arg2:T19	
+R15	Member Arg1:T18 Arg2:T20	
+R17	Member Arg1:T18 Arg2:T24	
+A3	SNP_Class T14 Common_variant
+A4	SNP_Class T10 Common_variant
+A5	SNP_Class T15 Common_variant
+A6	SNP_Class T19 Common_variant
+A7	SNP_Class T20 Common_variant
+A8	SNP_Class T24 Common_variant
+T27	Entity 88 96	1q12-q21
+R18	SNP_location Arg1:T10 Arg2:T27	
+R19	SNP_location Arg1:T15 Arg2:T27	
+R20	SNP_location Arg1:T19 Arg2:T27	

@@ -1,0 +1,24 @@
+T1	SNP 695 729	14 single-nucleotide polymorphisms
+T2	SNP 698 729	single-nucleotide polymorphisms
+T3	SNP 731 735	SNPs
+R1	Equiv Arg1:T3 Arg2:T2	
+T4	Entity 740 779	fat mass and obesity-associated protein
+T5	Entity 781 784	FTO
+R2	Equiv Arg1:T5 Arg2:T4	
+T7	Entity 817 823	ADIPOQ
+T8	Entity 828 835	ADIPOR1
+R3	SNP_coupled_gene Arg1:T1 Arg2:T4	
+R4	SNP_coupled_gene Arg1:T1 Arg2:T7	
+R5	SNP_coupled_gene Arg1:T1 Arg2:T8	
+T10	Patho_physiology 90 116	Post-diagnosis weight gain
+E2	Patho_physiology:T10 Agent:T1 Theme:T12
+T12	Cancer 178 195	cancer recurrence
+A1	Cancer_Type T12 Recurrent
+T11	Association 152 162	associated
+E3	Association:T11 bc:T12 snp_int:T1
+T13	Effect_Type 168 177	increased
+R6	Effect_type_marker Arg1:E3 Arg2:T13	
+A2	Effect_Type E3 Increase
+T6	Other_effect 200 209	mortality
+E1	Other_effect:T6 Agent:T1 Theme:T12
+A3	Effect_Type E1 Increase

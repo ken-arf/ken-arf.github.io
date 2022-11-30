@@ -1,0 +1,47 @@
+T1	SNP 206 216	rs11249433
+T2	Entity 220 226	1p11.2
+T3	Association 227 237	associated
+E1	Association:T3 snp_int:T1 bc:T4
+T4	Cancer 243 256	breast cancer
+R1	SNP_location Arg1:T1 Arg2:T2	
+T5	SNP 361 371	rs11249433
+T6	SNP 300 307	92 SNPs
+T7	Entity 313 325	900kb region
+R2	SNP_location Arg1:T6 Arg2:T7	
+T8	Interaction 352 360	flanking
+E2	Interaction:T8 Entity:T5 Entity2:T6
+T9	Entity 425 433;453 461	European ancestry
+T10	Entity 435 440;453 461	Asian ancestry
+T11	Entity 445 461	African ancestry
+R3	Population_assignment Arg1:E2 Arg2:T9	
+R4	Population_assignment Arg1:E2 Arg2:T10	
+R5	Population_assignment Arg1:E2 Arg2:T11	
+T12	Entity 327 350	120,505,799-121,481,132
+T13	Level 1004 1013	strongest
+T14	Association 1014 1025	association
+E3	Association:T14 snp_int:T15 bc:T19
+A1	Level E3 High
+T15	SNP 1078 1088	rs11249433
+R7	Level_marker Arg1:E3 Arg2:T13	
+T17	SNP 1240 1250	rs11249433
+T18	Association 1224 1235	association
+E4	Association:T18 snp_int:T17 bc:T19
+T19	Cancer 1266 1292	ER-positive breast cancers
+A2	Cancer_Type T19 ER+
+T20	Entity 1266 1268	ER
+T21	Effect_Type 1269 1277	positive
+T22	Organic_inorganic_molecules_affected 1224 1235	association
+E5	Organic_inorganic_molecules_affected:T22 Agent:T17 Theme:T20
+A3	Effect_Type E5 Increase
+R8	Effect_type_marker Arg1:E5 Arg2:T21	
+T16	Cell_types_tissues_affected 1362 1383	tumor characteristics
+E6	Cell_types_tissues_affected:T16 Theme:T23 Agent:T17 Theme2:T24 Theme3:T25
+T23	Entity 1429 1455	well differentiated tumors
+T24	Entity 1470 1477	lobular
+T25	Entity 1418 1428;1434 1455	moderately differentiated tumors
+T26	SNP 1577 1587	rs11249433
+T27	Entity 1629 1642	weak enhancer
+R9	SNP_location Arg1:T26 Arg2:T27	
+T28	Entity 1629 1633;1643 1651	weak promoter
+R10	SNP_location Arg1:T26 Arg2:T28	
+R6	Equiv Arg1:T7 Arg2:T12	

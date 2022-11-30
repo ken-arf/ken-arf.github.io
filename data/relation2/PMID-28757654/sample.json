@@ -1,0 +1,85 @@
+{
+    "nodes": [
+        {
+            "id": "T7",
+            "name": "women",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "rs10069690",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T2",
+            "name": "Prediction",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "Prediction",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "triple-negative breast cancer",
+            "group": 3,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T5",
+            "name": "age at diagnosis",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T6",
+            "name": "BMI",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 1
+        },
+        {
+            "source": "T3",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T7",
+            "value": 2
+        }
+    ]
+}

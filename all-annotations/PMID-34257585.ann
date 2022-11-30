@@ -1,0 +1,44 @@
+T1	Entity 0 5	NOTCH
+T2	SNP 6 37	Single Nucleotide Polymorphisms
+R1	SNP_coupled_gene Arg1:T2 Arg2:T1	
+T3	Association 45 59	Predisposition
+E1	Association:T3 snp_int:T2
+T4	Cancer 63 69;85 92	Breast Cancers
+T5	Entity 96 110	Saudi Patients
+R2	Population_assignment Arg1:T2 Arg2:T5	
+T10	Entity 209 214	women
+R6	Population_assignment Arg1:T2 Arg2:T10	
+T11	SNP 792 801	rs3124591
+T12	Entity 805 811	NOTCH1
+R7	SNP_coupled_gene Arg1:T11 Arg2:T12	
+T13	SNP 816 825	rs3820041
+T14	Entity 829 835	NOTCH4
+R8	SNP_coupled_gene Arg1:T13 Arg2:T14	
+T15	Association 852 863	association
+E2	Association:T15 snp_int:T13 snp_int2:T11
+T17	Cancer 869 875;898 905	breast cancers
+T18	Level 840 851;876 883	not exhibit as well
+R9	Level_marker Arg1:E2 Arg2:T18	
+A1	Level E2 Low
+T16	Level 918 924	strong
+T19	Association 925 936	association
+E3	Association:T19 snp_int:T20 bc:T22
+A2	Level E3 High
+R10	Level_marker Arg1:E3 Arg2:T16	
+T20	SNP 940 950	rs11249433
+T21	Entity 960 988	in close proximity to NOTCH2
+R11	SNP_location Arg1:T20 Arg2:T21	
+T22	Cancer 1007 1020;1068 1079	breast cancer early onset
+T23	SNP 1115 1124	rs1043994
+T24	Entity 1136 1142	NOTCH3
+R12	SNP_coupled_gene Arg1:T23 Arg2:T24	
+T25	Entity 1150 1167	gender preference
+R13	Risk_Factor Arg1:T23 Arg2:T25	
+T26	SNP 1359 1369	rs11249433
+T27	SNP 1374 1383	rs1043994
+T28	Association 1417 1432	early detection
+E4	Association:T28 snp_int:T26 snp_int2:T27 bc:T30
+T29	Spec 1323 1326	may
+R14	Speculation_marker Arg1:E4 Arg2:T29	
+T30	Cancer 1436 1442;1458 1468	breast carcinomas
+A3	Cancer_Type T30 Other

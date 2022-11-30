@@ -1,0 +1,91 @@
+T1	SNP 41 50	variation
+T2	Entity 54 61	14q24.1
+R1	SNP_location Arg1:T1 Arg2:T2	
+T3	Entity 63 78	close to RAD51B
+R2	SNP_location Arg1:T1 Arg2:T3	
+T4	Association 89 99	associated
+E1	Association:T4 bc:T5 snp_int:T1
+T5	Cancer 105 118	breast cancer
+T6	SNP 120 128	rs999737
+T7	SNP 133 142	rs2588809
+T8	Association 152 156	risk
+E2	Association:T8 snp_int:T7 snp_int2:T6 bc:T9
+T9	Cancer 167 180	breast cancer
+T10	Entity 160 166	female
+T11	Entity 212 216	male
+T12	Cancer 217 230	breast cancer
+T13	Association 204 208	risk
+E3	Association:T13 snp_int:T14 bc:T12
+T14	SNP 185 194	rs1314913
+R3	Population_assignment Arg1:T7 Arg2:T10	
+R4	Population_assignment Arg1:T6 Arg2:T10	
+R5	Population_assignment Arg1:T14 Arg2:T11	
+R6	Member Arg1:T1 Arg2:T6	
+R7	Member Arg1:T1 Arg2:T7	
+R8	Member Arg1:T1 Arg2:T14	
+T18	Spec 855 865	putatively
+T19	Other_effect 866 876	pathogenic
+E4	Other_effect:T19 Agent:T21
+R9	Speculation_marker Arg1:E4 Arg2:T18	
+T20	Entity 877 885	missense
+T21	SNP 895 903	c.541C>T
+R10	SNP_type Arg1:T21 Arg2:T20	
+A1	SNP_Type T21 Missense
+T22	Entity 900 903	C>T
+R11	Nucleotide_substitution Arg1:T21 Arg2:T22	
+T23	Entity 914 921;929 937	Finnish patients
+R12	Population_assignment Arg1:T21 Arg2:T23	
+T24	Association 866 876	pathogenic
+E5	Association:T24 snp_int:T21 bc:T25
+R13	Speculation_marker Arg1:E5 Arg2:T18	
+T25	Cancer 992 1005	breast cancer
+T26	Level 1084 1098	No significant
+T27	Association 1099 1110	association
+E6	Association:T27 bc:T28 snp_int:T21
+A2	Level E6 Low
+R14	Level_marker Arg1:E6 Arg2:T26	
+T28	Cancer 1116 1129	breast cancer
+T29	SNP 1276 1284	rs999737
+T30	SNP 1286 1295	rs2588809
+T31	SNP 1301 1310	rs1314913
+T32	Association 1223 1234	association
+E7	Association:T32 bc:T33 snp_int:T29 snp_int2:T30 snp_int3:T31 bc2:T46
+T33	Cancer 1336 1349	breast cancer
+T34	Level 1411 1427	most significant
+T35	Association 1428 1439	association
+E8	Association:T35 bc:T33 bc2:T48 snp_int:E11
+A3	Level E8 High
+R15	Level_marker Arg1:E8 Arg2:T34	
+T37	Entity 1484 1496	risk-alleles
+T39	Entity 1743 1761	protective alleles
+E9	Association:T35 bc:T33 bc2:T48 snp_int:E12
+T40	SNP 1846 1855	variation
+T41	Entity 1863 1869	RAD51B
+R18	SNP_location Arg1:T40 Arg2:T41	
+R19	Equiv Arg1:T40 Arg2:T1	
+T42	Spec 1775 1782	suggest
+T43	Level 1880 1893	significantly
+T44	Association 1894 1904	associated
+E10	Association:T44 snp_int:T40 bc:T45
+A4	Level E10 High
+R20	Level_marker Arg1:E10 Arg2:T43	
+T45	Cancer 1910 1932	familial breast cancer
+A5	Cancer_Type T45 Familial
+R21	Speculation_marker Arg1:E10 Arg2:T42	
+T46	Cancer 1371 1385	familial cases
+A6	Cancer_Type T46 Familial
+T47	Cancer 1534 1539	cases
+R25	Equiv Arg1:T47 Arg2:T33	
+T48	Cancer 1633 1647	familial cases
+A8	Cancer_Type T48 Familial
+T49	Interaction 1461 1470	haplotype
+E11	Interaction:T49 Entity:T29 Entity2:T30 Entity3:T31
+R27	SNP_allele Arg1:E11 Arg2:T37	
+T36	Interaction 1713 1722	haplotype
+E12	Interaction:T36 Entity:T29 Entity2:T30 Entity3:T31
+R16	SNP_allele Arg1:E12 Arg2:T39	
+A9	SNP_Class T1 Common_variant
+A7	SNP_Class T40 Common_variant
+A10	SNP_Class T29 Common_variant
+A11	SNP_Class T30 Common_variant
+A12	SNP_Class T31 Common_variant

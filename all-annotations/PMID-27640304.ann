@@ -1,0 +1,91 @@
+T1	SNP 31 41	rs10941679
+T2	Entity 18 22	5p12
+R1	SNP_location Arg1:T1 Arg2:T2	
+T3	Association 50 64	Susceptibility
+E1	Association:T3 bc:T4 snp_int:T1
+T4	Cancer 68 108	Estrogen-Receptor-Positive Breast Cancer
+A1	Cancer_Type T4 ER+
+T5	Gene_Regulation 134 144	Regulation
+E2	Gene_Regulation:T5 Theme:T7 Theme2:T6 Agent:T1
+T6	Entity 117 122	FGF10
+T7	Entity 127 133	MRPS30
+T8	Spec 0 8	Evidence
+R2	Speculation_marker Arg1:E1 Arg2:T8	
+R3	Speculation_marker Arg1:E2 Arg2:T8	
+T9	Entity 68 85	Estrogen-Receptor
+T10	Effect_Type 86 94	Positive
+T11	Organic_inorganic_molecules_affected 42 64	Confers Susceptibility
+E3	Organic_inorganic_molecules_affected:T11 Agent:T1 Theme:T9
+A2	Effect_Type E3 Increase
+R4	Effect_type_marker Arg1:E3 Arg2:T10	
+T12	Entity 497 508	1 Mb region
+T13	Entity 510 541	positions 44,394,495-45,364,167
+R5	Equiv Arg1:T12 Arg2:T13	
+T14	Entity 543 556	NCBI build 37
+R6	Equiv Arg1:T13 Arg2:T14	
+T15	SNP 483 487	SNPs
+R7	SNP_location Arg1:T15 Arg2:T12	
+T17	Association 682 692	associated
+E4	Association:T17 snp_int:T19 bc:T16
+T19	SNP 666 676	rs10941679
+T16	Cancer 706 732;739 752	estrogen-receptor-positive breast cancer
+A4	Cancer_Type T16 Horm+ve_other
+T18	Effect_Type 724 732	positive
+T20	Entity 706 723	estrogen-receptor
+T21	Entity 734 736	ER
+R8	Equiv Arg1:T20 Arg2:T21	
+T22	Organic_inorganic_molecules_affected 682 692	associated
+E5	Organic_inorganic_molecules_affected:T22 Agent:T19 Theme:T20
+R9	Effect_type_marker Arg1:E5 Arg2:T18	
+A3	Effect_Type E5 Increase
+T23	SNP 968 977	rs6864776
+T24	Interaction 888 895	38 SNPs
+E6	Interaction:T24 Entity:T25 Entity2:T23
+T25	SNP 888 895	38 SNPs
+T26	SNP 1083 1094	rs200229088
+T27	Level 896 909	more strongly
+T28	Association 910 920	associated
+E7	Association:T28 bc:T31 snp_int:E6
+A5	Level E7 High
+R10	Level_marker Arg1:E7 Arg2:T27	
+T29	Entity 926 928	ER
+T30	Neg 929 937	negative
+T31	Cancer 926 937;944 957	ER-negative breast cancer
+A6	Cancer_Type T31 ER-
+T32	Organic_inorganic_molecules_affected 910 920	associated
+E8	Organic_inorganic_molecules_affected:T32 Theme:T29 Agent:E6
+R11	Negation_marker Arg1:E8 Arg2:T30	
+T33	SNP 1296 1306	rs10941679
+T34	Entity 1277 1278;1286 1292	g allele
+T35	Entity 1280 1284;1286 1292	risk allele
+R12	Equiv Arg1:T34 Arg2:T35	
+R13	SNP_allele Arg1:T33 Arg2:T34	
+T36	Gene_Regulation 1337 1347	expression
+E9	Gene_Regulation:T36 Theme:T38 Theme2:T39 Agent:T33
+T37	Effect_Type 1327 1336	increased
+R14	Effect_type_marker Arg1:E9 Arg2:T37	
+A7	Effect_Type E9 Increase
+T38	Entity 1351 1356	FGF10
+T39	Entity 1361 1367	MRPS30
+T40	SNP 1409 1419	rs10941679
+T41	Entity 1431 1447	enhancer element
+R15	SNP_location Arg1:T40 Arg2:T41	
+T42	Gene_Regulation 1453 1473	physically interacts
+E10	Gene_Regulation:T42 Agent:T40 Theme:T43 Theme2:T44
+T43	Entity 1483 1488;1500 1508	FGF10 promoter
+T44	Entity 1493 1508	MRPS30 promoter
+T45	Cancer 1520 1544	breast cancer cell lines
+T46	Association 1464 1473	interacts
+E11	Association:T46 snp_int:T40 bc:T45
+T47	Patho_physiology 1676 1685	apoptosis
+E12	Patho_physiology:T47 Theme:T48 Agent:T40
+T48	Entity 1649 1655	MRPS30
+A8	SNP_Class T23 Index_lead_SNP
+T49	Entity 983 991	a allele
+R16	SNP_allele Arg1:T23 Arg2:T49	
+T50	Entity 758 766	g allele
+R17	SNP_allele Arg1:T19 Arg2:T50	
+T51	Entity 1100 1108	t allele
+R18	SNP_allele Arg1:T26 Arg2:T51	
+E13	Association:T28 snp_int:T26 bc:T52
+T52	Cancer 944 957	breast cancer

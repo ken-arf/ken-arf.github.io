@@ -1,0 +1,362 @@
+{
+    "nodes": [
+        {
+            "id": "T7",
+            "name": "evaluate",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T8",
+            "name": "risk",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "genotype",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "breast carcinogens",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T9",
+            "name": "breast carcinogens",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "ionizing radiation",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T15",
+            "name": "United States cohort",
+            "group": 0,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T30",
+            "name": "Radiologic Technologists",
+            "group": 0,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T3",
+            "name": "not significant",
+            "group": 3,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T10",
+            "name": "radiation-related breast cancer",
+            "group": 5,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T12",
+            "name": "radiation",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "risk",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "RAD51L1",
+            "group": 0,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1",
+            "name": "rs10483813",
+            "group": 2,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T14",
+            "name": "14q24.1",
+            "group": 0,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T17",
+            "name": "exploratory analyses",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "radiation-associated breast cancer",
+            "group": 5,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T21",
+            "name": "radiation",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "risk",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "significantly",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "linked markers",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T22",
+            "name": "5p12",
+            "group": 0,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T24",
+            "name": "rs930395",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T25",
+            "name": "rs10941679",
+            "group": 2,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T26",
+            "name": "rs2067980",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T27",
+            "name": "rs4415084",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T28",
+            "name": "mitochondrial ribosomal protein S30 gene",
+            "group": 0,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T29",
+            "name": "MRPS30",
+            "group": 0,
+            "trigger": 0,
+            "value": 17
+        }
+    ],
+    "links": [
+        {
+            "source": "T8",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T19",
+            "target": "T18",
+            "value": 1
+        },
+        {
+            "source": "T19",
+            "target": "T23",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T25",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T26",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T27",
+            "value": 1
+        },
+        {
+            "source": "T5",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T21",
+            "value": 2
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+T1	Entity 20 24	5p12
+T2	SNP 0 16	Genetic variants
+R1	SNP_location Arg1:T2 Arg2:T1	
+T3	Association 29 33	risk
+E1	Association:T3 snp_int:T2 bc:T4
+T4	Cancer 37 50	breast cancer
+T5	Entity 116 121;54 65	women Han Chinese
+R2	Population_assignment Arg1:T2 Arg2:T5	
+T6	Entity 116 142	women of European ancestry
+T7	SNP 202 211	rs4415084
+T8	SNP 222 232	rs10941679
+T9	Entity 213 216	T>C
+T10	Entity 234 237	A>G
+R3	Nucleotide_substitution Arg1:T7 Arg2:T9	
+R4	Nucleotide_substitution Arg1:T8 Arg2:T10	
+T11	Entity 253 257	5p12
+R5	Population_assignment Arg1:T7 Arg2:T6	
+R6	Population_assignment Arg1:T8 Arg2:T6	
+R7	SNP_location Arg1:T7 Arg2:T11	
+R8	SNP_location Arg1:T8 Arg2:T11	
+T12	Association 263 273	associated
+E2	Association:T12 bc:T13 snp_int:T7 snp_int2:T8
+T13	Cancer 287 299	breast cance
+T14	Spec 406 417	investigate
+T15	Association 460 464	risk
+E3	Association:T15 snp_int:T16 bc:T18
+T16	SNP 443 447	SNPs
+T17	Entity 451 455	5p12
+R9	Speculation_marker Arg1:E3 Arg2:T14	
+R10	SNP_location Arg1:T16 Arg2:T17	
+T18	Cancer 468 481	breast cancer
+T19	Entity 489 507	Chinese population
+R11	Population_assignment Arg1:T16 Arg2:T19	
+T20	Neg 750 757	neither
+T21	Association 758 768	associated
+E4	Association:T21 snp_int:T24 bc:T22 snp_int2:T25
+T22	Cancer 774 787	breast cancer
+T23	Entity 800 818	Chinese population
+T24	SNP 695 708	two risk SNPs
+R12	Member Arg1:T24 Arg2:T28	
+R13	Member Arg1:T24 Arg2:T27	
+R14	Population_assignment Arg1:T24 Arg2:T23	
+R15	Negation_marker Arg1:E4 Arg2:T20	
+T25	SNP 832 849	fine-mapping SNPs
+T26	Entity 540 544	5p12
+R17	Population_assignment Arg1:T25 Arg2:T23	
+R18	Equiv Arg1:T5 Arg2:T19	
+R19	Equiv Arg1:T23 Arg2:T19	
+T27	SNP 202 211	rs4415084
+T28	SNP 222 232	rs10941679
+R20	Nucleotide_substitution Arg1:T27 Arg2:T9	
+R21	Nucleotide_substitution Arg1:T28 Arg2:T10	
+R22	SNP_location Arg1:T28 Arg2:T11	
+R23	SNP_location Arg1:T27 Arg2:T11	
+R24	Member Arg1:T16 Arg2:T27	
+R25	Member Arg1:T16 Arg2:T28	
+R16	SNP_location Arg1:T25 Arg2:T26	

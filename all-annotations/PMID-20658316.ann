@@ -1,0 +1,108 @@
+T1	SNP 12 20	variants
+T2	Entity 24 28	TSC1
+T3	Entity 33 37	TSC2
+T4	Association 48 59	association
+E1	Association:T4 bc:T5 snp_int:T6 snp_int2:T1
+T5	Cancer 65 78	breast cancer
+R1	SNP_coupled_gene Arg1:T1 Arg2:T2	
+T6	SNP 12 20	variants
+R2	SNP_coupled_gene Arg1:T6 Arg2:T3	
+T7	SNP 678 682	SNPs
+T8	SNP 678 682	SNPs
+T9	Entity 664 668	TSC1
+T10	Entity 673 677	TSC2
+T11	Association 693 705	associations
+E2	Association:T11 bc:T12 snp_int:T8 snp_int2:T7
+T12	Cancer 732 745	breast cancer
+T13	Spec 638 645	studies
+R3	Speculation_marker Arg1:E2 Arg2:T13	
+R4	SNP_coupled_gene Arg1:T7 Arg2:T10	
+R5	SNP_coupled_gene Arg1:T8 Arg2:T9	
+T14	Entity 1141 1146	women
+T15	SNP 1198 1207	rs7874234
+T16	Entity 1193 1197	TSC1
+T17	Entity 1209 1211	TT
+R6	SNP_coupled_gene Arg1:T15 Arg2:T16	
+R7	Genotype Arg1:T15 Arg2:T17	
+R8	Population_assignment Arg1:T15 Arg2:T14	
+T18	Association 1255 1264	diagnosis
+E3	Association:T18 bc:T20 bc2:T21 snp_int:T19
+T20	Cancer 1268 1294	estrogen receptor positive
+A1	Cancer_Type T20 ER+
+T21	Cancer 1310 1313	ER-
+A2	Cancer_Type T21 ER-
+T22	Cancer 1315 1332	ductal carcinomas
+A3	Cancer_Type T22 ER-
+R10	Equiv Arg1:T21 Arg2:T22	
+T23	Entity 1315 1321	ductal
+T24	Cell_types_tissues_affected 1322 1332	carcinomas
+E4	Cell_types_tissues_affected:T24 Theme:T23 Agent:T15 Agent2:T19
+T26	Cancer 1296 1299	ER+
+A4	Cancer_Type T26 ER+
+R12	Equiv Arg1:T26 Arg2:T20	
+R13	Member Arg1:T2 Arg2:T15	
+T19	SNP 1212 1219	variant
+R9	Genotype Arg1:T19 Arg2:T17	
+R14	SNP_coupled_gene Arg1:T19 Arg2:T16	
+T27	Entity 1235 1264	9-year later age at diagnosis
+R15	Risk_Factor Arg1:T19 Arg2:T27	
+E5	Association:T18 bc:T21 snp_int:T15
+R11	Population_assignment Arg1:T19 Arg2:T14	
+T25	Effect_Type 1286 1294	positive
+T28	Entity 1268 1285	estrogen receptor
+T29	Organic_inorganic_molecules_affected 1255 1264	diagnosis
+E6	Organic_inorganic_molecules_affected:T29 Agent:T15 Theme:T31
+E7	Organic_inorganic_molecules_affected:T29 Agent:T19 Theme:T28
+R16	Effect_type_marker Arg1:E7 Arg2:T25	
+A5	Effect_Type E7 Increase
+T30	Neg 1312 1313	-
+R17	Negation_marker Arg1:E6 Arg2:T30	
+T31	Entity 1310 1312	ER
+T32	Entity 1450 1454	TSC1
+T33	SNP 1455 1464	rs7874234
+R18	SNP_coupled_gene Arg1:T33 Arg2:T32	
+T34	Spec 1468 1480	hypothesized
+T35	Association 1487 1497	functional
+E8	Association:T35 snp_int:T33 bc:T36
+R19	Speculation_marker Arg1:E8 Arg2:T34	
+T36	Cancer 1501 1518	ER+ breast cancer
+A6	Cancer_Type T36 ER+
+T37	Entity 1531 1539	T allele
+R20	SNP_allele Arg1:T33 Arg2:T37	
+T38	Neg 1545 1548	not
+T39	Entity 1553 1561	C allele
+R21	Negation_marker Arg1:T39 Arg2:T38	
+R22	SNP_allele Arg1:T33 Arg2:T39	
+T40	Spec 1563 1566	may
+T41	Entity 1577 1602	estrogen receptor element
+T42	Entity 1604 1607	ERE
+R23	Equiv Arg1:T42 Arg2:T41	
+T43	Effect_Type 1628 1637	increased
+T44	Gene_Regulation 1643 1656	transcription
+E9	Gene_Regulation:T44 Theme:T45 Agent:T33
+A7	Effect_Type E9 Increase
+R24	Effect_type_marker Arg1:E9 Arg2:T43	
+T45	Entity 1638 1642	TSC1
+T46	Organic_inorganic_molecules_affected 1672 1682	inhibition
+E10	Organic_inorganic_molecules_affected:T46 Theme:T47 Agent:T33
+T47	Entity 1686 1690	mTOR
+R25	Speculation_marker Arg1:E9 Arg2:T40	
+R26	Speculation_marker Arg1:E10 Arg2:T40	
+T48	Organic_inorganic_molecules_affected 1567 1573	create
+E11	Organic_inorganic_molecules_affected:T48 Theme:T41 Agent:T33
+R27	Speculation_marker Arg1:E11 Arg2:T40	
+T49	Effect_Type 1672 1682	inhibition
+R28	Effect_type_marker Arg1:E10 Arg2:T49	
+A8	Effect_Type E10 Decrease
+R29	Population_assignment Arg1:T33 Arg2:T14	
+R30	Member Arg1:T1 Arg2:T15	
+T50	SNP 1350 1359	other SNP
+T51	Association 1376 1387	association
+E12	Association:T51 snp_int:T50 bc:T53
+T52	Entity 1393 1409	age at diagnosis
+R31	Risk_Factor Arg1:T50 Arg2:T52	
+T53	Cancer 1425 1438	breast cancer
+T54	Neg 1347 1349	No
+R32	Negation_marker Arg1:E12 Arg2:T54	
+R33	Member Arg1:T6 Arg2:T50	
+R34	Member Arg1:T1 Arg2:T50	

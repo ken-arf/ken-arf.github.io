@@ -1,0 +1,171 @@
+{
+    "nodes": [
+        {
+            "id": "T15",
+            "name": "truncating",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "BRCA2",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1",
+            "name": "rs11571833",
+            "group": 2,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T2",
+            "name": "K3326X",
+            "group": 1,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T7",
+            "name": "associated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "modest",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "increase",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "breast cancer",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "BRCA2",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T8",
+            "name": "rs11571833",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T10",
+            "name": "rs11571833",
+            "group": 2,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T11",
+            "name": "European populations",
+            "group": 1,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T12",
+            "name": "Latin American populations",
+            "group": 1,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T13",
+            "name": "Indian populations",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T14",
+            "name": "Japanese populations",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        }
+    ],
+    "links": [
+        {
+            "source": "T7",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T7",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T15",
+            "target": "T2",
+            "value": 1
+        },
+        {
+            "source": "T7",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T13",
+            "value": 2
+        }
+    ]
+}

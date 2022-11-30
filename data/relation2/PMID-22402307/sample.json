@@ -1,0 +1,145 @@
+{
+    "nodes": [
+        {
+            "id": "T11",
+            "name": "women",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "increased",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "BRCA1 promoter",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T12",
+            "name": "methylation",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "ACA/ACA",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T3",
+            "name": "Thr594Thr",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T6",
+            "name": "Thr594Thr",
+            "group": 0,
+            "trigger": 1,
+            "value": 17
+        },
+        {
+            "id": "T7",
+            "name": "Thr594",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T4",
+            "name": "ESR",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "estrogen receptor gene",
+            "group": 1,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T8",
+            "name": "associated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "breast cancer",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 1
+        },
+        {
+            "source": "T6",
+            "target": "T3",
+            "value": 1
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 1
+        },
+        {
+            "source": "T8",
+            "target": "T3",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T3",
+            "value": 1
+        },
+        {
+            "source": "T5",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T11",
+            "value": 2
+        }
+    ]
+}

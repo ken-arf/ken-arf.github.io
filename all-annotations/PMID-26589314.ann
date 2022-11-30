@@ -1,0 +1,36 @@
+T1	SNP 0 4	SNPs
+T2	Entity 43 59;73 78	African American women
+T3	Entity 64 78	Hispanic women
+R1	Population_assignment Arg1:T1 Arg2:T2	
+R2	Population_assignment Arg1:T1 Arg2:T3	
+T4	Cancer 9 22	breast cancer
+T5	Association 23 27	risk
+E1	Association:T5 bc:T4 snp_int:T1
+T6	Spec 28 38	prediction
+R3	Speculation_marker Arg1:E1 Arg2:T6	
+T7	Entity 114 119;85 101	women African American
+T8	Entity 105 119	Hispanic women
+T9	Cancer 150 163	breast cancer
+T10	Association 164 168	risk
+E2	Association:T10 bc:T9
+T11	Spec 169 186	prediction models
+R4	Speculation_marker Arg1:E2 Arg2:T11	
+T12	SNP 228 274	susceptibility single nucleotide polymorphisms
+T13	SNP 276 280	SNPs
+R5	Equiv Arg1:T13 Arg2:T12	
+R6	Population_assignment Arg1:T13 Arg2:T8	
+R7	Population_assignment Arg1:T13 Arg2:T7	
+T14	Entity 357 370	US population
+R8	Member Arg1:T14 Arg2:T7	
+R9	Member Arg1:T14 Arg2:T8	
+T15	SNP 655 658;686 690	>70 SNPs
+T16	Interaction 659 670	independent
+E3	Interaction:T16 Entity:T15
+T17	Neg 659 670	independent
+R10	Negation_marker Arg1:E3 Arg2:T17	
+T18	Spec 750 758	estimate
+T19	Association 759 776	risk associations
+E4	Association:T19 snp_int:E3 bc:T9
+R11	Speculation_marker Arg1:E4 Arg2:T18	
+R12	Population_assignment Arg1:E3 Arg2:T7	
+R13	Population_assignment Arg1:E3 Arg2:T8	

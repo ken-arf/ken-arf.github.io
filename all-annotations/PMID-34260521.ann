@@ -1,0 +1,45 @@
+T1	SNP 27 36	rs4784227
+T2	Entity 20 26	CASC16
+R1	SNP_coupled_gene Arg1:T1 Arg2:T2	
+T3	Association 0 11	Association
+E1	Association:T3 snp_int:T1 bc:T4
+T4	Cancer 54 67	breast cancer
+T5	SNP 120 129	rs4784227
+T6	Entity 146 152	CASC16
+R2	SNP_coupled_gene Arg1:T5 Arg2:T6	
+T7	Spec 104 111	explore
+T8	Association 156 166	correlated
+E2	Association:T8 bc:T9 snp_int:T5
+T9	Cancer 180 193	breast cancer
+R3	Speculation_marker Arg1:E2 Arg2:T7	
+T10	SNP 768 777	rs4784227
+T11	Level 788 801	significantly
+T12	Association 802 812	associated
+E3	Association:T12 snp_int:T10 bc:T14
+A1	Level E3 High
+R4	Level_marker Arg1:E3 Arg2:T11	
+T13	Effect_Type 818 827	increased
+R5	Effect_type_marker Arg1:E3 Arg2:T13	
+A2	Effect_Type E3 Increase
+T14	Cancer 836 849	breast cancer
+T15	Entity 855 863;982 987	dominant model
+T16	Entity 912 921;982 987	recessive model
+T17	SNP 1075 1084	rs4784227
+T18	Association 1089 1099	correlated
+E4	Association:T18 snp_int:T17 bc:T22
+A3	Effect_Type E4 Decrease
+T19	Effect_Type 1105 1114	decreased
+R6	Effect_type_marker Arg1:E4 Arg2:T19	
+T20	Entity 1043 1062	over-dominant model
+T21	Entity 975 981;982 987	allele model
+T22	Cancer 1115 1128	breast cancer
+T23	SNP 1184 1193	rs4784227
+T24	Entity 1210 1216	CASC16
+T25	Association 1225 1235	correlated
+E5	Association:T25 snp_int:T23 bc:T26
+T26	Cancer 1241 1254	breast cancer
+R7	SNP_coupled_gene Arg1:T23 Arg2:T24	
+R8	Genotype Arg1:T10 Arg2:T15	
+R9	Genotype Arg1:T10 Arg2:T16	
+R10	Genotype Arg1:T10 Arg2:T21	
+R11	Genotype Arg1:T17 Arg2:T20	

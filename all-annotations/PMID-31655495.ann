@@ -1,0 +1,84 @@
+T1	SNP 962 972	rs17530068
+T2	Effect_Type 973 982	increased
+T3	Cancer 987 1000	breast cancer
+T4	Association 1001 1005	risk
+E1	Association:T4 bc:T3 snp_int:T1
+A1	Effect_Type E1 Increase
+R1	Effect_type_marker Arg1:E1 Arg2:T2	
+T5	Entity 1099 1100;1102 1108	T allele
+T6	SNP 1112 1121	rs4784227
+R2	SNP_allele Arg1:T6 Arg2:T5	
+T7	Effect_Type 1122 1131	increased
+T8	Patho_physiology 1155 1165	metastasis
+E2	Patho_physiology:T8 Theme:T9 Agent:T6
+T9	Entity 1144 1154	lymph node
+T10	Spec 1136 1140	risk
+R3	Speculation_marker Arg1:E2 Arg2:T10	
+R4	Effect_type_marker Arg1:E2 Arg2:T7	
+A2	Effect_Type E2 Increase
+T11	SNP 15 28	polymorphisms
+T12	Entity 32 44	LOC105377871
+T13	Entity 49 55	CASC16
+R5	SNP_coupled_gene Arg1:T11 Arg2:T12	
+T14	Cancer 61 74	breast cancer
+T15	Entity 82 114	northwest Chinese Han population
+R7	Population_assignment Arg1:T11 Arg2:T15	
+T16	Association 0 11	Association
+E3	Association:T16 snp_int:T11 bc:T14 snp_int2:T23
+T17	Spec 383 394	investigate
+T18	Association 399 406	effects
+E4	Association:T18 snp_int:T21 snp_int2:T22 bc:T24
+R8	Speculation_marker Arg1:E4 Arg2:T17	
+T19	Entity 410 422	LOC105377871
+T20	Entity 427 433	CASC16
+T21	SNP 434 447	polymorphisms
+R9	SNP_coupled_gene Arg1:T21 Arg2:T20	
+T22	SNP 434 447	polymorphisms
+R10	SNP_coupled_gene Arg1:T22 Arg2:T19	
+T23	SNP 15 28	polymorphisms
+R6	SNP_coupled_gene Arg1:T23 Arg2:T13	
+T24	Cancer 463 476	breast cancer
+T25	Entity 484 516	northwest Chinese Han population
+R11	Population_assignment Arg1:T21 Arg2:T25	
+R12	Population_assignment Arg1:T22 Arg2:T25	
+T26	Spec 710 719	evaluated
+T27	Association 784 788	risk
+E5	Association:T27 snp_int:E6
+T28	SNP 750 760	rs17530068
+T29	SNP 765 774	rs4784227
+R13	Speculation_marker Arg1:E5 Arg2:T26	
+T30	Interaction 724 735	association
+E6	Interaction:T30 Entity:T28 Entity2:T29
+R14	Speculation_marker Arg1:E6 Arg2:T26	
+T31	Cancer 1169 1182	breast cancer
+T32	Association 1166 1168;1183 1191	in patients
+E7	Association:T32 bc:T31 snp_int:T6
+T33	Entity 1475 1507	northwest Chinese Han population
+T34	SNP 1513 1523	rs17530068
+R15	Population_assignment Arg1:T34 Arg2:T33	
+T35	Entity 1525 1537	LOC105377871
+R16	SNP_coupled_gene Arg1:T34 Arg2:T35	
+T36	Effect_Type 1539 1548	increases
+T37	Association 1553 1557	risk
+E8	Association:T37 bc:T38
+A3	Effect_Type E8 Increase
+R17	Effect_type_marker Arg1:E8 Arg2:T36	
+T38	Cancer 1561 1574	breast cancer
+T39	SNP 1583 1592	rs4784227
+T40	Entity 1594 1600	CASC16
+R18	SNP_coupled_gene Arg1:T39 Arg2:T40	
+T41	Patho_physiology 1622 1632	metastasis
+E9	Patho_physiology:T41 Theme:T42
+T42	Entity 1611 1621	lymph node
+T43	Cancer 1636 1649	breast cancer
+T44	Association 1633 1635;1650 1658	in patients
+E10	Association:T44 bc:T43 snp_int:T39
+R20	Population_assignment Arg1:T39 Arg2:T33	
+T48	Entity 199 204	women
+R23	Population_assignment Arg1:T23 Arg2:T48	
+R24	Population_assignment Arg1:T11 Arg2:T48	
+R19	Population_assignment Arg1:T21 Arg2:T48	
+R21	Population_assignment Arg1:T22 Arg2:T48	
+R22	Population_assignment Arg1:T34 Arg2:T48	
+R25	Population_assignment Arg1:E6 Arg2:T25	
+R26	Population_assignment Arg1:E6 Arg2:T48	

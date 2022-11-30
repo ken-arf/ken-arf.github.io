@@ -1,0 +1,291 @@
+{
+    "nodes": [
+        {
+            "id": "T3",
+            "name": "Breast cancer",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "associated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "SNPs",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "modulate affinity",
+            "group": 0,
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T7",
+            "name": "chromatin",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "FOXA1",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T5",
+            "name": "gene expression",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "breast cancer",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "associated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "SNPs",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "cistromes FOXA1",
+            "group": 1,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T13",
+            "name": "cistromes ESR1",
+            "group": 1,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T14",
+            "name": "histone H3 lysine 4 monomethylation",
+            "group": 1,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T24",
+            "name": "H3K4me1",
+            "group": 1,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T25",
+            "name": "cancer specific manner",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T11",
+            "name": "cell type-specific manner",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "the majority of SNPs",
+            "group": 2,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T16",
+            "name": "modulate affinity",
+            "group": 0,
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T17",
+            "name": "chromatin",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "FOXA1 distal regulatory elements",
+            "group": 1,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T18",
+            "name": "allele-specific gene expression",
+            "group": 3,
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "effect",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "rs4784227",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T21",
+            "name": "TOX3",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T22",
+            "name": "16q12.1",
+            "group": 1,
+            "trigger": 0,
+            "value": 17
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 1
+        },
+        {
+            "source": "T4",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T4",
+            "target": "T7",
+            "value": 1
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T5",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T9",
+            "target": "T8",
+            "value": 1
+        },
+        {
+            "source": "T9",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T16",
+            "target": "T15",
+            "value": 1
+        },
+        {
+            "source": "T18",
+            "target": "T15",
+            "value": 1
+        },
+        {
+            "source": "T18",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T19",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T21",
+            "value": 1
+        },
+        {
+            "source": "T19",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T8",
+            "value": 2
+        }
+    ]
+}

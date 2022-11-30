@@ -1,0 +1,111 @@
+T1	SNP 0 16	Genetic variants
+T2	Entity 20 47	one-carbon metabolism genes
+R1	SNP_coupled_gene Arg1:T1 Arg2:T2	
+T3	Cancer 52 65	breast cancer
+T4	Association 66 70	risk
+E1	Association:T4 bc:T3 snp_int:T1
+T5	Entity 113 118;74 91	women European American
+T6	Entity 96 118	African American women
+R2	Population_assignment Arg1:T1 Arg2:T5	
+R3	Population_assignment Arg1:T1 Arg2:T6	
+T7	Association 230 236	impact
+E2	Association:T7 snp_int:T9 bc:T12 snp_int2:T14
+T8	SNP 240 271	single nucleotide polymorphisms
+T9	SNP 273 277	SNPs
+R4	Equiv Arg1:T9 Arg2:T8	
+T10	Entity 282 309	folate-metabolizing enzymes
+R5	SNP_coupled_gene Arg1:T9 Arg2:T10	
+T11	Spec 319 331	investigated
+R6	Speculation_marker Arg1:E2 Arg2:T11	
+T12	Cancer 343 356	breast cancer
+T13	Entity 363 371;408 413	European women
+T14	Entity 375 380;408 413	Asian women
+T15	Entity 408 413;417 433	women African ancestry
+R7	Population_assignment Arg1:T8 Arg2:T13	
+T16	Entity 731 733	EA
+T17	Entity 738 740	AA
+R8	Equiv Arg1:T16 Arg2:T5	
+R9	Equiv Arg1:T17 Arg2:T6	
+T18	SNP 772 776	SNPs
+T19	Entity 810 813	MTR
+T20	Entity 815 819	MTRR
+T21	Entity 821 826	SHMT1
+T22	Entity 828 832	TYMS
+T23	Entity 837 844	SLC19A1
+T24	Association 851 861	associated
+E3	Association:T24 bc:T25 snp_int:T18 bc2:T26
+T25	Cancer 875 888	breast cancer
+R10	SNP_coupled_gene Arg1:T18 Arg2:T19	
+R11	SNP_coupled_gene Arg1:T18 Arg2:T20	
+R12	SNP_coupled_gene Arg1:T18 Arg2:T21	
+R13	SNP_coupled_gene Arg1:T18 Arg2:T22	
+R14	SNP_coupled_gene Arg1:T18 Arg2:T23	
+T26	Cancer 914 931;937 943	estrogen receptor status
+A1	Cancer_Type T26 Molec_Status_other
+T27	Entity 914 931	estrogen receptor
+T28	Entity 933 935	ER
+R15	Equiv Arg1:T28 Arg2:T27	
+T29	Entity 955 957;964 969	EA women
+T30	Entity 961 963;964 969	AA women
+R16	Population_assignment Arg1:T18 Arg2:T29	
+R17	Population_assignment Arg1:T18 Arg2:T30	
+T31	Association 971 983	Associations
+E4	Association:T31 bc:T25 bc2:T26 snp_int:T33
+T32	Entity 1011 1032	dietary folate intake
+T33	SNP 772 776	SNPs
+R18	Risk_Factor Arg1:T33 Arg2:T32	
+R19	SNP_coupled_gene Arg1:T33 Arg2:T19	
+R20	SNP_coupled_gene Arg1:T33 Arg2:T20	
+R21	SNP_coupled_gene Arg1:T33 Arg2:T21	
+R22	SNP_coupled_gene Arg1:T33 Arg2:T22	
+R23	SNP_coupled_gene Arg1:T33 Arg2:T23	
+R24	Population_assignment Arg1:T33 Arg2:T29	
+R25	Population_assignment Arg1:T33 Arg2:T30	
+T35	Association 1054 1066	associations
+E5	Association:T35 
+A2	Level E5 Low
+T36	Level 1072 1101	not statistically significant
+R26	Level_marker Arg1:E3 Arg2:T36	
+A3	Level E3 Low
+R27	Level_marker Arg1:E5 Arg2:T36	
+R28	Equiv Arg1:E5 Arg2:E3	
+T34	Interaction 1145 1171	polygenetic score analyses
+E6	Interaction:T34 Entity:T18
+T37	Level 1181 1192	significant
+T38	Association 1193 1205	associations
+E7	Association:T38 bc:T39 snp_int:E6
+A4	Level E7 High
+T39	Cancer 1211 1224	breast cancer
+R29	Level_marker Arg1:E7 Arg2:T37	
+T40	Effect_Type 1306 1314	increase
+T41	Association 1318 1322	risk
+E8	Association:T41 bc:T42 bc2:T43 bc3:T44
+A5	Effect_Type E8 Increase
+R30	Effect_type_marker Arg1:E8 Arg2:T40	
+R31	Equiv Arg1:E8 Arg2:E7	
+T42	Cancer 1326 1339	breast cancer
+T43	Cancer 1349 1360	ER positive
+A6	Cancer_Type T43 ER+
+T44	Cancer 1364 1375	ER negative
+A7	Cancer_Type T44 ER-
+T45	Entity 1403 1405	EA
+T46	Entity 1410 1412	AA
+R32	Population_assignment Arg1:E6 Arg2:T45	
+R33	Population_assignment Arg1:E6 Arg2:T46	
+T47	Spec 1436 1443	suggest
+T48	Entity 1449 1477	one-carbon metabolizing gene
+T49	SNP 1478 1491	polymorphisms
+R34	SNP_coupled_gene Arg1:T49 Arg2:T48	
+T50	Association 1505 1509	role
+E9	Association:T50 snp_int:T49 bc:T51
+R35	Speculation_marker Arg1:E9 Arg2:T47	
+T51	Cancer 1513 1526	breast cancer
+T52	Entity 1555 1557;1565 1570	EA women
+T53	Entity 1562 1564;1565 1570	AA women
+R36	Population_assignment Arg1:T49 Arg2:T52	
+R37	Population_assignment Arg1:T49 Arg2:T53	
+R38	Member Arg1:T48 Arg2:T19	
+R39	Member Arg1:T48 Arg2:T20	
+R40	Member Arg1:T48 Arg2:T21	
+R41	Member Arg1:T48 Arg2:T22	
+R42	Member Arg1:T48 Arg2:T23	

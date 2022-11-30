@@ -1,0 +1,81 @@
+T3	SNP 888 898	rs11249433
+T4	Entity 910 916	1p11.2
+R1	SNP_location Arg1:T3 Arg2:T4	
+T6	Association 943 953	associated
+E3	Association:T6 bc:T7 snp_int:T3
+A2	Level E3 High
+T5	Level 929 942	more strongly
+R2	Level_marker Arg1:E3 Arg2:T5	
+T7	Cancer 967 988	E-cadherin low tumors
+A1	Cancer_Type T7 Molec_Status_other
+T8	Entity 482 488	Polish
+R3	Population_assignment Arg1:T3 Arg2:T8	
+T9	SNP 1236 1246	rs11249433
+T11	Gene_Regulation 1296 1306	expression
+E2	Gene_Regulation:T11 Agent:T9 Theme:T12
+A3	Level E2 High
+T12	Entity 1285 1295	E-cadherin
+T14	SNP 1370 1380	rs11249433
+T15	Level 1386 1393	highest
+T16	Association 1394 1398	risk
+E5	Association:T16 snp_int:T14 bc:T17
+A5	Level E5 High
+R6	Level_marker Arg1:E5 Arg2:T15	
+T17	Cancer 1412 1426;1444 1455;1463 1470	E-cadherin low ER-positive lobular
+T18	SNP 1536 1546	rs11249433
+T19	Entity 1577 1583	NOTCH2
+T20	Entity 1588 1594	FCGR1B
+R7	SNP_location Arg1:T18 Arg2:T19	
+R8	SNP_location Arg1:T18 Arg2:T20	
+T21	Entity 1612 1618	1p11.2
+R9	SNP_location Arg1:T18 Arg2:T21	
+T22	Level 1629 1642	more strongly
+T23	Association 1643 1653	associated
+E6	Association:T23 snp_int:T18 bc:T27
+A7	Level E6 High
+R10	Level_marker Arg1:E6 Arg2:T22	
+T27	Cancer 1667 1680;1686 1710	breast tumors low or absent E-cadherin
+T29	Gene_Regulation 1711 1721	expression
+E9	Gene_Regulation:T29 Agent:T18 Theme:T32
+T30	Level 1686 1689	low
+T31	Neg 1693 1699	absent
+E10	Gene_Regulation:T29 Theme:T32 Agent:T18
+R13	Negation_marker Arg1:E10 Arg2:T31	
+T32	Entity 1700 1710	E-cadherin
+T25	Spec 1523 1530	suggest
+R11	Speculation_marker Arg1:E6 Arg2:T25	
+T28	Entity 1412 1422	E-cadherin
+T33	Entity 1444 1446	ER
+T34	Entity 1463 1470	lobular
+T24	Effect_Type 1423 1426	low
+T35	Effect_Type 1447 1455	positive
+E1	Organic_inorganic_molecules_affected:T40 Theme:T2 Agent:T3
+T2	Entity 967 977	E-cadherin
+T26	Effect_Type 978 981	low
+E7	Association:T6 bc:T38 snp_int:T3
+E8	Organic_inorganic_molecules_affected:T40 Agent:T3 Theme:T36
+T36	Entity 1032 1042	E-cadherin
+T37	Effect_Type 1043 1047	high
+A11	Effect_Type E8 Increase
+T38	Cancer 1032 1054	E-cadherin high tumors
+A12	Cancer_Type T38 Molec_Status_other
+E4	Organic_inorganic_molecules_affected:T1 Agent:T14 Theme:T33
+E11	Organic_inorganic_molecules_affected:T1 Agent:T14 Theme:T28
+T13	Cell_types_tissues_affected 1394 1398	risk
+E12	Cell_types_tissues_affected:T13 Theme:T34 Agent:T14
+R19	Effect_type_marker Arg1:E4 Arg2:T35	
+R5	Speculation_marker Arg1:E9 Arg2:T25	
+R14	Speculation_marker Arg1:E10 Arg2:T25	
+T40	Organic_inorganic_molecules_affected 943 953	associated
+T1	Organic_inorganic_molecules_affected 1394 1398	risk
+R12	Effect_type_marker Arg1:E1 Arg2:T26	
+R15	Effect_type_marker Arg1:E8 Arg2:T37	
+A10	Effect_Type E1 Decrease
+A13	Effect_Type E11 Decrease
+R16	Effect_type_marker Arg1:E11 Arg2:T24	
+A14	Effect_Type E4 Increase
+A4	Level E9 Low
+R4	Level_marker Arg1:E9 Arg2:T30	
+T10	SNP 1667 1710	breast tumors with low or absent E-cadherin
+A6	Cancer_Type T17 ER+
+A8	Cancer_Type T27 Molec_Status_other

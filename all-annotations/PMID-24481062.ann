@@ -1,0 +1,143 @@
+T1	SNP 20 29	five SNPs
+T2	Association 5 16	association
+E1	Association:T2 bc:T5 snp_int:T1
+T3	Entity 33 37	TOX3
+T4	Entity 38 47	LOC643714
+T5	Cancer 53 66	breast cancer
+R1	SNP_location Arg1:T1 Arg2:T3	
+R2	SNP_location Arg1:T1 Arg2:T4	
+T6	Entity 70 84	southern China
+R3	Population_assignment Arg1:T1 Arg2:T6	
+T7	Level 118 121	low
+T8	Association 122 126	risk
+E2	Association:T8 snp_int:T9 bc:T10
+T9	SNP 127 143	genetic variants
+R4	Level_marker Arg1:E2 Arg2:T7	
+A1	Level E2 Low
+T10	Cancer 151 164	breast cancer
+T11	Spec 197 219	contradictory evidence
+T12	SNP 235 266	single nucleotide polymorphisms
+T13	SNP 268 272	SNPs
+R5	Equiv Arg1:T12 Arg2:T13	
+T14	Entity 277 281	TOX3
+T15	Entity 282 291	LOC643714
+R6	SNP_location Arg1:T13 Arg2:T14	
+R7	SNP_location Arg1:T13 Arg2:T15	
+T16	Cancer 297 310	breast cancer
+T17	Association 311 325	susceptibility
+E3	Association:T17 bc:T16 snp_int:T13
+T18	Effect 227 231	role
+E4	Effect:T18 Agent:T13
+R8	Speculation_marker Arg1:E4 Arg2:T11	
+T19	Effect 90 108	specific mechanism
+E5	Effect:T19 Agent:T9
+T20	Spec 183 190	unclear
+R9	Speculation_marker Arg1:E5 Arg2:T20	
+T21	Entity 449 468	European population
+T22	Entity 370 388	Chinese population
+T23	SNP 351 361	this locus
+R10	Equiv Arg1:T23 Arg2:T12	
+R11	Population_assignment Arg1:T23 Arg2:T22	
+R12	Population_assignment Arg1:T23 Arg2:T21	
+T24	Entity 637 651	Chinese female
+T25	Spec 722 733	investigate
+T26	Association 738 742	role
+E6	Association:T26 snp_int:T32 bc:T16
+T27	SNP 775 784	rs8051542
+T28	SNP 786 796	rs12443621
+T29	SNP 798 807	rs3803662
+T30	SNP 809 818	rs4784227
+T31	SNP 824 833	rs3112612
+T32	SNP 746 755	five SNPs
+R13	Equiv Arg1:T32 Arg2:T27	
+R14	Equiv Arg1:T32 Arg2:T28	
+R15	Equiv Arg1:T32 Arg2:T29	
+R16	Equiv Arg1:T32 Arg2:T30	
+R17	Equiv Arg1:T32 Arg2:T31	
+R18	Equiv Arg1:T32 Arg2:T1	
+R19	Speculation_marker Arg1:E6 Arg2:T25	
+T33	Entity 759 773	TOX3/LOC643714
+R21	SNP_location Arg1:T27 Arg2:T33	
+R22	SNP_location Arg1:T28 Arg2:T33	
+R23	SNP_location Arg1:T29 Arg2:T33	
+R24	SNP_location Arg1:T30 Arg2:T33	
+R25	SNP_location Arg1:T31 Arg2:T33	
+R20	Population_assignment Arg1:T27 Arg2:T24	
+R26	Population_assignment Arg1:T28 Arg2:T24	
+R27	Population_assignment Arg1:T29 Arg2:T24	
+R28	Population_assignment Arg1:T30 Arg2:T24	
+R29	Population_assignment Arg1:T31 Arg2:T24	
+T34	SNP 927 944	these common SNPs
+R30	Equiv Arg1:T34 Arg2:T32	
+T35	Spec 913 922	evaluated
+T36	Association 959 963	risk
+E7	Association:T36 snp_int:T34 bc:T37
+R31	Speculation_marker Arg1:E7 Arg2:T35	
+T37	Cancer 967 998	specific types of breast cancer
+A2	Cancer_Type T37 Other
+T38	Cancer 1014 1031;1037 1043	estrogen receptor status
+A3	Cancer_Type T38 Molec_Status_other
+T39	Cancer 1045 1066;1072 1078	progesterone receptor status
+A4	Cancer_Type T39 Molec_Status_other
+T40	Cancer 1083 1123;1131 1137	human epidermal growth factor receptor 2 status
+A5	Cancer_Type T40 Molec_Status_other
+R32	Member Arg1:T37 Arg2:T38	
+R33	Member Arg1:T37 Arg2:T39	
+R34	Member Arg1:T37 Arg2:T40	
+T41	Entity 1014 1031	estrogen receptor
+T42	Entity 1033 1035	ER
+R35	Equiv Arg1:T41 Arg2:T42	
+T43	Entity 1045 1066	progesterone receptor
+T44	Entity 1068 1070	PR
+R36	Equiv Arg1:T43 Arg2:T44	
+T45	Entity 1083 1123	human epidermal growth factor receptor 2
+T46	Entity 1125 1129	HER2
+R37	Equiv Arg1:T45 Arg2:T46	
+T47	Level 1139 1150	Significant
+T48	Association 1151 1163	associations
+E8	Association:T48 bc:T49 snp_int:T50 snp_int2:T51
+A6	Level E8 High
+R38	Level_marker Arg1:E8 Arg2:T47	
+T49	Cancer 1169 1182	breast cancer
+T50	SNP 1206 1215	rs4784227
+T51	SNP 1220 1229	rs8051542
+T52	Entity 1353 1361	T allele
+R39	SNP_allele Arg1:T50 Arg2:T52	
+R40	SNP_allele Arg1:T51 Arg2:T52	
+T53	Entity 1367 1368;1379 1385	T allele
+T54	SNP 1369 1378	rs8051542
+R41	SNP_allele Arg1:T54 Arg2:T53	
+T55	Level 1390 1403	significantly
+T56	Association 1404 1414	associated
+E9	Association:T56 snp_int:T54 bc:T57 bc2:T58
+A7	Level E9 High
+R42	Level_marker Arg1:E9 Arg2:T55	
+T57	Cancer 1420 1431	ER-positive
+A8	Cancer_Type T57 ER+
+T58	Cancer 1436 1449	HER2-negative
+A9	Cancer_Type T58 HER2-
+T59	Entity 1420 1422	ER
+T60	Effect_Type 1423 1431	positive
+T61	Entity 1436 1440	HER2
+T62	Neg 1441 1449	negative
+T63	Organic_inorganic_molecules_affected 1404 1414	associated
+E10	Organic_inorganic_molecules_affected:T63 Agent:T54 Theme:T59
+R43	Effect_type_marker Arg1:E10 Arg2:T60	
+A10	Effect_Type E10 Increase
+E11	Organic_inorganic_molecules_affected:T63 Agent:T54 Theme:T61
+R44	Negation_marker Arg1:E11 Arg2:T62	
+T64	Level 1460 1474	No significant
+T65	Association 1475 1486	association
+E12	Association:T65 snp_int:T66 snp_int2:T67 snp_int3:T68 bc:T69
+A11	Level E12 Low
+T66	SNP 1503 1513	rs12443621
+T67	SNP 1515 1524	rs3803662
+T68	SNP 1530 1539	rs3112612
+T69	Cancer 1566 1579	breast cancer
+R45	Level_marker Arg1:E12 Arg2:T64	
+R46	Population_assignment Arg1:T50 Arg2:T24	
+R47	Population_assignment Arg1:T51 Arg2:T24	
+R48	Population_assignment Arg1:T54 Arg2:T24	
+R49	Population_assignment Arg1:T66 Arg2:T24	
+R50	Population_assignment Arg1:T67 Arg2:T24	
+R51	Population_assignment Arg1:T68 Arg2:T24	

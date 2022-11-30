@@ -1,0 +1,46 @@
+T1	SNP 796 805	rs4784227
+T2	Association 823 833	associated
+E1	Association:T2 bc:T3 snp_int:T1
+T3	Cancer 839 852	breast cancer
+T4	Entity 1024 1029	Asian
+R1	Population_assignment Arg1:T1 Arg2:T4	
+T5	Entity 1098 1116	European Americans
+T6	SNP 1215 1224	rs4784227
+T7	Entity 1239 1246	16q12.1
+R3	SNP_location Arg1:T6 Arg2:T7	
+T8	Cancer 1283 1296	breast cancer
+T9	Association 1297 1301	risk
+E2	Association:T9 bc:T8 snp_int:T6
+T10	Entity 1308 1317	Europeans
+R4	Population_assignment Arg1:T6 Arg2:T10	
+T11	Association 1323 1334	association
+E3	Association:T11 snp_int:T6 bc:T14
+T12	SNP 1338 1346	this SNP
+*	Equiv T12 T6
+T13	Entity 1416 1422	Asians
+R5	Population_assignment Arg1:T6 Arg2:T13	
+T14	Cancer 1352 1365	breast cancer
+T15	SNP 1678 1687	rs4784227
+T16	Association 1693 1718	functional causal variant
+E4	Association:T16 snp_int:T15 bc:T17
+T17	Cancer 1723 1736	breast cancer
+T18	Entity 1750 1757	16q12.1
+R6	SNP_location Arg1:T15 Arg2:T18	
+T19	Association 1057 1067	associated
+E5	Association:T19 snp_int:T21 bc:T20
+T20	Cancer 1073 1086	breast cancer
+T21	SNP 1039 1047	This SNP
+R2	Equiv Arg1:T21 Arg2:T1	
+R7	Population_assignment Arg1:T21 Arg2:T5	
+T22	Spec 1650 1665	strong evidence
+R8	Speculation_marker Arg1:E4 Arg2:T22	
+T23	SNP 20 46	functional genetic variant
+T24	Entity 50 57	16q12.1
+R9	SNP_location Arg1:T23 Arg2:T24	
+T25	Cancer 62 75	breast cancer
+T27	Association 76 80	risk
+E6	Association:T27 bc:T25 snp_int:T23
+R11	Equiv Arg1:T23 Arg2:T6	
+A1	Level E3 High
+T26	Level 1380 1412	highly statistically significant
+R10	Level_marker Arg1:E3 Arg2:T26	

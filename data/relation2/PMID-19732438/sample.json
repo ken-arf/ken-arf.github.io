@@ -1,0 +1,397 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "No",
+            "group": 0,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T2",
+            "name": "association",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "TCF7L2",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T4",
+            "name": "variant",
+            "group": 4,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T5",
+            "name": "breast cancer",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T33",
+            "name": "TCF7L2",
+            "group": 2,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T32",
+            "name": "variant",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "Type 2 diabetes",
+            "group": 1,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T30",
+            "name": "some studies",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "risk",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "familial breast cancer",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T8",
+            "name": "TCF7L2",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T9",
+            "name": "rs12255372",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T15",
+            "name": "rs12255372",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T10",
+            "name": "No",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "associations",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "breast cancer",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T13",
+            "name": "no",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "associations",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "age",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "BMI",
+            "group": 2,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "family history",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "stage",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "grade",
+            "group": 2,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T21",
+            "name": "histology",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "tumor behavior",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "Wnt/beta-catenin signaling pathway",
+            "group": 1,
+            "trigger": 1,
+            "value": 16
+        },
+        {
+            "id": "T27",
+            "name": "rs12255372",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T28",
+            "name": "TCF7L2",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T23",
+            "name": "no",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "compelling evidence",
+            "group": 3,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T25",
+            "name": "association",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "breast cancer",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T4",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T5",
+            "value": 1
+        },
+        {
+            "source": "T6",
+            "target": "T32",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T9",
+            "value": 1
+        },
+        {
+            "source": "T14",
+            "target": "T12",
+            "value": 1
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 1
+        },
+        {
+            "source": "T25",
+            "target": "T29",
+            "value": 1
+        },
+        {
+            "source": "T25",
+            "target": "T27",
+            "value": 1
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T7",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T9",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T9",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T9",
+            "value": 2
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+T1	Entity 21 26	SIPA1
+T2	Association 30 38	relation
+E1	Association:T2 snp_int:T4 bc:T3
+T3	Cancer 42 55	breast cancer
+T4	SNP 0 17	Genetic variation
+R1	SNP_coupled_gene Arg1:T4 Arg2:T1	
+T5	Other_effect 65 73	survival
+E2	Other_effect:T5 Agent:T4 Theme:T3
+T6	Entity 134 180	signal-induced proliferation-associated gene 1
+R2	Equiv Arg1:T1 Arg2:T6	
+T7	SNP 106 123	Genetic variation
+R3	SNP_coupled_gene Arg1:T7 Arg2:T6	
+T8	Spec 191 199	proposed
+T9	Association 206 216	associated
+E3	Association:T9 snp_int:T7 bc:T10
+R4	Speculation_marker Arg1:E3 Arg2:T8	
+T10	Cancer 222 245	aggressive breast tumor
+A1	Cancer_Type T10 Metastatic
+T11	Entity 307 313	humans
+T12	Entity 318 325	rodents
+R6	Population_assignment Arg1:T7 Arg2:T11	
+R7	Population_assignment Arg1:T7 Arg2:T12	
+T14	SNP 428 436	rs931127
+T15	SNP 456 465	rs3741378
+T16	SNP 491 499	rs746429
+R10	Member Arg1:T7 Arg2:T27	
+R11	Equiv Arg1:T7 Arg2:T4	
+T17	Entity 416 421	-3092
+T18	Entity 423 426	A<G
+R12	SNP_location Arg1:T14 Arg2:T17	
+R13	Nucleotide_substitution Arg1:T14 Arg2:T18	
+T19	Entity 439 449	exon 3-135
+T20	Entity 451 454	C>T
+R14	Nucleotide_substitution Arg1:T15 Arg2:T20	
+R15	SNP_location Arg1:T15 Arg2:T19	
+T21	Entity 472 484	exon 14 + 14
+T22	Entity 486 489	C>T
+R16	Nucleotide_substitution Arg1:T16 Arg2:T22	
+R17	SNP_location Arg1:T16 Arg2:T21	
+T23	Cancer 535 548	breast cancer
+T24	Spec 506 514	examined
+T25	Association 549 553	risk
+E4	Association:T25 snp_int:T27 bc:T23
+T26	Other_effect 558 574	overall survival
+E5	Other_effect:T26 Agent:T27 Theme:T23
+T27	SNP 365 398	3 single nucleotide polymorphisms
+R8	Member Arg1:T27 Arg2:T14	
+R9	Member Arg1:T27 Arg2:T15	
+R18	Member Arg1:T27 Arg2:T16	
+T28	Entity 663 669	Poland
+R19	Population_assignment Arg1:T27 Arg2:T28	
+T29	Entity 707 714	Britain
+R20	Population_assignment Arg1:T27 Arg2:T29	
+R21	Speculation_marker Arg1:T23 Arg2:T24	
+T13	Patho_physiology 273 283	metastasis
+E6	Patho_physiology:T13 Agent:T7
+T30	Entity 746 758	Vital status
+R5	Risk_Factor Arg1:T27 Arg2:T30	
+T31	Entity 859 886	follow-up time of 5.5 years
+R22	Risk_Factor Arg1:T27 Arg2:T31	
+T32	Level 906 920	no significant
+T33	Association 921 933	associations
+E7	Association:T33 bc:T36
+A2	Level E7 Low
+R23	Level_marker Arg1:E7 Arg2:T32	
+T34	SNP 942 958	genetic variants
+T35	Entity 962 967	SIPA1
+R24	Equiv Arg1:T34 Arg2:T27	
+T36	Cancer 977 990	breast cancer
+R25	SNP_coupled_gene Arg1:T34 Arg2:T35	
+T37	Entity 1153 1158	SIPA1
+T38	SNP 1159 1172	polymorphisms
+R26	Equiv Arg1:T38 Arg2:T27	
+R27	SNP_coupled_gene Arg1:T38 Arg2:T37	
+T39	Neg 1178 1181	not
+T40	Other_effect 1193 1210	overall mortality
+E8	Other_effect:T40 Agent:T38
+R28	Negation_marker Arg1:E8 Arg2:T39	
+T41	Other_effect 1419 1427	survival
+E9	Other_effect:T41 Theme:T47
+R29	Equiv Arg1:E9 Arg2:E8	
+T42	Spec 1331 1338	support
+T43	Neg 1327 1330	not
+T44	Association 1341 1353	relationship
+E10	Association:T44 bc:T47
+R30	Negation_marker Arg1:E10 Arg2:T43	
+R32	Negation_marker Arg1:E9 Arg2:T43	
+T45	Entity 1362 1367	SIPA1
+T46	SNP 1368 1381	polymorphisms
+R33	Equiv Arg1:T46 Arg2:T38	
+R34	SNP_coupled_gene Arg1:T46 Arg2:T45	
+T47	Cancer 1386 1399	breast cancer
+R35	Speculation_marker Arg1:E10 Arg2:T42	
+R31	Speculation_marker Arg1:E9 Arg2:T42	

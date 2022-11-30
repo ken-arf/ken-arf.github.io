@@ -1,0 +1,22 @@
+T1	SNP 564 573	rs1045485
+T2	Entity 558 563	CASP8
+R1	SNP_coupled_gene Arg1:T1 Arg2:T2	
+T3	Entity 578 597	alcohol consumption
+R2	Risk_Factor Arg1:T1 Arg2:T3	
+T4	Entity 650 654	LSP1
+T5	SNP 656 665	rs3817198
+R3	SNP_coupled_gene Arg1:T5 Arg2:T4	
+T6	Entity 670 676	parity
+R4	Risk_Factor Arg1:T5 Arg2:T6	
+T7	Neg 635 638	not
+R5	Negation_marker Arg1:T6 Arg2:T7	
+T8	Entity 682 688	1p11.2
+T9	SNP 689 699	rs11249433
+R6	SNP_location Arg1:T9 Arg2:T8	
+T10	Entity 704 721	ever being parous
+R7	Risk_Factor Arg1:T9 Arg2:T10	
+R8	Negation_marker Arg1:T10 Arg2:T7	
+T11	Association 27 39	interactions
+E1	Association:T11 snp_int:T1 bc:T12 snp_int2:T5 snp_int3:T9
+T12	Cancer 43 56	breast cancer
+R9	Negation_marker Arg1:T9 Arg2:T7	

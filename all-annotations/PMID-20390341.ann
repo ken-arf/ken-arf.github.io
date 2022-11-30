@@ -1,0 +1,77 @@
+T1	SNP 48 59	polymorphic
+T2	Entity 73 95	estrogen receptor-beta
+T3	Entity 97 101	ESR2
+R1	Equiv Arg1:T3 Arg2:T2	
+R2	SNP_coupled_gene Arg1:T1 Arg2:T3	
+T4	Cancer 112 125	breast cancer
+T5	Association 126 130	risk
+E1	Association:T5 bc:T4 snp_int:T1
+T6	Spec 456 468	inconsistent
+T7	SNP 372 383	polymorphic
+T8	Entity 397 401	ESR2
+R3	SNP_coupled_gene Arg1:T7 Arg2:T8	
+T9	Association 425 429	risk
+E2	Association:T9 bc:T10 snp_int:T7
+T10	Cancer 411 424	breast cancer
+R4	Speculation_marker Arg1:E2 Arg2:T6	
+T11	SNP 824 833	rs2987983
+T12	SNP 839 848	rs4986938
+T13	SNP 817 822	(CA)n
+T14	Level 857 868	significant
+T15	Association 877 889	associations
+E3	Association:T15 bc:T16 snp_int:T12 snp_int2:T11 snp_int3:T13
+T16	Cancer 895 908	breast cancer
+R5	Level_marker Arg1:E3 Arg2:T14	
+T17	SNP 952 961	rs4986938
+T18	SNP 966 975	rs1256049
+T19	Spec 1070 1078	evaluate
+T20	Association 1085 1097	relationship
+E4	Association:T20 bc:T21 snp_int:T18 snp_int2:T17
+T21	Cancer 1103 1116	breast cancer
+R6	Speculation_marker Arg1:E4 Arg2:T19	
+T22	SNP 1173 1182	rs4986938
+T23	SNP 1234 1243	rs1256049
+T24	SNP 1250 1259	rs4986938
+T25	Entity 1265 1270	women
+R7	Population_assignment Arg1:T24 Arg2:T25	
+T27	Effect_Type 1327 1336	decreased
+T28	Association 1337 1341	risk
+E6	Association:T28 snp_int:T24
+A1	Effect_Type E6 Decrease
+R8	Effect_type_marker Arg1:E6 Arg2:T27	
+T26	Entity 1356 1370	dominant model
+T29	Entity 1462 1479	co-dominant model
+R10	Genotype Arg1:T24 Arg2:T26	
+T30	SNP 1250 1259	rs4986938
+R11	Population_assignment Arg1:T30 Arg2:T25	
+R9	Genotype Arg1:T30 Arg2:T29	
+T31	Entity 1481 1490	AG vs. GG
+R12	Equiv Arg1:T29 Arg2:T31	
+T32	Entity 1281 1295	variant allele
+R13	SNP_allele Arg1:T24 Arg2:T32	
+R14	SNP_allele Arg1:T30 Arg2:T32	
+T33	SNP 1541 1550	rs1256049
+T34	Neg 1555 1558	not
+T35	Association 1559 1569	associated
+E5	Association:T35 snp_int:T33 bc:T36
+T36	Cancer 1575 1588	breast cancer
+R15	Negation_marker Arg1:E5 Arg2:T34	
+T37	Interaction 1652 1662	haplotypes
+E7	Interaction:T37 
+T38	Entity 1670 1674	ESR2
+R16	SNP_coupled_gene Arg1:E7 Arg2:T38	
+T39	Association 1697 1701	risk
+E8	Association:T39 bc:T40 snp_int:E7
+T40	Cancer 1683 1696	breast cancer
+T41	Spec 1625 1637	investigated
+R17	Speculation_marker Arg1:E8 Arg2:T41	
+T42	SNP 1803 1812	rs4986938
+T43	Interaction 1824 1834	haplotypes
+E9	Interaction:T43 
+T44	Entity 1842 1846	ESR2
+R18	SNP_coupled_gene Arg1:E9 Arg2:T44	
+T45	Spec 1852 1860	might be
+T46	Association 1861 1871	associated
+E10	Association:T46 bc:T47 snp_int:E9 snp_int2:T42
+R19	Speculation_marker Arg1:E10 Arg2:T45	
+T47	Cancer 1877 1890	breast cancer

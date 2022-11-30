@@ -1,0 +1,610 @@
+{
+    "nodes": [
+        {
+            "id": "T3",
+            "name": "XRCC4",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1",
+            "name": "Genetic variants",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "DNA repair genes",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T4",
+            "name": "influence the ability",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T5",
+            "name": "repair DNA",
+            "group": 0,
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T8",
+            "name": "may",
+            "group": 8,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T6",
+            "name": "genetic instability",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "carcinogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "evaluated",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "four tSNP",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T11",
+            "name": "tagging single nucleotide polymorphisms",
+            "group": 3,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T10",
+            "name": "tSNP",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "DNA repair",
+            "group": 0,
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T13",
+            "name": "XRCC4",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "association",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "breast cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "age at diagnosis",
+            "group": 2,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T18",
+            "name": "BRCA1/2 mutation negative",
+            "group": 2,
+            "trigger": 0,
+            "value": 14
+        },
+        {
+            "id": "T19",
+            "name": "high-risk",
+            "group": 2,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T20",
+            "name": "Utah pedigrees",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T21",
+            "name": "significant",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "association",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "4-locus",
+            "group": 2,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T25",
+            "name": "tSNP",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "tSNP",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "tSNP",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "tSNP",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "haplotypes",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "age later diagnosis",
+            "group": 2,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T29",
+            "name": "age earlier diagnosis",
+            "group": 2,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T32",
+            "name": "2-locus",
+            "group": 2,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T31",
+            "name": "haplotypes",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "breast cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "reduced",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "risk",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "increased",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "risk",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "one of the tSNPs",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T44",
+            "name": "strong",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "linkage disequilibrium",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T39",
+            "name": "XRCC4",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T38",
+            "name": "SNP",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "SNP",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "significantly",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "associated",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "breast cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "Taiwan",
+            "group": 2,
+            "trigger": 0,
+            "value": 19
+        }
+    ],
+    "links": [
+        {
+            "source": "T5",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T6",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T7",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T14",
+            "target": "T12",
+            "value": 1
+        },
+        {
+            "source": "T15",
+            "target": "T16",
+            "value": 1
+        },
+        {
+            "source": "T15",
+            "target": "T12",
+            "value": 1
+        },
+        {
+            "source": "T22",
+            "target": "T24",
+            "value": 1
+        },
+        {
+            "source": "T22",
+            "target": "T24",
+            "value": 1
+        },
+        {
+            "source": "T22",
+            "target": "T16",
+            "value": 1
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 1
+        },
+        {
+            "source": "T24",
+            "target": "T26",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T31",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T30",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T37",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T36",
+            "value": 1
+        },
+        {
+            "source": "T35",
+            "target": "T31",
+            "value": 1
+        },
+        {
+            "source": "T35",
+            "target": "T30",
+            "value": 1
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 1
+        },
+        {
+            "source": "T41",
+            "target": "T38",
+            "value": 1
+        },
+        {
+            "source": "T45",
+            "target": "T46",
+            "value": 1
+        },
+        {
+            "source": "T45",
+            "target": "T47",
+            "value": 1
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T46",
+            "value": 2
+        },
+        {
+            "source": "T47",
+            "target": "T39",
+            "value": 2
+        }
+    ]
+}

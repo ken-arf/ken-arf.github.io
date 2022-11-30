@@ -1,0 +1,533 @@
+{
+    "nodes": [
+        {
+            "id": "T4",
+            "name": "Genetic risk variants",
+            "group": 5,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T5",
+            "name": "associated",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "in situ breast cancer",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1",
+            "name": "Breast cancer in situ",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T41",
+            "name": "five SNPs",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T15",
+            "name": "CDKN2BAS",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T7",
+            "name": "rs1011970",
+            "group": 5,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T16",
+            "name": "FGFR2",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T8",
+            "name": "rs3750817",
+            "group": 5,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T17",
+            "name": "FGFR2",
+            "group": 3,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T9",
+            "name": "rs2981582",
+            "group": 5,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T18",
+            "name": "TNRC9",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T10",
+            "name": "rs3803662",
+            "group": 5,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T19",
+            "name": "5p12",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T11",
+            "name": "rs10941679",
+            "group": 5,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T12",
+            "name": "significantly",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "associated",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "BCIS",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "CDKN2BAS",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T20",
+            "name": "rs1011970",
+            "group": 5,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T22",
+            "name": "positive",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "association",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "BCIS",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "no",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "association",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "invasive BC",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "ductal carcinoma in situ",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T29",
+            "name": "DCIS",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "similar associations",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T3",
+            "name": "less significant",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "risk factor",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "BCIS",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "invasive BC",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "invasive",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "BC",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "exception",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "rs1011970",
+            "group": 5,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T32",
+            "name": "putatively",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "functional SNP",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T33",
+            "name": "CDKN2BAS",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T38",
+            "name": "may be",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T11",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T9",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T8",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T7",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 1
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 1
+        },
+        {
+            "source": "T26",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T34",
+            "target": "T35",
+            "value": 1
+        },
+        {
+            "source": "T34",
+            "target": "T30",
+            "value": 1
+        },
+        {
+            "source": "T34",
+            "target": "T36",
+            "value": 1
+        },
+        {
+            "source": "T34",
+            "target": "T30",
+            "value": 1
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 1
+        },
+        {
+            "source": "T39",
+            "target": "T30",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T29",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T7",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T8",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T9",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T11",
+            "value": 1
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T5",
+            "target": "T4",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T9",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T4",
+            "value": 2
+        }
+    ]
+}

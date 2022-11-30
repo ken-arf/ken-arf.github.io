@@ -1,0 +1,292 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "low penetrance and high frequency single nucleotide polymorphisms",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T2",
+            "name": "contribute",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "breast cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "SNPs",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "16q12",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T7",
+            "name": "TOX3",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "CASC16",
+            "group": 2,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T9",
+            "name": "strong evidence",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "breast cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "association",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "various populations",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "associations",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "rs3803662",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T18",
+            "name": "rs4784227",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T15",
+            "name": "TOX3",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "expression",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "breast tumors",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "weak",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "no",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "rs3803662",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T20",
+            "name": "rs4784227",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T24",
+            "name": "TOX3 promoter",
+            "group": 2,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T23",
+            "name": "methylation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T16",
+            "target": "T13",
+            "value": 1
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T16",
+            "target": "T18",
+            "value": 1
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 1
+        },
+        {
+            "source": "T14",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T14",
+            "target": "T18",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T19",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T19",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 1
+        },
+        {
+            "source": "T6",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T18",
+            "value": 2
+        }
+    ]
+}

@@ -1,0 +1,359 @@
+{
+    "nodes": [
+        {
+            "id": "T11",
+            "name": "Chinese women",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T10",
+            "name": "GRS",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "10 variants",
+            "group": 3,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T12",
+            "name": "participants of the Shanghai Breast Cancer Genetics Study",
+            "group": 1,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T8",
+            "name": "11 risk factors",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T13",
+            "name": "age at menarche",
+            "group": 1,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T14",
+            "name": "age at menopause",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T15",
+            "name": "age at first live birth",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "parity",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "total months of breastfeeding",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T17",
+            "name": "family history of breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T18",
+            "name": "history of benign breast disease",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T19",
+            "name": "hormone replacement therapy",
+            "group": 1,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T20",
+            "name": "body mass index",
+            "group": 1,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T21",
+            "name": "waist/hip ratio",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T22",
+            "name": "regular physical activity",
+            "group": 1,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T3",
+            "name": "mitochondrial ribosomal protein S30 gene",
+            "group": 1,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T2",
+            "name": "MRPS30",
+            "group": 1,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T1",
+            "name": "rs10941679",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T4",
+            "name": "associated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "breast cancer",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "women",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "more than 30 years of menstruation",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T24",
+            "name": "no",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "apparent",
+            "group": 2,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T26",
+            "name": "genetic variants",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "risk factors",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "etiology",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "this common cancer",
+            "group": 5,
+            "trigger": 0,
+            "value": 21
+        }
+    ],
+    "links": [
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 1
+        },
+        {
+            "source": "T4",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T9",
+            "value": 1
+        },
+        {
+            "source": "T28",
+            "target": "T29",
+            "value": 1
+        },
+        {
+            "source": "T28",
+            "target": "T26",
+            "value": 1
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T9",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T10",
+            "value": 2
+        }
+    ]
+}

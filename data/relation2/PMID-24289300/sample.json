@@ -1,0 +1,596 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "validate",
+            "group": 3,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T2",
+            "name": "association",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "reported SNPs",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T4",
+            "name": "breast cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "Japanese population",
+            "group": 2,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T9",
+            "name": "evaluate",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "effects",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "SNP genotypes",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T6",
+            "name": "lifestyle factors",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "breast cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "significantly",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "associated",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "breast cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "rs2046210",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T15",
+            "name": "rs3757318",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T16",
+            "name": "rs3803662",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T17",
+            "name": "2046210",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T31",
+            "name": "2046210",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T18",
+            "name": "risk allele",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "leisure-time exercise",
+            "group": 2,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T20",
+            "name": "significantly",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "decreased",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "risk",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "breast cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "current smoking",
+            "group": 2,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T25",
+            "name": "high BMI",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T26",
+            "name": "significantly",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "decreased",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "risk",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "non",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "risk allele",
+            "group": 2,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T32",
+            "name": "Japanese women",
+            "group": 2,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T33",
+            "name": "rs2046210",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T44",
+            "name": "rs2046210",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T34",
+            "name": "3757318",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T45",
+            "name": "3757318",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T35",
+            "name": "near the ESR1",
+            "group": 2,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T36",
+            "name": "associated",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "breast cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "Asian women",
+            "group": 2,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T39",
+            "name": "suggest",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "exercise",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "decrease",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "risk",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "risk allele carriers",
+            "group": 2,
+            "trigger": 0,
+            "value": 20
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T4",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T7",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T8",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T14",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T15",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T16",
+            "value": 1
+        },
+        {
+            "source": "T22",
+            "target": "T23",
+            "value": 1
+        },
+        {
+            "source": "T22",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T28",
+            "target": "T31",
+            "value": 1
+        },
+        {
+            "source": "T36",
+            "target": "T34",
+            "value": 1
+        },
+        {
+            "source": "T36",
+            "target": "T33",
+            "value": 1
+        },
+        {
+            "source": "T36",
+            "target": "T37",
+            "value": 1
+        },
+        {
+            "source": "T42",
+            "target": "T37",
+            "value": 1
+        },
+        {
+            "source": "T42",
+            "target": "T45",
+            "value": 1
+        },
+        {
+            "source": "T42",
+            "target": "T44",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T35",
+            "value": 2
+        }
+    ]
+}

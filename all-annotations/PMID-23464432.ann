@@ -1,0 +1,63 @@
+T1	SNP 36 43	variant
+T2	Entity 24 35	hsa-mir-27a
+R1	SNP_coupled_gene Arg1:T1 Arg2:T2	
+T3	Cancer 48 61	breast cancer
+T4	Association 62 66	risk
+E1	Association:T4 bc:T3 snp_int:T1
+T5	Spec 70 83	meta-analysis
+R2	Speculation_marker Arg1:E1 Arg2:T5	
+T6	Spec 388 401	meta-analysis
+T7	Association 304 315	association
+E2	Association:T7 snp_int:T8 bc:T10
+R3	Speculation_marker Arg1:E2 Arg2:T6	
+T8	SNP 340 348	rs895819
+T9	Entity 328 339	hsa-mir-27a
+R4	SNP_coupled_gene Arg1:T8 Arg2:T9	
+T10	Cancer 353 366	breast cancer
+R5	Equiv Arg1:T1 Arg2:T8	
+T11	SNP 582 590	rs895819
+T12	Entity 570 581	hsa-mir-27a
+R6	SNP_coupled_gene Arg1:T11 Arg2:T12	
+T13	SNP 824 832	rs895819
+T14	Entity 812 823	hsa-mir-27a
+R7	SNP_coupled_gene Arg1:T13 Arg2:T14	
+T15	Neg 855 858	not
+T16	Association 870 882	relationship
+E3	Association:T16 bc:T17 snp_int:T13
+T17	Cancer 888 901	breast cancer
+R8	Negation_marker Arg1:E3 Arg2:T15	
+T18	Level 1059 1072	significantly
+T19	Effect_Type 1073 1082	decreased
+T20	Association 1083 1087	risk
+E4	Association:T20 snp_int:T31 bc:T17
+A1	Effect_Type E4 Decrease
+A2	Level E4 High
+R9	Effect_type_marker Arg1:E4 Arg2:T19	
+R10	Level_marker Arg1:E4 Arg2:T18	
+T21	Entity 1104 1113	Europeans
+T22	Entity 1117 1119	AG
+T23	Entity 1134 1136	AG
+T24	Entity 1137 1139	GG
+T25	Entity 1328 1339	hsa-mir-27a
+T26	SNP 1340 1348	rs895819
+R11	SNP_coupled_gene Arg1:T26 Arg2:T25	
+T27	Spec 1362 1365	may
+T28	Level 1374 1383	important
+T29	Association 1384 1388	role
+E5	Association:T29 bc:T30 snp_int:T26
+A3	Level E5 High
+R12	Level_marker Arg1:E5 Arg2:T28	
+R13	Speculation_marker Arg1:E5 Arg2:T27	
+T30	Cancer 1392 1405	breast cancer
+T31	SNP 824 832	rs895819
+R14	Population_assignment Arg1:T31 Arg2:T21	
+R15	Genotype Arg1:T31 Arg2:T22	
+R16	Genotype Arg1:T31 Arg2:T24	
+R17	SNP_coupled_gene Arg1:T31 Arg2:T14	
+T32	Entity 1127 1129	AA
+T33	SNP 824 832	rs895819
+R18	Genotype Arg1:T33 Arg2:T32	
+R19	SNP_coupled_gene Arg1:T33 Arg2:T14	
+R20	Population_assignment Arg1:T33 Arg2:T21	
+T34	Association 1083 1087	risk
+E6	Association:T34 snp_int:T33 bc:T17

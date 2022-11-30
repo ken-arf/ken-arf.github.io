@@ -1,0 +1,100 @@
+T1	Interaction 0 20	SNP-SNP interactions
+E1	Interaction:T1 
+T2	Entity 29 45	DNA repair genes
+R1	SNP_coupled_gene Arg1:E1 Arg2:T2	
+T3	Association 51 61	associated
+E2	Association:T3 bc:T4 snp_int:E1
+T4	Cancer 67 80	breast cancer
+T5	Entity 91 108	Korean population
+R2	Population_assignment Arg1:E1 Arg2:T5	
+T6	SNP 144 148	SNPs
+T7	SNP 111 142	Single nucleotide polymorphisms
+R3	Equiv Arg1:T6 Arg2:T7	
+T8	Entity 153 179	nucleotide excision repair
+T9	Entity 181 184	NER
+R4	Equiv Arg1:T9 Arg2:T8	
+R5	SNP_coupled_gene Arg1:T6 Arg2:T9	
+T10	Spec 200 203	may
+T11	Patho_physiology 213 223	DNA repair
+E3	Patho_physiology:T11 Agent:T6
+R6	Speculation_marker Arg1:E3 Arg2:T10	
+T12	Effect_Type 237 245	increase
+T13	Association 246 260	susceptibility
+E4	Association:T13 bc:T14 snp_int:T6
+A1	Effect_Type E4 Increase
+R7	Effect_type_marker Arg1:E4 Arg2:T12	
+R8	Speculation_marker Arg1:E4 Arg2:T10	
+T14	Cancer 264 277	breast cancer
+T15	Cancer 279 281	BC
+R9	Equiv Arg1:T15 Arg2:T14	
+T16	Spec 286 304	case-control study
+T17	Association 388 398	associated
+E5	Association:T17 bc:T18 snp_int:T20
+T18	Cancer 404 406	BC
+R10	Speculation_marker Arg1:E5 Arg2:T16	
+T19	Entity 333 338;351 361;424 426	genes DNA repair 38
+T20	SNP 374 387;412 415	polymorphisms 384
+R11	SNP_coupled_gene Arg1:T20 Arg2:T19	
+T21	SNP 905 912	rs50872
+T22	Entity 914 916	TC
+R12	Genotype Arg1:T21 Arg2:T22	
+T23	Entity 899 904	ERCC2
+R13	SNP_coupled_gene Arg1:T21 Arg2:T23	
+T24	Interaction 930 941	combination
+E6	Interaction:T24 Entity:T21 Entity2:T26 Entity3:T28
+T25	Entity 947 950	XPA
+T26	SNP 951 960	rs2808668
+T27	Entity 962 964	TC
+R14	Genotype Arg1:T26 Arg2:T27	
+R15	SNP_coupled_gene Arg1:T26 Arg2:T25	
+T28	SNP 979 988	rs1800975
+R16	SNP_coupled_gene Arg1:T28 Arg2:T25	
+T29	Entity 990 992	AG
+R17	Genotype Arg1:E6 Arg2:T29	
+T30	Level 1007 1015	strongly
+T31	Association 1016 1026	associated
+E7	Association:T31 bc:T33 snp_int:E6
+A2	Level E7 High
+R18	Level_marker Arg1:E7 Arg2:T30	
+T32	Effect_Type 1035 1044	increased
+R19	Effect_type_marker Arg1:E7 Arg2:T32	
+A3	Effect_Type E7 Increase
+T33	Cancer 1053 1055	BC
+T34	SNP 1153 1162	rs2808668
+T35	SNP 1167 1176	rs1800975
+T36	Interaction 1178 1187	haplotype
+E8	Interaction:T36 Entity:T35 Entity2:T34
+T37	Entity 1191 1194	XPA
+R20	SNP_coupled_gene Arg1:E8 Arg2:T37	
+T38	Interaction 1195 1203	combined
+E9	Interaction:T38 Entity:E8 Entity2:T41
+T39	Entity 1213 1218	ERCC2
+T40	Entity 1219 1227	T allele
+T41	SNP 1231 1238	rs50872
+R21	SNP_allele Arg1:T41 Arg2:T40	
+R22	SNP_coupled_gene Arg1:T41 Arg2:T39	
+T42	Association 1282 1286	risk
+E10	Association:T42 bc:T44 snp_int:E9
+A4	Effect_Type E10 Increase
+T43	Effect_Type 1273 1281	additive
+R23	Effect_type_marker Arg1:E10 Arg2:T43	
+T44	Cancer 1297 1299	BC
+T45	Entity 1138 1141	T-G
+R24	Genotype Arg1:E8 Arg2:T45	
+T46	SNP 1351 1368	Genetic variation
+T47	Entity 1372 1388	DNA repair genes
+R25	SNP_coupled_gene Arg1:T46 Arg2:T47	
+T48	Patho_physiology 1405 1415	mechanisms
+E11	Patho_physiology:T48 Theme:T49 Agent:T46
+T49	Entity 1401 1404	NER
+T50	Association 1430 1434	risk
+E12	Association:T50 snp_int:T46 bc:T52
+A5	Effect_Type E12 Increase
+T51	Effect_Type 1416 1425	increased
+R26	Effect_type_marker Arg1:E12 Arg2:T51	
+T52	Cancer 1438 1440	BC
+R27	Member Arg1:T46 Arg2:E9	
+R28	Member Arg1:T46 Arg2:E6	
+R29	Equiv Arg1:T7 Arg2:T46	
+R30	Member Arg1:T20 Arg2:E6	
+R31	Member Arg1:T20 Arg2:E9	

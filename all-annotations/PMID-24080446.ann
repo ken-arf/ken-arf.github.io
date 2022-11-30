@@ -1,0 +1,82 @@
+T1	Spec 455 461	assess
+T2	SNP 483 514	single-nucleotide polymorphisms
+T3	SNP 516 520	SNPs
+R1	Equiv Arg1:T3 Arg2:T2	
+T4	Entity 534 537	MHT
+T5	Entity 130 156	menopausal hormone therapy
+R2	Equiv Arg1:T4 Arg2:T5	
+R3	Risk_Factor Arg1:T3 Arg2:T4	
+T6	Association 545 549	risk
+E1	Association:T6 bc:T8 bc2:T7
+R4	Speculation_marker Arg1:E1 Arg2:T1	
+T7	Cancer 565 575	lobular BC
+A1	Cancer_Type T7 Other
+T8	Cancer 553 560;573 575	overall BC
+A2	Cancer_Type T8 Other
+T10	Cancer 199 212	breast cancer
+T11	Cancer 573 575	BC
+T12	Entity 118 123	Women
+R5	Population_assignment Arg1:T2 Arg2:T12	
+R6	Equiv Arg1:T11 Arg2:T10	
+T13	Entity 1102 1117	current MHT use
+T14	Cancer 1129 1131	BC
+T15	SNP 1140 1148	two SNPs
+T16	Entity 1152 1157	chr13
+R7	SNP_location Arg1:T15 Arg2:T16	
+T17	Entity 1158 1167	near POMP
+R8	SNP_location Arg1:T15 Arg2:T17	
+R9	Risk_Factor Arg1:T15 Arg2:T13	
+T18	Therapeutic_response 1079 1098	effect modification
+E3	Therapeutic_response:T18 Theme:T14 Agent:T15 Agent2:T20 Agent3:T21
+T19	Entity 1210 1218	SLC25A21
+T20	SNP 1198 1206	two SNPs
+R10	SNP_coupled_gene Arg1:T20 Arg2:T19	
+T21	SNP 1253 1263	three SNPs
+T22	Entity 1267 1272	PLCG2
+R11	SNP_coupled_gene Arg1:T21 Arg2:T22	
+R12	Risk_Factor Arg1:T20 Arg2:T13	
+R13	Risk_Factor Arg1:T21 Arg2:T13	
+T23	SNP 1375 1378	SNP
+T24	Entity 1382 1388	TMEFF2
+R14	Risk_Factor Arg1:T23 Arg2:T24	
+T25	Cancer 1327 1337	lobular BC
+A3	Cancer_Type T25 Other
+T26	Therapeutic_response 1307 1318	association
+E4	Therapeutic_response:T26 Theme:T25 Agent:T23 Agent2:T27 Agent3:T29 Agent4:T32
+T27	SNP 1419 1426	one SNP
+T28	Entity 1430 1434	CD80
+R15	SNP_coupled_gene Arg1:T27 Arg2:T28	
+T29	SNP 1465 1475	three SNPs
+T30	Entity 1479 1484	chr17
+T31	Entity 1485 1498	near TMEM132E
+R16	SNP_location Arg1:T29 Arg2:T30	
+R17	SNP_location Arg1:T29 Arg2:T31	
+T32	SNP 1531 1539	two SNPs
+T33	Entity 1543 1548	chr18
+R18	SNP_location Arg1:T32 Arg2:T33	
+T34	Entity 1549 1562	near SLC25A52
+R19	SNP_location Arg1:T32 Arg2:T34	
+T35	Spec 1347 1367	potentially modified
+R20	Speculation_marker Arg1:E4 Arg2:T35	
+T36	SNP 1608 1621	polymorphisms
+T37	Entity 1625 1630;1642 1679	genes solute transportation in mitochondria
+T38	Entity 1625 1630;1681 1704	genes transmembrane signaling
+T39	Entity 1625 1630;1710 1732	genes immune cell activation
+T40	Spec 1737 1758	potentially modifying
+T41	Cancer 1759 1761	BC
+T42	Therapeutic_response 1762 1766	risk
+E5	Therapeutic_response:T42 Theme:T41 Agent:T36
+R21	Speculation_marker Arg1:E5 Arg2:T40	
+T43	Entity 1783 1801	current use of MHT
+R22	Risk_Factor Arg1:T36 Arg2:T43	
+R23	SNP_coupled_gene Arg1:T36 Arg2:T39	
+R24	SNP_coupled_gene Arg1:T36 Arg2:T38	
+R25	SNP_coupled_gene Arg1:T36 Arg2:T37	
+T9	SNP 0 17	Genetic modifiers
+T44	Entity 21 59	menopausal hormone replacement therapy
+R26	Risk_Factor Arg1:T9 Arg2:T44	
+T45	Cancer 64 77	breast cancer
+T46	Association 78 82	risk
+E2	Association:T46 bc:T45 snp_int:T9
+T47	Therapeutic_response 8 17	modifiers
+E6	Therapeutic_response:T47 Agent:T9 Theme:T45

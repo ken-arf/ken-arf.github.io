@@ -1,0 +1,109 @@
+T1	SNP 9 17	variants
+A1	SNP_Type T1 Missense
+T2	Entity 21 24	ATM
+R1	SNP_coupled_gene Arg1:T1 Arg2:T2	
+T3	Spec 203 214	contentious
+T4	SNP 186 194	variants
+A2	SNP_Type T4 Missense
+T5	Association 167 173	effect
+E1	Association:T5 snp_int:T4 bc:T6
+T6	Cancer 145 158	breast cancer
+R2	Speculation_marker Arg1:E1 Arg2:T3	
+T7	SNP 234 238;328 331	five SNP
+T8	SNP 295 326	single nucleotide polymorphisms
+T9	SNP 328 331	SNP
+R3	Equiv Arg1:T8 Arg2:T9	
+T10	Entity 336 339	ATM
+A3	SNP_Type T7 Missense
+R4	SNP_coupled_gene Arg1:T7 Arg2:T10	
+T11	SNP 341 345	S49C
+T12	SNP 347 352	S707P
+T13	SNP 354 359	F858L
+T14	SNP 361 367	P1054R
+T15	SNP 373 379	L1420F
+R5	Member Arg1:T7 Arg2:T11	
+R6	Member Arg1:T7 Arg2:T12	
+R7	Member Arg1:T7 Arg2:T13	
+R8	Member Arg1:T7 Arg2:T14	
+R9	Member Arg1:T7 Arg2:T15	
+T16	SNP 859 869;883 887	these five SNPs
+T17	Entity 879 882	ATM
+R10	SNP_coupled_gene Arg1:T16 Arg2:T17	
+A4	SNP_Type T16 Missense
+R11	Equiv Arg1:T16 Arg2:T7	
+T19	Level 911 916	small
+T20	Effect_Type 917 926	increased
+T21	Association 927 931	risk
+E3	Association:T21 bc:T22 snp_int:T16
+A5	Effect_Type E3 Increase
+A6	Level E3 Low
+T22	Cancer 935 948	breast cancer
+R12	Effect_type_marker Arg1:E3 Arg2:T20	
+R13	Level_marker Arg1:E3 Arg2:T19	
+T18	Interaction 1038 1046	combined
+E2	Interaction:T18 Entity:T24
+T23	Spec 1026 1033	Testing
+R14	Speculation_marker Arg1:E2 Arg2:T23	
+T24	SNP 1072 1080	variants
+A7	SNP_Type T24 Missense
+A8	SNP_Class T24 Rare_variant
+T25	Entity 1084 1109	known breast cancer genes
+R15	SNP_coupled_gene Arg1:T24 Arg2:T25	
+T26	Spec 1141 1155	should clarify
+T27	Association 1162 1182	overall contribution
+E4	Association:T27 bc:T28 snp_int:E2
+R16	Speculation_marker Arg1:E4 Arg2:T26	
+T28	Cancer 1186 1199	breast cancer
+T29	Association 724 726	OR
+E5	Association:T29 bc:T31 snp_int:E15
+T30	Level 766 770	1.12
+R17	Level_marker Arg1:E5 Arg2:T30	
+T31	Cancer 733 761	bilateral and familial cases
+A9	Cancer_Type T31 Familial
+T32	Interaction 492 510	Combining the data
+E6	Interaction:T32 Entity:T33
+T33	SNP 516 529	all five SNPs
+R18	Member Arg1:T7 Arg2:T33	
+T34	Entity 535 545	odds ratio
+T35	Entity 547 549	OR
+R19	Equiv Arg1:T35 Arg2:T34	
+T36	Level 555 559	1.05
+T37	Association 547 549	OR
+E7	Association:T37 snp_int:T33 bc:T6
+R20	Level_marker Arg1:E7 Arg2:T36	
+A10	Level E7 Low
+T38	Level 609 613	1.51
+T39	Entity 572 584	heterozygote
+R21	Genotype Arg1:E6 Arg2:T39	
+T40	Entity 631 641	homozygote
+T41	Association 547 549	OR
+E8	Association:T41 snp_int:E14 bc:T6
+A11	Level E8 High
+T42	Organic_inorganic_molecules_affected 341 345	S49C
+E9	Organic_inorganic_molecules_affected:T42 Agent:T11 Theme:T47
+T43	Organic_inorganic_molecules_affected 347 352	S707P
+E10	Organic_inorganic_molecules_affected:T43 Agent:T12 Theme:T48
+T44	Organic_inorganic_molecules_affected 354 359	F858L
+E11	Organic_inorganic_molecules_affected:T44 Agent:T13 Theme:T49
+T45	Organic_inorganic_molecules_affected 361 367	P1054R
+E12	Organic_inorganic_molecules_affected:T45 Agent:T14 Theme:T50
+T46	Organic_inorganic_molecules_affected 373 379	L1420F
+E13	Organic_inorganic_molecules_affected:T46 Agent:T15 Theme:T51
+T47	Entity 341 344	S49
+T48	Entity 347 351	S707
+T49	Entity 354 358	F858
+T50	Entity 361 366	P1054
+T51	Entity 373 378	L1420
+A12	SNP_Class T7 Rare_variant
+T52	SNP 646 661	any of the SNPs
+E14	Interaction:T32 Entity:T52
+R22	Genotype Arg1:E14 Arg2:T40	
+R23	Member Arg1:T7 Arg2:T52	
+R24	Level_marker Arg1:E8 Arg2:T38	
+E15	Interaction:T32 Entity:T7
+A13	SNP_Type T11 Missense
+A14	SNP_Type T12 Missense
+A15	SNP_Type T13 Missense
+A16	SNP_Type T14 Missense
+A17	SNP_Type T15 Missense
+A18	SNP_Type T33 Missense

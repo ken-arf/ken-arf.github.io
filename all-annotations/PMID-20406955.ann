@@ -1,0 +1,65 @@
+T1	SNP 0 13	Polymorphisms
+T2	Entity 21 35	TOX3/LOC643714
+T3	Association 46 50	risk
+E1	Association:T3 bc:T4 snp_int:T1
+T4	Cancer 54 67	breast cancer
+T5	Entity 71 93	African-American women
+R2	Population_assignment Arg1:T1 Arg2:T5	
+T6	SNP 100 109	rs3803662
+R3	SNP_location Arg1:T1 Arg2:T2	
+T9	Entity 154 168	TOX3/LOC643714
+R5	SNP_location Arg1:T6 Arg2:T9	
+T10	Association 210 224	susceptibility
+E2	Association:T10 bc:T11 snp_int:T6
+T11	Cancer 196 209	breast cancer
+T12	Entity 286 312	women of European ancestry
+R6	Population_assignment Arg1:T6 Arg2:T12	
+T13	SNP 429 438	rs3803662
+T14	SNP 485 494	rs3803662
+T7	Entity 511 558	located between the TOX3 and the LOC643714 loci
+R1	SNP_location Arg1:T14 Arg2:T7	
+R4	Equiv Arg1:T2 Arg2:T7	
+T8	Entity 1017 1028;711 727	Black Women African ancestry
+T15	SNP 1135 1144	rs3803662
+R7	Population_assignment Arg1:T15 Arg2:T8	
+T16	Level 1090 1104	No significant
+T17	Association 1105 1116	association
+E3	Association:T17 snp_int:T15
+A1	Level E3 Low
+R8	Level_marker Arg1:E3 Arg2:T16	
+R9	SNP_location Arg1:T15 Arg2:T7	
+T18	SNP 1176 1185	rs3104746
+T19	SNP 1187 1196	rs3112562
+T20	SNP 1198 1207	rs3104793
+T21	SNP 1213 1222	rs8046994
+T22	Entity 1252 1261	LOC643714
+R10	SNP_coupled_gene Arg1:T21 Arg2:T22	
+R11	SNP_coupled_gene Arg1:T20 Arg2:T22	
+R12	SNP_coupled_gene Arg1:T19 Arg2:T22	
+R13	SNP_coupled_gene Arg1:T18 Arg2:T22	
+T23	Association 1273 1283	associated
+E4	Association:T23 snp_int:T21 bc:T24 snp_int2:T20 snp_int3:T19 snp_int4:T18
+T24	Cancer 1297 1310	breast cancer
+T25	Level 1316 1325	strongest
+T26	Association 1326 1337	association
+E5	Association:T26 snp_int:T27 bc:T29
+A2	Level E5 High
+R14	Level_marker Arg1:E5 Arg2:T25	
+T27	SNP 1355 1364	rs3104746
+R15	Equiv Arg1:T27 Arg2:T18	
+T28	Entity 1383 1384	A
+R16	SNP_allele Arg1:T27 Arg2:T28	
+T29	Cancer 1443 1456	breast cancer
+T30	Entity 1661 1666	locus
+T31	Entity 1672 1708	smaller linkage disequilibrium block
+T32	Entity 1716 1725	LOC643714
+R17	Member Arg1:T30 Arg2:T32	
+R18	Member Arg1:T30 Arg2:T31	
+R20	Equiv Arg1:T22 Arg2:T30	
+T33	SNP 1159 1174	four other SNPs
+R21	Member Arg1:T33 Arg2:T18	
+R22	Member Arg1:T33 Arg2:T19	
+R23	Member Arg1:T33 Arg2:T20	
+R24	Member Arg1:T33 Arg2:T21	
+R19	Equiv Arg1:T1 Arg2:T33	
+R25	Equiv Arg1:T8 Arg2:T5	

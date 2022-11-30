@@ -1,0 +1,52 @@
+{
+    "name": "ROOT",
+    "children": [
+        {
+            "name": "C0",
+            "children": [
+                {
+                    "name": "BRCA1",
+                    "value": 20
+                },
+                {
+                    "name": "BRCA2",
+                    "value": 19
+                }
+            ]
+        },
+        {
+            "name": "C1",
+            "children": [
+                {
+                    "name": "contralateral breast cancer",
+                    "value": 20
+                },
+                {
+                    "name": "contralateral breast cancer",
+                    "value": 20
+                },
+                {
+                    "name": "contralateral breast cancer",
+                    "value": 20
+                }
+            ]
+        },
+        {
+            "name": "C2",
+            "children": [
+                {
+                    "name": "contralateral breast",
+                    "value": 23
+                },
+                {
+                    "name": "contralateral breast",
+                    "value": 23
+                },
+                {
+                    "name": "contralateral breast",
+                    "value": 23
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,488 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "CHST9",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T1",
+            "name": "rs1436904",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T3",
+            "name": "prognosis",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "triple-negative breast cancer",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T13",
+            "name": "evaluate",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "prognostic value",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "CHST9",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T8",
+            "name": "rs1436904",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T11",
+            "name": "AQP4",
+            "group": 3,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T10",
+            "name": "rs527616",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T14",
+            "name": "early-stage TNBC",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T5",
+            "name": "TNBC",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "CHST9",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T15",
+            "name": "rs1436904",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T24",
+            "name": "rs1436904",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T31",
+            "name": "G allele",
+            "group": 3,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T6",
+            "name": "significantly",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "decreased",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "disease-free survival time",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T22",
+            "name": "disease-free survival time",
+            "group": 6,
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T23",
+            "name": "DFS",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "8.5 months shorter",
+            "group": 5,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T21",
+            "name": "GG genotype",
+            "group": 3,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T19",
+            "name": "TT genotype",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "increased",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "risk",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "cancer",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "CHST9",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T29",
+            "name": "rs1436904",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T30",
+            "name": "G allele",
+            "group": 3,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T32",
+            "name": "tumor size\u2009>\u20092\u2009cm",
+            "group": 3,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T36",
+            "name": "without",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "lymph-node metastasis",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T34",
+            "name": "premenopausal",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T35",
+            "name": "vascular invasion",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "18q11.2",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T40",
+            "name": "CHST9",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T38",
+            "name": "rs1436904",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T42",
+            "name": "significantly",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "contributes",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "early-stage TNBC",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T8",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T14",
+            "value": 1
+        },
+        {
+            "source": "T22",
+            "target": "T24",
+            "value": 1
+        },
+        {
+            "source": "T22",
+            "target": "T15",
+            "value": 1
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 1
+        },
+        {
+            "source": "T26",
+            "target": "T29",
+            "value": 1
+        },
+        {
+            "source": "T41",
+            "target": "T43",
+            "value": 1
+        },
+        {
+            "source": "T41",
+            "target": "T38",
+            "value": 1
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T20",
+            "value": 2
+        }
+    ]
+}

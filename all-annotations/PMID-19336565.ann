@@ -1,0 +1,215 @@
+T1	Entity 15 50	methylenetetrahydrofolate reductase
+T2	SNP 51 64	polymorphisms
+R1	SNP_coupled_gene Arg1:T2 Arg2:T1	
+T4	Entity 0 13	Folate intake
+R2	Risk_Factor Arg1:T2 Arg2:T4	
+T3	Association 84 88	risk
+E1	Association:T3 bc:T5 snp_int:T2
+T5	Cancer 70 83	breast cancer
+T6	Entity 92 97	women
+R3	Population_assignment Arg1:T2 Arg2:T6	
+T7	Entity 247 252	MTHFR
+R4	Equiv Arg1:T7 Arg2:T1	
+T8	SNP 171 174	SNP
+T9	SNP 138 169	Single nucleotide polymorphisms
+R5	Equiv Arg1:T8 Arg2:T9	
+R6	SNP_coupled_gene Arg1:T8 Arg2:T7	
+T10	Spec 254 257	may
+T11	Association 265 277	associations
+E2	Association:T11 snp_int:T8 bc:T13
+R7	Speculation_marker Arg1:E2 Arg2:T10	
+T12	Entity 286 299	folate intake
+R8	Risk_Factor Arg1:T8 Arg2:T12	
+T13	Cancer 304 317	breast cancer
+R9	Population_assignment Arg1:T8 Arg2:T6	
+T14	Spec 322 330	examined
+T15	Entity 358 396	tertiles of dietary folate equivalents
+T16	Entity 370 396	dietary folate equivalents
+T17	Entity 398 401	DFE
+R10	Equiv Arg1:T17 Arg2:T16	
+T18	Cancer 407 420	breast cancer
+T19	Association 338 349	association
+E3	Association:T19 snp_int:T21 snp_int2:T22 bc:T18
+T20	Entity 478 483	MTHFR
+T21	SNP 493 502	rs1801133
+T22	SNP 517 526	rs1801131
+T23	Entity 484 487	677
+T24	Entity 488 491	C>T
+T25	Entity 508 512	1298
+T26	Entity 512 515	A>C
+R11	Nucleotide_substitution Arg1:T22 Arg2:T26	
+R12	SNP_location Arg1:T22 Arg2:T25	
+R13	SNP_coupled_gene Arg1:T22 Arg2:T20	
+R14	Nucleotide_substitution Arg1:T21 Arg2:T24	
+R15	SNP_location Arg1:T21 Arg2:T23	
+R16	SNP_coupled_gene Arg1:T21 Arg2:T20	
+R17	Risk_Factor Arg1:T21 Arg2:T15	
+R18	Risk_Factor Arg1:T22 Arg2:T15	
+R19	Speculation_marker Arg1:E3 Arg2:T14	
+T27	Spec 537 539	if
+T28	SNP 544 557	polymorphisms
+T29	Association 570 580	associated
+E4	Association:T29 bc:T30 snp_int:T28
+T30	Cancer 586 599	breast cancer
+R20	Speculation_marker Arg1:E4 Arg2:T27	
+T31	SNP 493 502	rs1801133
+T32	SNP 517 526	rs1801131
+R21	Member Arg1:T28 Arg2:T32	
+R22	Member Arg1:T28 Arg2:T21	
+R23	Member Arg1:T2 Arg2:T22	
+R24	Member Arg1:T2 Arg2:T21	
+R25	Population_assignment Arg1:T32 Arg2:T6	
+R26	Population_assignment Arg1:T31 Arg2:T6	
+R27	SNP_coupled_gene Arg1:T31 Arg2:T20	
+R28	SNP_coupled_gene Arg1:T32 Arg2:T20	
+R29	Nucleotide_substitution Arg1:T31 Arg2:T24	
+R30	SNP_location Arg1:T31 Arg2:T23	
+R31	SNP_location Arg1:T32 Arg2:T23	
+R32	Nucleotide_substitution Arg1:T32 Arg2:T24	
+T33	Entity 820 825	MTHFR
+T34	SNP 826 830	SNPs
+R33	SNP_coupled_gene Arg1:T34 Arg2:T33	
+R34	Equiv Arg1:T34 Arg2:T28	
+T35	Association 1021 1031	associated
+E5	Association:T35 bc:T36 snp_int:T41 snp_int2:T39 snp_int3:T46
+T36	Cancer 1037 1050	breast cancer
+T37	Entity 1054 1059	MTHFR
+T38	Entity 1063 1065	CT
+T39	SNP 1060 1065	677CT
+R35	Genotype Arg1:T39 Arg2:T38	
+R36	SNP_coupled_gene Arg1:T39 Arg2:T37	
+T40	SNP 493 502	rs1801133
+R37	Member Arg1:T40 Arg2:T39	
+T41	SNP 1069 1075	1298AA
+T42	Entity 1073 1075	AA
+R38	Genotype Arg1:T41 Arg2:T42	
+T43	SNP 517 526	rs1801131
+R39	Member Arg1:T43 Arg2:T41	
+T44	Entity 1076 1081	women
+R40	Population_assignment Arg1:T41 Arg2:T44	
+T45	Entity 1066 1068	TT
+T46	SNP 1060 1063;1066 1068	677 TT
+T47	Entity 1002 1005	DFE
+R41	Risk_Factor Arg1:T41 Arg2:T47	
+R42	Genotype Arg1:T46 Arg2:T45	
+R43	Risk_Factor Arg1:T46 Arg2:T47	
+R44	Risk_Factor Arg1:T39 Arg2:T47	
+R45	SNP_coupled_gene Arg1:T46 Arg2:T37	
+R46	Member Arg1:T40 Arg2:T46	
+T48	Effect_Type 1107 1116	inversely
+T49	Association 1117 1127	associated
+E6	Association:T49 bc:T36 snp_int:T52
+T50	Entity 1131 1152	compound heterozygous
+A1	Effect_Type E6 Decrease
+R47	Effect_type_marker Arg1:E6 Arg2:T48	
+T51	Entity 1153 1158	women
+R48	Member Arg1:T43 Arg2:T52	
+T52	SNP 1140 1152	heterozygous
+R49	Population_assignment Arg1:T52 Arg2:T51	
+R50	Genotype Arg1:T52 Arg2:T50	
+R51	Risk_Factor Arg1:T52 Arg2:T47	
+T53	Entity 1230 1238	C allele
+T54	Association 1181 1192	Interaction
+E7	Association:T54 bc:T36 snp_int:T56
+T55	Entity 1214 1217	DFE
+T56	SNP 1226 1231	1298C
+R52	Risk_Factor Arg1:T56 Arg2:T55	
+R53	SNP_allele Arg1:T56 Arg2:T53	
+R54	Population_assignment Arg1:T56 Arg2:T51	
+R55	Population_assignment Arg1:T39 Arg2:T51	
+R56	Population_assignment Arg1:T41 Arg2:T51	
+R57	Population_assignment Arg1:T46 Arg2:T51	
+R58	Member Arg1:T43 Arg2:T56	
+T57	SNP 1255 1259	677T
+T58	Entity 1258 1266	T allele
+R59	SNP_allele Arg1:T57 Arg2:T58	
+T59	Association 1311 1315	risk
+E8	Association:T59 bc:T61 snp_int:T57
+A2	Effect_Type E8 Increase
+T60	Effect_Type 1287 1296	increased
+R60	Effect_type_marker Arg1:E8 Arg2:T60	
+T61	Cancer 1297 1310	breast cancer
+T62	Entity 1319 1324	women
+R61	Population_assignment Arg1:T57 Arg2:T62	
+T63	Entity 1325 1339	above 55 years
+R62	Risk_Factor Arg1:T57 Arg2:T63	
+R63	SNP_coupled_gene Arg1:T40 Arg2:T20	
+R64	Nucleotide_substitution Arg1:T40 Arg2:T24	
+R65	SNP_location Arg1:T40 Arg2:T23	
+R66	Member Arg1:T40 Arg2:T57	
+T64	Entity 1562 1567	women
+T65	Entity 1568 1591	between 45 and 55 years
+T66	SNP 1511 1516	1298C
+T67	Entity 1515 1523	C allele
+R67	SNP_allele Arg1:T66 Arg2:T67	
+T68	Entity 1491 1502	Homozygosis
+R68	Genotype Arg1:T66 Arg2:T68	
+T69	Association 1554 1558	risk
+E9	Association:T69 bc:T61
+A3	Effect_Type E9 Increase
+T70	Effect_Type 1544 1553	increased
+R69	Effect_type_marker Arg1:E9 Arg2:T70	
+R70	Population_assignment Arg1:T66 Arg2:T64	
+R71	Risk_Factor Arg1:T66 Arg2:T65	
+R72	Member Arg1:T43 Arg2:T66	
+T71	Association 1671 1682	association
+E10	Association:T71 snp_int:T80 snp_int2:T79 snp_int3:T75 bc:T73
+R73	SNP_coupled_gene Arg1:T43 Arg2:T20	
+R74	SNP_location Arg1:T43 Arg2:T25	
+R75	Nucleotide_substitution Arg1:T43 Arg2:T26	
+T72	Entity 1691 1694	DFE
+T73	Cancer 1699 1712	breast cancer
+T74	Entity 1729 1734	MTHFR
+T75	SNP 1744 1750	1298AA
+T76	Entity 1748 1750	AA
+R76	Genotype Arg1:T75 Arg2:T76	
+T77	Entity 1741 1743	TT
+T78	Entity 1738 1740	CT
+T79	SNP 1735 1740	677CT
+T80	SNP 1735 1738;1741 1743	677 TT
+R77	Genotype Arg1:T80 Arg2:T77	
+R78	Genotype Arg1:T79 Arg2:T78	
+T81	Entity 1751 1756	women
+R79	Population_assignment Arg1:T80 Arg2:T81	
+R80	Population_assignment Arg1:T79 Arg2:T81	
+R81	Population_assignment Arg1:T75 Arg2:T81	
+R82	SNP_coupled_gene Arg1:T80 Arg2:T74	
+R83	SNP_coupled_gene Arg1:T79 Arg2:T74	
+R84	SNP_coupled_gene Arg1:T75 Arg2:T74	
+R85	Risk_Factor Arg1:T80 Arg2:T72	
+R86	Risk_Factor Arg1:T75 Arg2:T72	
+R87	Risk_Factor Arg1:T79 Arg2:T72	
+T82	SNP 1824 1828	677T
+R88	Equiv Arg1:T82 Arg2:T57	
+T83	Association 1877 1881	risk
+E11	Association:T83 bc:T92 snp_int:T82
+T84	Level 1856 1862	higher
+R89	Level_marker Arg1:E11 Arg2:T84	
+A4	Effect_Type E11 Increase
+T85	Entity 1885 1890	women
+T86	Entity 1891 1912	above 55 years of age
+R90	Risk_Factor Arg1:T82 Arg2:T86	
+A5	Level E11 High
+R91	Member Arg1:T40 Arg2:T79	
+R92	Member Arg1:T40 Arg2:T80	
+R93	Member Arg1:T43 Arg2:T75	
+T87	Effect_Type 1764 1771	inverse
+T88	Association 1772 1783	association
+E12	Association:T88 snp_int:T90 snp_int2:T91 bc:T73
+A6	Effect_Type E12 Decrease
+R94	Effect_type_marker Arg1:E12 Arg2:T87	
+T89	Entity 1813 1818	women
+T90	SNP 1800 1805	677CT
+T91	SNP 1806 1812	1298AC
+R95	Population_assignment Arg1:T91 Arg2:T89	
+R96	Population_assignment Arg1:T90 Arg2:T89	
+T92	Cancer 1863 1876	breast cancer
+R97	Risk_Factor Arg1:T90 Arg2:T72	
+R98	Risk_Factor Arg1:T91 Arg2:T72	
+R99	Population_assignment Arg1:T82 Arg2:T85	
+T93	Entity 1803 1804	C
+T94	Entity 1810 1812	AC
+R100	Genotype Arg1:T90 Arg2:T93	
+R101	Genotype Arg1:T91 Arg2:T94	
+R102	Member Arg1:T40 Arg2:T90	
+R103	Member Arg1:T43 Arg2:T91	

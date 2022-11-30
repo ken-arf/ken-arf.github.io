@@ -1,0 +1,137 @@
+T1	SNP 38 50	polymorphism
+T2	Entity 62 108	catalytic subunit of glutamate-cysteine ligase
+T3	Cancer 112 125	breast cancer
+T4	Association 126 130	risk
+E1	Association:T4 bc:T3 snp_int:T1
+T5	Entity 137 151	Chinese women]
+T6	Entity 16 31	body mass index
+R1	Risk_Factor Arg1:T1 Arg2:T6	
+R2	SNP_coupled_gene Arg1:T1 Arg2:T2	
+R3	Population_assignment Arg1:T1 Arg2:T5	
+T7	SNP 251 261	rs17883901
+T8	Entity 188 203	body mass index
+T9	Entity 204 207	BMI
+R4	Equiv Arg1:T9 Arg2:T8	
+R5	Risk_Factor Arg1:T7 Arg2:T9	
+T10	Spec 157 168	investigate
+R6	Population_assignment Arg1:T7 Arg2:T5	
+T11	Entity 266 312	catalytic subunit of glutamate-cysteine ligase
+T12	Entity 314 318	GCLC
+R7	Equiv Arg1:T12 Arg2:T11	
+R8	SNP_coupled_gene Arg1:T7 Arg2:T11	
+T13	Cancer 323 336	breast cancer
+T14	Association 337 341	risk
+E2	Association:T14 bc:T13 snp_int:T7
+R9	Equiv Arg1:T1 Arg2:T7	
+R10	Speculation_marker Arg1:E2 Arg2:T10	
+T15	Entity 571 575	GCLC
+T16	SNP 576 586	rs17883901
+R11	SNP_coupled_gene Arg1:T16 Arg2:T15	
+R12	Population_assignment Arg1:T16 Arg2:T5	
+T17	Neg 869 871	No
+T18	Association 872 883	association
+E3	Association:T18 bc:T22 snp_int:T16
+T19	Entity 902 916	BMI at present
+T20	Entity 921 934	premenopausal
+T21	Entity 938 952	postmenopausal
+T22	Cancer 953 966	breast cancer
+R13	Negation_marker Arg1:E3 Arg2:T17	
+R14	Risk_Factor Arg1:T16 Arg2:T19	
+R15	Risk_Factor Arg1:T16 Arg2:T20	
+R16	Risk_Factor Arg1:T16 Arg2:T21	
+T23	Entity 1007 1036	BMI at age 20 of 18.5 to 22.9
+T25	Entity 991 996	women
+T26	Level 1043 1053	marginally
+T27	Effect_Type 1054 1063	decreased
+T28	Association 1064 1068	risk
+E4	Association:T28 bc:T30 snp_int:T31
+A1	Effect_Type E4 Decrease
+A2	Level E4 Low
+R17	Effect_type_marker Arg1:E4 Arg2:T27	
+R18	Level_marker Arg1:E4 Arg2:T26	
+T29	Entity 1072 1085	premenopausal
+T30	Cancer 1086 1099	breast cancer
+T31	SNP 576 586	rs17883901
+R19	Population_assignment Arg1:T31 Arg2:T25	
+R20	Risk_Factor Arg1:T31 Arg2:T23	
+R21	Risk_Factor Arg1:T31 Arg2:T29	
+R22	SNP_coupled_gene Arg1:T31 Arg2:T15	
+R23	Population_assignment Arg1:T31 Arg2:T5	
+T24	Entity 1181 1204	BMI was greater than 25
+T32	Effect_Type 1211 1220	increased
+T33	Association 1221 1225	risk
+E5	Association:T33 bc:T34 snp_int:T39
+A3	Effect_Type E5 Increase
+R24	Effect_type_marker Arg1:E5 Arg2:T32	
+T34	Cancer 1261 1274	breast cancer
+T35	Effect_Type 1281 1290	decreased
+T36	Association 1291 1295	risk
+E6	Association:T36 snp_int:T41 bc:T34
+A4	Effect_Type E6 Decrease
+R25	Effect_type_marker Arg1:E6 Arg2:T35	
+T37	Entity 1150 1152	CT
+T38	Entity 1153 1155	TT
+T39	SNP 576 586	rs17883901
+R26	Genotype Arg1:T39 Arg2:T37	
+R27	Genotype Arg1:T39 Arg2:T38	
+R28	Risk_Factor Arg1:T39 Arg2:T24	
+T40	Entity 1335 1364	BMI at age 20 of 18.5 to 22.9
+T41	SNP 576 586	rs17883901
+R29	Risk_Factor Arg1:T41 Arg2:T40	
+R30	Genotype Arg1:T41 Arg2:T37	
+R31	Genotype Arg1:T41 Arg2:T38	
+R32	Population_assignment Arg1:T39 Arg2:T5	
+R33	Population_assignment Arg1:T41 Arg2:T5	
+R34	SNP_coupled_gene Arg1:T39 Arg2:T15	
+R35	SNP_coupled_gene Arg1:T41 Arg2:T15	
+T42	Entity 1398 1402	GCLC
+T43	SNP 1408 1418	rs17883901
+R36	SNP_coupled_gene Arg1:T43 Arg2:T42		
+T45	Entity 1423 1426;1430 1437	BMI present
+R38	Risk_Factor Arg1:T43 Arg2:T45	
+T46	Association 1455 1459	risk
+E7	Association:T46 snp_int:T43 bc:T47
+T47	Cancer 1441 1454	breast cancer
+T48	Neg 1483 1486	not
+T49	Association 1487 1492	found
+E8	Association:T49 snp_int:T50 bc:T47
+R39	Negation_marker Arg1:E8 Arg2:T48	
+T50	SNP 1501 1511	rs17883901
+T51	Entity 1516 1529	BMI at age 20
+R40	Risk_Factor Arg1:T50 Arg2:T51	
+R41	SNP_coupled_gene Arg1:T50 Arg2:T42	
+R42	Population_assignment Arg1:T43 Arg2:T5	
+R43	Population_assignment Arg1:T50 Arg2:T5	
+T52	Entity 1553 1566	BMI at age 20
+T53	Entity 1663 1667	GCLC
+T54	SNP 1668 1678	rs17883901
+R44	SNP_coupled_gene Arg1:T54 Arg2:T53	
+T55	Neg 1632 1634	no
+T56	Association 1635 1646	association
+E9	Association:T56 snp_int:T54 bc:T57
+R45	Negation_marker Arg1:E9 Arg2:T55	
+T57	Cancer 1684 1697	breast cancer
+R46	Risk_Factor Arg1:T54 Arg2:T52	
+T58	Entity 1699 1717	Obesity at present
+R47	Population_assignment Arg1:T54 Arg2:T5	
+T59	Spec 1718 1721	may
+T60	Level 1722 1735	significantly
+T61	Effect_Type 1736 1744	increase
+T62	Association 1749 1753	risk
+E10	Association:T62 bc:T63 snp_int:T65
+A5	Effect_Type E10 Increase
+A6	Level E10 High
+R48	Speculation_marker Arg1:E10 Arg2:T59	
+R49	Effect_type_marker Arg1:E10 Arg2:T61	
+R50	Level_marker Arg1:E10 Arg2:T60	
+T63	Cancer 1757 1770	breast cancer
+T64	Entity 1777 1782	women
+T65	SNP 1813 1823	rs17883901
+T66	Entity 1807 1811	GCLC
+R51	SNP_coupled_gene Arg1:T65 Arg2:T66	
+R52	Population_assignment Arg1:T65 Arg2:T64	
+T67	Entity 1788 1790	CT
+T68	Entity 1791 1793	TT
+R53	Genotype Arg1:T65 Arg2:T68	
+R54	Genotype Arg1:T65 Arg2:T67	
+R55	Risk_Factor Arg1:T65 Arg2:T58	

@@ -1,0 +1,179 @@
+T1	Entity 54 58	PIN1
+T2	SNP 38 45	-842G>C
+R1	SNP_coupled_gene Arg1:T2 Arg2:T1	
+T3	Association 93 97	risk
+E1	Association:T3 snp_int:T2 bc:T5
+A1	Effect_Type E1 Decrease
+T4	Effect_Type 83 92	decreased
+R2	Effect_type_marker Arg1:E1 Arg2:T4	
+T5	Cancer 101 114	breast cancer
+T6	Entity 118 142	non-Hispanic white women
+T7	Entity 143 163	55 years and younger
+R3	Population_assignment Arg1:T2 Arg2:T6	
+R4	Risk_Factor Arg1:T2 Arg2:T7	
+T8	Entity 15 23	promoter
+R5	SNP_location Arg1:T2 Arg2:T8	
+T9	Organic_inorganic_molecules_affected 197 219	conformational changes
+E2	Organic_inorganic_molecules_affected:T9 Theme:T10 Agent:T2
+T10	Entity 223 231	proteins
+T11	Cell_types_tissues_affected 260 278	mammary epithelial
+E3	Cell_types_tissues_affected:T11 Agent:T1
+T12	Patho_physiology 279 290	cell growth
+E4	Patho_physiology:T12 Theme:T1
+T13	SNP 338 354	genetic variants
+R6	Member Arg1:T13 Arg2:T2	
+T14	Entity 38 42	-842
+R7	SNP_location Arg1:T2 Arg2:T14	
+T15	Entity 42 45	G>C
+R8	Nucleotide_substitution Arg1:T2 Arg2:T15	
+T16	Entity 362 366	PIN1
+R9	SNP_coupled_gene Arg1:T13 Arg2:T16	
+T17	Spec 372 375	may
+T18	Organic_inorganic_molecules_affected 376 381;390 398	alter function
+E5	Organic_inorganic_molecules_affected:T18 Theme:T19 Agent:T13
+T19	Entity 382 389	protein
+R10	Speculation_marker Arg1:E5 Arg2:T17	
+T20	Other_effect 410 414	risk
+E6	Other_effect:T20 Theme:T21 Agent:T13
+T21	Entity 403 409	cancer
+T22	Entity 473 477	PIN1
+T24	Entity 478 486	promoter
+T26	Entity 496 500	-842
+T27	SNP 505 514	rs2233678
+T28	Entity 500 503	G>C
+R13	Nucleotide_substitution Arg1:T27 Arg2:T28	
+R14	SNP_location Arg1:T27 Arg2:T26	
+R11	SNP_location Arg1:T27 Arg2:T24	
+R12	SNP_coupled_gene Arg1:T27 Arg2:T22	
+T23	Cell_types_tissues_affected 542 551;568 572	carcinoma neck
+E7	Cell_types_tissues_affected:T23 Theme:T25 Agent:T27
+T25	Entity 528 541;559 563	squamous cell head
+T29	SNP 722 731	rs2233678
+T30	SNP 745 754	rs2233679
+T31	Entity 713 717	-842
+T32	Entity 717 720	G>C
+R15	Nucleotide_substitution Arg1:T29 Arg2:T32	
+R16	SNP_location Arg1:T29 Arg2:T31	
+T33	Entity 736 740	-667
+T34	Entity 740 743	T>C
+R17	Nucleotide_substitution Arg1:T30 Arg2:T34	
+R18	SNP_location Arg1:T30 Arg2:T33	
+R19	Equiv Arg1:T2 Arg2:T27	
+T35	SNP 795 804	rs2233682
+T36	Entity 790 793	G>A
+T37	SNP 780 788	Gln33Gln
+A2	SNP_Type T35 Synonymous
+T38	Entity 809 815	exon 2
+T39	Entity 664 672	promoter
+R20	SNP_location Arg1:T29 Arg2:T39	
+R21	Nucleotide_substitution Arg1:T35 Arg2:T36	
+R22	SNP_location Arg1:T35 Arg2:T39	
+R23	SNP_location Arg1:T35 Arg2:T38	
+R24	Equiv Arg1:T35 Arg2:T37	
+R25	SNP_coupled_gene Arg1:T29 Arg2:T22	
+R26	Population_assignment Arg1:T30 Arg2:T22	
+R27	Population_assignment Arg1:T35 Arg2:T22	
+T40	Organic_inorganic_molecules_affected 780 788	Gln33Gln
+E8	Organic_inorganic_molecules_affected:T40 Theme:T41 Agent:T37
+T41	Entity 780 785	Gln33
+T42	Spec 819 827	evaluate
+T43	Association 834 846	associations
+E9	Association:T43 bc:T44 snp_int:T35 snp_int2:T29 snp_int3:T30
+T44	Cancer 860 882	sporadic breast cancer
+A3	Cancer_Type T44 Non_hereditary
+R28	Speculation_marker Arg1:E9 Arg2:T42	
+T45	Entity 886 910	non-Hispanic white women
+T46	Entity 911 931	55 years and younger
+R29	Population_assignment Arg1:T29 Arg2:T45	
+R30	Risk_Factor Arg1:T29 Arg2:T46	
+R31	Population_assignment Arg1:T30 Arg2:T45	
+R32	Risk_Factor Arg1:T30 Arg2:T46	
+R33	Population_assignment Arg1:T35 Arg2:T45	
+R34	Risk_Factor Arg1:T35 Arg2:T46	
+T47	Entity 1146 1180	women after reproductive age of 45
+T48	Level 1130 1142	more evident
+T49	Entity 1214 1226	ever-smokers
+T50	Entity 1264 1277	ever-drinkers
+T51	SNP 969 976	variant
+T52	Entity 967 968;977 984	C alleles
+T53	SNP 722 731	rs2233678
+R35	Equiv Arg1:T53 Arg2:T51	
+R36	SNP_allele Arg1:T51 Arg2:T52	
+T55	Effect_Type 989 998	decreased
+T56	Association 999 1003	risk
+E10	Association:T56 snp_int:T51 bc:T57
+A4	Effect_Type E10 Decrease
+R38	Effect_type_marker Arg1:E10 Arg2:T55	
+T57	Cancer 1007 1020	breast cancer
+T58	Effect_Type 1113 1120	reduced
+T59	Association 1121 1125	risk
+E11	Association:T59 snp_int:T60 bc:T57
+T60	SNP 969 976	variant
+R39	Level_marker Arg1:E11 Arg2:T48	
+R40	Effect_type_marker Arg1:E11 Arg2:T58	
+A5	Effect_Type E11 Decrease
+A6	Level E11 High
+T61	SNP 722 731	rs2233678
+R41	Equiv Arg1:T60 Arg2:T61	
+R42	Risk_Factor Arg1:T60 Arg2:T47	
+R43	Risk_Factor Arg1:T60 Arg2:T49	
+R44	Risk_Factor Arg1:T60 Arg2:T50	
+R45	SNP_allele Arg1:T60 Arg2:T52	
+T54	Entity 963 967	-842
+R37	SNP_location Arg1:T60 Arg2:T54	
+R46	SNP_location Arg1:T51 Arg2:T54	
+R47	SNP_coupled_gene Arg1:T53 Arg2:T22	
+R48	SNP_coupled_gene Arg1:T61 Arg2:T22	
+R49	SNP_location Arg1:T61 Arg2:T31	
+R50	SNP_location Arg1:T53 Arg2:T31	
+R51	Nucleotide_substitution Arg1:T53 Arg2:T32	
+R52	Nucleotide_substitution Arg1:T61 Arg2:T32	
+T62	Neg 1311 1313	No
+T63	Association 1319 1331	associations
+E12	Association:T63 bc:T57 snp_int:T67 snp_int2:T66
+R53	Negation_marker Arg1:E12 Arg2:T62	
+T64	Entity 1350 1354	PIN1
+T65	Entity 1367 1371	PIN1
+R54	SNP_coupled_gene Arg1:T30 Arg2:T22	
+R55	SNP_location Arg1:T30 Arg2:T39	
+T66	SNP 1372 1380	Gln33Gln
+T67	SNP 1355 1362	-667T>C
+R56	SNP_coupled_gene Arg1:T67 Arg2:T64	
+R57	SNP_location Arg1:T66 Arg2:T65	
+R58	SNP_coupled_gene Arg1:T35 Arg2:T22	
+R59	Equiv Arg1:T67 Arg2:T30	
+R60	Equiv Arg1:T66 Arg2:T35	
+T68	Organic_inorganic_molecules_affected 1372 1380	Gln33Gln
+E13	Organic_inorganic_molecules_affected:T68 Theme:T69 Agent:T66
+T69	Entity 1372 1377	Gln33
+T70	Interaction 1395 1405	haplotypes
+E14	Interaction:T70 Entity:T71
+T71	SNP 1409 1425	these three SNPs
+T72	Association 1460 1464	risk
+E15	Association:T72 bc:T74 snp_int:E14
+T73	Effect_Type 1452 1459	reduced
+A7	Effect_Type E15 Decrease
+R62	Effect_type_marker Arg1:E15 Arg2:T73	
+T74	Cancer 1468 1481	breast cancer
+T75	Entity 1502 1506	PIN1
+T76	SNP 1507 1520	polymorphisms
+R63	SNP_coupled_gene Arg1:T76 Arg2:T75	
+T77	Spec 1521 1524	may
+T78	Association 1543 1551	etiology
+E16	Association:T78 snp_int:T76 bc:T79
+R64	Speculation_marker Arg1:E16 Arg2:T77	
+T79	Cancer 1555 1577	sporadic breast cancer
+A8	Cancer_Type T79 Non_hereditary
+T80	Entity 1581 1605	non-Hispanic white women
+T81	Entity 1606 1626	55 years and younger
+R65	Population_assignment Arg1:T76 Arg2:T80	
+R66	Risk_Factor Arg1:T76 Arg2:T81	
+R61	Population_assignment Arg1:T61 Arg2:T45	
+R67	Risk_Factor Arg1:T61 Arg2:T46	
+R68	Population_assignment Arg1:T53 Arg2:T45	
+R69	Risk_Factor Arg1:T53 Arg2:T46	
+R70	Member Arg1:T71 Arg2:T35	
+R71	Member Arg1:T71 Arg2:T30	
+R72	Member Arg1:T71 Arg2:T29	
+A9	SNP_Type T37 Synonymous
+A10	SNP_Type T66 Synonymous

@@ -1,0 +1,79 @@
+T1	SNP 0 17	Genetic variation
+T2	Entity 21 25	IGF2
+T3	Entity 30 35	HTRA1
+T4	Cancer 40 53	breast cancer
+T5	Association 54 58	risk
+E1	Association:T5 bc:T4 snp_int:T1 snp_int2:T8
+T6	Entity 65 70	BRCA1
+T7	Entity 75 89	BRCA2 carriers
+R1	SNP_coupled_gene Arg1:T1 Arg2:T2	
+T8	SNP 0 17	Genetic variation
+R2	SNP_coupled_gene Arg1:T8 Arg2:T3	
+R3	Risk_Factor Arg1:T1 Arg2:T6	
+R4	Risk_Factor Arg1:T1 Arg2:T7	
+R5	Risk_Factor Arg1:T8 Arg2:T6	
+R6	Risk_Factor Arg1:T8 Arg2:T7	
+T9	Level 244 255	significant
+T10	Association 256 268	associations
+E2	Association:T10 snp_int:T11 bc:T4
+T11	SNP 272 288	genetic variants
+T12	Entity 296 322	insulin-like growth factor
+T13	Entity 324 327	IGF
+R7	Equiv Arg1:T13 Arg2:T12	
+T14	Entity 296 322;329 346	insulin-like growth factor signaling pathway
+R8	SNP_coupled_gene Arg1:T11 Arg2:T14	
+R9	Level_marker Arg1:E2 Arg2:T9	
+A1	Level E2 High
+T15	Level 885 896	Significant
+T16	Association 897 909	associations
+E3	Association:T16 bc:T17 snp_int:E4 snp_int2:E6 snp_int3:E7 snp_int4:E8
+T17	Cancer 937 950	breast cancer
+R10	Level_marker Arg1:E3 Arg2:T15	
+A2	Level E3 High
+T18	Interaction 955 964	LD blocks
+E4	Interaction:T18 
+T19	Entity 968 972	IGF2
+R11	SNP_coupled_gene Arg1:E4 Arg2:T19	
+T20	Level 1197 1208	significant
+T22	SNP 1225 1241	genetic variants
+T23	Entity 977 982	BRCA1
+T24	Entity 987 1010	BRCA2 mutation carriers
+E6	Interaction:T18 
+R12	Risk_Factor Arg1:E6 Arg2:T23	
+R13	Risk_Factor Arg1:E4 Arg2:T24	
+R14	SNP_coupled_gene Arg1:E6 Arg2:T19	
+T25	Entity 1069 1074	HTRA1
+T26	Entity 1079 1093	BRCA1 carriers
+T27	Entity 1125 1129	MMP3
+T28	Entity 1134 1148	BRCA2 carriers
+T29	Interaction 955 964	LD blocks
+E7	Interaction:T29 
+R15	SNP_coupled_gene Arg1:E7 Arg2:T25	
+R16	Risk_Factor Arg1:E7 Arg2:T26	
+T30	Interaction 955 964	LD blocks
+E8	Interaction:T30 
+R17	SNP_coupled_gene Arg1:E8 Arg2:T27	
+R18	Risk_Factor Arg1:E8 Arg2:T28	
+T31	Entity 1254 1267	IGF signaling
+R20	SNP_coupled_gene Arg1:T22 Arg2:T31	
+R21	Member Arg1:T31 Arg2:T19	
+R22	Member Arg1:T31 Arg2:T25	
+R23	Member Arg1:T31 Arg2:T27	
+R24	Member Arg1:T22 Arg2:E8	
+R25	Member Arg1:T22 Arg2:E7	
+R26	Member Arg1:T22 Arg2:E4	
+R27	Member Arg1:T22 Arg2:E6	
+R28	Member Arg1:T1 Arg2:E4	
+R29	Member Arg1:T1 Arg2:E6	
+R30	Member Arg1:T8 Arg2:E7	
+T32	Patho_physiology 1258 1267	signaling
+E9	Patho_physiology:T32 Agent:T22 Theme:T31
+T33	Patho_physiology 329 346	signaling pathway
+E10	Patho_physiology:T33 Theme:T13 Agent:T11
+T34	Entity 1412 1415	AKT
+T35	Patho_physiology 1394 1403	signaling
+E11	Patho_physiology:T35 Theme:T34 Agent:E6 Agent2:E7
+T36	Spec 1380 1388	suggests
+R31	Speculation_marker Arg1:E11 Arg2:T36	
+R19	Level_marker Arg1:E9 Arg2:T20	
+A3	Level E9 High

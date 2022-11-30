@@ -1,0 +1,303 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Women of African ancestry",
+            "group": 3,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T2",
+            "name": "rs13074711",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T3",
+            "name": "26.5\u2009Kb upstream of TNFSF10",
+            "group": 3,
+            "trigger": 0,
+            "value": 14
+        },
+        {
+            "id": "T4",
+            "name": "3q26.21",
+            "group": 3,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T5",
+            "name": "significantly",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "associated",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "associated",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "oestrogen receptor",
+            "group": 3,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T10",
+            "name": "oestrogen receptor (ER)-negative breast cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T8",
+            "name": "ER",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "negative",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "rs10069690",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T16",
+            "name": "best indicator",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "indicator",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "ER-negative breast cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T23",
+            "name": "ER",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "negative",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "5p15.33",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T15",
+            "name": "rs12998806",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T17",
+            "name": "best indicator",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "indicator",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "ER-positive breast cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T24",
+            "name": "ER",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "positive",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "2q35",
+            "group": 3,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T20",
+            "name": "women of African ancestry",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        }
+    ],
+    "links": [
+        {
+            "source": "T6",
+            "target": "T2",
+            "value": 1
+        },
+        {
+            "source": "T6",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T7",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T2",
+            "value": 1
+        },
+        {
+            "source": "T16",
+            "target": "T13",
+            "value": 1
+        },
+        {
+            "source": "T16",
+            "target": "T12",
+            "value": 1
+        },
+        {
+            "source": "T17",
+            "target": "T15",
+            "value": 1
+        },
+        {
+            "source": "T17",
+            "target": "T18",
+            "value": 1
+        },
+        {
+            "source": "T21",
+            "target": "T23",
+            "value": 1
+        },
+        {
+            "source": "T21",
+            "target": "T12",
+            "value": 1
+        },
+        {
+            "source": "T22",
+            "target": "T24",
+            "value": 1
+        },
+        {
+            "source": "T22",
+            "target": "T15",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T25",
+            "value": 2
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+T1	Entity 4 7	p53
+T2	SNP 8 16	Arg72Pro
+T3	Entity 21 25	MDM2
+T4	SNP 27 30	309
+T5	Association 49 53	risk
+E1	Association:T5 snp_int:T4 snp_int2:T2 bc:T6
+T6	Cancer 57 70	breast cancer
+R1	SNP_coupled_gene Arg1:T2 Arg2:T1	
+R2	SNP_coupled_gene Arg1:T4 Arg2:T3	
+T7	Spec 86 100	health studies
+R3	Speculation_marker Arg1:E1 Arg2:T7	
+T8	SNP 600 604	-309
+T9	Entity 612 616	MDM2
+R4	SNP_coupled_gene Arg1:T8 Arg2:T9	
+T10	Effect_Type 636 645	increased
+T11	Gene_Regulation 651 664	transcription
+E2	Gene_Regulation:T11 Theme:T12 Agent:T8
+A1	Effect_Type E2 Increase
+R5	Effect_type_marker Arg1:E2 Arg2:T10	
+T12	Entity 646 650	MDM2
+T13	SNP 670 678	Arg72Pro
+T14	Entity 695 698	p53
+R6	SNP_coupled_gene Arg1:T13 Arg2:T14	
+T15	Gene_Regulation 710 723	transcription
+E3	Gene_Regulation:T15 Theme:T16 Agent:T13
+T16	Entity 727 743	p53 target genes
+T17	Patho_physiology 761 770	apoptotic
+E4	Patho_physiology:T17 Agent:T13
+T18	SNP 791 809	Both polymorphisms
+R7	Member Arg1:T18 Arg2:T13	
+R8	Member Arg1:T18 Arg2:T8	
+T19	Spec 869 881	inconclusive
+T20	Association 858 862	risk
+E5	Association:T20 snp_int:T18 bc:T21
+R9	Speculation_marker Arg1:E5 Arg2:T19	
+T21	Cancer 844 857	breast cancer
+T22	Neg 1036 1043	Neither
+T25	Spec 1114 1124	indication
+T24	Interaction 1141 1152	interaction
+E7	Interaction:T24 Entity:T8 Entity2:T13
+R10	Speculation_marker Arg1:E7 Arg2:T25	
+T26	Association 1065 1075	associated
+E8	Association:T26 snp_int:E7 bc:T27
+T27	Cancer 1089 1102	breast cancer
+T23	SNP 1044 1047	SNP
+T28	SNP 1044 1047	SNP
+E6	Association:T26 snp_int:T23 snp_int2:T28 bc:T27
+R12	Negation_marker Arg1:E6 Arg2:T22	
+R13	Equiv Arg1:T28 Arg2:T13	
+R14	Equiv Arg1:T23 Arg2:T8	
+T29	Organic_inorganic_molecules_affected 8 16	Arg72Pro
+E9	Organic_inorganic_molecules_affected:T29 Theme:T30 Agent:T2
+T30	Entity 8 13	Arg72
+R11	Equiv Arg1:T13 Arg2:T2	
+A2	SNP_Type T2 Missense
+A3	SNP_Type T13 Missense

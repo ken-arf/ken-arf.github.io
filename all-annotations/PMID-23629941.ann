@@ -1,0 +1,103 @@
+T1	SNP 1068 1075	rs93886
+T2	SNP 1111 1120	rs3785074
+T3	SNP 1155 1164	rs4246742
+T4	SNP 1199 1209	rs10069690
+T5	SNP 1244 1253	rs2242652
+T6	SNP 1292 1301	rs6990300
+T7	Entity 1063 1067	TEP1
+T8	Entity 1105 1110	TERF2
+T9	Entity 1150 1154	TERT
+T10	Entity 1194 1198	TERT
+T11	Entity 1239 1243	TERT
+T12	Entity 1287 1291	TNKS
+T13	Entity 1383 1399	hormone receptor
+T14	Entity 954 956	TL
+T15	Entity 200 215	telomere length
+T16	Entity 217 219	TL
+R1	Equiv Arg1:T16 Arg2:T15	
+R2	SNP_coupled_gene Arg1:T4 Arg2:T10	
+R3	SNP_coupled_gene Arg1:T5 Arg2:T11	
+R4	SNP_coupled_gene Arg1:T6 Arg2:T12	
+T17	Association 1008 1019	association
+E1	Association:T17 bc:T18 snp_int:T1 snp_int2:T24
+R5	SNP_coupled_gene Arg1:T1 Arg2:T7	
+R6	SNP_coupled_gene Arg1:T2 Arg2:T8	
+R7	SNP_coupled_gene Arg1:T3 Arg2:T9	
+T18	Cancer 1025 1038	breast cancer
+T19	Entity 352 370	admixed population
+T20	Entity 374 395;456 461	US non-Hispanic white women
+T24	SNP 946 953;965 996	Several single nucleotide polymorphisms
+R10	Member Arg1:T24 Arg2:T1	
+R11	Member Arg1:T24 Arg2:T2	
+R12	Member Arg1:T24 Arg2:T3	
+R13	Member Arg1:T24 Arg2:T4	
+R14	Member Arg1:T24 Arg2:T5	
+R15	Member Arg1:T24 Arg2:T6	
+T26	Entity 430 434;448 461	U.S. Mexican women
+R18	Population_assignment Arg1:T24 Arg2:T19	
+T21	Entity 430 443;456 461	U.S. Hispanic women
+R8	Member Arg1:T19 Arg2:T20	
+R9	Member Arg1:T19 Arg2:T26	
+R16	Member Arg1:T19 Arg2:T21	
+T25	Entity 605 621	TL-related genes
+T27	Entity 636 640	MEN1
+T28	Entity 642 648	MRE11A
+T29	Entity 650 656	RECQL5
+T30	Entity 658 662	TEP1
+T31	Entity 664 668	TERC
+T32	Entity 670 675	TERF2
+T33	Entity 677 681	TERT
+T34	Entity 683 687	TNKS
+T35	Entity 693 698	TNKS2
+R17	Member Arg1:T25 Arg2:T27	
+R19	Member Arg1:T25 Arg2:T28	
+R20	Member Arg1:T25 Arg2:T29	
+R21	Member Arg1:T25 Arg2:T30	
+R22	Member Arg1:T25 Arg2:T31	
+R23	Member Arg1:T25 Arg2:T32	
+R24	Member Arg1:T25 Arg2:T33	
+R25	Member Arg1:T25 Arg2:T34	
+R26	Member Arg1:T25 Arg2:T35	
+T36	Organic_inorganic_molecules_affected 209 215	length
+E3	Organic_inorganic_molecules_affected:T36 Theme:T14 Agent:T24
+T37	Patho_physiology 1400 1416	status of tumors
+E4	Patho_physiology:T37 Theme:T13 Agent:T24
+T38	SNP 1459 1468	rs2736118
+T39	Entity 1454 1458	TERT
+R27	SNP_coupled_gene Arg1:T38 Arg2:T39	
+T40	Association 1436 1448	associations
+E5	Association:T40 snp_int:T38 bc:T42
+T41	Level 1418 1430	Most notable
+R28	Level_marker Arg1:E5 Arg2:T41	
+A1	Level E5 High
+T42	Cancer 1507 1564;1575 1581	estrogen receptor negative/progesterone receptor positive tumors
+A2	Cancer_Type T42 Horm+ve_other
+T43	Cancer 1566 1573;1575 1581	ER-/PR+ tumors
+A3	Cancer_Type T43 Horm+ve_other
+R29	Equiv Arg1:T43 Arg2:T42	
+T44	SNP 1591 1600	rs2735940
+T45	Entity 1586 1590	TERT
+R30	SNP_coupled_gene Arg1:T44 Arg2:T45	
+T46	Cancer 1638 1652	ER-/PR- tumors
+A4	Cancer_Type T46 Horm-ve_other
+E6	Association:T40 snp_int:T44 bc:T46
+A5	Level E6 High
+R31	Level_marker Arg1:E6 Arg2:T41	
+T47	Organic_inorganic_molecules_affected 1436 1448	associations
+E7	Organic_inorganic_molecules_affected:T47 Theme:T50 Agent:T38
+E8	Organic_inorganic_molecules_affected:T47 Agent:T38 Theme:T48
+T48	Entity 1507 1524	estrogen receptor
+T49	Neg 1525 1533	negative
+T50	Entity 1534 1555	progesterone receptor
+T51	Effect_Type 1556 1564	positive
+T52	Entity 1638 1640	ER
+T53	Entity 1642 1644	PR
+T54	Neg 1644 1645	-
+T55	Neg 1640 1641	-
+R32	Negation_marker Arg1:E8 Arg2:T49	
+R33	Effect_type_marker Arg1:E7 Arg2:T51	
+A6	Effect_Type E7 Increase
+E9	Organic_inorganic_molecules_affected:T47 Agent:T44 Theme:T52 Theme2:T53
+R34	Negation_marker Arg1:E9 Arg2:T55	
+R35	SNP_location Arg1:T24 Arg2:T14	
+R36	Equiv Arg1:T14 Arg2:T25	

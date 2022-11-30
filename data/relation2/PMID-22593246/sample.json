@@ -1,0 +1,229 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "genetic variant",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "miR-423",
+            "group": 0,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T3",
+            "name": "associated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "reduced",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "breast cancer",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "examined",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T6",
+            "name": "rs6505162",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T7",
+            "name": "A > C",
+            "group": 0,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T9",
+            "name": "pre-miRNA region",
+            "group": 0,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T10",
+            "name": "miR-423",
+            "group": 0,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T11",
+            "name": "breast cancer",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "development",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "Caucasian Australian women",
+            "group": 0,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T14",
+            "name": "rs6505162",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T17",
+            "name": "rs6505162",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T16",
+            "name": "CC",
+            "group": 0,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T15",
+            "name": "reduced",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "risk",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "breast cancer",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T3",
+            "target": "T5",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T11",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 1
+        },
+        {
+            "source": "T18",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T17",
+            "value": 2
+        }
+    ]
+}

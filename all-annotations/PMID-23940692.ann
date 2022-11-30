@@ -1,0 +1,140 @@
+T1	Entity 72 95	North Indian population
+T2	Entity 0 4	CD44
+T3	SNP 10 23	polymorphisms
+R1	SNP_coupled_gene Arg1:T3 Arg2:T2	
+T4	Cancer 27 40	breast cancer
+T5	Association 41 45	risk
+E1	Association:T5 bc:T4 snp_int:T3
+R2	Population_assignment Arg1:T3 Arg2:T1	
+T6	Spec 266 277	investigate
+T7	Entity 290 294	CD44
+T8	SNP 300 313	polymorphisms
+R3	SNP_coupled_gene Arg1:T8 Arg2:T7	
+T9	Association 282 286	role
+E2	Association:T9 snp_int:T8 bc:T10
+R4	Speculation_marker Arg1:E2 Arg2:T6	
+T10	Cancer 317 330	breast cancer
+T11	Other_effect 340 349	prognosis
+E3	Other_effect:T11 Theme:T10 Agent:T8
+T12	Entity 353 376	North Indian population
+R5	Population_assignment Arg1:T8 Arg2:T12	
+T13	SNP 681 689	rs353639
+A1	SNP_Class T13 tSNP
+T14	Entity 701 727	Gujrati Indians in Houston
+R6	Equiv Arg1:T14 Arg2:T12	
+R7	Population_assignment Arg1:T13 Arg2:T14	
+T15	Entity 729 732	GIH
+R8	Equiv Arg1:T15 Arg2:T14	
+T16	Entity 748 752	CD44
+R9	SNP_coupled_gene Arg1:T13 Arg2:T16	
+T17	SNP 797 804	rs13347
+T18	Entity 809 827	Chinese population
+T19	Spec 640 648	examined
+T20	Association 653 664	association
+E4	Association:T20 snp_int:T13 bc:T10
+R10	Speculation_marker Arg1:E4 Arg2:T19	
+T21	Level 771 782	significant
+T22	Association 783 791	reported
+E5	Association:T22 snp_int:T17 bc:T10
+R11	Level_marker Arg1:E5 Arg2:T21	
+A2	Level E5 High
+R12	Population_assignment Arg1:T17 Arg2:T18	
+T23	Level 1040 1054	No significant
+T24	Association 1055 1066	association
+E6	Association:T24 snp_int:E7 bc:T28
+R13	Level_marker Arg1:E6 Arg2:T23	
+A3	Level E6 Low
+T25	Interaction 1070 1074	both
+E7	Interaction:T25 Entity2:T13 Entity3:T29
+T28	Cancer 1142 1155	breast cancer
+R15	SNP_coupled_gene Arg1:T17 Arg2:T16	
+T29	SNP 797 804	rs13347
+R16	SNP_coupled_gene Arg1:T29 Arg2:T16	
+T26	Level 1270 1281	significant
+T27	Association 1282 1293	association
+E8	Association:T27 snp_int:T30 bc:T28
+R14	Level_marker Arg1:E8 Arg2:T26	
+A4	Level E8 High
+T30	SNP 1317 1324	rs13347
+T31	Entity 1103 1107	CD44
+R17	SNP_coupled_gene Arg1:T30 Arg2:T31	
+T32	Entity 1343 1363	earlier age of onset
+R18	Risk_Factor Arg1:T30 Arg2:T32	
+T33	Entity 1307 1309	CT
+T34	Entity 1310 1312	TT
+R19	Genotype Arg1:T30 Arg2:T34	
+R20	Genotype Arg1:T30 Arg2:T33	
+T35	Entity 1176 1195	univariate analysis
+R21	Risk_Factor Arg1:T30 Arg2:T35	
+T36	Entity 1423 1444	multivariate analysis
+T37	Level 1398 1410;1415 1419	significance lost
+T38	SNP 1317 1324	rs13347
+R22	SNP_coupled_gene Arg1:T38 Arg2:T31	
+R23	Genotype Arg1:T38 Arg2:T33	
+R24	Genotype Arg1:T38 Arg2:T34	
+T39	Association 1282 1293	association
+E9	Association:T39 snp_int:T38 bc:T28
+R25	Level_marker Arg1:E9 Arg2:T37	
+A5	Level E9 Low
+R26	Risk_Factor Arg1:T38 Arg2:T36	
+T40	SNP 1450 1458	rs353639
+R27	SNP_coupled_gene Arg1:T40 Arg2:T31	
+T41	Entity 1556 1558	AC
+T42	Entity 1559 1561	CC
+T43	Entity 1610 1611	C
+R28	Genotype Arg1:T40 Arg2:T41	
+R29	Genotype Arg1:T40 Arg2:T42	
+R30	SNP_allele Arg1:T40 Arg2:T43	
+T44	Level 1473 1484	significant
+T45	Cell_types_tissues_affected 1142 1148;1520 1526	breast tumour
+E10	Cell_types_tissues_affected:T45 Theme:T46 Agent:T40
+T46	Entity 1527 1531	size
+R31	Level_marker Arg1:E10 Arg2:T44	
+A6	Level E10 High
+T47	Effect_Type 1681 1690	increased
+T48	Level 1691 1703	significance
+T49	SNP 1784 1792	rs353639
+T50	Entity 1707 1723	variant genotype
+R32	Genotype Arg1:T49 Arg2:T50	
+T51	Entity 1707 1714;1751 1757	variant allele
+R33	SNP_allele Arg1:T49 Arg2:T51	
+T52	Cell_types_tissues_affected 1142 1148;1817 1823	breast tumour
+E11	Cell_types_tissues_affected:T52 Theme:T53 Agent:T49
+T53	Entity 1824 1828	size
+R34	Effect_type_marker Arg1:E11 Arg2:T47	
+R35	Level_marker Arg1:E11 Arg2:T48	
+A7	Effect_Type E11 Increase
+A8	Level E11 High
+T54	SNP 1908 1916	rs353639
+T55	Gene_Regulation 1869 1903	altered transcriptional regulation
+E12	Gene_Regulation:T55 Agent:T54
+T56	Entity 1959 1963	CD44
+R36	SNP_coupled_gene Arg1:T40 Arg2:T56	
+R37	SNP_coupled_gene Arg1:T49 Arg2:T56	
+R38	SNP_coupled_gene Arg1:T54 Arg2:T56	
+T57	SNP 1964 1972	rs353639
+R39	SNP_location Arg1:T57 Arg2:T56	
+T58	Spec 1990 1993	may
+T59	Level 1999 2010	significant
+T60	Cancer 2021 2034	breast cancer
+T61	Other_effect 2035 2044	prognosis
+E13	Other_effect:T61 Theme:T60 Agent:T57
+R40	Speculation_marker Arg1:E13 Arg2:T58	
+R41	Level_marker Arg1:E13 Arg2:T59	
+A9	Level E13 High
+T62	SNP 2079 2086	rs13347
+T63	SNP 2091 2099	rs353639
+T64	Neg 2104 2106	no
+T65	Association 2107 2113	effect
+E14	Association:T65 bc:T66 snp_int:E15
+T66	Cancer 2117 2130	breast cancer
+R42	Negation_marker Arg1:E14 Arg2:T64	
+T67	Interaction 2087 2090	and
+E15	Interaction:T67 Entity:T62 Entity2:T63
+R43	SNP_coupled_gene Arg1:T62 Arg2:T56	
+R44	SNP_coupled_gene Arg1:T63 Arg2:T56	
+R45	Member Arg1:T3 Arg2:T13	
+R46	Member Arg1:T3 Arg2:T57	
+R47	Member Arg1:T3 Arg2:T29	
+T68	Other_effect 50 59	prognosis
+E16	Other_effect:T68 Theme:T4 Agent:T3

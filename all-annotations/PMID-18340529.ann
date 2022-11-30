@@ -1,0 +1,94 @@
+T1	Entity 156 171	Myeloperoxidase
+T2	Entity 47 50	MPO
+R1	Equiv Arg1:T2 Arg2:T1	
+T3	SNP 23 43	genetic polymorphism
+R2	SNP_coupled_gene Arg1:T3 Arg2:T2	
+T4	Spec 0 19	A prospective study
+T5	Association 90 94	risk
+E1	Association:T5 bc:T6 snp_int:T3
+R3	Speculation_marker Arg1:E1 Arg2:T4	
+T6	Cancer 76 89	breast cancer
+T7	Other_effect 52 70	antioxidant status
+E2	Other_effect:T7 Agent:T3
+T8	SNP 295 301	G-463A
+T9	Entity 309 317	promoter
+R4	SNP_location Arg1:T8 Arg2:T9	
+R5	SNP_coupled_gene Arg1:T8 Arg2:T1	
+T10	Association 364 368	risk
+E3	Association:T10 snp_int:T8 bc:T12
+T11	Effect_Type 352 360	decrease
+T12	Cancer 372 385	breast cancer
+R6	Effect_type_marker Arg1:E3 Arg2:T11	
+T13	Entity 296 300	-463
+R7	SNP_location Arg1:T8 Arg2:T13	
+T14	Entity 295 296;300 301	G A
+R8	Nucleotide_substitution Arg1:T8 Arg2:T14	
+A1	Effect_Type E3 Decrease
+T15	Entity 965 979	Dietary intake
+T16	Entity 984 1009	plasma antioxidant levels
+T17	Spec 1010 1013	may
+T18	Association 1025 1036	association
+E4	Association:T18 bc:T21 snp_int:T20
+R9	Speculation_marker Arg1:E4 Arg2:T17	
+T19	Entity 1049 1052	MPO
+T20	SNP 1053 1065	polymorphism
+R10	SNP_coupled_gene Arg1:T20 Arg2:T19	
+T21	Cancer 1070 1083	breast cancer
+R11	Risk_Factor Arg1:T20 Arg2:T16	
+R12	Risk_Factor Arg1:T20 Arg2:T15	
+T22	Entity 1260 1305	higher amounts of total fruits and vegetables
+T23	Effect_Type 1014 1020	modify
+R14	Effect_type_marker Arg1:E4 Arg2:T23	
+T24	Entity 1241 1246	women
+R15	Population_assignment Arg1:T20 Arg2:T24	
+T25	Effect_Type 1175 1182	inverse
+T26	Association 1183 1195	associations
+E5	Association:T26 snp_int:T28 bc:T21
+R13	Effect_type_marker Arg1:E5 Arg2:T25	
+A2	Effect_Type E5 Decrease
+T27	Entity 1201 1204	MPO
+T28	SNP 1205 1213	genotype
+R17	SNP_coupled_gene Arg1:T28 Arg2:T27	
+T29	Level 1219 1234	more pronounced
+R18	Level_marker Arg1:E5 Arg2:T29	
+A3	Level E5 High
+R19	Risk_Factor Arg1:T28 Arg2:T22	
+T30	SNP 1205 1213	genotype
+R16	SNP_coupled_gene Arg1:T30 Arg2:T27	
+R20	Population_assignment Arg1:T30 Arg2:T24	
+T31	Entity 1275 1305;1378 1393	of total fruits and vegetables low-consumption
+R21	Risk_Factor Arg1:T30 Arg2:T31	
+T32	Neg 1358 1361	not
+T33	Association 1342 1353	association
+E6	Association:T33 snp_int:T30 bc:T21
+A4	Effect_Type E6 Decrease
+R22	Negation_marker Arg1:E6 Arg2:T32	
+R23	Effect_type_marker Arg1:E6 Arg2:T25	
+T34	Association 1435 1448	relative risk
+E7	Association:T34 bc:T21 snp_int:T38
+T35	Level 1505 1509	0.44
+R24	Effect_type_marker Arg1:E7 Arg2:T35	
+T36	Entity 1469 1472	MPO
+T37	Entity 1473 1483	homozygous
+T38	SNP 1484 1491	variant
+R25	Genotype Arg1:T38 Arg2:T37	
+R26	SNP_location Arg1:T38 Arg2:T36	
+T39	Entity 1534 1539	women
+R27	Population_assignment Arg1:T38 Arg2:T39	
+T40	Entity 1552 1587	highest level of plasma carotenoids
+R28	Risk_Factor Arg1:T38 Arg2:T40	
+A5	Level E7 Low
+T41	Spec 1682 1685	may
+T42	Association 1756 1760	risk
+E8	Association:T42 snp_int:T45 bc:T46
+T43	Effect_Type 1686 1692	modify
+R29	Effect_type_marker Arg1:E8 Arg2:T43	
+R30	Speculation_marker Arg1:E8 Arg2:T41	
+T44	Entity 1721 1724	MPO
+T45	SNP 1725 1737	polymorphism
+R31	SNP_coupled_gene Arg1:T45 Arg2:T44	
+T46	Cancer 1742 1755	breast cancer
+T47	Entity 1640 1661;1665 1681	endogenous modulators oxidative stress
+T48	Entity 1626 1635;1651 1661;1665 1681	exogenous modulators oxidative stress
+R32	Risk_Factor Arg1:T45 Arg2:T47	
+R33	Risk_Factor Arg1:T45 Arg2:T48	

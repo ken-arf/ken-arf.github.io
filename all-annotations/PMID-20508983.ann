@@ -1,0 +1,69 @@
+T1	SNP 26 43	genetic variation
+T2	Entity 0 24	Centrosome-related genes
+R1	SNP_coupled_gene Arg1:T1 Arg2:T2	
+T3	Association 49 53	risk
+E1	Association:T3 bc:T4 snp_int:T1
+T4	Cancer 57 70	breast cancer
+T5	Cancer 119 139;166 172	premalignant lesions breast
+T6	Cancer 144 158;166 172	in situ tumors breast
+A1	Cancer_Type T6 In_Situ
+A2	Cancer_Type T5 Other
+T7	Cancer 180 214	over 70% of invasive breast tumors
+A3	Cancer_Type T7 Invasive_NST_ILC_IDC
+T8	Patho_physiology 245 255	aneuploidy
+E2	Patho_physiology:T8 Agent:T1
+T9	Patho_physiology 260 277	tumor development
+E3	Patho_physiology:T9 Agent:T1
+R2	Member Arg1:T4 Arg2:T5	
+R3	Member Arg1:T4 Arg2:T6	
+R4	Member Arg1:T4 Arg2:T7	
+A4	SNP_Class T1 Common_variant
+T10	SNP 328 364	commonly inherited genetic variation
+T11	Entity 378 428	genes related to centrosome structure and function
+R5	SNP_coupled_gene Arg1:T10 Arg2:T11	
+T12	Association 312 324	contribution
+E4	Association:T12 snp_int:T10 bc:T13
+T13	Cancer 432 445	breast cancer
+T14	Spec 455 464	evaluated
+R6	Speculation_marker Arg1:E4 Arg2:T14	
+T15	SNP 800 822	Eleven SNPs out of 782
+T16	Entity 828 837	six genes
+R7	SNP_coupled_gene Arg1:T15 Arg2:T16	
+R8	Member Arg1:T11 Arg2:T16	
+T17	Association 848 860	associations
+E5	Association:T17 bc:T18 snp_int:T15
+T18	Cancer 866 879	breast cancer
+T19	Interaction 897 907	Haplotypes
+E6	Interaction:T19 
+T20	Entity 911 921	five genes
+R9	Member Arg1:T11 Arg2:T20	
+R10	SNP_coupled_gene Arg1:E6 Arg2:T20	
+T21	Level 937 948	significant
+T22	Association 949 961	associations
+E7	Association:T22 snp_int:E6 bc:T18
+A5	Level E7 High
+R11	Level_marker Arg1:E7 Arg2:T21	
+T23	Interaction 983 994	combination
+E8	Interaction:T23 Entity:T24 Entity2:T26
+T24	SNP 998 1008	rs10145182
+T25	Entity 1012 1015	NIN
+R12	SNP_coupled_gene Arg1:T24 Arg2:T25	
+T26	SNP 1020 1029	rs2134808
+T27	Entity 1037 1042	TUBG1
+R13	SNP_coupled_gene Arg1:T26 Arg2:T27	
+T28	Spec 1076 1085	suggested
+T29	Organic_inorganic_molecules_affected 1119 1129	nucleation
+E9	Organic_inorganic_molecules_affected:T29 Theme:T30 Agent:E8
+T30	Entity 1107 1118	microtubule
+R14	Speculation_marker Arg1:E9 Arg2:T28	
+T31	Association 1150 1160	contribute
+E10	Association:T31 bc:T32 snp_int:T24
+R15	Speculation_marker Arg1:E10 Arg2:T28	
+T32	Cancer 1164 1177	breast cancer
+T35	SNP 1226 1234	all SNPs
+R16	Equiv Arg1:T35 Arg2:T10	
+T36	Patho_physiology 1242 1260	centrosome pathway
+E12	Patho_physiology:T36 Agent:T35
+T37	Association 1357 1367	associated
+E13	Association:T37 bc:T38 snp_int:T35
+T38	Cancer 1373 1386	breast cancer

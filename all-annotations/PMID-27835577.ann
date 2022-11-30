@@ -1,0 +1,81 @@
+T1	SNP 21 30	rs4442975
+T2	Entity 128 150	Chinese Han population
+R1	Population_assignment Arg1:T1 Arg2:T2	
+T3	Organic_inorganic_molecules_affected 48 64	binding affinity
+E1	Organic_inorganic_molecules_affected:T3 Theme:T4 Agent:T1
+T4	Entity 42 47	FOXA1
+T5	Neg 70 73	not
+T6	Association 74 83	influence
+E2	Association:T6 snp_int:T1 bc:T7
+R2	Negation_marker Arg1:E2 Arg2:T5	
+T7	Cancer 111 124	breast cancer
+T9	Entity 176 181	FOXA1
+T10	Gene_Regulation 200 208	regulate
+E3	Gene_Regulation:T10 Theme:T11 Agent:T1 Theme2:T9
+T11	Entity 220 260	estrogen receptor-chromatin interactions
+T12	SNP 355 364	rs4442975
+T13	Entity 365 373	T-allele
+R4	SNP_allele Arg1:T12 Arg2:T13	
+T14	Organic_inorganic_molecules_affected 381 389	disrupts
+E4	Organic_inorganic_molecules_affected:T14 Theme:T15 Agent:T12
+T15	Entity 409 414	FOXA1
+T16	Gene_Regulation 419 428	interacts
+E5	Gene_Regulation:T16 Theme:T17 Agent:T12
+T17	Entity 438 453	IGFBP5 promoter
+T18	Association 459 469	associated
+E6	Association:T18 bc:T19 snp_int:T12
+T19	Cancer 473 475	BC
+T20	Entity 496 515	European population
+R5	Population_assignment Arg1:T12 Arg2:T20	
+T21	SNP 654 663	rs4442975
+T22	Spec 624 633	potential
+T23	Association 634 645	association
+E7	Association:T23 snp_int:T21 bc:T24
+R6	Speculation_marker Arg1:E7 Arg2:T22	
+T24	Cancer 668 670	BC
+R7	Equiv Arg1:T19 Arg2:T7	
+T25	Entity 679 701	Chinese Han population
+R8	Population_assignment Arg1:T21 Arg2:T25	
+T26	Level 776 790	No significant
+T27	Association 791 803	associations
+E8	Association:T27 snp_int:T28 bc:T29
+A1	Level E8 Low
+R9	Level_marker Arg1:E8 Arg2:T26	
+T28	SNP 812 821	rs4442975
+T29	Cancer 826 828	BC
+T30	SNP 812 821	rs4442975
+T31	Entity 1015 1034;990 998	receptor expression estrogen
+T32	Entity 1002 1034	progesterone receptor expression
+T33	Entity 1036 1043	smoking
+T34	Entity 1047 1062	drinking habits
+T35	Entity 1067 1084	menopausal status
+T36	Neg 1094 1102	negative
+T37	Association 1103 1115	associations
+E9	Association:T37 snp_int:T30 bc:T29
+R10	Negation_marker Arg1:E9 Arg2:T36	
+R11	Risk_Factor Arg1:T30 Arg2:T31	
+R12	Risk_Factor Arg1:T30 Arg2:T32	
+R13	Risk_Factor Arg1:T30 Arg2:T33	
+R14	Risk_Factor Arg1:T30 Arg2:T34	
+R15	Risk_Factor Arg1:T30 Arg2:T35	
+T38	SNP 1199 1208	rs4442975
+T39	Level 1149 1163	No significant
+T40	Other_effect 1225 1236;1253 1258	progression tumor
+E10	Other_effect:T40 snp_int:T38 bc:T29 Theme:T41 Theme2:T42 Theme3:T43 Theme4:T44
+A2	Level E10 Low
+R16	Level_marker Arg1:E10 Arg2:T39	
+T41	Entity 1259 1263	size
+T42	Entity 1265 1277	nodal status
+T43	Entity 1279 1297	distant metastasis
+T44	Entity 1302 1313	TNM staging
+T45	SNP 1341 1350	rs4442975
+T46	Spec 1351 1354	may
+T47	Neg 1355 1358	not
+T48	Association 1359 1372	confer a risk
+E11	Association:T48 snp_int:T45 bc:T49
+R17	Negation_marker Arg1:E11 Arg2:T47	
+R18	Speculation_marker Arg1:E11 Arg2:T46	
+T49	Cancer 1376 1378	BC
+T50	Entity 1412 1434	Chinese Han population
+R19	Population_assignment Arg1:T45 Arg2:T50	
+T51	Entity 1213 1244	traditional progression factors

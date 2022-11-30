@@ -1,0 +1,163 @@
+T1	Entity 26 32	5q11.2
+T2	Cancer 33 46	breast cancer
+T3	Association 88 92	risk
+E1	Association:T3 bc:T2 snp_int:T4
+T4	SNP 70 87;93 101	three independent variants
+R1	SNP_location Arg1:T4 Arg2:T1	
+T5	Gene_Regulation 102 112	regulating
+E2	Gene_Regulation:T5 Theme:T6 Agent:T4
+T6	Entity 113 119	MAP3K1
+T7	SNP 179 187	rs889312
+T8	Entity 191 197	5q11.2
+R2	SNP_location Arg1:T7 Arg2:T8	
+T9	Association 204 214	associated
+E3	Association:T9 bc:T10 snp_int:T7
+T10	Cancer 220 233	breast cancer
+T11	Entity 242 268	women of European ancestry
+R3	Population_assignment Arg1:T7 Arg2:T11	
+T12	Entity 662 674	minor allele
+T13	SNP 698 708	rs62355902
+R4	SNP_allele Arg1:T13 Arg2:T12	
+T14	Association 710 720	associated
+E4	Association:T14 snp_int:T13 bc:T18 bc2:T17
+T15	Level 726 739	significantly
+T16	Effect_Type 740 749	increased
+A1	Effect_Type E4 Increase
+A2	Level E4 High
+R5	Level_marker Arg1:E4 Arg2:T15	
+R6	Effect_type_marker Arg1:E4 Arg2:T16	
+T17	Cancer 764 790;982 988	estrogen-receptor-positive tumors
+A3	Cancer_Type T17 ER+
+T18	Cancer 893 919;982 988	estrogen-receptor-negative tumors
+A4	Cancer_Type T18 ER-
+T19	Entity 764 781	estrogen-receptor
+T20	Entity 792 794	ER
+R7	Equiv Arg1:T20 Arg2:T19	
+T21	Effect_Type 782 790	positive
+T22	Entity 893 910	estrogen-receptor
+T23	Entity 921 923	ER
+R8	Equiv Arg1:T22 Arg2:T23	
+T24	Neg 911 919	negative
+T25	Organic_inorganic_molecules_affected 710 720	associated
+E5	Organic_inorganic_molecules_affected:T25 Agent:T13 Theme:T23
+E6	Organic_inorganic_molecules_affected:T25 Agent:T13 Theme:T19
+A5	Effect_Type E6 Increase
+R9	Effect_type_marker Arg1:E6 Arg2:T21	
+R10	Negation_marker Arg1:E5 Arg2:T24	
+T26	SNP 1011 1021	rs62355902
+T28	Interaction 622 632	correlated
+E7	Interaction:T28 Entity:T29
+T29	SNP 619 621;633 641	15 variants
+T30	Entity 643 649	iCHAV1
+T31	Level 586 595	strongest
+T32	Association 596 608	associations
+E8	Association:T32 snp_int:E7 bc:T10
+R13	Level_marker Arg1:E8 Arg2:T31	
+A6	Level E8 High
+T33	Spec 1032 1040	evidence
+T34	Association 1044 1055	association
+E9	Association:T34 bc:T10 snp_int:E14 snp_int2:E13
+R14	Speculation_marker Arg1:E9 Arg2:T33	
+T35	SNP 1069 1081	173 variants
+T36	Entity 1083 1089	iCHAV2
+T37	SNP 1159 1170	rs113317823
+T38	Level 1145 1154	strongest
+T39	Association 1132 1139	effects
+E10	Association:T39 snp_int:T37 bc:T10
+A7	Level E10 High
+T40	Entity 372 378	5q11.2
+T41	Entity 1224 1230	iCHAV3
+T42	SNP 1237 1247	rs11949391
+T43	Level 1232 1236	lead
+T44	Entity 1249 1251	ER
+T45	Effect_Type 1252 1253	+
+T46	Cancer 1249 1254	ER(+)
+A8	Cancer_Type T46 ER+
+E11	Association:T39 bc:T46 snp_int:T42
+R20	Level_marker Arg1:E10 Arg2:T38	
+A9	Level E11 High
+R23	Level_marker Arg1:E11 Arg2:T43	
+T49	Organic_inorganic_molecules_affected 1132 1139	effects
+E12	Organic_inorganic_molecules_affected:T49 Agent:T42 Theme:T44
+R24	Effect_type_marker Arg1:E12 Arg2:T45	
+A10	Effect_Type E12 Increase
+T50	SNP 1200 1213	five variants
+T51	Entity 1564 1576	risk alleles
+T52	SNP 1597 1607	rs74345699
+T53	SNP 1612 1622	rs62355900
+T54	SNP 1633 1643	rs16886397
+T55	SNP 1659 1669	rs17432750
+T56	Interaction 1214 1223	composing
+E13	Interaction:T56 Entity:T50
+T57	Interaction 1083 1089	iCHAV2
+E14	Interaction:T57 Entity:T35
+R26	SNP_allele Arg1:T52 Arg2:T51	
+R27	SNP_allele Arg1:T53 Arg2:T51	
+T59	Entity 1624 1630	iCHAV1
+T61	Entity 1645 1652	iCHAV2a
+T63	Entity 1671 1677	iCHAV3
+R31	SNP_allele Arg1:T54 Arg2:T51	
+R32	SNP_allele Arg1:T55 Arg2:T51	
+T64	Effect_Type 1680 1689	increased
+T65	Entity 1690 1696	MAP3K1
+T66	Spec 1538 1547	indicated
+T67	Gene_Regulation 1697 1721	transcriptional activity
+E18	Gene_Regulation:T67 Theme:T65 Agent:T55 Agent2:T54 Agent3:T53 Agent4:T52
+A11	Effect_Type E18 Increase
+R33	Effect_type_marker Arg1:E18 Arg2:T64	
+R34	Speculation_marker Arg1:E18 Arg2:T66	
+T68	Effect_Type 1771 1781	diminished
+T69	Gene_Regulation 1788 1795	binding
+E19	Gene_Regulation:T69 Theme:T70 Agent:T72
+T70	Entity 1782 1787	GATA3
+R35	Effect_type_marker Arg1:E19 Arg2:T68	
+A12	Effect_Type E19 Decrease
+T71	Entity 1803 1808;1829 1835	minor allele
+T72	SNP 1839 1849	rs17432750
+R36	SNP_allele Arg1:T72 Arg2:T71	
+T73	Entity 1810 1827	cancer-protective
+R37	Equiv Arg1:T71 Arg2:T73	
+T74	Spec 1893 1900	propose
+T75	Entity 1917 1929	risk alleles
+T76	SNP 1910 1929	cancer risk alleles
+R38	SNP_allele Arg1:T76 Arg2:T75	
+T77	Effect_Type 1937 1945	increase
+T78	Gene_Regulation 1953 1971	expression in vivo
+E20	Gene_Regulation:T78 Theme:T79 Agent:T76
+T79	Entity 1946 1952	MAP3K1
+R39	Effect_type_marker Arg1:E20 Arg2:T77	
+R40	Speculation_marker Arg1:E20 Arg2:T74	
+T80	Spec 1976 1981	might
+T81	Cell_types_tissues_affected 2004 2017	cell survival
+E21	Cell_types_tissues_affected:T81 Theme:T83 Agent:T76
+T82	Effect_Type 1982 1989	promote
+T83	Entity 1990 2008	breast cancer cell
+R41	Effect_type_marker Arg1:E21 Arg2:T82	
+A13	Effect_Type E21 Increase
+A14	Effect_Type E20 Increase
+R42	Speculation_marker Arg1:E21 Arg2:T80	
+R18	SNP_location Arg1:T42 Arg2:T40	
+A15	SNP_Class T42 Index_lead_SNP
+A16	SNP_Class T37 Index_lead_SNP
+T84	SNP 550 580	three independent risk signals
+R47	Equiv Arg1:T84 Arg2:T4	
+R48	SNP_location Arg1:E7 Arg2:T30	
+R49	Member Arg1:T29 Arg2:T13	
+A17	SNP_Class T13 Index_lead_SNP
+R11	SNP_location Arg1:E14 Arg2:T36	
+R12	Member Arg1:T35 Arg2:T37	
+R15	Member Arg1:T40 Arg2:T30	
+R16	Member Arg1:T40 Arg2:T36	
+R17	SNP_location Arg1:E13 Arg2:T41	
+R21	Member Arg1:T50 Arg2:T42	
+R22	Member Arg1:T8 Arg2:T41	
+R25	SNP_location Arg1:T53 Arg2:T59	
+R28	SNP_location Arg1:T54 Arg2:T61	
+R29	SNP_location Arg1:T55 Arg2:T63	
+R30	SNP_location Arg1:T52 Arg2:T59	
+R19	Equiv Arg1:T41 Arg2:T63	
+R43	Equiv Arg1:T59 Arg2:T30	
+R44	Member Arg1:T8 Arg2:T61	
+R45	Member Arg1:T84 Arg2:E7	
+R46	Member Arg1:T84 Arg2:E14	
+R50	Member Arg1:T84 Arg2:E13	
