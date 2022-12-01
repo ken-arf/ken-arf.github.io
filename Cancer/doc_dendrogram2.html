@@ -29,7 +29,6 @@ div.#header
 }
 
 .node--selected text {
-  font: 15px sans-serif;
   fill: red;
 }
 
@@ -48,9 +47,14 @@ div.#header
   stroke-width: 1.5px;
 }
 
+/*
+text {
+  fill: black;
+}
 text.selected {
   fill: red;
 }
+*/
 
 form {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -119,7 +123,24 @@ d3.csv("doc.csv", function(error, data) {
       .data(root.descendants())
     .enter().append("g")
       .attr("class", function(d) { return "node" + (d.children ? " node--internal" : " node--leaf"); })
-      .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
+      .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
+      .classed("node--selected", function(d) {
+        if (! d.children ) {
+           var fname = d.id.substring(d.id.lastIndexOf(".") + 1);
+            if (fname === getCookie("fname") ) {
+               return true;
+            }else{
+                return false;
+            }
+        }
+        })
+      .on("click", function(d) {
+         if (! d.children ) {
+             d3.select(".node--selected").classed("node--selected", false);
+             d3.select(this).classed("node--selected", true);
+        }
+        });
+
 
   node.append("circle")
       .attr("r", 2.5);
@@ -146,10 +167,11 @@ d3.csv("doc.csv", function(error, data) {
                     //window.location.href = "http://www.w3schools.com";
                     if (! d.children ) {
     
-                    d3.select("text.selected").classed("selected", false);
-                    d3.select(this).classed("selected", true);
+                    d3.select(".node--selected").classed("node--selected", false);
+                    d3.select(this).classed("node--selected", true);
 
                     var file = "./all-annotations/" + d.id.substring(d.id.lastIndexOf(".") + 1) + ".txt"
+                    console.log(file)
 	                fetch(file) // (1) リクエスト送信
 	                .then(response => response.text()) // (2) レスポンスデータを取得
 	                .then(data => { // (3)レスポンスデータを処理
@@ -248,16 +270,8 @@ function loadFinished(event){
     fname_area.innerHTML = fname;
     });
 
-    d3.selectAll("text")
-    .attr("class", function(d){
-        if (! d.children ) {
-           var fname = d.id.substring(d.id.lastIndexOf(".") + 1);
-            if (fname === getCookie("fname") ) {
-               d3.select(this).classed("selected", true);
-            }
-        }
-    }); 
 }
+
 
 window.addEventListener('load', loadFinished);
 
