@@ -1,0 +1,247 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Extracellular matrix",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "soft tissue|soft tissues",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "reconstruction",
+            "group": 9
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "extracellular matrix",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "ECM",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "induce",
+            "group": 8
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "repair",
+            "group": 7
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "restoration",
+            "group": 7
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "surgery",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "ECM",
+            "group": 3
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "proliferation",
+            "group": 1
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "tissue",
+            "group": 0
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "tissue",
+            "group": 0
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "tissue",
+            "group": 0
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "remodelling",
+            "group": 9
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "tissue",
+            "group": 0
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "ECM",
+            "group": 3
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "assisted",
+            "group": 8
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "tissue",
+            "group": 0
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "remodelling",
+            "group": 9
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 4
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "recruitment",
+            "group": 2
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "progenitor cells",
+            "group": 6
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "remodelling",
+            "group": 9
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "tissue",
+            "group": 0
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "tissue",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "value": 2
+        }
+    ]
+}

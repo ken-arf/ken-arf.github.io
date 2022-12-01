@@ -1,0 +1,485 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Basic fibroblast growth factor",
+            "group": 8,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T2",
+            "name": "collagen VII",
+            "group": 8,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "increased",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "collagenase",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "squamous cell carcinoma",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1000",
+            "name": "Patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "deficiencies",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "collagen type VII",
+            "group": 8,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T7",
+            "name": "elevated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "fibroblast collagenase",
+            "group": 8,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T9",
+            "name": "cutaneous squamous cell carcinoma",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T1001",
+            "name": "Patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T38",
+            "name": "elevated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "collagenase",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "squamous cell carcinoma",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T13",
+            "name": "collagen type VII",
+            "group": 8,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T14",
+            "name": "increased",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "collagenase",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "squamous cell carcinoma",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T39",
+            "name": "Urine",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1003",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1004",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1005",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1006",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1007",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "presence",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "basic fibroblast growth factor",
+            "group": 8,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T18",
+            "name": "bFGF",
+            "group": 8,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1008",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T1009",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "elevated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "urinary",
+            "group": 0,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T20",
+            "name": "bFGF",
+            "group": 8,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1010",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "elevated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "bFGF",
+            "group": 8,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T22",
+            "name": "elevated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "bFGF",
+            "group": 8,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1011",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "elevated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "bFGF",
+            "group": 8,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T26",
+            "name": "elevated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "bFGF",
+            "group": 8,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T28",
+            "name": "bFGF",
+            "group": 8,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1012",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "elevated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1013",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "elevated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "bFGF",
+            "group": 8,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T31",
+            "name": "increased",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "fibroblast collagenase",
+            "group": 8,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T33",
+            "name": "development",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "squamous cell carcinoma",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T36",
+            "name": "angiogenesis",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "antagonize the effects",
+            "group": 4,
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T37",
+            "name": "bFGF",
+            "group": 8,
+            "trigger": 0,
+            "value": 21
+        }
+    ],
+    "links": [
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T28",
+            "value": 2
+        }
+    ]
+}

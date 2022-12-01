@@ -1,0 +1,464 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "common variant",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "TERT-CLPTM1L",
+            "group": 5,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T3",
+            "name": "associated",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "associated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "estrogen receptor-negative breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T6",
+            "name": "estrogen receptor",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "negative",
+            "group": 2,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T10",
+            "name": "In search of",
+            "group": 0,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T13",
+            "name": "common risk alleles",
+            "group": 4,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T15",
+            "name": "for",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T16",
+            "name": "ER-negative breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T18",
+            "name": "women of African ancestry",
+            "group": 5,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T19",
+            "name": "women of European ancestry",
+            "group": 5,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T20",
+            "name": "risk variant",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "risk",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "risk",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "ER-negative breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T25",
+            "name": "ER",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "negative",
+            "group": 2,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T23",
+            "name": "TERT-CLPTM1L",
+            "group": 5,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T27",
+            "name": "5p15",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T17",
+            "name": "rs10069690",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T30",
+            "name": "variant",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "significantly",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "associated",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "associated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "triple-negative breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T32",
+            "name": "ER-negative, progesterone receptor (PR)-negative and human epidermal growth factor-2 (HER2)-negative",
+            "group": 1,
+            "trigger": 0,
+            "value": 14
+        },
+        {
+            "id": "T36",
+            "name": "ER",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "negative",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "progesterone receptor",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "PR",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "negative",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "human epidermal growth factor-2",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T43",
+            "name": "HER2",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "negative",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "younger",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "women",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "<50 years of age",
+            "group": 5,
+            "trigger": 0,
+            "value": 18
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T5",
+            "target": "T7",
+            "value": 1
+        },
+        {
+            "source": "T15",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T19",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T18",
+            "value": 1
+        },
+        {
+            "source": "T20",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T20",
+            "target": "T2",
+            "value": 1
+        },
+        {
+            "source": "T17",
+            "target": "T23",
+            "value": 1
+        },
+        {
+            "source": "T24",
+            "target": "T26",
+            "value": 1
+        },
+        {
+            "source": "T17",
+            "target": "T27",
+            "value": 1
+        },
+        {
+            "source": "T29",
+            "target": "T28",
+            "value": 1
+        },
+        {
+            "source": "T30",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 1
+        },
+        {
+            "source": "T30",
+            "target": "T33",
+            "value": 1
+        },
+        {
+            "source": "T30",
+            "target": "T34",
+            "value": 1
+        },
+        {
+            "source": "T35",
+            "target": "T34",
+            "value": 1
+        },
+        {
+            "source": "T38",
+            "target": "T39",
+            "value": 1
+        },
+        {
+            "source": "T41",
+            "target": "T43",
+            "value": 1
+        },
+        {
+            "source": "T44",
+            "target": "T37",
+            "value": 1
+        },
+        {
+            "source": "T44",
+            "target": "T40",
+            "value": 1
+        },
+        {
+            "source": "T44",
+            "target": "T42",
+            "value": 1
+        }
+    ]
+}

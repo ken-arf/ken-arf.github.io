@@ -1,0 +1,364 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Premenopausal",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 4,
+            "name": "HFE|HFE|HFE|HFE",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "risk",
+            "group": 5
+        },
+        {
+            "id": 4,
+            "value": 5,
+            "name": "breast cancer|breast cancer|breast cancer|breast cancer|breast cancer",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "women|women",
+            "group": 3
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "examining",
+            "group": 2
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "prediagnostic plasma ferritin",
+            "group": 3
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "15 single-nucleotide polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "hemochromatosis",
+            "group": 3
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "risk",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 4,
+            "name": "SNPs|SNPs|SNPs|SNPs",
+            "group": 0
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "No significantly",
+            "group": 6
+        },
+        {
+            "id": 13,
+            "value": 3,
+            "name": "associated|associated|associated",
+            "group": 5
+        },
+        {
+            "id": 14,
+            "value": 2,
+            "name": "ferritin|Ferritin",
+            "group": 3
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "nominally",
+            "group": 6
+        },
+        {
+            "id": 16,
+            "value": 3,
+            "name": "rs9366637|rs6918586|rs13161",
+            "group": 0
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "not significant",
+            "group": 6
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "not",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "Components of red meat",
+            "group": 3
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "likely",
+            "group": 2
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "association",
+            "group": 5
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "premenopausal",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 11,
+            "value": 1
+        }
+    ]
+}

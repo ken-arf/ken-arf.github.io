@@ -1,0 +1,458 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Genetic variants",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 3,
+            "name": "5p12|5p12|5p12",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "associated|associated",
+            "group": 5
+        },
+        {
+            "id": 3,
+            "value": 5,
+            "name": "breast cancer|breast cancer|breast cancer|breast cancer|breast cancer",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 3,
+            "name": "African American women|African American women|African ancestry",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 3,
+            "name": "rs4415084|rs4415084|rs12515012",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "and",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 3,
+            "name": "rs10941679|rs6451770|rs13156930",
+            "group": 0
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "women",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "European",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "high-LD region",
+            "group": 4
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "association",
+            "group": 5
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "stronger",
+            "group": 7
+        },
+        {
+            "id": 13,
+            "value": 2,
+            "name": "association|association",
+            "group": 5
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "estrogen receptor positive tumors",
+            "group": 2
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "estrogen receptor",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "positive",
+            "group": 6
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "and",
+            "group": 3
+        },
+        {
+            "id": 18,
+            "value": 2,
+            "name": "rs16901937|rs16901937",
+            "group": 0
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "risk",
+            "group": 5
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "59 kb HapMap LD block",
+            "group": 4
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "YRI",
+            "group": 4
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "association",
+            "group": 5
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "significant",
+            "group": 7
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "G allele",
+            "group": 4
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "increased",
+            "group": 6
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "risk",
+            "group": 5
+        },
+        {
+            "id": 27,
+            "value": 3,
+            "name": "increase|increase|increase",
+            "group": 5
+        },
+        {
+            "id": 28,
+            "value": 2,
+            "name": "tumors positive for both estrogen and progesterone receptors|tumors positive for both estrogen and progesterone receptors",
+            "group": 2
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "positive",
+            "group": 6
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "estrogen receptors",
+            "group": 4
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "progesterone receptors",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 6,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 31,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 27,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 27,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 29,
+            "value": 1
+        }
+    ]
+}

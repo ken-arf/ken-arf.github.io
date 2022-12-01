@@ -1,0 +1,659 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Regulation",
+            "group": 11,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "thrombospondin-1",
+            "group": 10,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T3",
+            "name": "progestins",
+            "group": 13,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "breast cancer cells",
+            "group": 12,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T6",
+            "name": "progestins",
+            "group": 13,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T10",
+            "name": "induce",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "vascular endothelial growth factor",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T8",
+            "name": "VEGF",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "breast cancer cells",
+            "group": 12,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T33",
+            "name": "express",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "p53",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "progestins",
+            "group": 13,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T12",
+            "name": "induce",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "thrombospondin-1",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "TSP-1",
+            "group": 10,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T16",
+            "name": "T47-D",
+            "group": 12,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T17",
+            "name": "BT-474 breast cancer cells",
+            "group": 12,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T19",
+            "name": "Antiprogestin RU-486",
+            "group": 13,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T18",
+            "name": "inhibits",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T20",
+            "name": "induction",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "VEGF",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "TSP-1",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "progestins",
+            "group": 13,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T24",
+            "name": "progestin",
+            "group": 13,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T5",
+            "name": "mediated",
+            "group": 11,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "progesterone receptor",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "PR",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "Actinomycin-D",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T29",
+            "name": "puromycin",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "blocks",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "progestin",
+            "group": 13,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T44",
+            "name": "dependent",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "induction",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "TSP-1",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T32",
+            "name": "progestin",
+            "group": 13,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1001",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "TSP-1",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T38",
+            "name": "progestin",
+            "group": 13,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T39",
+            "name": "PR",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "regulate",
+            "group": 11,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "transcription",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "TSP-1",
+            "group": 10,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T1002",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "cells",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "progestin",
+            "group": 13,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T54",
+            "name": "treated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "breast cancer cells",
+            "group": 12,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T58",
+            "name": "stimulates",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T47",
+            "name": "endothelial cell",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "proliferation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "antibody to TSP-1",
+            "group": 10,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T49",
+            "name": "TSP-1",
+            "group": 10,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T51",
+            "name": "TSP-1",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T50",
+            "name": "secreted",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T52",
+            "name": "breast cancer cells",
+            "group": 12,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T55",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "tumor cell",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "TSP-1",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T62",
+            "name": "promote",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T60",
+            "name": "tumor",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "breast cancer",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "therapy",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T51",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T62",
+            "target": "T57",
+            "value": 2
+        },
+        {
+            "source": "T62",
+            "target": "T59",
+            "value": 2
+        },
+        {
+            "source": "T63",
+            "target": "T61",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T60",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 1
+        }
+    ]
+}

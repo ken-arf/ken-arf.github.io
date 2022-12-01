@@ -1,0 +1,264 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Chinese Han women",
+            "group": 0,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T2",
+            "name": "adjusting for age",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T10",
+            "name": "ten variants",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T4",
+            "name": "associated",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "Chinese Han population",
+            "group": 0,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T6",
+            "name": "5q11.2",
+            "group": 0,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T5",
+            "name": "rs16886181",
+            "group": 3,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T7",
+            "name": "rs1017226",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T8",
+            "name": "rs16886034",
+            "group": 3,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T11",
+            "name": "rs16886113",
+            "group": 3,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T12",
+            "name": "rs16886364",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T13",
+            "name": "rs16886397",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T14",
+            "name": "rs16886448",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T15",
+            "name": "rs2229882",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T9",
+            "name": "5q14.3",
+            "group": 0,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T16",
+            "name": "rs421379",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T17",
+            "name": "10q26.1",
+            "group": 0,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T18",
+            "name": "rs35054928",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        }
+    ],
+    "links": [
+        {
+            "source": "T4",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T7",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T18",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T16",
+            "target": "T9",
+            "value": 1
+        },
+        {
+            "source": "T8",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T14",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T15",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T3",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T5",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T7",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T8",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T12",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T13",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T14",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T15",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T16",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T18",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T2",
+            "value": 1
+        },
+        {
+            "source": "T3",
+            "target": "T1",
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,323 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "Blood",
+            "group": 2,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T28",
+            "name": "vascular",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "blood",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "tissues",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "vessel",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "dysfunction",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "disruption",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "oxygen",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "Cells",
+            "group": 11,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T36",
+            "name": "survive",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "effected",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "cells",
+            "group": 11,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T32",
+            "name": "tissues",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "skeletal",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "cardiac muscle",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "myocyte",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "organ",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "cardiac muscle",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "Lipid",
+            "group": 12,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T24",
+            "name": "cholesterol",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "aspirin",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "therapy",
+            "group": 6,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "vessel",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "activate",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "arteriogenic pathways",
+            "group": 0,
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T27",
+            "name": "stimulate",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "revascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "tissue",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "muscle",
+            "group": 4,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T3",
+            "name": "peripheral",
+            "group": 8,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T20",
+            "name": "coronary artery",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T11",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 1
+        },
+        {
+            "source": "T3",
+            "target": "T20",
+            "value": 1
+        }
+    ]
+}

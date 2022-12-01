@@ -1,0 +1,915 @@
+{
+    "nodes": [
+        {
+            "id": "T3",
+            "name": "study",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "cytochrome-P450 1A1",
+            "group": 5,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T1",
+            "name": "polymorphism",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "risk",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "north Indian women",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T6",
+            "name": "CYP1A1",
+            "group": 5,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T9",
+            "name": "SNP M2",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T13",
+            "name": "SNP M4",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "SNP M3",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T24",
+            "name": "SNP M1",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T10",
+            "name": "CYP1A1",
+            "group": 5,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T7",
+            "name": "isoleucine",
+            "group": 5,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T8",
+            "name": "to valine substitution at 462 codon",
+            "group": 6,
+            "trigger": 1,
+            "value": 15
+        },
+        {
+            "id": "T11",
+            "name": "A to G",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T12",
+            "name": "position 2455",
+            "group": 5,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "threonine",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "to asparagine substitution codon 461",
+            "group": 6,
+            "trigger": 1,
+            "value": 14
+        },
+        {
+            "id": "T16",
+            "name": "C to A",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T17",
+            "name": "position 2453",
+            "group": 5,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T18",
+            "name": "T to C",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T19",
+            "name": "3801 position",
+            "group": 5,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T20",
+            "name": "T to C",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T21",
+            "name": "position 3205",
+            "group": 5,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T22",
+            "name": "3' non-coding region",
+            "group": 5,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T30",
+            "name": "inconsistent",
+            "group": 0,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T31",
+            "name": "patterns",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T33",
+            "name": "CYP1A1",
+            "group": 5,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T32",
+            "name": "polymorphism",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "various populations",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "significant",
+            "group": 3,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T26",
+            "name": "association",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "CYP1A1",
+            "group": 5,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T28",
+            "name": "polymorphism",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "investigate",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "association",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "M1",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "M2",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "M3",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "M4",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "premenopausal",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T43",
+            "name": "postmenopausal",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "north Indian women",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T50",
+            "name": "M2",
+            "group": 4,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T46",
+            "name": "M2/M2",
+            "group": 5,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T47",
+            "name": "not",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T48",
+            "name": "found",
+            "group": 7,
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T49",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T51",
+            "name": "M1",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T52",
+            "name": "M4",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T53",
+            "name": "not significantly",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T54",
+            "name": "associated",
+            "group": 7,
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T55",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T61",
+            "name": "CYP1A1",
+            "group": 5,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T62",
+            "name": "M2",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T56",
+            "name": "postmenopausal",
+            "group": 5,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T57",
+            "name": "significant",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T59",
+            "name": "protective association",
+            "group": 7,
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T60",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T58",
+            "name": "probably",
+            "group": 0,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T63",
+            "name": "CYP1A1",
+            "group": 5,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T64",
+            "name": "M1",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T65",
+            "name": "M2",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T66",
+            "name": "M3",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T67",
+            "name": "M4",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T68",
+            "name": "polymorphism",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T69",
+            "name": "not significant",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T70",
+            "name": "role",
+            "group": 7,
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T71",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T72",
+            "name": "north Indian women",
+            "group": 5,
+            "trigger": 0,
+            "value": 16
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T50",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T55",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T51",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T60",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T62",
+            "value": 2
+        },
+        {
+            "source": "T70",
+            "target": "T71",
+            "value": 2
+        },
+        {
+            "source": "T70",
+            "target": "T68",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 1
+        },
+        {
+            "source": "T1",
+            "target": "T4",
+            "value": 1
+        },
+        {
+            "source": "T1",
+            "target": "T5",
+            "value": 1
+        },
+        {
+            "source": "T6",
+            "target": "T4",
+            "value": 1
+        },
+        {
+            "source": "T9",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T9",
+            "target": "T11",
+            "value": 1
+        },
+        {
+            "source": "T9",
+            "target": "T12",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T16",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T24",
+            "target": "T18",
+            "value": 1
+        },
+        {
+            "source": "T24",
+            "target": "T19",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T21",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T22",
+            "value": 1
+        },
+        {
+            "source": "T26",
+            "target": "T25",
+            "value": 1
+        },
+        {
+            "source": "T28",
+            "target": "T27",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T30",
+            "value": 1
+        },
+        {
+            "source": "T32",
+            "target": "T33",
+            "value": 1
+        },
+        {
+            "source": "T32",
+            "target": "T35",
+            "value": 1
+        },
+        {
+            "source": "T38",
+            "target": "T42",
+            "value": 1
+        },
+        {
+            "source": "T38",
+            "target": "T43",
+            "value": 1
+        },
+        {
+            "source": "T39",
+            "target": "T42",
+            "value": 1
+        },
+        {
+            "source": "T39",
+            "target": "T43",
+            "value": 1
+        },
+        {
+            "source": "T40",
+            "target": "T42",
+            "value": 1
+        },
+        {
+            "source": "T40",
+            "target": "T43",
+            "value": 1
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 1
+        },
+        {
+            "source": "T41",
+            "target": "T43",
+            "value": 1
+        },
+        {
+            "source": "T37",
+            "target": "T36",
+            "value": 1
+        },
+        {
+            "source": "T38",
+            "target": "T45",
+            "value": 1
+        },
+        {
+            "source": "T39",
+            "target": "T45",
+            "value": 1
+        },
+        {
+            "source": "T40",
+            "target": "T45",
+            "value": 1
+        },
+        {
+            "source": "T41",
+            "target": "T45",
+            "value": 1
+        },
+        {
+            "source": "T38",
+            "target": "T24",
+            "value": 1
+        },
+        {
+            "source": "T39",
+            "target": "T9",
+            "value": 1
+        },
+        {
+            "source": "T40",
+            "target": "T23",
+            "value": 1
+        },
+        {
+            "source": "T41",
+            "target": "T13",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T24",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T48",
+            "target": "T47",
+            "value": 1
+        },
+        {
+            "source": "T50",
+            "target": "T46",
+            "value": 1
+        },
+        {
+            "source": "T54",
+            "target": "T53",
+            "value": 1
+        },
+        {
+            "source": "T50",
+            "target": "T45",
+            "value": 1
+        },
+        {
+            "source": "T51",
+            "target": "T45",
+            "value": 1
+        },
+        {
+            "source": "T52",
+            "target": "T45",
+            "value": 1
+        },
+        {
+            "source": "T59",
+            "target": "T57",
+            "value": 1
+        },
+        {
+            "source": "T62",
+            "target": "T61",
+            "value": 1
+        },
+        {
+            "source": "T62",
+            "target": "T56",
+            "value": 1
+        },
+        {
+            "source": "T62",
+            "target": "T45",
+            "value": 1
+        },
+        {
+            "source": "T70",
+            "target": "T69",
+            "value": 1
+        },
+        {
+            "source": "T68",
+            "target": "T67",
+            "value": 1
+        },
+        {
+            "source": "T68",
+            "target": "T66",
+            "value": 1
+        },
+        {
+            "source": "T68",
+            "target": "T65",
+            "value": 1
+        },
+        {
+            "source": "T68",
+            "target": "T64",
+            "value": 1
+        },
+        {
+            "source": "T68",
+            "target": "T63",
+            "value": 1
+        },
+        {
+            "source": "T70",
+            "target": "T58",
+            "value": 1
+        },
+        {
+            "source": "T68",
+            "target": "T72",
+            "value": 1
+        },
+        {
+            "source": "T1",
+            "target": "T68",
+            "value": 1
+        }
+    ]
+}

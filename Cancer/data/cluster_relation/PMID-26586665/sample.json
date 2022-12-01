@@ -1,0 +1,471 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "BRCA2|BRCA2",
+            "group": 5
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "BRCA2 Polymorphic Stop Codon K3326X",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "Stop Codon",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 14,
+            "name": "K3326X|K3326X|K3326X variant|K3326X|K3326X|K3326X variant|K3326X|K3326X|K3326X variant|K3326X|K3326X variant|K3326X|K3326X variant|K3326X",
+            "group": 5
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "K3326",
+            "group": 5
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "Risk",
+            "group": 7
+        },
+        {
+            "id": 6,
+            "value": 5,
+            "name": "Breast Cancer|breast cancer|breast cancer|breast cancer|breast cancers",
+            "group": 2
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "c.9976A>T",
+            "group": 1
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": ">T",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "p.Lys3326*|p.Lys3326",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "rs11571833",
+            "group": 1
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "small",
+            "group": 9
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "increased",
+            "group": 8
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "risks",
+            "group": 7
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 2
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "scant information",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "effect",
+            "group": 3
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "hormone-related cancers",
+            "group": 5
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "estimate",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "relation",
+            "group": 7
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "examined",
+            "group": 4
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "associations",
+            "group": 7
+        },
+        {
+            "id": 22,
+            "value": 2,
+            "name": "BRCA1 variant carriers|BRCA1 mutation carriers",
+            "group": 5
+        },
+        {
+            "id": 23,
+            "value": 2,
+            "name": "associated|associated",
+            "group": 7
+        },
+        {
+            "id": 24,
+            "value": 2,
+            "name": "associations|associations",
+            "group": 7
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "stronger",
+            "group": 9
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "estrogen receptor-negative breast cancer",
+            "group": 2
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "estrogen receptor",
+            "group": 5
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "negative",
+            "group": 6
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "no",
+            "group": 6
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "association",
+            "group": 7
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 2
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "evidence",
+            "group": 4
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "independent",
+            "group": 6
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "other pathogenic variants in BRCA2",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 31,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 30,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 34,
+            "target": 33,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 34,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 32,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 3,
+            "value": 1
+        }
+    ]
+}

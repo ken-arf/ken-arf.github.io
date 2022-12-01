@@ -1,0 +1,64 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "cells",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "cell",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "patient",
+            "group": 3
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "serum",
+            "group": 0
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "decrease",
+            "group": 6
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "edema",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "promote",
+            "group": 5
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 6,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 2
+        }
+    ]
+}

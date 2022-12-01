@@ -1,0 +1,817 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "c-Ski",
+            "group": 8,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1",
+            "name": "overexpression",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "promotes",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "tumor",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "growth",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "inhibition",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T72",
+            "name": "transforming growth factor-beta",
+            "group": 8,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T8",
+            "name": "signaling",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "gastric carcinoma",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "c-Ski",
+            "group": 8,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T73",
+            "name": "transforming growth factor (TGF)-beta",
+            "group": 8,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T14",
+            "name": "signaling",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "interaction",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "Smad2",
+            "group": 8,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T16",
+            "name": "Smad3",
+            "group": 8,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T17",
+            "name": "Smad4",
+            "group": 8,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T11",
+            "name": "expression",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "c-Ski",
+            "group": 8,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T64",
+            "name": "cancers",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "gastric cancer",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "disruption",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T74",
+            "name": "TGF-beta",
+            "group": 8,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T20",
+            "name": "signaling",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "TGF-beta type II receptor",
+            "group": 8,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T23",
+            "name": "gastric carcinoma",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "accelerated",
+            "group": 6,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T25",
+            "name": "tumor",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "growth",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "induction",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "tumor",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "decreased",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "expression",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "thrombospondin (TSP)-1",
+            "group": 8,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T31",
+            "name": "c-Ski",
+            "group": 8,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "gastric carcinoma",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "OCUM-2MLN cells",
+            "group": 11,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T35",
+            "name": "Overexpression",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "c-Ski",
+            "group": 8,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T34",
+            "name": "inhibited",
+            "group": 3,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T75",
+            "name": "TGF-beta",
+            "group": 8,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T37",
+            "name": "signaling",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "OCUM-2MLN cells",
+            "group": 11,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T40",
+            "name": "c-Ski",
+            "group": 8,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T39",
+            "name": "overexpression",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T76",
+            "name": "growth",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "xenografts",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "BALB/c nu/nu female mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T41",
+            "name": "tumors",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "expressing",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "TGF-beta type II receptor",
+            "group": 8,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T68",
+            "name": "increased",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "tumors",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "expressing",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "c-Ski",
+            "group": 8,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T47",
+            "name": "tumors",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "Induction",
+            "group": 6,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T50",
+            "name": "TSP-1",
+            "group": 8,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T51",
+            "name": "TGF-beta",
+            "group": 8,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T48",
+            "name": "attenuated",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "c-Ski",
+            "group": 8,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T54",
+            "name": "expression",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "TSP-1",
+            "group": 8,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T53",
+            "name": "decreased",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "tumors",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "expressing",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "c-Ski",
+            "group": 8,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T61",
+            "name": "c-Ski",
+            "group": 8,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T60",
+            "name": "overexpression",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "promotes",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "growth",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "gastric carcinoma",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "induction",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T49",
+            "target": "T50",
+            "value": 2
+        },
+        {
+            "source": "T49",
+            "target": "T51",
+            "value": 2
+        },
+        {
+            "source": "T53",
+            "target": "T54",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T55",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T58",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T70",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T62",
+            "value": 2
+        },
+        {
+            "source": "T60",
+            "target": "T61",
+            "value": 2
+        },
+        {
+            "source": "T62",
+            "target": "T63",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T68",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T46",
+            "value": 2
+        },
+        {
+            "source": "T70",
+            "target": "T65",
+            "value": 2
+        },
+        {
+            "source": "T70",
+            "target": "T60",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T72",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T73",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T74",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T75",
+            "value": 2
+        },
+        {
+            "source": "T76",
+            "target": "T66",
+            "value": 2
+        }
+    ]
+}

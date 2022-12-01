@@ -1,0 +1,593 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "modulation",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "platelet",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "endothelial cell",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "adhesion",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "vascular graft",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "perlecan",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T4",
+            "name": "Controlled",
+            "group": 12,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T8",
+            "name": "neo-endothelialisation",
+            "group": 0,
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T18",
+            "name": "vascular grafts",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "Endothelialisation",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "platelet",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "adhesion",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "endothelial cell",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "perlecan",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T16",
+            "name": "heparan sulfate (HS) proteoglycan",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T17",
+            "name": "basement membranes",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "polytetrafluoroethylene",
+            "group": 14,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T64",
+            "name": "PTFE",
+            "group": 14,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T6",
+            "name": "vascular grafts",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "coated",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "perlecan",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T49",
+            "name": "Enhanced",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T22",
+            "name": "endothelial cell",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "growth",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "reduced",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T24",
+            "name": "platelet",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "adhesion",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "perlecan",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T50",
+            "name": "coated",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "grafts",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "uncoated",
+            "group": 7,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T52",
+            "name": "implanted",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "sheep",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "Perlecan",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T53",
+            "name": "stimulate",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "endothelial cell",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "proliferation",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "presence",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "plasma",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "fibroblastic growth factor 2",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T32",
+            "name": "FGF-2",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T56",
+            "name": "absence",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "FGF-2",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T35",
+            "name": "endothelial cell",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "growth",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "Perlecan",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T57",
+            "name": "anti-adhesive",
+            "group": 3,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T37",
+            "name": "platelets",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "perlecan",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T40",
+            "name": "platelet",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "adhesion",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "aggregation",
+            "group": 3,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T60",
+            "name": "HS chains",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "perlecan",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T27",
+            "name": "graft",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "promoting",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "endothelial cell",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "proliferation",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "modulating",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "platelet",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "adhesion",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T46",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T47",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T49",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T51",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T1000",
+            "value": 2
+        },
+        {
+            "source": "T53",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T53",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T56",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T62",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T1000",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T7",
+            "value": 2
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "detecting",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "interactions",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "CXCL12-related genes",
+            "group": 1
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        }
+    ]
+}

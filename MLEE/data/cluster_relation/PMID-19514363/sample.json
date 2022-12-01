@@ -1,0 +1,168 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 3,
+            "name": "tumor|tumor|tumor",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "ARF|ARF",
+            "group": 8
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "ARF",
+            "group": 8
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "p53",
+            "group": 8
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "dependent",
+            "group": 6
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "p-53",
+            "group": 8
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "independent",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "implication",
+            "group": 3
+        },
+        {
+            "id": 8,
+            "value": 4,
+            "name": "ARF|ARF|ARF|ARF",
+            "group": 8
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 2
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "regulation",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "cell",
+            "group": 5
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "apoptosis",
+            "group": 4
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "inactivation",
+            "group": 7
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "leads",
+            "group": 6
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "growth",
+            "group": 0
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "neoplasia",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 13,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 2
+        }
+    ]
+}

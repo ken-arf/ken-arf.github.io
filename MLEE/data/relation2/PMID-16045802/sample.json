@@ -1,0 +1,472 @@
+{
+    "nodes": [
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "breast cancer xenograft",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1",
+            "name": "growth",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "nude mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "MDA MB231 breast cancer xenograft",
+            "group": 7,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T7",
+            "name": "Green fluorescence protein",
+            "group": 8,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T3",
+            "name": "transfected",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T8",
+            "name": "cancer cells",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "injected",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "mammary fat pad",
+            "group": 9,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1003",
+            "name": "mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1004",
+            "name": "mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1005",
+            "name": "mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "euthanized",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "Tumor sections",
+            "group": 7,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T11",
+            "name": "endothelial cells",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "CD31",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "PAS",
+            "group": 12,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T14",
+            "name": "hypoxia inducible factor 1alpha",
+            "group": 8,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T15",
+            "name": "HIF",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "tumors",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "tumors",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "vascularized capsule",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T19",
+            "name": "cortex",
+            "group": 7,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T20",
+            "name": "capsule",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "vascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "Blood vessels",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "capillaries",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "endothelial pseudopods",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T26",
+            "name": "capsule",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "subcortex",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T28",
+            "name": "Tumors",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "treated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "decreased",
+            "group": 3,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T29",
+            "name": "blood vessels",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "subcortex",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T31",
+            "name": "endothelial pseudopods",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T32",
+            "name": "HIF",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "tumors",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1006",
+            "name": "Mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "received",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "lung",
+            "group": 4,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T36",
+            "name": "tumor",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "growth",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "untreated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1007",
+            "name": "mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "retarding",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "tumor",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "vascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "growth",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "metastasis",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T1005",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T1006",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T1007",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T37",
+            "value": 2
+        }
+    ]
+}

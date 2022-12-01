@@ -1,0 +1,199 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 3,
+            "name": "neovascularization|neovascularization|neovascularization",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "macular|macular",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "degeneration|degeneration",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "Control",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "patients",
+            "group": 5
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "patients|patients",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "fluorescein",
+            "group": 6
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "Patients",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "treated",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "patients|patients",
+            "group": 5
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "received",
+            "group": 4
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "head",
+            "group": 7
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "women",
+            "group": 5
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "men",
+            "group": 5
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "therapy",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "patients",
+            "group": 5
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "refusing",
+            "group": 8
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "radiotherapy",
+            "group": 4
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "irradiated",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 2,
+            "name": "patients|patients",
+            "group": 5
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "irradiated",
+            "group": 4
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "untreated",
+            "group": 4
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "Patients",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 15,
+            "value": 2
+        }
+    ]
+}

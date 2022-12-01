@@ -1,0 +1,223 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "Women of African ancestry|women of African ancestry",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 3,
+            "name": "rs13074711|rs10069690|rs12998806",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "26.5\u2009Kb upstream of TNFSF10",
+            "group": 3
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "3q26.21",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "significantly",
+            "group": 7
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "associated|associated",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "oestrogen receptor",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "oestrogen receptor (ER)-negative breast cancer",
+            "group": 2
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "ER",
+            "group": 3
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "negative|negative",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 2,
+            "name": "best indicator|best indicator",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 2,
+            "name": "indicator|indicator",
+            "group": 0
+        },
+        {
+            "id": 12,
+            "value": 2,
+            "name": "ER-negative breast cancer|ER-positive breast cancer",
+            "group": 2
+        },
+        {
+            "id": 13,
+            "value": 2,
+            "name": "ER|ER",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "5p15.33",
+            "group": 3
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "positive",
+            "group": 6
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "2q35",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 9,
+            "value": 1
+        }
+    ]
+}

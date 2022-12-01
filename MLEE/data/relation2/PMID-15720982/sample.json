@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "low molecular weight heparin",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T2",
+            "name": "hyperbaric oxygen",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T18",
+            "name": "treatment",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T3",
+            "name": "low molecular weight (LMW) heparins",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T4",
+            "name": "hyperbaric oxygen",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "HBO",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "therapy",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "Wistar albino rats",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T20",
+            "name": "underwent",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "abrasion",
+            "group": 2,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T6",
+            "name": "cecum",
+            "group": 3,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T7",
+            "name": "ethanol",
+            "group": 4,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T22",
+            "name": "application",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "rats",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "treated",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "Enoxaparine Na",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T9",
+            "name": "HBO",
+            "group": 4,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T24",
+            "name": "therapy",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "enoxaparine Na",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T11",
+            "name": "HBO",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "treatment",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "enoxaparine Na",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T13",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T14",
+            "name": "Enoxaparine Na",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "HBO",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "therapy",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "Enoxaparine Na",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T17",
+            "name": "HBO",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "therapy",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T18",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T1000",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T17",
+            "value": 2
+        }
+    ]
+}

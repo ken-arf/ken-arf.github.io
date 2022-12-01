@@ -1,0 +1,376 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "European ancestry",
+            "group": 5
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "total somatic mutation count",
+            "group": 5
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "TSMC",
+            "group": 5
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "polygenic risk score",
+            "group": 5
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "PRS",
+            "group": 5
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "age at diagnosis",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "stage of breast cancer",
+            "group": 5
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "oestrogen-receptor",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "ER",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "progesterone-receptor",
+            "group": 5
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "PR",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "ER status",
+            "group": 5
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "PR status",
+            "group": 5
+        },
+        {
+            "id": 13,
+            "value": 5,
+            "name": "association|association|association|association|association",
+            "group": 6
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "risk allele",
+            "group": 5
+        },
+        {
+            "id": 15,
+            "value": 3,
+            "name": "rs2588809|rs2588809|rs2588809",
+            "group": 2
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "RAD51B",
+            "group": 5
+        },
+        {
+            "id": 17,
+            "value": 2,
+            "name": "TSMC|TSMC",
+            "group": 5
+        },
+        {
+            "id": 18,
+            "value": 6,
+            "name": "ER(+) tumours|ER(-) tumours|ER(+)|ER(+) PRS|ER(-)|ER(-) PRS",
+            "group": 3
+        },
+        {
+            "id": 19,
+            "value": 4,
+            "name": "ER|ER|ER|ER",
+            "group": 5
+        },
+        {
+            "id": 20,
+            "value": 2,
+            "name": "+|+",
+            "group": 7
+        },
+        {
+            "id": 21,
+            "value": 2,
+            "name": "-|-",
+            "group": 8
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "PRS",
+            "group": 5
+        },
+        {
+            "id": 23,
+            "value": 2,
+            "name": "significant|significant not",
+            "group": 0
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "if confirmed",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 13,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 15,
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "tumor",
+            "group": 2
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "vascular-specific growth factors",
+            "group": 6
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "cancer",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "blood",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "mouse",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 2,
+            "name": "tumor vasculature|tumor vasculature",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "angiogenic",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "regrowth",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "VEGFR",
+            "group": 6
+        }
+    ],
+    "links": [
+        {
+            "source": 8,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 2
+        }
+    ]
+}

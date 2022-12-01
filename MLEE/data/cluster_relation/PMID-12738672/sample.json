@@ -1,0 +1,480 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "coagulation factor VIIa",
+            "group": 12
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "Binding",
+            "group": 6
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "factor VIIa",
+            "group": 12
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "FVIIa",
+            "group": 12
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "tissue factor",
+            "group": 12
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "TF",
+            "group": 12
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "induce",
+            "group": 10
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "TF",
+            "group": 12
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "mediated",
+            "group": 10
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 5
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "metastasis",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 8,
+            "name": "FVIIa|FVIIa|FVIIa|FVIIa|FVIIa|FVIIa|FVIIa|FVIIa",
+            "group": 12
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "Serum",
+            "group": 2
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "induced",
+            "group": 10
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "apoptosis",
+            "group": 7
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "BHK(+TF) cells",
+            "group": 9
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "nuclei",
+            "group": 4
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "chromatin",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "activation",
+            "group": 10
+        },
+        {
+            "id": 20,
+            "value": 2,
+            "name": "caspase 3|caspase 3",
+            "group": 12
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "cells",
+            "group": 9
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "TdT",
+            "group": 12
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "dUTP",
+            "group": 8
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "attenuated",
+            "group": 11
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "activation",
+            "group": 10
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "TF",
+            "group": 12
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "factor Xa",
+            "group": 12
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "thrombin",
+            "group": 12
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "induced",
+            "group": 10
+        },
+        {
+            "id": 30,
+            "value": 2,
+            "name": "cell|cell",
+            "group": 9
+        },
+        {
+            "id": 31,
+            "value": 2,
+            "name": "survival|survival",
+            "group": 7
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "activation",
+            "group": 10
+        },
+        {
+            "id": 33,
+            "value": 2,
+            "name": "Akt|Akt",
+            "group": 12
+        },
+        {
+            "id": 34,
+            "value": 2,
+            "name": "PI3-kinase|PI3-kinase",
+            "group": 12
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "LY294002",
+            "group": 8
+        },
+        {
+            "id": 36,
+            "value": 1,
+            "name": "Blocking",
+            "group": 11
+        },
+        {
+            "id": 37,
+            "value": 1,
+            "name": "activation",
+            "group": 10
+        },
+        {
+            "id": 38,
+            "value": 2,
+            "name": "p44/42 mitogen-activated protein kinase|p44/42 MAPK",
+            "group": 12
+        },
+        {
+            "id": 39,
+            "value": 1,
+            "name": "MAPK",
+            "group": 12
+        },
+        {
+            "id": 40,
+            "value": 1,
+            "name": "mitogen-induced extracellular kinase",
+            "group": 12
+        },
+        {
+            "id": 41,
+            "value": 1,
+            "name": "MEK",
+            "group": 12
+        },
+        {
+            "id": 42,
+            "value": 1,
+            "name": "U0126",
+            "group": 8
+        },
+        {
+            "id": 43,
+            "value": 1,
+            "name": "impaired",
+            "group": 11
+        },
+        {
+            "id": 44,
+            "value": 1,
+            "name": "promote",
+            "group": 10
+        },
+        {
+            "id": 45,
+            "value": 1,
+            "name": "binding",
+            "group": 6
+        },
+        {
+            "id": 46,
+            "value": 1,
+            "name": "TF",
+            "group": 12
+        },
+        {
+            "id": 47,
+            "value": 1,
+            "name": "activation",
+            "group": 10
+        },
+        {
+            "id": 48,
+            "value": 2,
+            "name": "pathway|pathway",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 45,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 45,
+            "target": 46,
+            "value": 2
+        },
+        {
+            "source": 47,
+            "target": 48,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 37,
+            "target": 38,
+            "value": 2
+        },
+        {
+            "source": 36,
+            "target": 37,
+            "value": 2
+        },
+        {
+            "source": 36,
+            "target": 42,
+            "value": 2
+        },
+        {
+            "source": 43,
+            "target": 36,
+            "value": 2
+        },
+        {
+            "source": 43,
+            "target": 44,
+            "value": 2
+        },
+        {
+            "source": 47,
+            "target": 48,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 31,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 44,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 44,
+            "target": 31,
+            "value": 2
+        },
+        {
+            "source": 48,
+            "target": 34,
+            "value": 2
+        },
+        {
+            "source": 48,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 48,
+            "target": 38,
+            "value": 2
+        }
+    ]
+}

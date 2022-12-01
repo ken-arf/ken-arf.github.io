@@ -1,0 +1,267 @@
+{
+    "nodes": [
+        {
+            "id": "T13",
+            "name": "effects",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T1000",
+            "name": "rat",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "inhibits",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T2",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T26",
+            "name": "graft tissues",
+            "group": 5,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T3",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T15",
+            "name": "polytetrafluoroethylene",
+            "group": 8,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T16",
+            "name": "PTFE",
+            "group": 8,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T17",
+            "name": "implanted",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "epigastric vascular pedicles",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T1001",
+            "name": "rats",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "right groin",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "left groin",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T6",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T1002",
+            "name": "Rats",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "irradiated",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "decrease",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T21",
+            "name": "diminished",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T8",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T9",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T22",
+            "name": "decreased",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "inhibited",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T25",
+            "name": "impaired",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T24",
+            "name": "tissue",
+            "group": 5,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T11",
+            "name": "revascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T13",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T1002",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T24",
+            "value": 2
+        }
+    ]
+}

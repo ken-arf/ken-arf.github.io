@@ -1,0 +1,323 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T22",
+            "name": "caprine",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "caruncles",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T2",
+            "name": "swainsonine",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T24",
+            "name": "treated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "does",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "caruncles",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1000",
+            "name": "goats",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "caruncles",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T37",
+            "name": "does",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "capillary meshes",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "vasculature",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "radial arteries",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "capillaries",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "Capillary",
+            "group": 8,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T27",
+            "name": "diameters increased",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "caprine",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "placenta",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "development",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T29",
+            "name": "sinusoids",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "placental",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "Placental",
+            "group": 4,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T5",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "tumor",
+            "group": 6,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T32",
+            "name": "effect",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "swainsonine",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T38",
+            "name": "locoweed",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T9",
+            "name": "vascular",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "development",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "decrease",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "capillary",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "Swainsonine",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T15",
+            "name": "vasculature",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "effects",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "vascular",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "development",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T24",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T40",
+            "value": 2
+        }
+    ]
+}

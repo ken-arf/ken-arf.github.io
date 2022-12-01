@@ -1,0 +1,444 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "A prospective study",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "genetic polymorphism",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "MPO",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "antioxidant status",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 4,
+            "name": "breast cancer|breast cancer|breast cancer|breast cancer",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "risk|risk",
+            "group": 6
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "Myeloperoxidase",
+            "group": 4
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "G-463A|-463",
+            "group": 0
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "G A",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "promoter",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "decrease",
+            "group": 7
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "risk",
+            "group": 6
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "Dietary intake",
+            "group": 4
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "plasma antioxidant levels",
+            "group": 4
+        },
+        {
+            "id": 14,
+            "value": 2,
+            "name": "may|may",
+            "group": 3
+        },
+        {
+            "id": 15,
+            "value": 2,
+            "name": "modify|modify",
+            "group": 7
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "association",
+            "group": 6
+        },
+        {
+            "id": 17,
+            "value": 4,
+            "name": "MPO|MPO|MPO|MPO",
+            "group": 4
+        },
+        {
+            "id": 18,
+            "value": 2,
+            "name": "polymorphism|polymorphism",
+            "group": 0
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "inverse",
+            "group": 7
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "associations",
+            "group": 6
+        },
+        {
+            "id": 21,
+            "value": 2,
+            "name": "genotype|genotype",
+            "group": 0
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "more pronounced",
+            "group": 8
+        },
+        {
+            "id": 23,
+            "value": 2,
+            "name": "women|women",
+            "group": 4
+        },
+        {
+            "id": 24,
+            "value": 2,
+            "name": "higher amounts of total fruits and vegetables|of total fruits and vegetables low-consumption",
+            "group": 4
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "association",
+            "group": 6
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "not",
+            "group": 5
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "relative risk",
+            "group": 6
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "homozygous",
+            "group": 4
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "variant",
+            "group": 0
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "0.44",
+            "group": 8
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "highest level of plasma carotenoids",
+            "group": 4
+        },
+        {
+            "id": 32,
+            "value": 2,
+            "name": "exogenous modulators oxidative stress|endogenous modulators oxidative stress",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 29,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 25,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 25,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 30,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 31,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 32,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 32,
+            "value": 1
+        }
+    ]
+}

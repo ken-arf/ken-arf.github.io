@@ -1,0 +1,1339 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "M-CSF",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T16",
+            "name": "signals",
+            "group": 15,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "MAPK",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "ERK",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "pathway",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "Sp1",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "induce",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "production",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "M-CSF",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T18",
+            "name": "recruits",
+            "group": 15,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "mononuclear phagocytes",
+            "group": 16,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T77",
+            "name": "regulate",
+            "group": 15,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T79",
+            "name": "metastases",
+            "group": 11,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T14",
+            "name": "tumors",
+            "group": 12,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T15",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "activator",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T90",
+            "name": "promotes",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "endothelial cell",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "proliferation",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "blood vessel",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T93",
+            "name": "formation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "M-CSF",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T94",
+            "name": "induces",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T95",
+            "name": "expression",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "monocytes",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "M-CSF",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T96",
+            "name": "induced",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "production",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T97",
+            "name": "promoter",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T98",
+            "name": "linked",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "luciferase",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "reducing",
+            "group": 6,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T34",
+            "name": "HIF",
+            "group": 13,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T33",
+            "name": "binding",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T35",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T99",
+            "name": "promoter",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T101",
+            "name": "effect",
+            "group": 15,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "luciferase",
+            "group": 13,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T36",
+            "name": "production",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T100",
+            "name": "induced",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "M-CSF",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T38",
+            "name": "stimulation",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "M-CSF",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T102",
+            "name": "induced",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T103",
+            "name": "induced",
+            "group": 15,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "MAPK",
+            "group": 13,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T44",
+            "name": "ERK",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "signaling pathway",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "Sp1",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "inhibition",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "ERK",
+            "group": 13,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T50",
+            "name": "Sp1",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "suppressed",
+            "group": 6,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T52",
+            "name": "M-CSF",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T51",
+            "name": "induced",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "M-CSF",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T55",
+            "name": "induced",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "nuclear",
+            "group": 17,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "localization",
+            "group": 11,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "Sp1",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T104",
+            "name": "blocked",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "ERK",
+            "group": 13,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T58",
+            "name": "inhibition",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "mutating",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "Sp1",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T106",
+            "name": "binding sites",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T105",
+            "name": "promoter",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "inhibiting",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "ERK",
+            "group": 13,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T65",
+            "name": "decreased",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T107",
+            "name": "promoter",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "M-CSF",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T108",
+            "name": "treated",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "monocytes",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "M-CSF",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T109",
+            "name": "induced",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "production",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T72",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T111",
+            "name": "ability",
+            "group": 15,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T73",
+            "name": "M-CSF",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T110",
+            "name": "recruit",
+            "group": 11,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T74",
+            "name": "mononuclear phagocytes",
+            "group": 16,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T75",
+            "name": "increase",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T76",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T112",
+            "name": "enhance",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T78",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T80",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "VEGF antibody",
+            "group": 13,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T113",
+            "name": "abolished",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T82",
+            "name": "M-CSF",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T114",
+            "name": "induced",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T83",
+            "name": "blood vessel",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T115",
+            "name": "formation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T84",
+            "name": "ERK",
+            "group": 13,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T85",
+            "name": "Sp1",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T116",
+            "name": "dependent",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T87",
+            "name": "M-CSF",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T117",
+            "name": "induced",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T88",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T86",
+            "name": "production",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T89",
+            "name": "M-CSF",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T118",
+            "name": "induce",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T119",
+            "name": "induce",
+            "group": 15,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T91",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T92",
+            "name": "VEGF",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T99",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T53",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T47",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T51",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T51",
+            "target": "T53",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T54",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T56",
+            "value": 2
+        },
+        {
+            "source": "T56",
+            "target": "T57",
+            "value": 2
+        },
+        {
+            "source": "T56",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T59",
+            "value": 2
+        },
+        {
+            "source": "T60",
+            "target": "T106",
+            "value": 2
+        },
+        {
+            "source": "T63",
+            "target": "T64",
+            "value": 2
+        },
+        {
+            "source": "T65",
+            "target": "T107",
+            "value": 2
+        },
+        {
+            "source": "T65",
+            "target": "T66",
+            "value": 2
+        },
+        {
+            "source": "T65",
+            "target": "T63",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T71",
+            "value": 2
+        },
+        {
+            "source": "T75",
+            "target": "T76",
+            "value": 2
+        },
+        {
+            "source": "T75",
+            "target": "T73",
+            "value": 2
+        },
+        {
+            "source": "T86",
+            "target": "T88",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T77",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T77",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T79",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T77",
+            "target": "T79",
+            "value": 2
+        },
+        {
+            "source": "T77",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T90",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T90",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T93",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T94",
+            "target": "T95",
+            "value": 2
+        },
+        {
+            "source": "T94",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T95",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T96",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T96",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T98",
+            "target": "T97",
+            "value": 2
+        },
+        {
+            "source": "T98",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T100",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T100",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T101",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T101",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T102",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T102",
+            "target": "T103",
+            "value": 2
+        },
+        {
+            "source": "T103",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T103",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T47",
+            "target": "T50",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T53",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T104",
+            "target": "T58",
+            "value": 2
+        },
+        {
+            "source": "T104",
+            "target": "T56",
+            "value": 2
+        },
+        {
+            "source": "T108",
+            "target": "T67",
+            "value": 2
+        },
+        {
+            "source": "T108",
+            "target": "T68",
+            "value": 2
+        },
+        {
+            "source": "T90",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T90",
+            "target": "T93",
+            "value": 2
+        },
+        {
+            "source": "T65",
+            "target": "T107",
+            "value": 2
+        },
+        {
+            "source": "T65",
+            "target": "T66",
+            "value": 2
+        },
+        {
+            "source": "T65",
+            "target": "T60",
+            "value": 2
+        },
+        {
+            "source": "T109",
+            "target": "T70",
+            "value": 2
+        },
+        {
+            "source": "T109",
+            "target": "T69",
+            "value": 2
+        },
+        {
+            "source": "T110",
+            "target": "T74",
+            "value": 2
+        },
+        {
+            "source": "T111",
+            "target": "T73",
+            "value": 2
+        },
+        {
+            "source": "T111",
+            "target": "T110",
+            "value": 2
+        },
+        {
+            "source": "T112",
+            "target": "T78",
+            "value": 2
+        },
+        {
+            "source": "T112",
+            "target": "T73",
+            "value": 2
+        },
+        {
+            "source": "T113",
+            "target": "T115",
+            "value": 2
+        },
+        {
+            "source": "T113",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T114",
+            "target": "T115",
+            "value": 2
+        },
+        {
+            "source": "T114",
+            "target": "T82",
+            "value": 2
+        },
+        {
+            "source": "T115",
+            "target": "T83",
+            "value": 2
+        },
+        {
+            "source": "T116",
+            "target": "T86",
+            "value": 2
+        },
+        {
+            "source": "T116",
+            "target": "T85",
+            "value": 2
+        },
+        {
+            "source": "T117",
+            "target": "T87",
+            "value": 2
+        },
+        {
+            "source": "T117",
+            "target": "T86",
+            "value": 2
+        },
+        {
+            "source": "T116",
+            "target": "T86",
+            "value": 2
+        },
+        {
+            "source": "T116",
+            "target": "T84",
+            "value": 2
+        },
+        {
+            "source": "T118",
+            "target": "T91",
+            "value": 2
+        },
+        {
+            "source": "T118",
+            "target": "T119",
+            "value": 2
+        },
+        {
+            "source": "T119",
+            "target": "T89",
+            "value": 2
+        },
+        {
+            "source": "T119",
+            "target": "T92",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T17",
+            "value": 2
+        }
+    ]
+}

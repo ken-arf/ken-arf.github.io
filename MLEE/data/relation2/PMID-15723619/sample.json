@@ -1,0 +1,107 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "treatment",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "hormone-refractory prostate cancer",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T3",
+            "name": "HRPC",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "Hormone-refractory prostate cancer",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T6",
+            "name": "HRPC",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "prostate",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "carcinogenesis",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "HRPC",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "cell",
+            "group": 6,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T9",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "telomerase",
+            "group": 5,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T11",
+            "name": "HRPC",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "HRPC",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T7",
+            "value": 2
+        }
+    ]
+}

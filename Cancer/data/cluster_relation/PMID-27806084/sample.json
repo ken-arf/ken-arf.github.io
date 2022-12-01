@@ -1,0 +1,245 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "low penetrance and high frequency single nucleotide polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "contribute",
+            "group": 6
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "breast cancer|breast cancer",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "SNPs",
+            "group": 0
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "16q12",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "TOX3",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "CASC16",
+            "group": 4
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "strong evidence",
+            "group": 3
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "association",
+            "group": 6
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "various populations",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "associations",
+            "group": 6
+        },
+        {
+            "id": 11,
+            "value": 4,
+            "name": "rs3803662|rs4784227|rs3803662|rs4784227",
+            "group": 0
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "TOX3",
+            "group": 4
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "expression",
+            "group": 1
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "breast tumors",
+            "group": 2
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "weak",
+            "group": 7
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "no",
+            "group": 5
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "TOX3 promoter",
+            "group": 4
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "methylation",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 11,
+            "value": 1
+        }
+    ]
+}

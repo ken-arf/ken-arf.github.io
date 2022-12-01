@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+  <meta charset="utf-8">
+  <title>D3 v5 hierarchy treemap v4/v5</title>
+</head>
+ 
+<body>
+  <svg width="800" height="600"></svg>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script>
+
+  // 1. 描画用のデータ準備
+  var width = document.querySelector("svg").clientWidth;
+  var height = document.querySelector("svg").clientHeight;
+ 
+  d3.json("../data/clustering/abstract12/sample.json").then(function(data){
+
+  // 2. 描画用のデータ変換
+  root = d3.hierarchy(data);
+  root
+    .sum(function(d) { return d.value; })
+    .sort(function(a, b) { return b.height - a.height || b.value - a.value; });
+ 
+  var treemap = d3.treemap()
+    .size([width, height])
+    .padding(1)
+    .round(true);
+ 
+  treemap(root);
+ 
+  // 3. svg要素の配置
+  var g = d3.select("svg")
+    .selectAll(".node")
+    .data(root.leaves())
+    .enter()
+    .append("g")
+    .attr("class", "node")
+    .attr("transform", function(d) { return "translate(" + d.x0 + "," + (d.y0) + ")"; });
+ 
+  g.append("rect")
+    .style("width", function(d) { return d.x1 - d.x0; })
+    .style("height", function(d) { return d.y1 - d.y0; })
+    .style("fill", function(d) {
+      while(d.depth > 1) d = d.parent;
+       return d3.schemeCategory10[parseInt(d.data.name.substring(1)) % 10];
+       //var col= Math.floor(Math.random() * 10);
+       //return d3.schemeCategory10[col];
+    })
+    .style("opacity", 0.6)
+ 
+  g.append("text")
+    .attr("text-anchor", "start")
+    .attr("x", 5)
+    .attr("dy", 30)
+    .attr("font-size", "50%")
+    .attr("class", "node-label")
+    //.text(function(d) { return d.data.name + " : " + d.value; });
+    .text(function(d) { return d.data.name; });
+})
+  </script>
+</body>
+ 
+</html>

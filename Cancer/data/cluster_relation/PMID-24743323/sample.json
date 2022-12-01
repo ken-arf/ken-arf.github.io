@@ -1,0 +1,453 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "Invasive lobular breast cancer|lobular carcinoma in situ",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "ductal carcinomas",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "ductal",
+            "group": 3
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "lobular|lobular",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "7q34",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 12,
+            "name": "rs11977670|rs2981579|rs889312|rs6678914|rs1752911|rs11249433|rs2981579|rs10995190|rs10941679|rs2588809|rs6472903|rs1550623",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "OR",
+            "group": 4
+        },
+        {
+            "id": 7,
+            "value": 4,
+            "name": "ILC|ILC|ILC|ILC",
+            "group": 1
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "significantly stronger",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 3,
+            "name": "associations|associations|associations",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 2,
+            "name": "LCIS|LCIS",
+            "group": 1
+        },
+        {
+            "id": 11,
+            "value": 7,
+            "name": "10q26|5q11|1q32|1p11|10q26|10q21|5p12",
+            "group": 3
+        },
+        {
+            "id": 12,
+            "value": 2,
+            "name": "FGFR2|FGFR2",
+            "group": 3
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "MAP3K1",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 2,
+            "name": "stronger|stronger",
+            "group": 5
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "LGR6",
+            "group": 3
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "6q14",
+            "group": 3
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "ZNF365",
+            "group": 3
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "associated",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 3,
+            "name": "IDC|IDC|D",
+            "group": 1
+        },
+        {
+            "id": 20,
+            "value": 3,
+            "name": "14q24|8q21|2q31",
+            "group": 3
+        },
+        {
+            "id": 21,
+            "value": 2,
+            "name": "RAD51L1|CDCA7",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 1
+        }
+    ]
+}

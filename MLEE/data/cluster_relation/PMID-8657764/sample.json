@@ -1,0 +1,197 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "effects",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 8,
+            "name": "neovascularization|neovascularization|neovascularization|neovascularization|neovascularization|neovascularization|neovascularization|neovascularization",
+            "group": 2
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "rat",
+            "group": 5
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "inhibits",
+            "group": 8
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "graft tissues",
+            "group": 0
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "polytetrafluoroethylene",
+            "group": 6
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "PTFE",
+            "group": 6
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "implanted",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "epigastric vascular pedicles",
+            "group": 1
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "rats",
+            "group": 5
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "right groin",
+            "group": 7
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "left groin",
+            "group": 7
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "Rats",
+            "group": 5
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "irradiated",
+            "group": 4
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "decrease",
+            "group": 8
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "diminished",
+            "group": 8
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "decreased",
+            "group": 8
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "inhibited",
+            "group": 8
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "impaired",
+            "group": 8
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "tissue",
+            "group": 0
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "revascularization",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 19,
+            "value": 2
+        }
+    ]
+}

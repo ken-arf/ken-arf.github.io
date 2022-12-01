@@ -1,0 +1,128 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Regulation",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "transforming growth factor-beta|transforming growth factor (TGF)-beta",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "signaling",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "Dysregulation",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 4,
+            "name": "TGF-beta|TGF-beta|TGF-beta|TGF-beta",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "signaling",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "roles",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "regulation",
+            "group": 1
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "vascular wall cells",
+            "group": 2
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "regulation",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "inhibitory",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "Smads",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 7,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 2
+        }
+    ]
+}

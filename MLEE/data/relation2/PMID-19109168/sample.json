@@ -1,0 +1,833 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Estradiol",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "increases",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "IL-8",
+            "group": 11,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T2",
+            "name": "secretion",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "breast tissue",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "breast cancer",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "IL-8",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T7",
+            "name": "CXCL8",
+            "group": 11,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T52",
+            "name": "associated",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "tumor",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "metastasis",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "breast cancer",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "Estrogen",
+            "group": 15,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T64",
+            "name": "crucial",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "breast",
+            "group": 14,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "tumor",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "progression",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "affect",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T17",
+            "name": "IL-8",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T16",
+            "name": "secretion",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "breast tissue",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "breast cancer",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T78",
+            "name": "cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T76",
+            "name": "tissue",
+            "group": 12,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T66",
+            "name": "secrete",
+            "group": 13,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T20",
+            "name": "IL-8",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T67",
+            "name": "regulatory",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T21",
+            "name": "IL-8",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T77",
+            "name": "tissue",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "IL-8",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1001",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "breast tissue",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "women",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "breast cancers",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1003",
+            "name": "women",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "experimental breast cancer",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1004",
+            "name": "mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "IL-8",
+            "group": 11,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T27",
+            "name": "estradiol",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "breast tissue",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "hormone-dependent breast cancer",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T31",
+            "name": "estradiol",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "exposure",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T68",
+            "name": "increased",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "IL-8",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T32",
+            "name": "secretion",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "breast tissue",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "culture",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "breast cancer",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "estradiol",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "increased",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "IL-8",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T39",
+            "name": "tamoxifen",
+            "group": 15,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T38",
+            "name": "inhibited",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T40",
+            "name": "secretion",
+            "group": 13,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T41",
+            "name": "IL-8",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T42",
+            "name": "tumors",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1005",
+            "name": "nude mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "anti-IL-8 Ab",
+            "group": 15,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T70",
+            "name": "inhibited",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T47",
+            "name": "endothelial cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "proliferation",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "induced",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "cancer cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T72",
+            "name": "produced",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T49",
+            "name": "IL-8",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T50",
+            "name": "tumors",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "IL-8",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T73",
+            "name": "decreased",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "estradiol",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T74",
+            "name": "critical role",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "regulation",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "IL-8",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1006",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "breast tissue",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1007",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "breast cancer",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "IL-8",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T60",
+            "name": "estrogen",
+            "group": 15,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T75",
+            "name": "driven",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T61",
+            "name": "breast",
+            "group": 14,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "tumor",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "progression",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T56",
+            "value": 2
+        },
+        {
+            "source": "T62",
+            "target": "T63",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T65",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T66",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T68",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T68",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T70",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T70",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T71",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T71",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T72",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T73",
+            "target": "T51",
+            "value": 2
+        },
+        {
+            "source": "T73",
+            "target": "T53",
+            "value": 2
+        },
+        {
+            "source": "T74",
+            "target": "T54",
+            "value": 2
+        },
+        {
+            "source": "T74",
+            "target": "T55",
+            "value": 2
+        },
+        {
+            "source": "T75",
+            "target": "T60",
+            "value": 2
+        },
+        {
+            "source": "T75",
+            "target": "T62",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T34",
+            "value": 2
+        }
+    ]
+}

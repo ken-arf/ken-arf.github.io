@@ -1,0 +1,84 @@
+{
+    "nodes": [
+        {
+            "id": "T3",
+            "name": "fluorescein",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "angiography",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "persons",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "persons",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "capillary",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "cotton",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "retinal vessels",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "induce",
+            "group": 3,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T8",
+            "name": "neovascular response",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        }
+    ],
+    "links": [
+        {
+            "source": "T6",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T1000",
+            "value": 2
+        }
+    ]
+}

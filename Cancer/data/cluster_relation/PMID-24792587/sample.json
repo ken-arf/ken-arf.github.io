@@ -1,0 +1,208 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "reproductive windows",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "age at menarche and age at first birth|from menarche to menopause",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "reproductive lifespan|reproductive lifespan",
+            "group": 3
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "may",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "genetic variants",
+            "group": 0
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "association",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "standardized age at first birth",
+            "group": 3
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "OR",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "rs10941679|rs10483813",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "5p12",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "RAD51B",
+            "group": 3
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "appeared to",
+            "group": 2
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "No",
+            "group": 5
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "genotype",
+            "group": 0
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "results",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 2,
+            "name": "ductal breast cancer|lobular breast cancer",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 12,
+            "value": 1
+        }
+    ]
+}

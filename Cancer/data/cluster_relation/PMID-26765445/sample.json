@@ -1,0 +1,574 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Association",
+            "group": 7
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "Single Nucleotide Polymorphisms",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "DNA Polymerase Kappa",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "Breast Cancer",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "Chinese Han Population",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "Study",
+            "group": 3
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "translesion DNA synthesis",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "role",
+            "group": 7
+        },
+        {
+            "id": 8,
+            "value": 3,
+            "name": "POLK|POLK|POLK",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "genetic variants",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 2
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "BC",
+            "group": 2
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "to be defined",
+            "group": 3
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "evaluate",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "effects",
+            "group": 7
+        },
+        {
+            "id": 15,
+            "value": 2,
+            "name": "polymorphisms|polymorphisms",
+            "group": 1
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "BC",
+            "group": 2
+        },
+        {
+            "id": 17,
+            "value": 2,
+            "name": "POLK|POLK",
+            "group": 4
+        },
+        {
+            "id": 18,
+            "value": 2,
+            "name": "rs3213801|rs3213801",
+            "group": 1
+        },
+        {
+            "id": 19,
+            "value": 7,
+            "name": "rs10077427|rs5744533|rs10077427|rs10077427|rs10077427|rs5744533|rs5744533",
+            "group": 1
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "association",
+            "group": 7
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "BC",
+            "group": 2
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "assessed",
+            "group": 3
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "statistically significant",
+            "group": 8
+        },
+        {
+            "id": 24,
+            "value": 2,
+            "name": "difference|difference",
+            "group": 7
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "excluding",
+            "group": 6
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "recessive",
+            "group": 4
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "positive correlation",
+            "group": 7
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "positive progesterone receptor status, higher Ki67 index",
+            "group": 2
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "codominant models",
+            "group": 4
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "dominant models",
+            "group": 4
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "allele models",
+            "group": 4
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "frequencies",
+            "group": 7
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "significantly higher",
+            "group": 8
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "BC",
+            "group": 2
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "protective role",
+            "group": 5
+        },
+        {
+            "id": 36,
+            "value": 1,
+            "name": "postmenopausal",
+            "group": 4
+        },
+        {
+            "id": 37,
+            "value": 1,
+            "name": "any",
+            "group": 6
+        },
+        {
+            "id": 38,
+            "value": 1,
+            "name": "associations",
+            "group": 7
+        },
+        {
+            "id": 39,
+            "value": 2,
+            "name": "BC|BC",
+            "group": 2
+        },
+        {
+            "id": 40,
+            "value": 1,
+            "name": "may",
+            "group": 3
+        },
+        {
+            "id": 41,
+            "value": 1,
+            "name": "influence",
+            "group": 7
+        },
+        {
+            "id": 42,
+            "value": 1,
+            "name": "Chinese women",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 34,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 34,
+            "value": 2
+        },
+        {
+            "source": 38,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 38,
+            "target": 39,
+            "value": 2
+        },
+        {
+            "source": 41,
+            "target": 39,
+            "value": 2
+        },
+        {
+            "source": 41,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 30,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 31,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 42,
+            "value": 1
+        },
+        {
+            "source": 42,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 36,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 42,
+            "value": 1
+        },
+        {
+            "source": 38,
+            "target": 37,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 42,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 41,
+            "target": 40,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 42,
+            "value": 1
+        }
+    ]
+}

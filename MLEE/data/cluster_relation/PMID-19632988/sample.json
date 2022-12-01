@@ -1,0 +1,59 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 5,
+            "name": "uteroglobin|uteroglobin|uteroglobin|uteroglobin|uteroglobin",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "human",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "human",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "fibronectin",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "interleukin 2",
+            "group": 3
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "neutralize",
+            "group": 2
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "tumor necrosis factor-alpha",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 6,
+            "target": 7,
+            "value": 2
+        }
+    ]
+}

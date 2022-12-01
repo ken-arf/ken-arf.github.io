@@ -1,0 +1,249 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 9,
+            "name": "TGFbeta1|TGFbeta1|TGFbeta1|TGFbeta1|TGFbeta1|TGFbeta1|TGFbeta1|TGFbeta1|TGFbeta1",
+            "group": 9
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "transformed cells",
+            "group": 6
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "nontransformed cell",
+            "group": 6
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "TGFbeta|TGFalpha",
+            "group": 9
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "EGF",
+            "group": 9
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "growth",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "epithelial cells",
+            "group": 6
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "inactivating",
+            "group": 8
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "signaling pathway",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "cancers",
+            "group": 3
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "signaling",
+            "group": 0
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 12,
+            "value": 2,
+            "name": "cancer|cancer",
+            "group": 3
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "human",
+            "group": 5
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "carcinomas",
+            "group": 3
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "overexpress",
+            "group": 10
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "patient",
+            "group": 5
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "increased",
+            "group": 7
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "metastasis",
+            "group": 2
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "tumor cell lines",
+            "group": 6
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "role",
+            "group": 4
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "promoting",
+            "group": 7
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "metastasis",
+            "group": 2
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "tumor cells",
+            "group": 6
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "alter",
+            "group": 4
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "pathway",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 15,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 0,
+            "value": 2
+        }
+    ]
+}

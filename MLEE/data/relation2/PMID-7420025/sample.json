@@ -1,0 +1,559 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Mast cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "stimulates",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "migration",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "capillary endothelial cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T9",
+            "name": "Migration",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "capillary endothelial cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T12",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "Increased",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "mast cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "associated",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "mast cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "increases",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T1000",
+            "name": "bovine",
+            "group": 1,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T21",
+            "name": "capillary endothelial cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T20",
+            "name": "migration",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T23",
+            "name": "mast cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "mast cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "stimulatory effect",
+            "group": 5,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T25",
+            "name": "mast cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "migration",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T26",
+            "name": "capillary endothelial cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T28",
+            "name": "mast cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "mitogenic activity",
+            "group": 2,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T29",
+            "name": "capillary endothelial cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T31",
+            "name": "mast cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "stimulated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "capillary endothelial cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T35",
+            "name": "migration",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "Heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T30",
+            "name": "stimulated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "capillary endothelial cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T40",
+            "name": "migration",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "stimulate",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "migration",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "mast cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "blocked",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "protamine",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "heparinase",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "chondroitinase ABC",
+            "group": 3,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T50",
+            "name": "mast cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "role",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "mast cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "enhance",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "migration",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "endothelial cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "growing",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "capillaries",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T9",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T56",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T51",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T55",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T57",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T59",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T53",
+            "value": 2
+        }
+    ]
+}

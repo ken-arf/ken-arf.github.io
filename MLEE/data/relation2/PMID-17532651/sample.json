@@ -1,0 +1,191 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "lower limb",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "phosphodiesterase III",
+            "group": 6,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T4",
+            "name": "cilostazol",
+            "group": 9,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1001",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T17",
+            "name": "tissue",
+            "group": 7,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "necrosis",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "cilostazol",
+            "group": 9,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1002",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T1",
+            "name": "treated",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T6",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "promote",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "vessel",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "formation",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "enhance",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "collateralisation",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "lower limb",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T16",
+            "name": "randomised trials",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1003",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T1002",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T1003",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T17",
+            "value": 2
+        }
+    ]
+}

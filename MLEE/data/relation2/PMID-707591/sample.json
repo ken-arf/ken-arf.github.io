@@ -1,0 +1,47 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T1000",
+            "name": "girl",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "girl",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "eye",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T4",
+            "name": "scar",
+            "group": 2,
+            "trigger": 0,
+            "value": 22
+        }
+    ],
+    "links": []
+}

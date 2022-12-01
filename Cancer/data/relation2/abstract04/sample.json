@@ -1,0 +1,104 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "ATM",
+            "group": 2,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T1",
+            "name": "SNPs",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "associated",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "increased",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "breast cancer",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "CHEK2",
+            "group": 2,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T9",
+            "name": "checkpoint kinase 2 checkpoint homologue",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T7",
+            "name": "missense",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "rs17879961",
+            "group": 1,
+            "trigger": 0,
+            "value": 17
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 1
+        },
+        {
+            "source": "T8",
+            "target": "T7",
+            "value": 1
+        },
+        {
+            "source": "T8",
+            "target": "T5",
+            "value": 1
+        },
+        {
+            "source": "T3",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T5",
+            "target": "T9",
+            "value": 1
+        }
+    ]
+}

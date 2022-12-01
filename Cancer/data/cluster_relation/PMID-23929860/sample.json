@@ -1,0 +1,78 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "evaluates",
+            "group": 2
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "joint effect",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "23 SNP",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "six steroid hormone metabolisms",
+            "group": 4
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "signaling-related genes",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "involved",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "breast carcinogenesis",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 0,
+            "value": 1
+        }
+    ]
+}

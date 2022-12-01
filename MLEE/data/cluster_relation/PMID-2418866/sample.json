@@ -1,0 +1,88 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Retinal",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "revascularisation",
+            "group": 2
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "patient",
+            "group": 3
+        },
+        {
+            "id": 3,
+            "value": 3,
+            "name": "vessels|vessels|vessels",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "retinal periphery",
+            "group": 0
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "capillary",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "macula",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "eye",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "revascularisation",
+            "group": 2
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "vessels",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "retina",
+            "group": 1
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "appearance",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 11,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 2
+        }
+    ]
+}

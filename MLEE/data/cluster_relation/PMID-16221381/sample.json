@@ -1,0 +1,169 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "Neovascularization|neovascularization",
+            "group": 2
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "tumor",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "development",
+            "group": 5
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "progression",
+            "group": 5
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "Tumor vessels",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 3,
+            "name": "tumor vascular|tumor vasculature|tumor vasculature",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "development",
+            "group": 5
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "inhibiting",
+            "group": 6
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "tumor",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "tumor",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "progression",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 2,
+            "name": "tumor blood vessel|tumor blood vessel",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 2,
+            "name": "formation|formation",
+            "group": 5
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "tumor",
+            "group": 0
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "vasculature",
+            "group": 1
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "development",
+            "group": 5
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "targeting",
+            "group": 3
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "tumor endothelial cells",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 8,
+            "value": 2
+        }
+    ]
+}

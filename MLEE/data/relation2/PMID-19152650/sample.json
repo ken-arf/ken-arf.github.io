@@ -1,0 +1,533 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Effect",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "estrogen",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "progesterone",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "macrophage",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "activation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "tissue",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "damage",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "initiated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "sex steroid hormones",
+            "group": 11,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T7",
+            "name": "estrogen",
+            "group": 11,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T10",
+            "name": "treatments",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T8",
+            "name": "progesterone",
+            "group": 11,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T9",
+            "name": "Macrophages",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "Macrophages",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "activated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "T(H)1",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T14",
+            "name": "T(H)2",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1000",
+            "name": "murine",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "the roles of",
+            "group": 9,
+            "trigger": 1,
+            "value": 16
+        },
+        {
+            "id": "T15",
+            "name": "estrogen",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "progesterone",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "macrophage",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "activation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "reduction",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "steroid hormones",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "activated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "macrophage",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "Fizz1",
+            "group": 2,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T23",
+            "name": "Ym1",
+            "group": 2,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T39",
+            "name": "reduced",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "reversed",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "administration",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "estrogen",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "progesterone",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "reduction",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "steroid hormones",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "macrophages",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "activated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "estrogen",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "progesterone",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "contributing",
+            "group": 9,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T35",
+            "name": "macrophage",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "activation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "driving",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "wound",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T32",
+            "value": 2
+        }
+    ]
+}

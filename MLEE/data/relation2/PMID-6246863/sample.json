@@ -1,0 +1,167 @@
+{
+    "nodes": [
+        {
+            "id": "T1000",
+            "name": "New Zealand white rabbits",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T11",
+            "name": "inoculations",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "herpes simplex virus",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "HSV",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "embryonic kidney cells",
+            "group": 7,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T15",
+            "name": "inoculation",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "HSV",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "Epithelial",
+            "group": 6,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T1",
+            "name": "disciform edema",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T4",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T5",
+            "name": "cornea",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "developed",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "Epithelial",
+            "group": 6,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T7",
+            "name": "corneal edema",
+            "group": 4,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T16",
+            "name": "developed",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T8",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T9",
+            "name": "corneas",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T10",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T1000",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 2
+        }
+    ]
+}

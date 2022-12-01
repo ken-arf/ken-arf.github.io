@@ -1,0 +1,747 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Angiotensin II",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "induces",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "induces",
+            "group": 11,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "fms-Like tyrosine kinase-1",
+            "group": 9,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T3",
+            "name": "release",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "calcineurin signaling pathway",
+            "group": 10,
+            "trigger": 1,
+            "value": 17
+        },
+        {
+            "id": "T6",
+            "name": "endothelial",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "dysfunction",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "increased",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "fms-like tyrosine kinase-1",
+            "group": 9,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T9",
+            "name": "sFlt-1",
+            "group": 9,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T63",
+            "name": "circulating",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "vascular endothelial growth factor",
+            "group": 9,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T11",
+            "name": "placental growth factor",
+            "group": 9,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T12",
+            "name": "Angiotensin II",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "Ang II",
+            "group": 9,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T64",
+            "name": "increases",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T14",
+            "name": "sFlt-1",
+            "group": 9,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "Ang II",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "promote",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T16",
+            "name": "expression",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "sFlt-1",
+            "group": 9,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T18",
+            "name": "infusion",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "Ang II",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "increases",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "circulating",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "sFlt-1",
+            "group": 9,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T1000",
+            "name": "mice",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "Ang II",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "sFlt-1",
+            "group": 9,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T23",
+            "name": "secretion",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "Ang II",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "stimulated",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T28",
+            "name": "sFlt-1",
+            "group": 9,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T27",
+            "name": "production",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "human",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "trophoblasts",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "endothelial cells",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "trophoblasts",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "sFlt-1",
+            "group": 9,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T34",
+            "name": "Ang II",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "induced",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "sFlt-1",
+            "group": 9,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T35",
+            "name": "secretion",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "inhibition",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "endothelial cell",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "migration",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "tube",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "formation",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "losartan",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "calcineurin",
+            "group": 9,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T45",
+            "name": "FK506",
+            "group": 13,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T47",
+            "name": "Ang II",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "mediated",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "mediated",
+            "group": 11,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "sFlt-1",
+            "group": 9,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T48",
+            "name": "release",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "Ang II type 1 receptor",
+            "group": 9,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T50",
+            "name": "activation",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "calcineurin signaling",
+            "group": 10,
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T70",
+            "name": "regulatory role",
+            "group": 11,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T53",
+            "name": "Ang II",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "sFlt-1",
+            "group": 9,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T54",
+            "name": "expression",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "murine",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1003",
+            "name": "human",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "elevated",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "sFlt-1",
+            "group": 9,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T71",
+            "name": "caused",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "dysregulation",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "renin",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "angiotensin",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "system",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T66",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T50",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T51",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T55",
+            "value": 2
+        },
+        {
+            "source": "T56",
+            "target": "T57",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T59",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T62",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T63",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T63",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T65",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T65",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T66",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T68",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T68",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T50",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T70",
+            "target": "T54",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T53",
+            "value": 2
+        },
+        {
+            "source": "T70",
+            "target": "T54",
+            "value": 2
+        },
+        {
+            "source": "T71",
+            "target": "T58",
+            "value": 2
+        },
+        {
+            "source": "T71",
+            "target": "T56",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T60",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T61",
+            "value": 2
+        }
+    ]
+}

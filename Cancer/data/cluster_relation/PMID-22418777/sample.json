@@ -1,0 +1,588 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "evaluated whether",
+            "group": 2
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "variation|variation",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "genes estrogen metabolism",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "COMT",
+            "group": 4
+        },
+        {
+            "id": 4,
+            "value": 8,
+            "name": "CYP1A1|CYP1B1|CYP17A1|CYP19A1|CYP1B1|CYP17A1|CYP1B1|CYP17A1",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "ESR1",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 2,
+            "name": "GSTM1|GSTT1",
+            "group": 4
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "GSTP1",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "HSD17B1",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "SULT1A1|UGT1A1",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "contributes",
+            "group": 6
+        },
+        {
+            "id": 11,
+            "value": 4,
+            "name": "breast cancer|breast cancer|breast cancer|breast cancer",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "racial differences",
+            "group": 4
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "single nucleotide polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "hormone therapy",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "Black women",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "No appreciable",
+            "group": 8
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "associations",
+            "group": 6
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "single SNPs",
+            "group": 0
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "haplotypes",
+            "group": 3
+        },
+        {
+            "id": 20,
+            "value": 2,
+            "name": "women|women",
+            "group": 4
+        },
+        {
+            "id": 21,
+            "value": 3,
+            "name": "rs1800440|rs1800440|rs1800440",
+            "group": 0
+        },
+        {
+            "id": 22,
+            "value": 3,
+            "name": "rs743572|rs743572|rs743572",
+            "group": 0
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "never",
+            "group": 5
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "HT",
+            "group": 4
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "HT ever users",
+            "group": 4
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "decreased",
+            "group": 7
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "risk",
+            "group": 6
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "non-significant",
+            "group": 8
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "increased",
+            "group": 7
+        },
+        {
+            "id": 30,
+            "value": 2,
+            "name": "risk|risk",
+            "group": 6
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "evidence",
+            "group": 2
+        },
+        {
+            "id": 32,
+            "value": 2,
+            "name": "SNP|SNP",
+            "group": 0
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "HT",
+            "group": 4
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "White women",
+            "group": 4
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "Black women",
+            "group": 4
+        },
+        {
+            "id": 36,
+            "value": 1,
+            "name": "HT use",
+            "group": 4
+        },
+        {
+            "id": 37,
+            "value": 1,
+            "name": "may",
+            "group": 2
+        },
+        {
+            "id": 38,
+            "value": 1,
+            "name": "modify effect",
+            "group": 6
+        },
+        {
+            "id": 39,
+            "value": 1,
+            "name": "estrogen-related genes",
+            "group": 4
+        },
+        {
+            "id": 40,
+            "value": 1,
+            "name": "Black women",
+            "group": 4
+        },
+        {
+            "id": 41,
+            "value": 1,
+            "name": "White women",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 38,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 38,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 30,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "source": 30,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 36,
+            "value": 1
+        },
+        {
+            "source": 38,
+            "target": 37,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 39,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 40,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 41,
+            "value": 1
+        },
+        {
+            "source": 32,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 32,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "value": 1
+        },
+        {
+            "source": 32,
+            "target": 34,
+            "value": 1
+        },
+        {
+            "source": 30,
+            "target": 31,
+            "value": 1
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "value": 1
+        },
+        {
+            "source": 32,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 32,
+            "target": 35,
+            "value": 1
+        },
+        {
+            "source": 32,
+            "target": 22,
+            "value": 1
+        }
+    ]
+}

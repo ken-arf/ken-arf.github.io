@@ -1,0 +1,446 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "fluconazole",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T2",
+            "name": "corticosteroid",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "treatment",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T1000",
+            "name": "Candida albicans",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T3",
+            "name": "corticosteroids",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "Candida albicans",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T35",
+            "name": "treated",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "fluconazole",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "Corneas",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "rabbits",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T1003",
+            "name": "yeast",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "cells",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1004",
+            "name": "C. albicans",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T45",
+            "name": "treated",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "fluconazole",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T36",
+            "name": "therapy",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "corticosteroid",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "prednisolone",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "corneal",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "infiltration",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "corneal",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T15",
+            "name": "corneal",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "fluconazole",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1005",
+            "name": "C. albicans",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T18",
+            "name": "corneal",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T37",
+            "name": "treated",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "prednisolone",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "corneal",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T25",
+            "name": "corneal",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "treated",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "prednisolone",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "prednisolone",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "treatment",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T41",
+            "name": "recultivation",
+            "group": 3,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T1006",
+            "name": "C. albicans",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T40",
+            "name": "administration",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T28",
+            "name": "prednisolone",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "recultivation",
+            "group": 3,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T1007",
+            "name": "C. albicans",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T29",
+            "name": "Fluconazole",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T30",
+            "name": "prednisolone",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "treatment",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T46",
+            "name": "application",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "corticosteroids",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "treatment",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "antimycotic drugs",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1008",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T9",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T1006",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T1007",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T1008",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T1008",
+            "value": 2
+        }
+    ]
+}

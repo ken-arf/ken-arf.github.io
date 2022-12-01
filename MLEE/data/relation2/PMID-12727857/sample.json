@@ -1,0 +1,974 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Tumor",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "modulates",
+            "group": 15,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "leukocyte",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "vessel wall",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "interactions",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "reducing",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "endothelial adhesion molecule",
+            "group": 3,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T8",
+            "name": "expression",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "expression",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "endothelial cell (EC) adhesion molecules",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T12",
+            "name": "involved",
+            "group": 15,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "leukocyte",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "vessel wall",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "interactions",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "regulation",
+            "group": 15,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "leukocyte",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "vessel wall",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "interactions",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "tumor",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "tumor necrosis factor alpha",
+            "group": 3,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T22",
+            "name": "stimulated",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "leukocyte",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "vessel wall",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "interactions",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "ear skin microvessels",
+            "group": 14,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1000",
+            "name": "nude mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "LS174T colon carcinomas",
+            "group": 12,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1002",
+            "name": "C57Bl/6 mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T1003",
+            "name": "murine",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T86",
+            "name": "B16F10 melanomas",
+            "group": 12,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T35",
+            "name": "Leukocyte",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "vessel wall",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "interactions",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "tumors",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "growing",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "ear",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "ear microvessels",
+            "group": 14,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1004",
+            "name": "mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "tumor",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "growing",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "flank",
+            "group": 7,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T44",
+            "name": "Tumor",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1005",
+            "name": "mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "ear",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "ear",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "leukocyte",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T85",
+            "name": "adhesion",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "diminished",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "vessels",
+            "group": 14,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "ear tumor",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1006",
+            "name": "mouse",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "reduction",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "tumor",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "leukocyte",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "adhesion",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "ear venules",
+            "group": 13,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1007",
+            "name": "mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "flank tumor",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "reduced",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "Leukocyte",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "tumor",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1008",
+            "name": "nude mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1009",
+            "name": "C57Bl/6 mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T40",
+            "name": "Treatment",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1010",
+            "name": "mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "ear tumor",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "humanized antivascular endothelial growth factor antibody",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T84",
+            "name": "endothelial growth factor",
+            "group": 3,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T41",
+            "name": "prevented",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T49",
+            "name": "down-regulation",
+            "group": 4,
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T65",
+            "name": "leukocyte",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "vessel wall",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "interactions",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "tumor vessels",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "nontreated",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T88",
+            "name": "activated",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T87",
+            "name": "cell",
+            "group": 16,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T70",
+            "name": "tumor ECs",
+            "group": 16,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T56",
+            "name": "suppressed",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T71",
+            "name": "intercellular adhesion molecule 1",
+            "group": 3,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T72",
+            "name": "ECs",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1011",
+            "name": "mouse",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T75",
+            "name": "tissues",
+            "group": 14,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T73",
+            "name": "b.END5 cells",
+            "group": 16,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T74",
+            "name": "tumor necrosis factor alpha",
+            "group": 3,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T57",
+            "name": "induced",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T76",
+            "name": "up-regulation",
+            "group": 10,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T77",
+            "name": "intercellular adhesion molecule 1",
+            "group": 3,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T78",
+            "name": "vascular cell adhesion molecule 1",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T61",
+            "name": "reduced",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T79",
+            "name": "ECs",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "preincubated",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T80",
+            "name": "basic fibroblast growth factor",
+            "group": 3,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T81",
+            "name": "vascular endothelial growth factor",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T82",
+            "name": "immune effector cells",
+            "group": 16,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T69",
+            "name": "enter",
+            "group": 11,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T83",
+            "name": "tumor tissue",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T53",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T66",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T65",
+            "value": 2
+        },
+        {
+            "source": "T76",
+            "target": "T77",
+            "value": 2
+        },
+        {
+            "source": "T85",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T85",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T85",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T1010",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T63",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T49",
+            "target": "T64",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T1010",
+            "value": 2
+        },
+        {
+            "source": "T56",
+            "target": "T70",
+            "value": 2
+        },
+        {
+            "source": "T56",
+            "target": "T71",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T74",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T76",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T76",
+            "value": 2
+        },
+        {
+            "source": "T76",
+            "target": "T78",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T74",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T76",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T76",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T79",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T80",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T79",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T81",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T82",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T83",
+            "value": 2
+        },
+        {
+            "source": "T88",
+            "target": "T87",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2
+        }
+    ]
+}

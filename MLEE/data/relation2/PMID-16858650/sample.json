@@ -1,0 +1,536 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "PLGA",
+            "group": 10,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T3",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "Heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "poly(D,L-lactic-co-glycolic acid)",
+            "group": 10,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T41",
+            "name": "PLGA",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "release",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "basic fibroblast growth factor",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T6",
+            "name": "bFGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T7",
+            "name": "induce",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "PLGA",
+            "group": 10,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T9",
+            "name": "Heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "bFGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T26",
+            "name": "loaded",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "PLGA",
+            "group": 10,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T12",
+            "name": "heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "bFGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T45",
+            "name": "loaded",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "PLGA",
+            "group": 10,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T14",
+            "name": "heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "release",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "PLGA",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "PLGA",
+            "group": 10,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T17",
+            "name": "heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "released",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "bFGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T50",
+            "name": "PLGA",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "controlled",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "release",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "bFGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T35",
+            "name": "implantation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "bFGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T23",
+            "name": "loaded",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "PLGA",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "induced",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "formation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "vascular microvessels",
+            "group": 8,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T54",
+            "name": "PLGA",
+            "group": 10,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T29",
+            "name": "heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "immobilization",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "bFGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T55",
+            "name": "loading",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "bFGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T57",
+            "name": "loaded",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "PLGA",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "HP",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "release",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "bFGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T58",
+            "name": "binding",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "bFGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T37",
+            "name": "heparin",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "induced",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T20",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T1000",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T47",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T49",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T53",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T53",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T29",
+            "value": 2
+        }
+    ]
+}

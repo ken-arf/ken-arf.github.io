@@ -1,0 +1,189 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Association",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 3,
+            "name": "CASC16|CASC16|CASC16",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 5,
+            "name": "rs4784227|rs4784227|rs4784227|rs4784227|rs4784227",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 5,
+            "name": "breast cancer|breast cancer|breast cancer|breast cancer|breast cancer",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "explore",
+            "group": 2
+        },
+        {
+            "id": 5,
+            "value": 3,
+            "name": "correlated|correlated|correlated",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "significantly",
+            "group": 6
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "associated",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "increased",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "dominant model|recessive model",
+            "group": 3
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "allele model",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "over-dominant model",
+            "group": 3
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "decreased",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 11,
+            "value": 1
+        }
+    ]
+}

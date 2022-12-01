@@ -1,0 +1,94 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "men",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "women",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "impaired",
+            "group": 7
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "patients",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "revascularization",
+            "group": 2
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "vein grafts",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "AAV serotypes",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "angiogenic",
+            "group": 2
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "progenitor cells",
+            "group": 5
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "obtain",
+            "group": 6
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "blood vessels",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "ischemic tissue",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        }
+    ]
+}

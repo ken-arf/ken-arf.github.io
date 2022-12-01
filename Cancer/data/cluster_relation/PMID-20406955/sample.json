@@ -1,0 +1,305 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 3,
+            "name": "TOX3/LOC643714|TOX3/LOC643714|located between the TOX3 and the LOC643714 loci",
+            "group": 2
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "risk",
+            "group": 3
+        },
+        {
+            "id": 3,
+            "value": 3,
+            "name": "breast cancer|breast cancer|breast cancer",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 3,
+            "name": "African-American women|women of European ancestry|Black Women African ancestry",
+            "group": 2
+        },
+        {
+            "id": 5,
+            "value": 4,
+            "name": "rs3803662|rs3803662|rs3803662|rs3803662",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "susceptibility",
+            "group": 3
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "No significant",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "association|association",
+            "group": 3
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "four other SNPs",
+            "group": 0
+        },
+        {
+            "id": 11,
+            "value": 4,
+            "name": "rs3104746|rs3112562|rs3104793|rs3104746",
+            "group": 0
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "rs8046994",
+            "group": 0
+        },
+        {
+            "id": 13,
+            "value": 2,
+            "name": "LOC643714|LOC643714",
+            "group": 2
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "associated",
+            "group": 3
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "strongest",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "A",
+            "group": 2
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "locus",
+            "group": 2
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "smaller linkage disequilibrium block",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 4,
+            "value": 1
+        }
+    ]
+}

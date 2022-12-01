@@ -1,0 +1,182 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 3,
+            "name": "breast cancer|breast cancer|breast cancer",
+            "group": 2
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "susceptibility",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "variants",
+            "group": 1
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "genetic ancestry",
+            "group": 0
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "nongenetic risk factors",
+            "group": 0
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "Hispanic women",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "Most genetic variants",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "associated",
+            "group": 3
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "women European ancestry",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "rs13387042",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "2q35",
+            "group": 0
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "G/A",
+            "group": 0
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "associated",
+            "group": 3
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "postmenopausal never used hormone therapy",
+            "group": 0
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "women",
+            "group": 0
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "premenopausal breastfed >12 months",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,396 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "vascularized",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "autogenous bone graft",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T4",
+            "name": "vascular bundle",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "implantation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "effect",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "vascular bundle",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "implantation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "autogenous bone graft",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T8",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "New Zealand white rabbits",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T9",
+            "name": "bilateral radial bones",
+            "group": 4,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1001",
+            "name": "rabbit",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "removed",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "bone grafts",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "periostea",
+            "group": 8,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T32",
+            "name": "peeled off",
+            "group": 5,
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T12",
+            "name": "external maxillary artery bundle",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T14",
+            "name": "marrow cavity",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "bone",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "vascular bundle",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "implantation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "bone",
+            "group": 4,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T33",
+            "name": "placed",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T19",
+            "name": "masseter muscle",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1002",
+            "name": "rabbits",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "sacrificed",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "CD34",
+            "group": 3,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T21",
+            "name": "Microvessel",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "autogenous bone grafts",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T24",
+            "name": "bone grafts",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "revascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "Vascular bundle",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "implantation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "improved",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "vascularized",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "autogenous bone graft",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T1002",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T5",
+            "value": 2
+        }
+    ]
+}

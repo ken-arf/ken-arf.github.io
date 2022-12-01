@@ -1,0 +1,375 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 5,
+            "name": "CHST9|CHST9|CHST9|CHST9|CHST9",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 6,
+            "name": "rs1436904|rs1436904|rs1436904|rs1436904|rs1436904|rs1436904",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "prognosis",
+            "group": 5
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "triple-negative breast cancer",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "evaluate",
+            "group": 2
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "prognostic value",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "AQP4",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "rs527616",
+            "group": 0
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "early-stage TNBC|early-stage TNBC",
+            "group": 1
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "TNBC",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 2,
+            "name": "G allele|G allele",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "significantly",
+            "group": 8
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "decreased",
+            "group": 6
+        },
+        {
+            "id": 13,
+            "value": 2,
+            "name": "disease-free survival time|disease-free survival time",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "DFS",
+            "group": 3
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "8.5 months shorter",
+            "group": 8
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "GG genotype",
+            "group": 3
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "TT genotype",
+            "group": 3
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "increased",
+            "group": 6
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "risk",
+            "group": 5
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "cancer",
+            "group": 1
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "tumor size\u2009>\u20092\u2009cm",
+            "group": 3
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "without",
+            "group": 4
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "lymph-node metastasis",
+            "group": 3
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "premenopausal",
+            "group": 3
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "vascular invasion",
+            "group": 3
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "18q11.2",
+            "group": 3
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "significantly",
+            "group": 8
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "contributes",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 28,
+            "target": 27,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "controlling",
+            "group": 1,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T3",
+            "name": "cancer",
+            "group": 7,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T2",
+            "name": "growth",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "cell",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "culture",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "growth",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "spread",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "cancer",
+            "group": 7,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T21",
+            "name": "slowed",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "cancer",
+            "group": 7,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T8",
+            "name": "down-regulate",
+            "group": 8,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T9",
+            "name": "IGF-I",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T10",
+            "name": "suppress",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "synthesis",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "mevalonic acid",
+            "group": 11,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T12",
+            "name": "modulate",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "arachidonate",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T28",
+            "name": "metabolism",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "inhibiting",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "5-lipoxygenase",
+            "group": 2,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T18",
+            "name": "12-lipoxygenase",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T19",
+            "name": "COX-2",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T20",
+            "name": "antagonize",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "activation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "AP-1",
+            "group": 2,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T25",
+            "name": "promote",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "activation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "PPAR-gamma",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "suppress",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T31",
+            "name": "cancer",
+            "group": 7,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T30",
+            "name": "prevention",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T32",
+            "value": 2
+        }
+    ]
+}

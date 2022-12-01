@@ -1,0 +1,130 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "endostatin",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T2",
+            "name": "Endostatin",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T3",
+            "name": "collagen XVIII",
+            "group": 0,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T4",
+            "name": "angiogenesis",
+            "group": 1,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T6",
+            "name": "endostatin",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T7",
+            "name": "endostatin",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T8",
+            "name": "angiogenic",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "effects",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T10",
+            "name": "endostatin",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T11",
+            "name": "endostatin",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T13",
+            "name": "angiosuppressive",
+            "group": 1,
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T14",
+            "name": "angiostimulatory",
+            "group": 1,
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "endostatin",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T16",
+            "name": "angiogenesis",
+            "group": 1,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "endostatin",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T19",
+            "name": "endostatin",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T20",
+            "name": "endostatin",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        }
+    ],
+    "links": [
+        {
+            "source": "T5",
+            "target": "T8",
+            "value": 2
+        }
+    ]
+}

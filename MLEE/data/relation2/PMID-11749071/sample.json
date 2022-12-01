@@ -1,0 +1,479 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "Troponin I",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T3",
+            "name": "inhibits",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "capillary endothelial cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "proliferation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "interaction",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "bFGF receptor",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T9",
+            "name": "Troponin I",
+            "group": 7,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T10",
+            "name": "TnI",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "inhibit",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "endothelial cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "proliferation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "inhibit",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "metastasis",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "tumors",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "TnI",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "TnI",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "inhibits",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "bFGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T31",
+            "name": "stimulated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "endothelial cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "proliferation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "inhibition",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "interaction",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "TnI",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "bFGF receptor",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T30",
+            "name": "capillary endothelial cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T32",
+            "name": "TnI",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "act",
+            "group": 1,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T39",
+            "name": "nonendothelial",
+            "group": 9,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T33",
+            "name": "endothelial cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "inhibitory action",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "bFGF receptor",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T46",
+            "name": "cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "TnI",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "competing",
+            "group": 3,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T36",
+            "name": "bFGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T43",
+            "name": "interaction",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "bFGF receptor",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T47",
+            "name": "cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T33",
+            "value": 1
+        }
+    ]
+}

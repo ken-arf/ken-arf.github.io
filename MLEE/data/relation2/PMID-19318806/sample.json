@@ -1,0 +1,756 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "semaphorin 7A",
+            "group": 12,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T2",
+            "name": "Plexin C1",
+            "group": 12,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "melanoma",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "metastasis",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "transformation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "melanocytes",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "melanocyte stem cells",
+            "group": 15,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T40",
+            "name": "melanoma",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "brakes",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "cell",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "growth",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "migration",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "cell",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "survival",
+            "group": 16,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "melanoma",
+            "group": 11,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T6",
+            "name": "Semaphorins",
+            "group": 12,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T7",
+            "name": "Plexins",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "neuropilins",
+            "group": 12,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T10",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "progression",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "through",
+            "group": 9,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T42",
+            "name": "effects",
+            "group": 1,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "blood vessel",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "growth",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "cell",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "migration",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "Semaphorin 7A",
+            "group": 12,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T15",
+            "name": "Sema7A",
+            "group": 12,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T16",
+            "name": "membrane",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "linked",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "semaphorin",
+            "group": 12,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T45",
+            "name": "expressed",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "keratinocytes",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "Sema7A",
+            "group": 12,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T19",
+            "name": "binds",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "human",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "melanocytes",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "beta1-integrins",
+            "group": 12,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T54",
+            "name": "Plexin C1",
+            "group": 12,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T26",
+            "name": "Sema7A",
+            "group": 12,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T25",
+            "name": "stimulates",
+            "group": 9,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T11",
+            "name": "cytoskeletal",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "reorganization",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "human",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "melanocytes",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "resulting",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "adhesion",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "dendrite formation",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T50",
+            "name": "targets",
+            "group": 1,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T29",
+            "name": "Plexin C1",
+            "group": 12,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T28",
+            "name": "signaling",
+            "group": 13,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T1003",
+            "name": "human",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "melanocytes",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "cofilin",
+            "group": 12,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T32",
+            "name": "LIM kinase II",
+            "group": 12,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T65",
+            "name": "cell",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "adhesion",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "migration",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "expression",
+            "group": 6,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T34",
+            "name": "Plexin C1",
+            "group": 12,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T55",
+            "name": "lesions",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "melanoma tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "Plexin C1",
+            "group": 12,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T51",
+            "name": "metastatic melanoma",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "primary melanoma",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "Plexin C1",
+            "group": 12,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T39",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "melanoma",
+            "group": 11,
+            "trigger": 0,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T9",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T46",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T47",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T49",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T49",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T49",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T49",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T56",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T56",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T57",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T58",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T60",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T61",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T63",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T64",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T66",
+            "target": "T65",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T65",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T29",
+            "value": 2
+        }
+    ]
+}

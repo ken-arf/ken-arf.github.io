@@ -1,0 +1,93 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "tumor",
+            "group": 4,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T2",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T3",
+            "name": "vascular-specific growth factors",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T5",
+            "name": "cancer",
+            "group": 4,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T4",
+            "name": "blood",
+            "group": 2,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T1000",
+            "name": "mouse",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T6",
+            "name": "tumor vasculature",
+            "group": 3,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T7",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "regrowth",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "tumor vasculature",
+            "group": 3,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T11",
+            "name": "VEGFR",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        }
+    ],
+    "links": [
+        {
+            "source": "T13",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2
+        }
+    ]
+}

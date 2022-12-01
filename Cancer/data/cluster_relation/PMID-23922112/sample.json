@@ -1,0 +1,126 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Post-diagnosis weight gain",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "associated",
+            "group": 6
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "increased",
+            "group": 5
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "cancer recurrence",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "mortality",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "14 single-nucleotide polymorphisms|single-nucleotide polymorphisms",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "SNPs",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "fat mass and obesity-associated protein",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "FTO",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "ADIPOQ|ADIPOR1",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        }
+    ]
+}

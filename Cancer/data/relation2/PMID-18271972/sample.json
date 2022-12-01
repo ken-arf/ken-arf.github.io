@@ -1,0 +1,518 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "ESR1",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T2",
+            "name": "EGF",
+            "group": 5,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T3",
+            "name": "genetic variation",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "genetic variation",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "in relation to",
+            "group": 6,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "survival",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "Oestrogen receptor alpha",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T14",
+            "name": "if",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "genetic variation",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "genetic variation",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "ESR1",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T12",
+            "name": "EGF",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "affects",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "tumour",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "characteristics",
+            "group": 7,
+            "trigger": 1,
+            "value": 24
+        },
+        {
+            "id": "T18",
+            "name": "survival",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "Swedish",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T24",
+            "name": "suggested",
+            "group": 0,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T22",
+            "name": "ESR1",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T20",
+            "name": "rs3003925",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T21",
+            "name": "rs2144025",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T23",
+            "name": "association",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "not strong",
+            "group": 3,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T27",
+            "name": "support",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "association",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "variants",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "variants",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "ESR1",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T32",
+            "name": "EGF",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "tumour",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "characteristics",
+            "group": 7,
+            "trigger": 1,
+            "value": 24
+        },
+        {
+            "id": "T36",
+            "name": "survival",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T7",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T2",
+            "value": 1
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 1
+        },
+        {
+            "source": "T16",
+            "target": "T14",
+            "value": 1
+        },
+        {
+            "source": "T18",
+            "target": "T14",
+            "value": 1
+        },
+        {
+            "source": "T8",
+            "target": "T19",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T19",
+            "value": 1
+        },
+        {
+            "source": "T20",
+            "target": "T22",
+            "value": 1
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 1
+        },
+        {
+            "source": "T28",
+            "target": "T26",
+            "value": 1
+        },
+        {
+            "source": "T28",
+            "target": "T27",
+            "value": 1
+        },
+        {
+            "source": "T28",
+            "target": "T4",
+            "value": 1
+        },
+        {
+            "source": "T29",
+            "target": "T32",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T30",
+            "value": 1
+        },
+        {
+            "source": "T36",
+            "target": "T27",
+            "value": 1
+        },
+        {
+            "source": "T34",
+            "target": "T27",
+            "value": 1
+        },
+        {
+            "source": "T34",
+            "target": "T26",
+            "value": 1
+        },
+        {
+            "source": "T36",
+            "target": "T26",
+            "value": 1
+        },
+        {
+            "source": "T20",
+            "target": "T19",
+            "value": 1
+        },
+        {
+            "source": "T21",
+            "target": "T19",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T19",
+            "value": 1
+        },
+        {
+            "source": "T29",
+            "target": "T19",
+            "value": 1
+        }
+    ]
+}

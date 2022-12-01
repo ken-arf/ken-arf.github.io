@@ -1,0 +1,384 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "epidermal growth factor",
+            "group": 9,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T8",
+            "name": "stimulation",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "capillary endothelial cell",
+            "group": 11,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T6",
+            "name": "migration",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "matrix",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "dependent",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "proliferation",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "proliferative",
+            "group": 6,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T16",
+            "name": "response",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "bovine",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "retinal capillary endothelial cells",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T12",
+            "name": "EGF",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "dependent",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "attaching",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "cells",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "matrix",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "fibronectin",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "Bovine",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T15",
+            "name": "capillary endothelial cells",
+            "group": 11,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T30",
+            "name": "stimulated",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "migrate",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "exposed",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "EGF",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T19",
+            "name": "EGF",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "Capillary cell",
+            "group": 11,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T23",
+            "name": "migration",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "proliferation",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "EGF",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "inactivation",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T27",
+            "name": "EGF",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "cleavage",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T35",
+            "name": "cleavage",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T28",
+            "name": "CNBr",
+            "group": 12,
+            "trigger": 0,
+            "value": 21
+        }
+    ],
+    "links": [
+        {
+            "source": "T4",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T2",
+            "value": 2
+        }
+    ]
+}

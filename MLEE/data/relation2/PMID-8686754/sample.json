@@ -1,0 +1,1048 @@
+{
+    "nodes": [
+        {
+            "id": "T98",
+            "name": "Stimulation",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "endothelial cell",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "migration",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "vascular permeability factor",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T31",
+            "name": "vascular endothelial growth factor",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T5",
+            "name": "alphavbeta3 integrin",
+            "group": 7,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T6",
+            "name": "osteopontin",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T7",
+            "name": "thrombin",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "vascular permeability factor",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T11",
+            "name": "vascular endothelial growth factor",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T10",
+            "name": "VPF",
+            "group": 7,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T20",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T99",
+            "name": "regulates",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T14",
+            "name": "endothelial cells",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "EC",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "migration",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "VPF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T97",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "induced",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "microvascular EC",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "expression",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "alphav",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "beta3 integrin subunits",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T23",
+            "name": "increased",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "alphavbeta3",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T115",
+            "name": "cell surface",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "VPF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "induced",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "osteopontin",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T28",
+            "name": "OPN",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "alphavbeta3",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T30",
+            "name": "OPN",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T100",
+            "name": "promoted",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "EC",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "migration",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "VPF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "induction",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "alphavbeta3",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T39",
+            "name": "increased",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "EC",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "migration",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "OPN",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "thrombin",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "cleavage",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T101",
+            "name": "cleavage",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "OPN",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T102",
+            "name": "enhancement",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "OPN",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "VPF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T103",
+            "name": "promotes",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "increased",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "microvascular",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "activation",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "extrinsic coagulation pathway",
+            "group": 3,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T55",
+            "name": "VPF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T74",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T104",
+            "name": "facilitates",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T56",
+            "name": "thrombin",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "cleavage",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T105",
+            "name": "cleavage",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "OPN",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T106",
+            "name": "co-injection",
+            "group": 5,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T59",
+            "name": "VPF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T87",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T60",
+            "name": "OPN",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "cleavage",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T107",
+            "name": "cleavage",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "OPN",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "thrombin",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "OPN",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "thrombin",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T108",
+            "name": "cleaved",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T109",
+            "name": "cleaved",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "OPN",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T110",
+            "name": "stimulated",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "EC",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "migration",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "induction",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T72",
+            "name": "alpha v beta 3",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T73",
+            "name": "VPF",
+            "group": 7,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T90",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T111",
+            "name": "regulation",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T77",
+            "name": "EC",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T76",
+            "name": "migration",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T78",
+            "name": "alphavbeta3 integrin",
+            "group": 7,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T79",
+            "name": "alphavbeta3",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T80",
+            "name": "OPN",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T81",
+            "name": "thrombin",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T82",
+            "name": "cleavage",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T112",
+            "name": "cleavage",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T83",
+            "name": "OPN",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T84",
+            "name": "VPF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T95",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T85",
+            "name": "EC",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T86",
+            "name": "VPF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T96",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T113",
+            "name": "enhancement",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T89",
+            "name": "microvascular",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T114",
+            "name": "stimulate",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T93",
+            "name": "EC",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T92",
+            "name": "migration",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T94",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T46",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T53",
+            "target": "T54",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T58",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T62",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T70",
+            "value": 2
+        },
+        {
+            "source": "T71",
+            "target": "T72",
+            "value": 2
+        },
+        {
+            "source": "T76",
+            "target": "T77",
+            "value": 2
+        },
+        {
+            "source": "T82",
+            "target": "T83",
+            "value": 2
+        },
+        {
+            "source": "T92",
+            "target": "T93",
+            "value": 2
+        },
+        {
+            "source": "T98",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T98",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T99",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T99",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T100",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T100",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T101",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T101",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T102",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T103",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T103",
+            "target": "T50",
+            "value": 2
+        },
+        {
+            "source": "T104",
+            "target": "T55",
+            "value": 2
+        },
+        {
+            "source": "T104",
+            "target": "T105",
+            "value": 2
+        },
+        {
+            "source": "T105",
+            "target": "T56",
+            "value": 2
+        },
+        {
+            "source": "T105",
+            "target": "T57",
+            "value": 2
+        },
+        {
+            "source": "T106",
+            "target": "T59",
+            "value": 2
+        },
+        {
+            "source": "T106",
+            "target": "T60",
+            "value": 2
+        },
+        {
+            "source": "T107",
+            "target": "T63",
+            "value": 2
+        },
+        {
+            "source": "T107",
+            "target": "T61",
+            "value": 2
+        },
+        {
+            "source": "T108",
+            "target": "T66",
+            "value": 2
+        },
+        {
+            "source": "T109",
+            "target": "T65",
+            "value": 2
+        },
+        {
+            "source": "T109",
+            "target": "T108",
+            "value": 2
+        },
+        {
+            "source": "T110",
+            "target": "T69",
+            "value": 2
+        },
+        {
+            "source": "T110",
+            "target": "T66",
+            "value": 2
+        },
+        {
+            "source": "T110",
+            "target": "T69",
+            "value": 2
+        },
+        {
+            "source": "T110",
+            "target": "T64",
+            "value": 2
+        },
+        {
+            "source": "T111",
+            "target": "T73",
+            "value": 2
+        },
+        {
+            "source": "T111",
+            "target": "T76",
+            "value": 2
+        },
+        {
+            "source": "T112",
+            "target": "T81",
+            "value": 2
+        },
+        {
+            "source": "T112",
+            "target": "T82",
+            "value": 2
+        },
+        {
+            "source": "T113",
+            "target": "T86",
+            "value": 2
+        },
+        {
+            "source": "T113",
+            "target": "T89",
+            "value": 2
+        },
+        {
+            "source": "T114",
+            "target": "T92",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 1
+        }
+    ]
+}

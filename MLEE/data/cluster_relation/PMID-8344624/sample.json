@@ -1,0 +1,182 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Treatment",
+            "group": 6
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "foot",
+            "group": 10
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "hyperbaric oxygen",
+            "group": 7
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "foot",
+            "group": 10
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "vessel",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "affected",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "tissues",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "reduces",
+            "group": 11
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "edema",
+            "group": 2
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "accelerates",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "collagen",
+            "group": 12
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "production",
+            "group": 13
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 4
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "enhancing",
+            "group": 1
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "tissue",
+            "group": 0
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "repair",
+            "group": 9
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "tissue",
+            "group": 0
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "oxygen",
+            "group": 7
+        },
+        {
+            "id": 18,
+            "value": 2,
+            "name": "foot|foot",
+            "group": 10
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "amputation",
+            "group": 6
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "patients",
+            "group": 8
+        }
+    ],
+    "links": [
+        {
+            "source": 9,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        }
+    ]
+}

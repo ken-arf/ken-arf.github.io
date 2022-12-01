@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "NOTCH",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "Single Nucleotide Polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "Predisposition",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 3,
+            "name": "Breast Cancers|breast cancers|breast carcinomas",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "Saudi Patients",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "women",
+            "group": 3
+        },
+        {
+            "id": 6,
+            "value": 2,
+            "name": "rs3124591|rs3820041",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 3,
+            "name": "NOTCH1|NOTCH4|NOTCH3",
+            "group": 3
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "not exhibit as well",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "association",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "strong",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "association",
+            "group": 4
+        },
+        {
+            "id": 12,
+            "value": 4,
+            "name": "rs11249433|rs1043994|rs11249433|rs1043994",
+            "group": 0
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "in close proximity to NOTCH2",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "breast cancer early onset",
+            "group": 1
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "gender preference",
+            "group": 3
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "may",
+            "group": 2
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "early detection",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 1
+        }
+    ]
+}

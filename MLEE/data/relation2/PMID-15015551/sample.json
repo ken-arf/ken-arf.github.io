@@ -1,0 +1,225 @@
+{
+    "nodes": [
+        {
+            "id": "T21",
+            "name": "Morphogenesis",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T1",
+            "name": "embryonic CNS vessels",
+            "group": 8,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T5",
+            "name": "blood vessel",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "formation",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T6",
+            "name": "central nervous system",
+            "group": 2,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T7",
+            "name": "CNS",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "brain",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "spinal cord",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "avian",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "embryos",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "cell",
+            "group": 10,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "proliferation",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T2",
+            "name": "interactions",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "endothelial cells",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "pericytes",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "smooth muscle cells",
+            "group": 10,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T14",
+            "name": "macrophages",
+            "group": 10,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T19",
+            "name": "control",
+            "group": 9,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T15",
+            "name": "CNS",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T20",
+            "name": "assembly",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T17",
+            "name": "vasculature",
+            "group": 8,
+            "trigger": 0,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T15",
+            "value": 2
+        }
+    ]
+}

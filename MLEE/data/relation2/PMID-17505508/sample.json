@@ -1,0 +1,450 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "clear cell renal cell carcinoma",
+            "group": 6,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T2",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "renal cell carcinoma",
+            "group": 6,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T4",
+            "name": "Clear cell renal cell carcinoma",
+            "group": 6,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "CC-RCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T6",
+            "name": "tumour",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "Endothelial cell",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "proliferation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "plays a pivotal role",
+            "group": 9,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T12",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "CC-RCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "CD34",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "Ki-67",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T17",
+            "name": "carbonic anhydrase IX",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T18",
+            "name": "hypoxia-inducible factor-1alpha",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T19",
+            "name": "HIF-1alpha",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T20",
+            "name": "vascular endothelial growth factor",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T21",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "Vessel",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "microvessel",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "endothelial cell",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "proliferation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "tumour cell",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "proliferation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "CC-RCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T38",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "expression",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "HIF-1alpha",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T39",
+            "name": "expression",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "CC-RCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T42",
+            "name": "expression",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "angiopoietin 2",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T44",
+            "name": "CC-RCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T46",
+            "name": "Microvessel",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "CC-RCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T57",
+            "name": "expression",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "vessel",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "maturation",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "placental growth factor",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T60",
+            "name": "PDGFB1",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T61",
+            "name": "angiopoietin 1",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T62",
+            "name": "CC-RCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T63",
+            "name": "CC-RCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T64",
+            "name": "CC-RCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T67",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "vessel",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "maturation",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "CC-RCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 19
+        }
+    ],
+    "links": [
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T59",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T60",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T61",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T68",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T58",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T69",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2
+        }
+    ]
+}

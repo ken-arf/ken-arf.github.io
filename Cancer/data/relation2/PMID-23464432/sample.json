@@ -1,0 +1,404 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "hsa-mir-27a",
+            "group": 5,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T1",
+            "name": "variant",
+            "group": 4,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T3",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "risk",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "meta-analysis",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T7",
+            "name": "association",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "hsa-mir-27a",
+            "group": 5,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T8",
+            "name": "rs895819",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T10",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "meta-analysis",
+            "group": 0,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T12",
+            "name": "hsa-mir-27a",
+            "group": 5,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T11",
+            "name": "rs895819",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T14",
+            "name": "hsa-mir-27a",
+            "group": 5,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T13",
+            "name": "rs895819",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T31",
+            "name": "rs895819",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T33",
+            "name": "rs895819",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T15",
+            "name": "not",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "relationship",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "significantly",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "decreased",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "risk",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "risk",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "Europeans",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T22",
+            "name": "AG",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "AA",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "AG",
+            "group": 5,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T24",
+            "name": "GG",
+            "group": 5,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T25",
+            "name": "hsa-mir-27a",
+            "group": 5,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T26",
+            "name": "rs895819",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T27",
+            "name": "may",
+            "group": 0,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T28",
+            "name": "important",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "role",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T4",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 1
+        },
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 1
+        },
+        {
+            "source": "T7",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 1
+        },
+        {
+            "source": "T1",
+            "target": "T8",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 1
+        },
+        {
+            "source": "T16",
+            "target": "T15",
+            "value": 1
+        },
+        {
+            "source": "T20",
+            "target": "T19",
+            "value": 1
+        },
+        {
+            "source": "T20",
+            "target": "T18",
+            "value": 1
+        },
+        {
+            "source": "T26",
+            "target": "T25",
+            "value": 1
+        },
+        {
+            "source": "T29",
+            "target": "T28",
+            "value": 1
+        },
+        {
+            "source": "T29",
+            "target": "T27",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T21",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T22",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T24",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T14",
+            "value": 1
+        },
+        {
+            "source": "T33",
+            "target": "T32",
+            "value": 1
+        },
+        {
+            "source": "T33",
+            "target": "T14",
+            "value": 1
+        },
+        {
+            "source": "T33",
+            "target": "T21",
+            "value": 1
+        }
+    ]
+}

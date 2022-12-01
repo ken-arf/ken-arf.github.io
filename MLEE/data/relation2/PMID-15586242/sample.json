@@ -1,0 +1,424 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "Hypoxia-responsive element",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T28",
+            "name": "mediated",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "Tie2",
+            "group": 11,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T4",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "activity",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "Hypoxia-inducible factor-1",
+            "group": 11,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T6",
+            "name": "HIF-1",
+            "group": 11,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T12",
+            "name": "oxygen",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "HIF-1",
+            "group": 11,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T7",
+            "name": "binds",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "hypoxia-responsive elements",
+            "group": 2,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T10",
+            "name": "HRE",
+            "group": 2,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T11",
+            "name": "VEGF",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "initiates",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T40",
+            "name": "expression",
+            "group": 6,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T14",
+            "name": "tumor",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "constructed",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T16",
+            "name": "HRE",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "HRE",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "VEGF",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "linked",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T20",
+            "name": "Tie2",
+            "group": 11,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T21",
+            "name": "sTie2",
+            "group": 11,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T23",
+            "name": "SV40",
+            "group": 11,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T22",
+            "name": "promoter",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "HRE",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "SV40",
+            "group": 11,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T26",
+            "name": "sTie2",
+            "group": 11,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T42",
+            "name": "secreted",
+            "group": 9,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T27",
+            "name": "sTie2",
+            "group": 11,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T43",
+            "name": "inhibited",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T30",
+            "name": "tube",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "formation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "migration",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "endothelial cells",
+            "group": 14,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "HRE",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "SV40",
+            "group": 11,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T36",
+            "name": "sTie2",
+            "group": 11,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T47",
+            "name": "down-regulating",
+            "group": 5,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T38",
+            "name": "tumor",
+            "group": 10,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T39",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T7",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T47",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T38",
+            "value": 2
+        }
+    ]
+}

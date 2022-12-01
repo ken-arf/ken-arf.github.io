@@ -1,0 +1,255 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 5,
+            "name": "angiogenic|angiogenic|angiogenic|angiogenic|angiogenic",
+            "group": 2
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "human",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "oral squamous cell carcinoma cells",
+            "group": 5
+        },
+        {
+            "id": 3,
+            "value": 6,
+            "name": "oral cancer cells|oral cancer cells|oral cancer cells|oral cancer cells|oral cancer cells|oral cancer cells",
+            "group": 5
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "Stimulatory effects",
+            "group": 6
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "proliferation",
+            "group": 7
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "migration",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "human umbilical vein endothelial cells",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "HUVEC",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "normal oral keratinocytes",
+            "group": 5
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "NOK",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "vascular endothelial growth factors",
+            "group": 8
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "VEGF",
+            "group": 8
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "NOK",
+            "group": 5
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "Attenuation",
+            "group": 0
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "angiogenic",
+            "group": 2
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "neutralizing VEGF antibodies",
+            "group": 8
+        },
+        {
+            "id": 17,
+            "value": 2,
+            "name": "VEGF|VEGF",
+            "group": 8
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "play a key role",
+            "group": 3
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "p53",
+            "group": 8
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "murine double mutant 2",
+            "group": 8
+        },
+        {
+            "id": 21,
+            "value": 2,
+            "name": "Mdm2|Mdm2",
+            "group": 8
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "p53",
+            "group": 8
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "p53",
+            "group": 8
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "function loss",
+            "group": 0
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "overexpression",
+            "group": 9
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "mediated",
+            "group": 3
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "VEGF",
+            "group": 8
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "p53",
+            "group": 8
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 28,
+            "value": 2
+        }
+    ]
+}

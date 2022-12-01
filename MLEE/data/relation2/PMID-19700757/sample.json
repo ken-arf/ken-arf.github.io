@@ -1,0 +1,585 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "integrin alpha2beta1",
+            "group": 11,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T2",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "alpha2beta1 integrin receptor",
+            "group": 11,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T45",
+            "name": "plays a key role",
+            "group": 13,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "integrin alpha2",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T4",
+            "name": "beta1",
+            "group": 11,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T7",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "unchallenged",
+            "group": 9,
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T8",
+            "name": "endothelial cells",
+            "group": 14,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "fibrillar collagen",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T48",
+            "name": "induced",
+            "group": 10,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T12",
+            "name": "capillary",
+            "group": 12,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T47",
+            "name": "morphogenesis",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T14",
+            "name": "tube",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "formation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "reduced",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "SMI496",
+            "group": 15,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T17",
+            "name": "beta1",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "anti-alpha2beta1",
+            "group": 15,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T19",
+            "name": "-alpha1beta1 antibodies",
+            "group": 15,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T22",
+            "name": "Endothelial cells",
+            "group": 14,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "bound",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "labeled",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "collagen I fibrils",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T20",
+            "name": "inhibited",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "SMI496",
+            "group": 15,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T25",
+            "name": "SMI496",
+            "group": 15,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T53",
+            "name": "caused",
+            "group": 10,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T61",
+            "name": "cell",
+            "group": 14,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "cytoskeletal collapse",
+            "group": 16,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "endothelial cells",
+            "group": 14,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "delayed",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "endothelial cell",
+            "group": 14,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "zebrafish",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "embryos",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "expressing",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "green fluorescent protein",
+            "group": 11,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T56",
+            "name": "control",
+            "group": 13,
+            "trigger": 1,
+            "value": 24
+        },
+        {
+            "id": "T31",
+            "name": "vascular endothelial growth factor receptor-2",
+            "group": 11,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T33",
+            "name": "promoter",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "SMI496",
+            "group": 15,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T57",
+            "name": "interfered",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "inhibiting",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "sprouting",
+            "group": 5,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T36",
+            "name": "axial vessels",
+            "group": 4,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T1001",
+            "name": "zebrafish",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "alpha2 integrin",
+            "group": 11,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T42",
+            "name": "integrin",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "knockdown",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "integrin alpha2",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T40",
+            "name": "vessels",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "alpha2beta1 integrin",
+            "group": 11,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T60",
+            "name": "central role",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "alpha2beta1 integrin",
+            "group": 11,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T44",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T20",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T47",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T49",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T51",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T53",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T53",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T56",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T56",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T56",
+            "target": "T55",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T59",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T58",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T60",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T60",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T6",
+            "value": 1
+        }
+    ]
+}

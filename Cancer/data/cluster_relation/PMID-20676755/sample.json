@@ -1,0 +1,424 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "Genetic variants|genetic variation",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 5,
+            "name": "COX-2|COX-2|COX-2|COX-2|COX-2",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 5,
+            "name": "breast cancer|breast cancer|breast cancer|breast cancer|breast cancer",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "risk",
+            "group": 6
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "cyclooxygenase-2",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "may",
+            "group": 3
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "influence",
+            "group": 6
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "inflammatory response",
+            "group": 8
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "NSAID|NSAID",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "eight single nucleotide polymorphisms",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "examined",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "association",
+            "group": 6
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "Western New York",
+            "group": 4
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "adult lifetime use of aspirin",
+            "group": 4
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "recent use of ibuprofen",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 2,
+            "name": "rs2745559|rs4648261",
+            "group": 1
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "increased",
+            "group": 7
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "risk",
+            "group": 6
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "Associations",
+            "group": 6
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "other variants",
+            "group": 1
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "not",
+            "group": 5
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "evident",
+            "group": 3
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "Significant",
+            "group": 0
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "interaction",
+            "group": 8
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "recent aspirin use",
+            "group": 4
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "Variation",
+            "group": 1
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "modestly",
+            "group": 0
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "associated",
+            "group": 6
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "Better understanding",
+            "group": 3
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "role",
+            "group": 6
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "genetic variation",
+            "group": 1
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "interaction",
+            "group": 8
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "breast carcinogenesis",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 25,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 30,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 31,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 25,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 30,
+            "target": 8,
+            "value": 1
+        }
+    ]
+}

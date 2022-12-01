@@ -1,0 +1,660 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Expression",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "basic fibroblast growth factor",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "tissues",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "distribution",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "basic fibroblast growth factor",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T6",
+            "name": "bFGF",
+            "group": 10,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1001",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "tissues",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "Immunodetection",
+            "group": 9,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T8",
+            "name": "anti-bFGF mouse monoclonal antibody",
+            "group": 10,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T9",
+            "name": "bFGF",
+            "group": 10,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1002",
+            "name": "mouse",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1003",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "bFGF",
+            "group": 10,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T11",
+            "name": "neutralize",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "bFGF",
+            "group": 10,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1004",
+            "name": "bovine",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "vascular endothelial cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T14",
+            "name": "Expression",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T15",
+            "name": "bFGF",
+            "group": 10,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1005",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "tissues",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "ubiquitously detected",
+            "group": 12,
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T18",
+            "name": "basement membranes",
+            "group": 14,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "blood vessels",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "epidermal",
+            "group": 14,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "epithelial basement membranes",
+            "group": 14,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T34",
+            "name": "tissues",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "localization",
+            "group": 12,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T23",
+            "name": "blood vessels",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "tissues",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "vascular bed",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "blood vessels",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "expression",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "capillaries",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "branching",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T29",
+            "name": "capillaries",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "Endothelial cell",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "bFGF",
+            "group": 10,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T41",
+            "name": "found",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "cardiac muscle fibers",
+            "group": 13,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T30",
+            "name": "smooth muscle cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T44",
+            "name": "blood vessels",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "gut",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "myometrium",
+            "group": 4,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T47",
+            "name": "central nervous system neurons",
+            "group": 13,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T49",
+            "name": "cerebellar Purkinje cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T50",
+            "name": "epithelial cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "bronchi",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "colon",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "endometrium",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "sweat gland ducts",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T55",
+            "name": "skin",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "presence",
+            "group": 12,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T57",
+            "name": "bFGF",
+            "group": 10,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T58",
+            "name": "extracellular compartment",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "organs",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "play a role",
+            "group": 3,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T60",
+            "name": "angiogenesis",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T61",
+            "name": "bFGF",
+            "group": 10,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T62",
+            "name": "parenchymal cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 20
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T56",
+            "target": "T57",
+            "value": 2
+        },
+        {
+            "source": "T56",
+            "target": "T58",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T46",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T51",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T53",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T54",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T55",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T57",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T60",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T21",
+            "value": 1
+        }
+    ]
+}

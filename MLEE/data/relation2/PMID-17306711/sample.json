@@ -1,0 +1,363 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "apoptosis",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "pulmonary endothelial cells",
+            "group": 12,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T3",
+            "name": "intimal",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "proliferation",
+            "group": 11,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "heart",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "heart",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "children",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T7",
+            "name": "endothelial cell",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "apoptosis",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "intimal",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "proliferation",
+            "group": 11,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "vascular",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "perivascular cells",
+            "group": 12,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T13",
+            "name": "lung biopsy samples",
+            "group": 9,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1001",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "endothelial nitric oxide synthase",
+            "group": 2,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T15",
+            "name": "vascular endothelial growth factor",
+            "group": 2,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T16",
+            "name": "CD34",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "neoangiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T19",
+            "name": "Bcl-2",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T18",
+            "name": "expressed",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "pulmonary endothelial cells",
+            "group": 12,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1003",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "Intimal",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "proliferation",
+            "group": 11,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "perivascular inflammatory T-cells",
+            "group": 12,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T23",
+            "name": "upregulation",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "vascular endothelial growth factor",
+            "group": 2,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T26",
+            "name": "vessel",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "formation",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "vessel",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "impaired",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "endothelial cell",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "apoptosis",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "antiapoptotic signaling",
+            "group": 7,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T33",
+            "name": "perivascular inflammatory cells",
+            "group": 12,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T12",
+            "name": "intimal",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "proliferation",
+            "group": 11,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "vessel",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T41",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T9",
+            "target": "T11",
+            "value": 1
+        }
+    ]
+}

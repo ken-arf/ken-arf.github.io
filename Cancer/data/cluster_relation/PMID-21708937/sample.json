@@ -1,0 +1,372 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "Genetic variation|Genetic variation",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 3,
+            "name": "IGF2|IGF2|IGF signaling",
+            "group": 5
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "HTRA1|HTRA1",
+            "group": 5
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "breast cancer|breast cancer",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "risk",
+            "group": 6
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "BRCA1|BRCA1",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 4,
+            "name": "BRCA2 carriers|BRCA2 mutation carriers|BRCA1 carriers|BRCA2 carriers",
+            "group": 5
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "significant|significant",
+            "group": 7
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "associations",
+            "group": 6
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "genetic variants|genetic variants",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 2,
+            "name": "insulin-like growth factor|insulin-like growth factor signaling pathway",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "IGF",
+            "group": 5
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "signaling pathway",
+            "group": 0
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "Significant",
+            "group": 7
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "associations",
+            "group": 6
+        },
+        {
+            "id": 15,
+            "value": 3,
+            "name": "LD blocks|LD blocks|LD blocks",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "MMP3",
+            "group": 5
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "signaling",
+            "group": 0
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "suggests",
+            "group": 3
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "signaling",
+            "group": 0
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "AKT",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 4,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 7,
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "women",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "rs10069690",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "Prediction|Prediction",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "triple-negative breast cancer",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "age at diagnosis",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "BMI",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,570 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Vitamin D receptor",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "FokI|FokI",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "BsmI|BsmI",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 4,
+            "name": "breast cancer|breast cancer|breast cancer|breast cancer",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "risk",
+            "group": 5
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "French Canadian",
+            "group": 3
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "studied",
+            "group": 2
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "association",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "VDR",
+            "group": 3
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "same population",
+            "group": 3
+        },
+        {
+            "id": 10,
+            "value": 3,
+            "name": "family history of breast cancer|amily history of breast cancer|family history of breast cancer",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "women Quebec City, Canada",
+            "group": 3
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "F allele",
+            "group": 3
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "FF genotype",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 5,
+            "name": "FokI|FokI|FokI|FokI|FokI",
+            "group": 0
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "ff",
+            "group": 3
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "higher",
+            "group": 7
+        },
+        {
+            "id": 17,
+            "value": 2,
+            "name": "risk|risk",
+            "group": 5
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "without",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "family history",
+            "group": 3
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "odds ratios",
+            "group": 5
+        },
+        {
+            "id": 21,
+            "value": 2,
+            "name": "1.00|1.27",
+            "group": 4
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "1.57",
+            "group": 6
+        },
+        {
+            "id": 23,
+            "value": 3,
+            "name": "FF|Ff|ff",
+            "group": 3
+        },
+        {
+            "id": 24,
+            "value": 2,
+            "name": "BsmI|BsmI",
+            "group": 0
+        },
+        {
+            "id": 25,
+            "value": 2,
+            "name": "Bb|bb",
+            "group": 3
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "weak non-significant",
+            "group": 7
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "increased",
+            "group": 6
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "without",
+            "group": 4
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "family history",
+            "group": 3
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "suggest",
+            "group": 2
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "associations",
+            "group": 5
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "VDR",
+            "group": 3
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "FokI",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 4,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 24,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 24,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 27,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "source": 33,
+            "target": 32,
+            "value": 1
+        },
+        {
+            "source": 31,
+            "target": 30,
+            "value": 1
+        },
+        {
+            "source": 33,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 33,
+            "target": 11,
+            "value": 1
+        }
+    ]
+}

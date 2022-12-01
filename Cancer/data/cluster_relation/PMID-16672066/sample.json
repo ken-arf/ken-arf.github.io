@@ -1,0 +1,440 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "SNP-SNP interactions",
+            "group": 5
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "breast cancer|breast cancer",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "susceptibility",
+            "group": 7
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "evidence",
+            "group": 4
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "interaction",
+            "group": 5
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "increased",
+            "group": 8
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "risk",
+            "group": 7
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "DNA repair|DNA repair",
+            "group": 0
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "immune system",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "XPD",
+            "group": 6
+        },
+        {
+            "id": 10,
+            "value": 4,
+            "name": "Lys751Gln|Lys751Gln|Lys751Gln|Lys751Gln",
+            "group": 1
+        },
+        {
+            "id": 11,
+            "value": 2,
+            "name": "Lys|Lys",
+            "group": 6
+        },
+        {
+            "id": 12,
+            "value": 4,
+            "name": "and|and|and|and",
+            "group": 5
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "IL10",
+            "group": 6
+        },
+        {
+            "id": 14,
+            "value": 2,
+            "name": "G(-1082)A|G(-1082)A",
+            "group": 1
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "cell cycle",
+            "group": 0
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "estrogen metabolism",
+            "group": 0
+        },
+        {
+            "id": 17,
+            "value": 2,
+            "name": "CCND1|BARD1",
+            "group": 6
+        },
+        {
+            "id": 18,
+            "value": 2,
+            "name": "Pro241Pro|Pro241Pro",
+            "group": 1
+        },
+        {
+            "id": 19,
+            "value": 2,
+            "name": "Pro|Pro",
+            "group": 6
+        },
+        {
+            "id": 20,
+            "value": 2,
+            "name": "COMT|COMT",
+            "group": 6
+        },
+        {
+            "id": 21,
+            "value": 4,
+            "name": "Met108/158Val|Met108/158Val|Met108/158Val|Met108/158Val",
+            "group": 1
+        },
+        {
+            "id": 22,
+            "value": 2,
+            "name": "Met|Met",
+            "group": 6
+        },
+        {
+            "id": 23,
+            "value": 2,
+            "name": "Pro24Ser|Pro24Ser",
+            "group": 1
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "XPD",
+            "group": 6
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "carcinogen metabolism",
+            "group": 0
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "GSTP1",
+            "group": 6
+        },
+        {
+            "id": 27,
+            "value": 2,
+            "name": "Ile105Val|Ile105Val",
+            "group": 1
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "Ile",
+            "group": 6
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 14,
+            "value": 1
+        }
+    ]
+}

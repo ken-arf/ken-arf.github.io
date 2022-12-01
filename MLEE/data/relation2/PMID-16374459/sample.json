@@ -1,0 +1,485 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Regulation",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T2",
+            "name": "skin microvasculature",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T3",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "migration",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "PKCalpha",
+            "group": 6,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T9",
+            "name": "Activation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "protein kinase C",
+            "group": 6,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T11",
+            "name": "PKC",
+            "group": 6,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T5",
+            "name": "induces",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "changes",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "microvascular endothelial cells",
+            "group": 9,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T14",
+            "name": "affect",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "microvasculature",
+            "group": 7,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T16",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "migration",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "vascular",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "PKC",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "responsible",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "IL-1beta",
+            "group": 6,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T22",
+            "name": "phorbol myristic acetate",
+            "group": 10,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T23",
+            "name": "activate",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "PKC",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "PKCalpha",
+            "group": 6,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T27",
+            "name": "Go6976",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T28",
+            "name": "PKCbeta",
+            "group": 6,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T29",
+            "name": "hispidin",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T18",
+            "name": "controls",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T30",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "inhibition",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "PKCalpha",
+            "group": 6,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T33",
+            "name": "inhibition",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "PKCbeta",
+            "group": 6,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T35",
+            "name": "Go6976",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T46",
+            "name": "changes",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "phosphorylated",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "nonphosphorylated",
+            "group": 3,
+            "trigger": 1,
+            "value": 24
+        },
+        {
+            "id": "T36",
+            "name": "PKCalpha",
+            "group": 6,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T37",
+            "name": "cell membrane",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "cytoplasm",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "PKCalpha",
+            "group": 6,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T39",
+            "name": "inhibition",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "Go6976",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T42",
+            "name": "PKCalpha",
+            "group": 6,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T43",
+            "name": "endothelial cell",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "microvascular",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T8",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T9",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T50",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T49",
+            "value": 2
+        }
+    ]
+}

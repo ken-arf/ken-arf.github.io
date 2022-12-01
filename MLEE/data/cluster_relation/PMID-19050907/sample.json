@@ -1,0 +1,168 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "people",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "rabbits",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "blood",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "alpha2 (I) collagen|alpha1 (V) collagen",
+            "group": 8
+        },
+        {
+            "id": 4,
+            "value": 6,
+            "name": "COL-I|COL-IV|COL-V|COL-IV|COL-I|COL-V",
+            "group": 8
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "type IV collagen",
+            "group": 8
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "vascular endothelial growth factor",
+            "group": 8
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "VEGF|VEGF",
+            "group": 8
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "expression",
+            "group": 9
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "promoting",
+            "group": 5
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 2
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "activity",
+            "group": 5
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "effect",
+            "group": 3
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "matrix",
+            "group": 1
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "remodeling",
+            "group": 7
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "rabbit",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "ear",
+            "group": 6
+        }
+    ],
+    "links": [
+        {
+            "source": 8,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 4,
+            "value": 2
+        }
+    ]
+}

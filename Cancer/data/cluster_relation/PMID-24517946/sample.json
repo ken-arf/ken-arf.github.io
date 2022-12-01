@@ -1,0 +1,592 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "body mass index|body mass index",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "polymorphism",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "catalytic subunit of glutamate-cysteine ligase|catalytic subunit of glutamate-cysteine ligase",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 8,
+            "name": "breast cancer|breast cancer|breast cancer|breast cancer|breast cancer|breast cancer|breast cancer|breast cancer",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 2,
+            "name": "risk|risk",
+            "group": 5
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "Chinese women]",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "investigate",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "BMI",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 5,
+            "name": "rs17883901|rs17883901|rs17883901|rs17883901|rs17883901",
+            "group": 1
+        },
+        {
+            "id": 9,
+            "value": 5,
+            "name": "GCLC|GCLC|GCLC|GCLC|GCLC",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 4,
+            "name": "rs17883901|rs17883901|rs17883901|rs17883901",
+            "group": 1
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "No",
+            "group": 7
+        },
+        {
+            "id": 12,
+            "value": 2,
+            "name": "association|association",
+            "group": 5
+        },
+        {
+            "id": 13,
+            "value": 5,
+            "name": "BMI at present|BMI at age 20 of 18.5 to 22.9|BMI at age 20 of 18.5 to 22.9|BMI at age 20|BMI at age 20",
+            "group": 4
+        },
+        {
+            "id": 14,
+            "value": 2,
+            "name": "premenopausal|premenopausal",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "postmenopausal",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "women",
+            "group": 4
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "marginally",
+            "group": 0
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "decreased",
+            "group": 6
+        },
+        {
+            "id": 19,
+            "value": 3,
+            "name": "risk|risk|risk",
+            "group": 5
+        },
+        {
+            "id": 20,
+            "value": 2,
+            "name": "CT|CT",
+            "group": 4
+        },
+        {
+            "id": 21,
+            "value": 2,
+            "name": "TT|TT",
+            "group": 4
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "BMI was greater than 25",
+            "group": 4
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "increased",
+            "group": 6
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "decreased",
+            "group": 6
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "BMI present",
+            "group": 4
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "risk",
+            "group": 5
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "not",
+            "group": 7
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "found",
+            "group": 5
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "no",
+            "group": 7
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "Obesity at present",
+            "group": 4
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "may",
+            "group": 3
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "significantly",
+            "group": 0
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "increase",
+            "group": 6
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "risk",
+            "group": 5
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "women",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 4,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 34,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 34,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 28,
+            "target": 27,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 34,
+            "target": 31,
+            "value": 1
+        },
+        {
+            "source": 34,
+            "target": 33,
+            "value": 1
+        },
+        {
+            "source": 34,
+            "target": 32,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 35,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 30,
+            "value": 1
+        }
+    ]
+}

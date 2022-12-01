@@ -1,0 +1,192 @@
+{
+    "nodes": [
+        {
+            "id": "T25",
+            "name": "Intraepithelial neoplasm",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1",
+            "name": "uterine cervix",
+            "group": 5,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T2",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T3",
+            "name": "uterine cervix",
+            "group": 5,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T23",
+            "name": "conization",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "hysterectomy",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "vessel",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "laminin",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "type IV collagen",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T7",
+            "name": "epithelium",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "vessel basement membranes",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T22",
+            "name": "carcinoma",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "vascular",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "epithelial lesions",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T10",
+            "name": "vessels",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "carcinomas",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "vascular",
+            "group": 5,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T26",
+            "name": "histologic lesions",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "Histogenesis",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "abnormal vessels",
+            "group": 5,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T15",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T16",
+            "name": "cancerized epithelia",
+            "group": 6,
+            "trigger": 0,
+            "value": 18
+        }
+    ],
+    "links": [
+        {
+            "source": "T11",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T9",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T9",
+            "target": "T20",
+            "value": 2
+        }
+    ]
+}

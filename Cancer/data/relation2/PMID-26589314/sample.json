@@ -1,0 +1,234 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "SNPs",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "risk",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "prediction",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "African American women",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T3",
+            "name": "Hispanic women",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T8",
+            "name": "Hispanic women",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T7",
+            "name": "women African American",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T9",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "risk",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "prediction models",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "susceptibility single nucleotide polymorphisms",
+            "group": 3,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T13",
+            "name": "SNPs",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "US population",
+            "group": 4,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T15",
+            "name": ">70 SNPs",
+            "group": 3,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T16",
+            "name": "independent",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T17",
+            "name": "independent",
+            "group": 2,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "estimate",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "risk associations",
+            "group": 6,
+            "trigger": 1,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T5",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 1
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 1
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T12",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T8",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T7",
+            "value": 1
+        },
+        {
+            "source": "T14",
+            "target": "T7",
+            "value": 1
+        },
+        {
+            "source": "T14",
+            "target": "T8",
+            "value": 1
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T19",
+            "target": "T18",
+            "value": 1
+        },
+        {
+            "source": "T16",
+            "target": "T7",
+            "value": 1
+        },
+        {
+            "source": "T16",
+            "target": "T8",
+            "value": 1
+        }
+    ]
+}

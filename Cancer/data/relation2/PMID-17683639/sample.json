@@ -1,0 +1,198 @@
+{
+    "nodes": [
+        {
+            "id": "T16",
+            "name": "Ontario",
+            "group": 5,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T11",
+            "name": "evidence",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T12",
+            "name": "simple (two-way) interactions",
+            "group": 6,
+            "trigger": 1,
+            "value": 14
+        },
+        {
+            "id": "T13",
+            "name": "complex (multi-way) interactions",
+            "group": 6,
+            "trigger": 1,
+            "value": 15
+        },
+        {
+            "id": "T14",
+            "name": "associated",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T15",
+            "name": "breast cancer",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "XPD",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "Lys751Gln",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T7",
+            "name": "Lys751Gln",
+            "group": 0,
+            "trigger": 1,
+            "value": 17
+        },
+        {
+            "id": "T8",
+            "name": "Lys751",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T3",
+            "name": "IL10",
+            "group": 5,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T4",
+            "name": "G(-1082)A",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T9",
+            "name": "G A",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T10",
+            "name": "-1082",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T5",
+            "name": "most significant",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "interaction",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T6",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T5",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T4",
+            "target": "T3",
+            "value": 1
+        },
+        {
+            "source": "T4",
+            "target": "T9",
+            "value": 1
+        },
+        {
+            "source": "T4",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T14",
+            "target": "T11",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T6",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T16",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T16",
+            "value": 1
+        }
+    ]
+}

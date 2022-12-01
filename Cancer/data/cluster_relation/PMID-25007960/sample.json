@@ -1,0 +1,372 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "Chinese women|Chinese women",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "40 single nucleotide polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "evaluated",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "these SNPs",
+            "group": 0
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "risk",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "estrogen receptor",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "estrogen receptor progestin human epidermal growth factor receptor-2 status|human epidermal growth factor receptor-2",
+            "group": 1
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "ER",
+            "group": 3
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "progestin",
+            "group": 3
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "PR",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "HER-2",
+            "group": 3
+        },
+        {
+            "id": 12,
+            "value": 5,
+            "name": "rs9693444|rs6828523|rs4849887|rs12493607|rs11075995",
+            "group": 0
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "8p12",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "associated",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 1
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "Statistically significant",
+            "group": 5
+        },
+        {
+            "id": 17,
+            "value": 2,
+            "name": "association|association",
+            "group": 4
+        },
+        {
+            "id": 18,
+            "value": 4,
+            "name": "4q34.1|2q14.2|3p24.1|16q12.2",
+            "group": 3
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "ADAM29",
+            "group": 3
+        },
+        {
+            "id": 20,
+            "value": 3,
+            "name": "ER-positive breast cancer|PR-positive breast cancer|HER-2 overexpression in breast cancer",
+            "group": 1
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "associations",
+            "group": 4
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "TGFBR2",
+            "group": 3
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "FTO",
+            "group": 3
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "basal-like breast cancer",
+            "group": 1
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "statistically significant",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 14,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 24,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 23,
+            "value": 1
+        }
+    ]
+}

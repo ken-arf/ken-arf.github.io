@@ -1,0 +1,237 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "Interleukin-1 receptor antagonist|IL-1 receptor antagonist",
+            "group": 11
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "inhibits",
+            "group": 10
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "neuronal",
+            "group": 8
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "damage|damage",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "rat",
+            "group": 6
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "Interleukin-1",
+            "group": 11
+        },
+        {
+            "id": 6,
+            "value": 4,
+            "name": "IL-1|IL-1|IL-1|IL-1",
+            "group": 11
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "synthesis",
+            "group": 12
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "brain",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "stimulated",
+            "group": 9
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "neovascularization",
+            "group": 2
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "neuronal",
+            "group": 8
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "death",
+            "group": 4
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "cerebral artery",
+            "group": 1
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "inhibited",
+            "group": 10
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "rats",
+            "group": 6
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "injected",
+            "group": 5
+        },
+        {
+            "id": 17,
+            "value": 2,
+            "name": "IL-1ra|IL-1ra",
+            "group": 11
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "infusion",
+            "group": 5
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "NMDA",
+            "group": 7
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "cis-2,4-methanoglutamate",
+            "group": 7
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "injection",
+            "group": 5
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "mediator",
+            "group": 9
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "brain",
+            "group": 0
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "neuronal",
+            "group": 8
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "death",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 24,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 20,
+            "value": 2
+        }
+    ]
+}

@@ -1,0 +1,297 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Solid tumor",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "therapy",
+            "group": 5
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "manipulation",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "vasculature",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "TNF",
+            "group": 10
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "solid tumors|solid tumors",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "cell",
+            "group": 6
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "treatment",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "tumor",
+            "group": 1
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "vasculature",
+            "group": 2
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "Inhibition",
+            "group": 9
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "tumor vascular",
+            "group": 2
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "development",
+            "group": 7
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "effect",
+            "group": 4
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "growth",
+            "group": 0
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "progression",
+            "group": 7
+        },
+        {
+            "id": 16,
+            "value": 2,
+            "name": "tumor|tumor cell",
+            "group": 1
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "Destruction",
+            "group": 3
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "vasculature",
+            "group": 2
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "inflicts",
+            "group": 8
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "damage",
+            "group": 3
+        },
+        {
+            "id": 21,
+            "value": 2,
+            "name": "tumor vascular bed|tumor vascular bed",
+            "group": 2
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "manipulated",
+            "group": 4
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "tumor",
+            "group": 1
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "administered",
+            "group": 5
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "tumor necrosis factor alpha",
+            "group": 10
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "TNF",
+            "group": 10
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "therapy",
+            "group": 5
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "TNF",
+            "group": 10
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "improves",
+            "group": 8
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "tumor",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 12,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 17,
+            "value": 2
+        }
+    ]
+}

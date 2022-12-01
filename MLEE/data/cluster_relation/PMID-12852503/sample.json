@@ -1,0 +1,230 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "tissue|tissue",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "polyester|polyester",
+            "group": 5
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "polypropylene|polypropylene",
+            "group": 5
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "preperitoneal space|preperitoneal space",
+            "group": 6
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "Tissue",
+            "group": 0
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "tissue",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "PP",
+            "group": 5
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "polyester",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "polyester|polyester",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "fibrous",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "fat",
+            "group": 0
+        },
+        {
+            "id": 11,
+            "value": 2,
+            "name": "encapsulation|encapsulation",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "connective tissue",
+            "group": 0
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "neovascularization",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "necrosis",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 2,
+            "name": "exudate|exudate",
+            "group": 2
+        },
+        {
+            "id": 16,
+            "value": 2,
+            "name": "PP|PP",
+            "group": 5
+        },
+        {
+            "id": 17,
+            "value": 2,
+            "name": "resulted|resulted",
+            "group": 8
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "fibrous",
+            "group": 0
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "encapsulation",
+            "group": 1
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "connective tissue",
+            "group": 0
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "formation",
+            "group": 7
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "fat",
+            "group": 0
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "necrosis",
+            "group": 4
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "polyester",
+            "group": 5
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "PP",
+            "group": 5
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "connective tissue",
+            "group": 0
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "fibrous",
+            "group": 0
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "encapsulation",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 11,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 22,
+            "value": 2
+        }
+    ]
+}

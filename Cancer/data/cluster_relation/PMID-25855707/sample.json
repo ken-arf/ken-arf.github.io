@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "tested",
+            "group": 2
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "pair-wise multiplicative interactions",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "77-SNP",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "polygenic risk score",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "PRS",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "for",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "estrogen receptor status",
+            "group": 1
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "estrogen receptor",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "ER",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "Absolute risks",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "Women",
+            "group": 4
+        },
+        {
+            "id": 12,
+            "value": 2,
+            "name": "ER-positive|ER-negative",
+            "group": 1
+        },
+        {
+            "id": 13,
+            "value": 2,
+            "name": "with family history of breast cancer|without a family history of breast cancer",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 13,
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "laryngeal squamous cell carcinoma",
+            "group": 6,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T4",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "laryngeal squamous cell carcinoma",
+            "group": 6,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T7",
+            "name": "LSCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "microvessel",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "vascular endothelial growth factor",
+            "group": 7,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T10",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T8",
+            "name": "expression",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "LSCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "cervical lymphatic metastasis",
+            "group": 6,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T15",
+            "name": "lymphatic metastasis tumors",
+            "group": 6,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T18",
+            "name": "cervical lymphatic metastasis tumors",
+            "group": 6,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T20",
+            "name": "Expression",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "tumor",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "LSCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "cervical lymphatic metastasis",
+            "group": 6,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T26",
+            "name": "LSCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "VEGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "promote",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "tumor",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "LSCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "Tumor",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "contribute",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "tumor",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "progression",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "inhibiting",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "apoptosis",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "LSCC",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T33",
+            "value": 2
+        }
+    ]
+}

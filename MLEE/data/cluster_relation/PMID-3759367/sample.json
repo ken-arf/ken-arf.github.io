@@ -1,0 +1,76 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Conjunctival",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "neovascularization|neovascularization",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "retinal",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "stimulates",
+            "group": 5
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "human",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "changes",
+            "group": 2
+        },
+        {
+            "id": 6,
+            "value": 5,
+            "name": "conjunctival|conjunctival|conjunctival|conjunctival|conjunctival",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "oxygen",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "patients",
+            "group": 3
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "neovascular",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        }
+    ]
+}

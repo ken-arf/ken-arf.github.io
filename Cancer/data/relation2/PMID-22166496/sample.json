@@ -1,0 +1,547 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "microRNA-binding site",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T2",
+            "name": "polymorphisms",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "DNA repair genes",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T4",
+            "name": "risk factors",
+            "group": 6,
+            "trigger": 1,
+            "value": 24
+        },
+        {
+            "id": "T5",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "their",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "radiotherapy outcomes",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "radiotherapy",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "messenger RNAs",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T14",
+            "name": "single-nucleotide polymorphism",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "SNP",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "miRNA-binding site",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T17",
+            "name": "could",
+            "group": 0,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "mRNA translation",
+            "group": 7,
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T13",
+            "name": "mRNA",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T8",
+            "name": "influence",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "treatment response",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "SNPs",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "3'-untranslated regions",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T20",
+            "name": "20 DNA repair genes",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T21",
+            "name": "putative",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "miRNA-binding sites",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T24",
+            "name": "PARP-1",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "rs8679",
+            "group": 2,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T40",
+            "name": "PARP1",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T39",
+            "name": "rs8679",
+            "group": 2,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T25",
+            "name": "homozygotes",
+            "group": 4,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T27",
+            "name": "PARP1",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T26",
+            "name": "rs8679",
+            "group": 2,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T28",
+            "name": "increased",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "risk",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "radiotherapy",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "RAD51",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "rs7180135",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T34",
+            "name": "minor allele",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "improved",
+            "group": 5,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T37",
+            "name": "cancer",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "survival",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "associations",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "DNA repair gene",
+            "group": 4,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T46",
+            "name": "miRNA-binding site",
+            "group": 4,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T47",
+            "name": "SNPs",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "SNPs",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "radiotherapy outcomes",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "radiotherapy",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T15",
+            "target": "T14",
+            "value": 1
+        },
+        {
+            "source": "T15",
+            "target": "T16",
+            "value": 1
+        },
+        {
+            "source": "T18",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T8",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T12",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T19",
+            "target": "T9",
+            "value": 1
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T22",
+            "target": "T21",
+            "value": 1
+        },
+        {
+            "source": "T19",
+            "target": "T22",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 1
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 1
+        },
+        {
+            "source": "T26",
+            "target": "T25",
+            "value": 1
+        },
+        {
+            "source": "T30",
+            "target": "T28",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T34",
+            "value": 1
+        },
+        {
+            "source": "T36",
+            "target": "T35",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T38",
+            "value": 1
+        },
+        {
+            "source": "T38",
+            "target": "T7",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T33",
+            "value": 1
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 1
+        },
+        {
+            "source": "T47",
+            "target": "T46",
+            "value": 1
+        },
+        {
+            "source": "T47",
+            "target": "T45",
+            "value": 1
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 1
+        }
+    ]
+}

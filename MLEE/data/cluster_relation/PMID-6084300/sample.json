@@ -1,0 +1,132 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "vasoproliferation|vasoproliferation",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "neovascularization",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "formed",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "blood vessels",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "vessels",
+            "group": 2
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "proliferating",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "vascular networks",
+            "group": 2
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "vessels|vessels",
+            "group": 2
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "venules",
+            "group": 2
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "capillaries",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "evolution",
+            "group": 4
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "proliferating",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "arterioles",
+            "group": 2
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "venules",
+            "group": 2
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "vascular",
+            "group": 2
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "ocular",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 10,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 15,
+            "value": 2
+        }
+    ]
+}

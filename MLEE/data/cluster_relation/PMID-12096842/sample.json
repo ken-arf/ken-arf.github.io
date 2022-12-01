@@ -1,0 +1,336 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "humans",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "regulation",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "bone",
+            "group": 9
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "formation",
+            "group": 6
+        },
+        {
+            "id": 4,
+            "value": 3,
+            "name": "bone|bone matrix|bone",
+            "group": 9
+        },
+        {
+            "id": 5,
+            "value": 8,
+            "name": "insulin-like growth factor [IGF] I|IGF binding protein [IGFBP] 3|transforming growth factor [TGF] beta1|TGF-beta1|IGF-I|IGFBP-3|TGF-beta1|TGF-beta1",
+            "group": 8
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "basic FGF",
+            "group": 8
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "bFGF",
+            "group": 8
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "matrix-metalloproteinases [MMPs] 1",
+            "group": 8
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "2",
+            "group": 8
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "3",
+            "group": 8
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "human growth hormone",
+            "group": 8
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "hGH",
+            "group": 8
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "bone",
+            "group": 9
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "ALP",
+            "group": 8
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "bone-specific ALP",
+            "group": 8
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "BAP",
+            "group": 8
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "osteocalcin",
+            "group": 8
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "OC",
+            "group": 8
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "serum samples",
+            "group": 0
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "patients",
+            "group": 4
+        },
+        {
+            "id": 21,
+            "value": 3,
+            "name": "increase|increase|increase",
+            "group": 7
+        },
+        {
+            "id": 22,
+            "value": 3,
+            "name": "MMP-1|MMP-1|MMP-1",
+            "group": 8
+        },
+        {
+            "id": 23,
+            "value": 4,
+            "name": "bFGF|bFGF|bFGF|bFGF",
+            "group": 8
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "ALP",
+            "group": 8
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "BAP",
+            "group": 8
+        },
+        {
+            "id": 26,
+            "value": 2,
+            "name": "hGH|hGH",
+            "group": 8
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "changes",
+            "group": 3
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "BAP",
+            "group": 8
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "activated",
+            "group": 7
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "osteoblastic cells",
+            "group": 5
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "bone",
+            "group": 9
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "increased",
+            "group": 7
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "stimulation",
+            "group": 7
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 21,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 24,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 33,
+            "target": 34,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 8,
+            "value": 1
+        }
+    ]
+}

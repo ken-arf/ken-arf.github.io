@@ -1,0 +1,95 @@
+{
+    "name": "ROOT",
+    "children": [
+        {
+            "name": "C0",
+            "children": [
+                {
+                    "name": "IL-12",
+                    "value": 19
+                },
+                {
+                    "name": "IL-12",
+                    "value": 20
+                },
+                {
+                    "name": "IL-12",
+                    "value": 19
+                },
+                {
+                    "name": "IL-12",
+                    "value": 19
+                },
+                {
+                    "name": "IL-12",
+                    "value": 20
+                }
+            ]
+        },
+        {
+            "name": "C1",
+            "children": [
+                {
+                    "name": "activated",
+                    "value": 23
+                },
+                {
+                    "name": "activated",
+                    "value": 23
+                }
+            ]
+        },
+        {
+            "name": "C2",
+            "children": [
+                {
+                    "name": "PBMC",
+                    "value": 20
+                },
+                {
+                    "name": "PBMC",
+                    "value": 20
+                }
+            ]
+        },
+        {
+            "name": "C3",
+            "children": [
+                {
+                    "name": "ICAM-1",
+                    "value": 17
+                },
+                {
+                    "name": "VCAM-1",
+                    "value": 18
+                }
+            ]
+        },
+        {
+            "name": "C4",
+            "children": [
+                {
+                    "name": "CD4",
+                    "value": 23
+                },
+                {
+                    "name": "CD8",
+                    "value": 23
+                }
+            ]
+        },
+        {
+            "name": "C5",
+            "children": [
+                {
+                    "name": "CD4(+)",
+                    "value": 16
+                },
+                {
+                    "name": "CD8(+)",
+                    "value": 16
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,848 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "overexpress",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "hCAP-18",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T3",
+            "name": "LL-37",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T11",
+            "name": "increases",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T6",
+            "name": "ovarian cancer cell",
+            "group": 13,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "proliferation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "invasion",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "role",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "LL-37",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T8",
+            "name": "human cationic antimicrobial protein 18",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T9",
+            "name": "hCAP-18",
+            "group": 10,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T36",
+            "name": "cancer",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "development",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "progression",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "damaged",
+            "group": 6,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T70",
+            "name": "tissue",
+            "group": 11,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T10",
+            "name": "LL-37",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T12",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "tumor",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "progression",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "hCAP-18",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T16",
+            "name": "LL-37",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T17",
+            "name": "ovarian tissue",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "effects",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "LL-37",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T19",
+            "name": "ovarian cancer cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T21",
+            "name": "Expression",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T22",
+            "name": "hCAP-18",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "LL-37",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T20",
+            "name": "localized",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "immune",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "granulosa cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T26",
+            "name": "normal ovarian tissue",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T27",
+            "name": "ovarian tumors",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "hCAP-18",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T29",
+            "name": "LL-37",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T63",
+            "name": "expression",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T30",
+            "name": "tumor",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "stromal cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T33",
+            "name": "immune cell",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "infiltration",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "microvessel",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "epithelial-derived ovarian tumors",
+            "group": 9,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T38",
+            "name": "ovarian tumor tissue lysates",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T41",
+            "name": "ovarian cancer cell lines",
+            "group": 13,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T37",
+            "name": "express",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "hCAP-18",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T43",
+            "name": "LL-37",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T40",
+            "name": "Treatment",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "ovarian cancer cell lines",
+            "group": 13,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T45",
+            "name": "LL-37",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T64",
+            "name": "stimulated",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "proliferation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "chemotaxis",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "invasion",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "matrix metalloproteinase",
+            "group": 10,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T46",
+            "name": "expression",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "hCAP-18",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T50",
+            "name": "LL-37",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T48",
+            "name": "overexpressed",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "ovarian tumors",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "LL-37",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T69",
+            "name": "contribute",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "stimulation",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "tumor cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "initiation",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "recruitment",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "immune cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "ovarian cancer",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "progression",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T50",
+            "value": 2
+        },
+        {
+            "source": "T53",
+            "target": "T54",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T58",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T60",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T55",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T55",
+            "value": 2
+        },
+        {
+            "source": "T62",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T62",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T63",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T63",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T65",
+            "value": 2
+        },
+        {
+            "source": "T65",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T66",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T66",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T67",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T46",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T68",
+            "target": "T56",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T53",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T68",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T57",
+            "value": 2
+        },
+        {
+            "source": "T71",
+            "target": "T70",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T31",
+            "value": 1
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Expression",
+            "group": 12
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "regulation",
+            "group": 5
+        },
+        {
+            "id": 2,
+            "value": 12,
+            "name": "IGF-1|IGF-1R|IGF-1 binding proteins|IGF-1 receptor|IGF-1R|IGF-1|IGF-1R|IGF binding proteins|IGF-1|IGF-1|IGF-1R|IGF binding proteins",
+            "group": 11
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "blood vessels",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "insulin-like growth factor (IGF)-1",
+            "group": 11
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "system",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "IGFs",
+            "group": 11
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "vasculature|vasculature",
+            "group": 7
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "mediated",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "interactions",
+            "group": 6
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "regulated",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "phosphorylation",
+            "group": 9
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "proteolysis",
+            "group": 3
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "polymerization",
+            "group": 6
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "cell",
+            "group": 10
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "matrix",
+            "group": 1
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "association",
+            "group": 6
+        },
+        {
+            "id": 17,
+            "value": 2,
+            "name": "IGF|IGF",
+            "group": 11
+        },
+        {
+            "id": 18,
+            "value": 2,
+            "name": "system|system",
+            "group": 0
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "oxygen",
+            "group": 8
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "integrin",
+            "group": 11
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "role",
+            "group": 5
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 4
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "regulation",
+            "group": 5
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "expression",
+            "group": 12
+        }
+    ],
+    "links": [
+        {
+            "source": 24,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "value": 2
+        }
+    ]
+}

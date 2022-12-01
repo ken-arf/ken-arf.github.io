@@ -1,0 +1,247 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "Single nucleotide polymorphism|Single nucleotide polymorphisms",
+            "group": 2
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "SNP|SNPs",
+            "group": 2
+        },
+        {
+            "id": 2,
+            "value": 6,
+            "name": "Thr241Met|Thr241Met|Thr241Met|Thr241Met|Thr241Met|Thr241Met",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "value": 3,
+            "name": "Thr241|Thr241|Thr241",
+            "group": 5
+        },
+        {
+            "id": 4,
+            "value": 4,
+            "name": "XRCC3|XRCC3|XRCC3|XRCC3",
+            "group": 5
+        },
+        {
+            "id": 5,
+            "value": 3,
+            "name": "breast cancer|breast cancer|breast cancer",
+            "group": 3
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "risk",
+            "group": 6
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "Polish women",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "DNA repair genes|repair DNA damage",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "may be|may",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "risk",
+            "group": 6
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "cancer",
+            "group": 3
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "evaluate",
+            "group": 4
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "associations",
+            "group": 6
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "relationship",
+            "group": 6
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "polymorphism",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 2,
+            "value": 1
+        }
+    ]
+}

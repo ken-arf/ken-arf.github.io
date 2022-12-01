@@ -1,0 +1,297 @@
+{
+    "nodes": [
+        {
+            "id": "T20",
+            "name": "Chinese women",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T3",
+            "name": "rs2046210",
+            "group": 1,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T4",
+            "name": "rs1219648",
+            "group": 1,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T5",
+            "name": "rs3817198",
+            "group": 1,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T6",
+            "name": "rs8051542",
+            "group": 1,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T7",
+            "name": "rs3803662",
+            "group": 1,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T8",
+            "name": "rs889312",
+            "group": 1,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T9",
+            "name": "rs10941679",
+            "group": 1,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T10",
+            "name": "rs13281615",
+            "group": 1,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T1",
+            "name": "associated",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "breast cancer",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "association",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "breast cancer",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "genetic risk score",
+            "group": 3,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T14",
+            "name": "women",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "genetic risk score",
+            "group": 3,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T17",
+            "name": "waist-to-hip ratio",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T18",
+            "name": "benign breast disease",
+            "group": 2,
+            "trigger": 0,
+            "value": 20
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T4",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T5",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T6",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T7",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T8",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T9",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T10",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T3",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T3",
+            "target": "T18",
+            "value": 1
+        },
+        {
+            "source": "T15",
+            "target": "T11",
+            "value": 1
+        },
+        {
+            "source": "T15",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T15",
+            "target": "T18",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T14",
+            "value": 1
+        }
+    ]
+}

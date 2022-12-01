@@ -1,0 +1,257 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "interleukin-6|Interleukin-6",
+            "group": 11
+        },
+        {
+            "id": 1,
+            "value": 7,
+            "name": "IL-6|IL-6|Interleukin-6|IL-6|IL-6|IL-6|IL-6",
+            "group": 11
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "cancer",
+            "group": 1
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "associated",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "tumor",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "progression",
+            "group": 8
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "inhibition",
+            "group": 10
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "cancer cells",
+            "group": 7
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "apoptosis",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "stimulation",
+            "group": 9
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 2
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "Anti-IL-6",
+            "group": 11
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "therapy",
+            "group": 5
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "cancer",
+            "group": 1
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "elevated",
+            "group": 9
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "serum",
+            "group": 0
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "patients",
+            "group": 6
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "endometrial cancer",
+            "group": 1
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "non-small cell lung carcinoma",
+            "group": 1
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "colorectal cancer",
+            "group": 1
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "renal cell carcinoma",
+            "group": 1
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "breast",
+            "group": 1
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "ovarian cancer",
+            "group": 1
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "Serum",
+            "group": 0
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "tumor",
+            "group": 1
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "survival",
+            "group": 4
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "patients",
+            "group": 6
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "colorectal cancer",
+            "group": 1
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 1
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "gastric cancer",
+            "group": 1
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "pancreatic cancer",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 1
+        }
+    ]
+}

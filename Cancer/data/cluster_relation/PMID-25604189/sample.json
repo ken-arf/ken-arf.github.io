@@ -1,0 +1,137 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "interactions",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "CASP8|LSP1",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "rs1045485",
+            "group": 0
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "alcohol consumption",
+            "group": 2
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "not",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "rs3817198",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "parity",
+            "group": 2
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "1p11.2",
+            "group": 2
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "rs11249433",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "ever being parous",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 1
+        }
+    ]
+}

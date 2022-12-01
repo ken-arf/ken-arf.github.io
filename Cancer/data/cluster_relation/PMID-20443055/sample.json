@@ -1,0 +1,511 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "TRAIL",
+            "group": 6
+        },
+        {
+            "id": 1,
+            "value": 4,
+            "name": "-716|-716|-716|-716",
+            "group": 6
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "C/T",
+            "group": 6
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "promoter",
+            "group": 6
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "polymorphism",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "susceptibility",
+            "group": 7
+        },
+        {
+            "id": 6,
+            "value": 2,
+            "name": "sporadic breast tumor|sporadic breast cancer",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "cellular homeostasis",
+            "group": 0
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "immune surveillance",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "CC",
+            "group": 6
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "TRAIL",
+            "group": 6
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "promoter",
+            "group": 6
+        },
+        {
+            "id": 12,
+            "value": 5,
+            "name": "SNP|SNP|SNP|SNP|SNP",
+            "group": 1
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "risk",
+            "group": 7
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "as compared to",
+            "group": 9
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "CT",
+            "group": 6
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "TT",
+            "group": 6
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "transcriptionally",
+            "group": 2
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "repressed",
+            "group": 8
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "T",
+            "group": 6
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "C",
+            "group": 6
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "SNP-SNP interactions",
+            "group": 5
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "enhanced",
+            "group": 8
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "protective effect",
+            "group": 7
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "TP53-BRCA2",
+            "group": 6
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "variant",
+            "group": 1
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "Casp8",
+            "group": 6
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "overrepresented genotypes",
+            "group": 7
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "progressing tumors",
+            "group": 3
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "ER/PR negative tumors",
+            "group": 3
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "increased",
+            "group": 8
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "apoptotic index",
+            "group": 4
+        },
+        {
+            "id": 32,
+            "value": 7,
+            "name": "promoter|TRAIL|modulates|role|breast cancer|TRAIL|TRAIL therapy",
+            "group": 6
+        },
+        {
+            "id": 33,
+            "value": 2,
+            "name": "SNP|SNP",
+            "group": 1
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "-716",
+            "group": 6
+        }
+    ],
+    "links": [
+        {
+            "source": 7,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 29,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 25,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 33,
+            "target": 32,
+            "value": 1
+        },
+        {
+            "source": 33,
+            "target": 32,
+            "value": 1
+        },
+        {
+            "source": 33,
+            "target": 32,
+            "value": 1
+        },
+        {
+            "source": 33,
+            "target": 32,
+            "value": 1
+        },
+        {
+            "source": 33,
+            "target": 34,
+            "value": 1
+        },
+        {
+            "source": 33,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 31,
+            "target": 30,
+            "value": 1
+        }
+    ]
+}

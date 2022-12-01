@@ -1,0 +1,512 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Polymorphic variation",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "-202 locus",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T3",
+            "name": "IGFBP3",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T4",
+            "name": "serum levels",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "insulin-like growth factors",
+            "group": 5,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T8",
+            "name": "interaction",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "plasma retinol",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T10",
+            "name": "vitamin D",
+            "group": 5,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T7",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "risk",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "suggested",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "risk",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "premenopausal",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T18",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "single nucleotide polymorphism",
+            "group": 3,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T11",
+            "name": "SNP",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "SNP",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "SNP",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "promoter",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "IGFBP-3",
+            "group": 5,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "-202",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "transcription",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T32",
+            "name": "Age",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "mean circulating levels",
+            "group": 6,
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T38",
+            "name": "mean circulating levels",
+            "group": 6,
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T35",
+            "name": "IGFBP-3",
+            "group": 5,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T33",
+            "name": "highest",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "AA genotype",
+            "group": 5,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T36",
+            "name": "decreased",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "significantly",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "C allele",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "Breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "not significantly",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "related",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "-202",
+            "group": 5,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T41",
+            "name": "IGFBP3",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T40",
+            "name": "polymorphism",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "IGFBP-3",
+            "group": 5,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T39",
+            "name": "serum levels",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "not significant",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T23",
+            "name": "influence",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "this",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "breast cancer",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 1
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T13",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T14",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T15",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T17",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T22",
+            "value": 1
+        },
+        {
+            "source": "T24",
+            "target": "T40",
+            "value": 1
+        },
+        {
+            "source": "T19",
+            "target": "T29",
+            "value": 1
+        },
+        {
+            "source": "T31",
+            "target": "T30",
+            "value": 1
+        },
+        {
+            "source": "T27",
+            "target": "T20",
+            "value": 1
+        },
+        {
+            "source": "T27",
+            "target": "T32",
+            "value": 1
+        },
+        {
+            "source": "T34",
+            "target": "T33",
+            "value": 1
+        },
+        {
+            "source": "T38",
+            "target": "T36",
+            "value": 1
+        },
+        {
+            "source": "T38",
+            "target": "T37",
+            "value": 1
+        },
+        {
+            "source": "T28",
+            "target": "T21",
+            "value": 1
+        },
+        {
+            "source": "T28",
+            "target": "T32",
+            "value": 1
+        },
+        {
+            "source": "T40",
+            "target": "T41",
+            "value": 1
+        },
+        {
+            "source": "T40",
+            "target": "T42",
+            "value": 1
+        }
+    ]
+}

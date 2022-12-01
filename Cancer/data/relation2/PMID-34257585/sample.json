@@ -1,0 +1,283 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "NOTCH",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "Single Nucleotide Polymorphisms",
+            "group": 3,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T3",
+            "name": "Predisposition",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "Breast Cancers",
+            "group": 1,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T5",
+            "name": "Saudi Patients",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T10",
+            "name": "women",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "rs3124591",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T12",
+            "name": "NOTCH1",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T13",
+            "name": "rs3820041",
+            "group": 3,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T14",
+            "name": "NOTCH4",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T18",
+            "name": "not exhibit as well",
+            "group": 2,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "association",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "breast cancers",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T16",
+            "name": "strong",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "association",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "rs11249433",
+            "group": 3,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T21",
+            "name": "in close proximity to NOTCH2",
+            "group": 4,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T22",
+            "name": "breast cancer early onset",
+            "group": 1,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T23",
+            "name": "rs1043994",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T24",
+            "name": "NOTCH3",
+            "group": 4,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T25",
+            "name": "gender preference",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "may",
+            "group": 0,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T26",
+            "name": "rs11249433",
+            "group": 3,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T27",
+            "name": "rs1043994",
+            "group": 3,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T28",
+            "name": "early detection",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "breast carcinomas",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T5",
+            "value": 1
+        },
+        {
+            "source": "T2",
+            "target": "T10",
+            "value": 1
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 1
+        },
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 1
+        },
+        {
+            "source": "T15",
+            "target": "T18",
+            "value": 1
+        },
+        {
+            "source": "T19",
+            "target": "T16",
+            "value": 1
+        },
+        {
+            "source": "T20",
+            "target": "T21",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 1
+        },
+        {
+            "source": "T23",
+            "target": "T25",
+            "value": 1
+        },
+        {
+            "source": "T28",
+            "target": "T29",
+            "value": 1
+        }
+    ]
+}

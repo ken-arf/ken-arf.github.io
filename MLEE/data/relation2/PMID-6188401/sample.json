@@ -1,0 +1,618 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "initiation",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "control",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "rabbit",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "cornea",
+            "group": 10,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T32",
+            "name": "growth",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "capillary",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "involves",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "lysis",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "basement membrane",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "venule",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "migration",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "capillary endothelial cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T12",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "lumen",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "formation",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "development",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "branches",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "anastomosis",
+            "group": 3,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "tube",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "solid tumors",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "non-neoplastic cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "activated",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "macrophages",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "lymphocytes",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "adipocytes",
+            "group": 13,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T5",
+            "name": "normal tissues",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "stimulate",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "cell",
+            "group": 13,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T29",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "stimulation",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T61",
+            "name": "clone",
+            "group": 6,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T31",
+            "name": "capillary endothelial cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T62",
+            "name": "culture",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "capillary",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "growth",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T35",
+            "name": "mast cell",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "helper cell",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "capillary endothelial cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T66",
+            "name": "speeding up",
+            "group": 7,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T65",
+            "name": "migration",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "heparin",
+            "group": 14,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "mast cell",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "effect",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "capillary endothelial cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T44",
+            "name": "mast cells",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "prepare",
+            "group": 3,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T45",
+            "name": "matrix",
+            "group": 15,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T69",
+            "name": "release",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "heparin",
+            "group": 14,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T48",
+            "name": "capillary sprouts",
+            "group": 11,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T70",
+            "name": "move",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "initiation",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "control",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "capillary",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "growth",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T53",
+            "target": "T71",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T71",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T49",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T60",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T62",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T63",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T65",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T66",
+            "target": "T65",
+            "value": 2
+        },
+        {
+            "source": "T66",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T68",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T46",
+            "value": 2
+        },
+        {
+            "source": "T69",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T70",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T71",
+            "target": "T56",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T48",
+            "value": 2
+        }
+    ]
+}

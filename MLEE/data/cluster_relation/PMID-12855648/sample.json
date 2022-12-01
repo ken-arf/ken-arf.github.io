@@ -1,0 +1,857 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "targeting",
+            "group": 6
+        },
+        {
+            "id": 1,
+            "value": 9,
+            "name": "survivin|survivin|survivin|survivin|survivin|survivin|survivin|survivin|Survivin",
+            "group": 14
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "pathway",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "suppression|suppression",
+            "group": 13
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "triggering",
+            "group": 12
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "tumor cell",
+            "group": 11
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "apoptosis",
+            "group": 7
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "inhibiting",
+            "group": 13
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "growth",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "cell",
+            "group": 11
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "death",
+            "group": 7
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "Human",
+            "group": 9
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "umbilical vein",
+            "group": 11
+        },
+        {
+            "id": 16,
+            "value": 2,
+            "name": "dermal microvascular endothelial cells|dermal microvascular endothelial cells",
+            "group": 11
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "infected",
+            "group": 8
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "adenoviruses",
+            "group": 9
+        },
+        {
+            "id": 19,
+            "value": 2,
+            "name": "pAd-Survivin|pAd-Survivin",
+            "group": 14
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "green fluorescent protein",
+            "group": 14
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "pAd-GFP",
+            "group": 14
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "survivin",
+            "group": 14
+        },
+        {
+            "id": 23,
+            "value": 3,
+            "name": "pAd-T34A|pAd-T34A|pAd-T34A",
+            "group": 14
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "effect",
+            "group": 6
+        },
+        {
+            "id": 25,
+            "value": 2,
+            "name": "capillary network|capillary networks",
+            "group": 4
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "endothelial cell",
+            "group": 11
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "caspase",
+            "group": 14
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "activation",
+            "group": 12
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "growth",
+            "group": 1
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 5
+        },
+        {
+            "id": 32,
+            "value": 2,
+            "name": "breast cancer xenograft|breast cancer xenografts",
+            "group": 3
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "cell",
+            "group": 11
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "death",
+            "group": 7
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "initiated",
+            "group": 12
+        },
+        {
+            "id": 36,
+            "value": 2,
+            "name": "targeting|targeting",
+            "group": 8
+        },
+        {
+            "id": 37,
+            "value": 2,
+            "name": "cytochrome c|cytochrome c",
+            "group": 14
+        },
+        {
+            "id": 38,
+            "value": 1,
+            "name": "release",
+            "group": 2
+        },
+        {
+            "id": 39,
+            "value": 2,
+            "name": "mouse|mouse",
+            "group": 9
+        },
+        {
+            "id": 40,
+            "value": 2,
+            "name": "embryonic fibroblasts|embryonic fibroblasts",
+            "group": 11
+        },
+        {
+            "id": 41,
+            "value": 1,
+            "name": "deficient",
+            "group": 15
+        },
+        {
+            "id": 42,
+            "value": 2,
+            "name": "Apaf-1|Apaf-1",
+            "group": 14
+        },
+        {
+            "id": 43,
+            "value": 2,
+            "name": "caspase-9|caspase-9",
+            "group": 14
+        },
+        {
+            "id": 44,
+            "value": 1,
+            "name": "Adenoviral",
+            "group": 9
+        },
+        {
+            "id": 45,
+            "value": 1,
+            "name": "transduction",
+            "group": 8
+        },
+        {
+            "id": 46,
+            "value": 1,
+            "name": "endothelial cells",
+            "group": 11
+        },
+        {
+            "id": 47,
+            "value": 1,
+            "name": "ceramide",
+            "group": 10
+        },
+        {
+            "id": 48,
+            "value": 1,
+            "name": "reduced",
+            "group": 13
+        },
+        {
+            "id": 49,
+            "value": 2,
+            "name": "caspase-3|caspase-3",
+            "group": 14
+        },
+        {
+            "id": 50,
+            "value": 1,
+            "name": "-7",
+            "group": 14
+        },
+        {
+            "id": 51,
+            "value": 1,
+            "name": "generation",
+            "group": 15
+        },
+        {
+            "id": 52,
+            "value": 1,
+            "name": "expression",
+            "group": 15
+        },
+        {
+            "id": 53,
+            "value": 1,
+            "name": "caused",
+            "group": 12
+        },
+        {
+            "id": 54,
+            "value": 1,
+            "name": "apoptosis",
+            "group": 7
+        },
+        {
+            "id": 55,
+            "value": 1,
+            "name": "umbilical vein",
+            "group": 11
+        },
+        {
+            "id": 56,
+            "value": 1,
+            "name": "resulted",
+            "group": 12
+        },
+        {
+            "id": 57,
+            "value": 1,
+            "name": "Cell",
+            "group": 11
+        },
+        {
+            "id": 58,
+            "value": 1,
+            "name": "death",
+            "group": 7
+        },
+        {
+            "id": 59,
+            "value": 1,
+            "name": "induced",
+            "group": 12
+        },
+        {
+            "id": 60,
+            "value": 1,
+            "name": "release",
+            "group": 2
+        },
+        {
+            "id": 61,
+            "value": 1,
+            "name": "knockout",
+            "group": 8
+        },
+        {
+            "id": 62,
+            "value": 1,
+            "name": "injected",
+            "group": 8
+        },
+        {
+            "id": 63,
+            "value": 1,
+            "name": "human",
+            "group": 9
+        },
+        {
+            "id": 64,
+            "value": 1,
+            "name": "inhibited",
+            "group": 13
+        },
+        {
+            "id": 65,
+            "value": 1,
+            "name": "growth",
+            "group": 1
+        },
+        {
+            "id": 66,
+            "value": 1,
+            "name": "tumors",
+            "group": 3
+        },
+        {
+            "id": 67,
+            "value": 1,
+            "name": "triggered",
+            "group": 12
+        },
+        {
+            "id": 68,
+            "value": 1,
+            "name": "tumor cell",
+            "group": 11
+        },
+        {
+            "id": 69,
+            "value": 1,
+            "name": "apoptosis",
+            "group": 7
+        },
+        {
+            "id": 70,
+            "value": 1,
+            "name": "reduction",
+            "group": 13
+        },
+        {
+            "id": 71,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 72,
+            "value": 1,
+            "name": "blood vessels",
+            "group": 4
+        },
+        {
+            "id": 73,
+            "value": 1,
+            "name": "CD31",
+            "group": 14
+        },
+        {
+            "id": 74,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 75,
+            "value": 1,
+            "name": "endothelial cell",
+            "group": 11
+        },
+        {
+            "id": 76,
+            "value": 1,
+            "name": "apoptosis",
+            "group": 7
+        },
+        {
+            "id": 77,
+            "value": 1,
+            "name": "induction",
+            "group": 12
+        },
+        {
+            "id": 78,
+            "value": 1,
+            "name": "tumor cell",
+            "group": 11
+        },
+        {
+            "id": 79,
+            "value": 1,
+            "name": "apoptosis",
+            "group": 7
+        },
+        {
+            "id": 80,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 9,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 29,
+            "value": 2
+        },
+        {
+            "source": 38,
+            "target": 37,
+            "value": 2
+        },
+        {
+            "source": 48,
+            "target": 51,
+            "value": 2
+        },
+        {
+            "source": 48,
+            "target": 45,
+            "value": 2
+        },
+        {
+            "source": 51,
+            "target": 50,
+            "value": 2
+        },
+        {
+            "source": 52,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 56,
+            "target": 49,
+            "value": 2
+        },
+        {
+            "source": 56,
+            "target": 52,
+            "value": 2
+        },
+        {
+            "source": 60,
+            "target": 37,
+            "value": 2
+        },
+        {
+            "source": 61,
+            "target": 43,
+            "value": 2
+        },
+        {
+            "source": 64,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 64,
+            "target": 65,
+            "value": 2
+        },
+        {
+            "source": 65,
+            "target": 66,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 36,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 41,
+            "target": 42,
+            "value": 2
+        },
+        {
+            "source": 41,
+            "target": 43,
+            "value": 2
+        },
+        {
+            "source": 45,
+            "target": 46,
+            "value": 2
+        },
+        {
+            "source": 45,
+            "target": 44,
+            "value": 2
+        },
+        {
+            "source": 51,
+            "target": 49,
+            "value": 2
+        },
+        {
+            "source": 48,
+            "target": 51,
+            "value": 2
+        },
+        {
+            "source": 48,
+            "target": 45,
+            "value": 2
+        },
+        {
+            "source": 54,
+            "target": 55,
+            "value": 2
+        },
+        {
+            "source": 53,
+            "target": 52,
+            "value": 2
+        },
+        {
+            "source": 53,
+            "target": 54,
+            "value": 2
+        },
+        {
+            "source": 54,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 53,
+            "target": 52,
+            "value": 2
+        },
+        {
+            "source": 53,
+            "target": 54,
+            "value": 2
+        },
+        {
+            "source": 36,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 61,
+            "target": 42,
+            "value": 2
+        },
+        {
+            "source": 62,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 62,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 67,
+            "target": 69,
+            "value": 2
+        },
+        {
+            "source": 67,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 69,
+            "target": 68,
+            "value": 2
+        },
+        {
+            "source": 70,
+            "target": 72,
+            "value": 2
+        },
+        {
+            "source": 76,
+            "target": 75,
+            "value": 2
+        },
+        {
+            "source": 77,
+            "target": 79,
+            "value": 2
+        },
+        {
+            "source": 79,
+            "target": 78,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 80,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 34,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 36,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 34,
+            "value": 2
+        },
+        {
+            "source": 58,
+            "target": 57,
+            "value": 2
+        },
+        {
+            "source": 59,
+            "target": 58,
+            "value": 2
+        },
+        {
+            "source": 59,
+            "target": 36,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 31,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 55,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 50,
+            "target": 49,
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "nodes": [
+        {
+            "id": "T8",
+            "name": "interactions",
+            "group": 1,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T1",
+            "name": "extracellular matrix components",
+            "group": 7,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T2",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "tumor",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "interaction",
+            "group": 1,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T5",
+            "name": "extracellular matrix components",
+            "group": 7,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T6",
+            "name": "mediating",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T14",
+            "name": "cellular",
+            "group": 6,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T9",
+            "name": "adhesion",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "matrix",
+            "group": 7,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T11",
+            "name": "matrix dissolution",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T15",
+            "name": "cellular",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "motility",
+            "group": 3,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T7",
+            "name": "metastasis",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "cancer cells",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T18",
+            "name": "tumors",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "tumor",
+            "group": 4,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T20",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T6",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T9",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T19",
+            "value": 2
+        }
+    ]
+}

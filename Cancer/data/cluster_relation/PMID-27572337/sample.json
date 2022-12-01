@@ -1,0 +1,197 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "Chinese Han women|Chinese Han population",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "adjusting for age",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "ten variants",
+            "group": 1
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "associated",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 2
+        },
+        {
+            "id": 5,
+            "value": 3,
+            "name": "5q11.2|5q14.3|10q26.1",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 6,
+            "name": "rs16886181|rs16886034|rs16886113|rs16886364|rs16886397|rs16886448",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "rs1017226",
+            "group": 1
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "rs2229882",
+            "group": 1
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "rs421379",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "rs35054928",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 0,
+            "value": 1
+        }
+    ]
+}

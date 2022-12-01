@@ -1,0 +1,429 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "nitric oxide",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "dependent",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "Nitric oxide",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "NO",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "NO",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "vasculature",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "vascular endothelial growth factor",
+            "group": 6,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T9",
+            "name": "VEGF",
+            "group": 6,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T14",
+            "name": "induced",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "NO",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "metabolic pathway",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "endothelial cells",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T16",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "NO",
+            "group": 9,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T26",
+            "name": "dependent",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "NO",
+            "group": 9,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T33",
+            "name": "dependent",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "mouse",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T1001",
+            "name": "mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "eNOS",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "eNOS knockout mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T34",
+            "name": "knockout",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "injected",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "VEGF",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "stimulation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T25",
+            "name": "NO",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "injected",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1003",
+            "name": "mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "inhibitory effect",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "NOS",
+            "group": 6,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T28",
+            "name": "N(G)-iminoethyl-L-ornithine",
+            "group": 9,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T29",
+            "name": "VEGF",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "mediated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T31",
+            "name": "NO",
+            "group": 9,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T40",
+            "name": "dependent",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T5",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T14",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T1002",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T1003",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T1001",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T1003",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T1002",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 2
+        }
+    ]
+}

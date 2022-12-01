@@ -1,0 +1,430 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "p53|p53",
+            "group": 12
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "increase",
+            "group": 10
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "tumor|tumor",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "vascularization",
+            "group": 4
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "ROS",
+            "group": 6
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "mediated",
+            "group": 10
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "activation",
+            "group": 10
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "HIF1|HIF1",
+            "group": 12
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "VEGF-A|VEGF-A",
+            "group": 12
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "pathway",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "p53",
+            "group": 12
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "tumor",
+            "group": 2
+        },
+        {
+            "id": 12,
+            "value": 2,
+            "name": "human|human",
+            "group": 7
+        },
+        {
+            "id": 13,
+            "value": 2,
+            "name": "tumors|tumors",
+            "group": 2
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "expression",
+            "group": 13
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "increased",
+            "group": 10
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "vessels",
+            "group": 3
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "HCT116 human colon carcinoma xenografts",
+            "group": 2
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "accelerated",
+            "group": 10
+        },
+        {
+            "id": 19,
+            "value": 2,
+            "name": "growth|growth",
+            "group": 1
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "Stimulation",
+            "group": 10
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 4
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "increase",
+            "group": 10
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "reactive oxygen species",
+            "group": 6
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "ROS",
+            "group": 6
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "N-acetyl-l-aspartate",
+            "group": 6
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "NAC",
+            "group": 6
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "decreased",
+            "group": 11
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "vessels",
+            "group": 3
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "tumors",
+            "group": 2
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "formed",
+            "group": 9
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "cells",
+            "group": 8
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "inactivated",
+            "group": 11
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "p53",
+            "group": 12
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "inhibited",
+            "group": 11
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "Effect",
+            "group": 5
+        },
+        {
+            "id": 36,
+            "value": 1,
+            "name": "ROS",
+            "group": 6
+        },
+        {
+            "id": 37,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 4
+        },
+        {
+            "id": 38,
+            "value": 1,
+            "name": "tumors",
+            "group": 2
+        },
+        {
+            "id": 39,
+            "value": 1,
+            "name": "expressing",
+            "group": 13
+        },
+        {
+            "id": 40,
+            "value": 1,
+            "name": "p53",
+            "group": 12
+        },
+        {
+            "id": 41,
+            "value": 1,
+            "name": "increase",
+            "group": 10
+        },
+        {
+            "id": 42,
+            "value": 1,
+            "name": "responsible",
+            "group": 5
+        },
+        {
+            "id": 43,
+            "value": 1,
+            "name": "up-regulation",
+            "group": 10
+        }
+    ],
+    "links": [
+        {
+            "source": 6,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 39,
+            "target": 40,
+            "value": 2
+        },
+        {
+            "source": 41,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 43,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 29,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 34,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 34,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 29,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 37,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 36,
+            "value": 2
+        },
+        {
+            "source": 42,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 42,
+            "target": 43,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 37,
+            "target": 38,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 2
+        }
+    ]
+}

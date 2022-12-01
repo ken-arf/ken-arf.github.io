@@ -1,0 +1,958 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Suppression",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "lung tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "growth",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "metastasis",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "adeno-associated virus",
+            "group": 1,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T71",
+            "name": "mediated",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "expression",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "vasostatin",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "Angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T78",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "suppressing",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "growth",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "metastatic progression",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "Vasostatin",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "calreticulin",
+            "group": 4,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T16",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T72",
+            "name": "effectiveness",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "vasostatin",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "delivered",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "recombinant pseudotype adeno-associated virus 2",
+            "group": 1,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T8",
+            "name": "5",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "rAAV2",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T20",
+            "name": "5-VAS",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T9",
+            "name": "gene therapy",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "lung cancer",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "rAAV2",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T67",
+            "name": "5",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "deliver",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "vasostatin",
+            "group": 4,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "intratumorally",
+            "group": 11,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1003",
+            "name": "mouse",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "lung tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "lung tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "rAAV2",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T68",
+            "name": "5-VAS",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T30",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "neovascularization",
+            "group": 0,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T1004",
+            "name": "Mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "subcutaneous tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "rAAV2",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T69",
+            "name": "5-VAS",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T33",
+            "name": "pretreated",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T35",
+            "name": "Lewis lung carcinoma cells",
+            "group": 15,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T36",
+            "name": "reduction",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T73",
+            "name": "reduced",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "pulmonary",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "metastases",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "tumor-suppressive action",
+            "group": 12,
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T41",
+            "name": "rAAV2",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T43",
+            "name": "5-VAS",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1005",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "lung tumor A549 xenograft",
+            "group": 11,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T44",
+            "name": "reduced",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "capillary vessels",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "tumors",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "rAAV2",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T59",
+            "name": "5-VAS",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T74",
+            "name": "suppressed",
+            "group": 12,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T48",
+            "name": "metastasis",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "A549 tumors",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T51",
+            "name": "lymph nodes",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "lung",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T75",
+            "name": "treatment",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1006",
+            "name": "mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "lung metastases",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "rAAV2",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T70",
+            "name": "5-VAS",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T56",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "excision",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T76",
+            "name": "effectiveness",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "rAAV2",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T28",
+            "name": "5-VAS",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T58",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "suppressing",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "growth",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "progression",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "rAAV2",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T39",
+            "name": "5-VAS",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T80",
+            "name": "gene therapy",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T79",
+            "name": "against",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "lung cancer",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T1002",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T69",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T44",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T50",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T50",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T51",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T56",
+            "value": 2
+        },
+        {
+            "source": "T60",
+            "target": "T61",
+            "value": 2
+        },
+        {
+            "source": "T60",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T62",
+            "value": 2
+        },
+        {
+            "source": "T63",
+            "target": "T64",
+            "value": 2
+        },
+        {
+            "source": "T71",
+            "target": "T1001",
+            "value": 2
+        },
+        {
+            "source": "T71",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T9",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T72",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T72",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T23",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T73",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T73",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T42",
+            "value": 2
+        },
+        {
+            "source": "T40",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T74",
+            "target": "T59",
+            "value": 2
+        },
+        {
+            "source": "T74",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T74",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T74",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T74",
+            "target": "T59",
+            "value": 2
+        },
+        {
+            "source": "T74",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T74",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T74",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T75",
+            "target": "T1006",
+            "value": 2
+        },
+        {
+            "source": "T76",
+            "target": "T58",
+            "value": 2
+        },
+        {
+            "source": "T76",
+            "target": "T57",
+            "value": 2
+        },
+        {
+            "source": "T76",
+            "target": "T58",
+            "value": 2
+        },
+        {
+            "source": "T76",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T60",
+            "target": "T61",
+            "value": 2
+        },
+        {
+            "source": "T60",
+            "target": "T57",
+            "value": 2
+        },
+        {
+            "source": "T80",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T80",
+            "target": "T65",
+            "value": 2
+        },
+        {
+            "source": "T79",
+            "target": "T66",
+            "value": 2
+        },
+        {
+            "source": "T79",
+            "target": "T80",
+            "value": 2
+        },
+        {
+            "source": "T79",
+            "target": "T66",
+            "value": 2
+        },
+        {
+            "source": "T79",
+            "target": "T80",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T67",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T1002",
+            "value": 1
+        },
+        {
+            "source": "T67",
+            "target": "T22",
+            "value": 1
+        }
+    ]
+}

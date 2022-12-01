@@ -1,0 +1,472 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Novel polymorphisms",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "caspase-8|caspase-8",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 4,
+            "name": "associated|associated|associated|associated",
+            "group": 5
+        },
+        {
+            "id": 3,
+            "value": 3,
+            "name": "breast cancer|breast cancer|breast cancer",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "single nucleotide polymorphisms",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "SNPs",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "SNPs one",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 6,
+            "name": "CASP8|CASP8|CASP8|CASP8|CASP8|CASP8",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "receptor-mediated apoptosis",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "hypothesized",
+            "group": 3
+        },
+        {
+            "id": 10,
+            "value": 2,
+            "name": "additional SNPs|some SNPs",
+            "group": 1
+        },
+        {
+            "id": 11,
+            "value": 2,
+            "name": "Twelve tagging SNPs|Several SNPs",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "non-Hispanic white women",
+            "group": 4
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "Odds ratios 95% confidence intervals",
+            "group": 5
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "calculated",
+            "group": 3
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "each SNP",
+            "group": 1
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "all",
+            "group": 2
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "estrogen receptor positive breast cancers",
+            "group": 2
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "estrogen receptor",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "ER",
+            "group": 4
+        },
+        {
+            "id": 20,
+            "value": 5,
+            "name": "ER-negative breast cancers|HER2-negative breast cancers|ER-positive breast cancers|HER2-positive breast cancers|HER2-positive breast cancer",
+            "group": 2
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "human epidermal growth factor receptor 2 positive breast cancers",
+            "group": 2
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "human epidermal growth factor receptor",
+            "group": 4
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "HER2",
+            "group": 4
+        },
+        {
+            "id": 24,
+            "value": 2,
+            "name": "associated|associated",
+            "group": 5
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "all",
+            "group": 2
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "rs2293554",
+            "group": 1
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "statistically significantly",
+            "group": 6
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "results",
+            "group": 5
+        },
+        {
+            "id": 29,
+            "value": 2,
+            "name": "SNPs|SNPs",
+            "group": 1
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "should be validated",
+            "group": 3
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "other cohorts",
+            "group": 4
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "subtype-specific",
+            "group": 2
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "subtype-specific breast cancer",
+            "group": 2
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "breast cancer subtype",
+            "group": 2
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "risk",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 29,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 34,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 29,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 27,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 31,
+            "value": 1
+        },
+        {
+            "source": 28,
+            "target": 30,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 1
+        }
+    ]
+}

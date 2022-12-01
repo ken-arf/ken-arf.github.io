@@ -1,0 +1,347 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "TGFbeta1",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T2",
+            "name": "TGFbeta1",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T3",
+            "name": "transformed cells",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "nontransformed cell",
+            "group": 10,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T4",
+            "name": "TGFbeta",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T5",
+            "name": "TGFalpha",
+            "group": 7,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T6",
+            "name": "EGF",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "TGFbeta1",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T7",
+            "name": "growth",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "epithelial cells",
+            "group": 10,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T20",
+            "name": "inactivating",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "TGFbeta1",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T10",
+            "name": "signaling pathway",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "cancers",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "TGFbeta1",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T13",
+            "name": "signaling",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T15",
+            "name": "tumor",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "carcinomas",
+            "group": 6,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T17",
+            "name": "overexpress",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "TGFbeta1",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T1001",
+            "name": "patient",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "increased",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "metastasis",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "tumor cell lines",
+            "group": 10,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T33",
+            "name": "role",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "TGFbeta1",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "cancer",
+            "group": 6,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T25",
+            "name": "TGFbeta1",
+            "group": 7,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T26",
+            "name": "tumor",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "promoting",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "metastasis",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "tumor",
+            "group": 6,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "tumor cells",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "alter",
+            "group": 1,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T31",
+            "name": "TGFbeta1",
+            "group": 7,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T30",
+            "name": "pathway",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T17",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T20",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T18",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T33",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T31",
+            "value": 2
+        }
+    ]
+}

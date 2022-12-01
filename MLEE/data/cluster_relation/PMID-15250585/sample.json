@@ -1,0 +1,233 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "Vascular endothelial growth factor|Vascular endothelial growth factor",
+            "group": 10
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "VEGF|VEGF",
+            "group": 10
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "induces",
+            "group": 8
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "development",
+            "group": 7
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "blood vessels",
+            "group": 2
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "brain",
+            "group": 11
+        },
+        {
+            "id": 7,
+            "value": 9,
+            "name": "VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF",
+            "group": 10
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "vascular endothelium",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "neurons",
+            "group": 6
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "glia",
+            "group": 6
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "upregulated",
+            "group": 8
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "brain",
+            "group": 11
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "edema",
+            "group": 1
+        },
+        {
+            "id": 14,
+            "value": 3,
+            "name": "blood-brain barrier|blood-brain barrier|blood-brain barrier",
+            "group": 2
+        },
+        {
+            "id": 15,
+            "value": 3,
+            "name": "breakdown|breakdown|breakdown",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "brain",
+            "group": 11
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "increases",
+            "group": 8
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "neurons",
+            "group": 6
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "glia",
+            "group": 6
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "pilocarpine",
+            "group": 5
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "brain",
+            "group": 11
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "Increases",
+            "group": 8
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "contribute",
+            "group": 8
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "protect",
+            "group": 9
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "cells",
+            "group": 6
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "damage",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 11,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 25,
+            "value": 2
+        }
+    ]
+}

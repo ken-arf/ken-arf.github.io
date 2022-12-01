@@ -1,0 +1,216 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "peritumoral brain edema",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T2",
+            "name": "peritumoral brain edema",
+            "group": 3,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T8",
+            "name": "activity",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "VX2 rabbit brain tumor",
+            "group": 3,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1000",
+            "name": "rabbit",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "Meclofenamate",
+            "group": 2,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T5",
+            "name": "indomethacin",
+            "group": 2,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T20",
+            "name": "edema",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "activity",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T6",
+            "name": "non steroidal anti-inflammatory drugs",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T7",
+            "name": "NSAID's",
+            "group": 2,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T9",
+            "name": "17 hydroxyprogesterone",
+            "group": 2,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T10",
+            "name": "epicortisol",
+            "group": 2,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T16",
+            "name": "glucocorticoid",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "mineralocorticoid",
+            "group": 2,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T18",
+            "name": "glucocorticoids",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "brain edema",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "edema",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "activity",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T12",
+            "name": "NSAID",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "edema",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "activity",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T25",
+            "name": "edema",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "activity",
+            "group": 0,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T14",
+            "name": "steroid compounds",
+            "group": 2,
+            "trigger": 0,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T21",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T2",
+            "value": 2
+        }
+    ]
+}

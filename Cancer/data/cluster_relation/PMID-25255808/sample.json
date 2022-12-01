@@ -1,0 +1,191 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "susceptibility|susceptibility",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 3,
+            "name": "single-nucleotide polymorphisms|23 single-nucleotide polymorphisms|single-nucleotide polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 1
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "risk factors",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "assessed",
+            "group": 2
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "9 established breast cancer risk factors",
+            "group": 3
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "SNPs",
+            "group": 0
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "non-Hispanic white",
+            "group": 3
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "estimated",
+            "group": 2
+        },
+        {
+            "id": 10,
+            "value": 2,
+            "name": "relative excess risk|relative excess risk",
+            "group": 4
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "statistically significant",
+            "group": 5
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "RAD51L1",
+            "group": 3
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "rs10483813",
+            "group": 0
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "body mass index",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "value": 1
+        }
+    ]
+}

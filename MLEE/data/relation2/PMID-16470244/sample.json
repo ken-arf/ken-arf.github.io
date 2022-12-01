@@ -1,0 +1,706 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Pericytes",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "limit",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "tumor cell",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "metastasis",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "neural cell adhesion molecule",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T6",
+            "name": "NCAM",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "deficiency",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "beta tumor cells",
+            "group": 15,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T54",
+            "name": "facilitates",
+            "group": 10,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T26",
+            "name": "metastasis",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "organs",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "lymph nodes",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "NCAM-deficient beta cell tumors",
+            "group": 11,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T10",
+            "name": "NCAM",
+            "group": 5,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T55",
+            "name": "grew",
+            "group": 6,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "blood vessels",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "pericyte",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "endothelial",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "cell-cell interactions",
+            "group": 4,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T20",
+            "name": "perivascular",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "deposition",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "ECM components",
+            "group": 16,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "tumor cell",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "expression",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "NCAM",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "fibrosarcoma model",
+            "group": 11,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T25",
+            "name": "T241",
+            "group": 11,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T56",
+            "name": "improved",
+            "group": 10,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T29",
+            "name": "pericyte",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "recruitment",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "increased",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "perivascular",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "deposition",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "ECM molecules",
+            "group": 16,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T34",
+            "name": "NCAM",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "limit",
+            "group": 12,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T35",
+            "name": "tumor cell",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "metastasis",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "stabilizing",
+            "group": 10,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T38",
+            "name": "microvessel wall",
+            "group": 13,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T40",
+            "name": "pericyte",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "dysfunction",
+            "group": 9,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T60",
+            "name": "increases",
+            "group": 10,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T61",
+            "name": "metastatic",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "solid tumors",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "beta cell",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "pericyte",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "Pdgfb(ret/ret) mice",
+            "group": 1,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T69",
+            "name": "Pdgfb",
+            "group": 5,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T44",
+            "name": "beta tumor cell",
+            "group": 15,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T62",
+            "name": "metastases",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "organs",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "lymph nodes",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "role",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "pericytes",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "limiting",
+            "group": 12,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T47",
+            "name": "tumor cell",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "metastasis",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "tumor cells",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "trigger",
+            "group": 10,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T67",
+            "name": "metastasis",
+            "group": 14,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T68",
+            "name": "perturbing",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T52",
+            "name": "pericyte",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "endothelial",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "cell-cell interactions",
+            "group": 4,
+            "trigger": 1,
+            "value": 20
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T16",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T51",
+            "target": "T53",
+            "value": 2
+        },
+        {
+            "source": "T51",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T49",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T56",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T56",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T59",
+            "value": 2
+        },
+        {
+            "source": "T59",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T60",
+            "target": "T61",
+            "value": 2
+        },
+        {
+            "source": "T60",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T62",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T62",
+            "target": "T45",
+            "value": 2
+        },
+        {
+            "source": "T63",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T64",
+            "target": "T63",
+            "value": 2
+        },
+        {
+            "source": "T65",
+            "target": "T46",
+            "value": 2
+        },
+        {
+            "source": "T65",
+            "target": "T64",
+            "value": 2
+        },
+        {
+            "source": "T66",
+            "target": "T67",
+            "value": 2
+        },
+        {
+            "source": "T66",
+            "target": "T68",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T68",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T68",
+            "target": "T51",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T70",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T62",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T62",
+            "target": "T71",
+            "value": 2
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "bone marrow stem cell",
+            "group": 6,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T3",
+            "name": "peripheral blood endothelial progenitor cell",
+            "group": 6,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T2",
+            "name": "therapy",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T1000",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "limb",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "blood",
+            "group": 0,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T7",
+            "name": "legs",
+            "group": 7,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T1001",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "limb",
+            "group": 7,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "bone marrow-derived stem cells",
+            "group": 6,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T11",
+            "name": "endothelial progenitor cells",
+            "group": 6,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T14",
+            "name": "development",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T15",
+            "name": "blood vessels",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "neoangiogenesis",
+            "group": 2,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T17",
+            "name": "neovascularization",
+            "group": 2,
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T18",
+            "name": "bone marrow stem cells",
+            "group": 6,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T20",
+            "name": "angiogenic",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1003",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1004",
+            "name": "patients",
+            "group": 1,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T12",
+            "name": "treated",
+            "group": 5,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T21",
+            "name": "angiogenic",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T1000",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T1000",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T1004",
+            "value": 2
+        }
+    ]
+}

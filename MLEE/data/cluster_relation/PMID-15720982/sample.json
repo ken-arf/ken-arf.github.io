@@ -1,0 +1,191 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "low molecular weight heparin",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "hyperbaric oxygen|hyperbaric oxygen",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "treatment",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "low molecular weight (LMW) heparins",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "HBO",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "therapy",
+            "group": 2
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "Wistar albino rats",
+            "group": 4
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "underwent",
+            "group": 2
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "abrasion",
+            "group": 2
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "cecum",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "ethanol",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "application",
+            "group": 2
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "rats",
+            "group": 4
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "treated",
+            "group": 2
+        },
+        {
+            "id": 14,
+            "value": 5,
+            "name": "Enoxaparine Na|enoxaparine Na|enoxaparine Na|Enoxaparine Na|Enoxaparine Na",
+            "group": 3
+        },
+        {
+            "id": 15,
+            "value": 4,
+            "name": "HBO|HBO|HBO|HBO",
+            "group": 3
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "therapy",
+            "group": 2
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "treatment",
+            "group": 2
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 1
+        },
+        {
+            "id": 19,
+            "value": 2,
+            "name": "therapy|therapy",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 15,
+            "value": 2
+        }
+    ]
+}

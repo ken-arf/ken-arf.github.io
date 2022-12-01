@@ -1,0 +1,303 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 4,
+            "name": "Matrix metalloproteinase|Matrix metalloproteinases|Matrix metalloproteinase|matrix metalloproteinases",
+            "group": 11
+        },
+        {
+            "id": 1,
+            "value": 10,
+            "name": "matrix metalloproteinase-2|tissue inhibitor of metalloproteinase-1|tissue inhibitor of metalloproteinase-1|matrix metalloproteinase-2|tissue inhibitor of metalloproteinase-1|matrix metalloproteinase-9|Matrix metalloproteinase-2|Tissue inhibitor of metalloproteinase-1|matrix metalloproteinase-9|matrix metalloproteinase-2",
+            "group": 11
+        },
+        {
+            "id": 2,
+            "value": 3,
+            "name": "-9|-9|-9",
+            "group": 11
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "human|human",
+            "group": 8
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "dermal",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "turnover",
+            "group": 12
+        },
+        {
+            "id": 6,
+            "value": 2,
+            "name": "extracellular matrix|extracellular matrix",
+            "group": 2
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "cleave|cleave",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "regulating",
+            "group": 6
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "Breast tissue",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "increased",
+            "group": 10
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "decreased",
+            "group": 9
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "expression",
+            "group": 13
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "elevated",
+            "group": 10
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "endothelial cells",
+            "group": 1
+        },
+        {
+            "id": 15,
+            "value": 3,
+            "name": "fibroblasts|fibroblasts|fibroblasts",
+            "group": 1
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "decreasing",
+            "group": 9
+        },
+        {
+            "id": 17,
+            "value": 2,
+            "name": "increased|increased",
+            "group": 10
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "present",
+            "group": 13
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "elevated",
+            "group": 10
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "wound",
+            "group": 4
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 7
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "play a significant role",
+            "group": 6
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "expression",
+            "group": 13
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "role",
+            "group": 6
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "extracellular matrix",
+            "group": 2
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "remodeling",
+            "group": 12
+        }
+    ],
+    "links": [
+        {
+            "source": 13,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1
+        }
+    ]
+}

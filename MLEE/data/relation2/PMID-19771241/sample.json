@@ -1,0 +1,556 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Tumor",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "Angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "Therapeutic Targeting",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "FGF-Binding Protein",
+            "group": 10,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T6",
+            "name": "Angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "Gastrointestinal Adenocarcinomas",
+            "group": 9,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T8",
+            "name": "Tumor",
+            "group": 9,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T9",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "initiation",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "progression",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "human",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "tumors",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "tumor",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "progression",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "secreted",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "fibroblast growth factor-binding protein",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T21",
+            "name": "FGF-BP",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T18",
+            "name": "various",
+            "group": 4,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T22",
+            "name": "FGFs",
+            "group": 10,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T23",
+            "name": "FGF",
+            "group": 10,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "crucial",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "tumor",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "dependent",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "generated",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "monoclonal antibodies that target FGF-BP protein",
+            "group": 10,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T28",
+            "name": "FGF-BP",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T30",
+            "name": "FGF-BP",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T29",
+            "name": "expression",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "progression",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "pancreas",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "colorectal carcinoma",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "tissue samples",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "FGF-BP",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T34",
+            "name": "upregulated",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "initiation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "colorectal",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "pancreatic adenocarcinoma",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "initiation",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "progression",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "colorectal",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "pancreatic adenocarcinoma",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "modulation",
+            "group": 3,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T43",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "angiogenic",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "therapies",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "upregulation",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "secreted",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "FGF-BP",
+            "group": 10,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T48",
+            "name": "pancreas",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "colon cancer",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "serum",
+            "group": 2,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "high-risk premalignant lesions",
+            "group": 9,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T52",
+            "name": "FGF-BP",
+            "group": 10,
+            "trigger": 0,
+            "value": 19
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T46",
+            "value": 2
+        },
+        {
+            "source": "T46",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T12",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T13",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T15",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T40",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T41",
+            "value": 2
+        },
+        {
+            "source": "T53",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T9",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T37",
+            "target": "T38",
+            "value": 1
+        },
+        {
+            "source": "T32",
+            "target": "T33",
+            "value": 1
+        },
+        {
+            "source": "T48",
+            "target": "T49",
+            "value": 1
+        },
+        {
+            "source": "T40",
+            "target": "T41",
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,288 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 7,
+            "name": "Bevacizumab|Bevacizumab|bevacizumab|bevacizumab|bevacizumab|Bevacizumab|bevacizumab",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 5,
+            "name": "irinotecan|irinotecan|irinotecan|irinotecan|irinotecan",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "therapy",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "glioblastoma multiforme",
+            "group": 0
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "Endothelial",
+            "group": 7
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "proliferation",
+            "group": 8
+        },
+        {
+            "id": 6,
+            "value": 3,
+            "name": "glioma|glioma|glioma",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "immunoglobulin G1",
+            "group": 9
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "vascular endothelial growth factor",
+            "group": 9
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "have activity",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "gliomas",
+            "group": 0
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "patients",
+            "group": 5
+        },
+        {
+            "id": 12,
+            "value": 2,
+            "name": "pretreated|pretreated",
+            "group": 2
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "treated",
+            "group": 2
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "chemotherapy",
+            "group": 2
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "radiation",
+            "group": 2
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "patients",
+            "group": 5
+        },
+        {
+            "id": 17,
+            "value": 7,
+            "name": "patients|patients|patients|patients|patients|patients|patients",
+            "group": 5
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "started",
+            "group": 2
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "received",
+            "group": 2
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "given",
+            "group": 2
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "treated",
+            "group": 2
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "patients",
+            "group": 5
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "died",
+            "group": 3
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "discontinued",
+            "group": 2
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "intracranial",
+            "group": 6
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "patients",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 2
+        }
+    ]
+}

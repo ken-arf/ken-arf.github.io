@@ -1,0 +1,535 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Genetic polymorphism",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 4,
+            "name": "hOGG1|hOGG1|hOGG1|hOGG1",
+            "group": 5
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "associated",
+            "group": 6
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "triple-negative breast cancer",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 3,
+            "name": "Chinese Han women|Chinese Han women|Chinese Han women",
+            "group": 5
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "8-hydroxy-2'-deoxyguanine|Human 8-oxoguanine glycosylase 1",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "DNA repair",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "damaged DNA",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "c.977C>G",
+            "group": 1
+        },
+        {
+            "id": 9,
+            "value": 6,
+            "name": "977|977|977|977|977|977",
+            "group": 5
+        },
+        {
+            "id": 10,
+            "value": 4,
+            "name": "C>G|C>G|C>G|C>G",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 3,
+            "name": "Ser326Cys|Ser326Cys|Ser326",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "inhibit",
+            "group": 7
+        },
+        {
+            "id": 13,
+            "value": 2,
+            "name": "remove 8-OHdG|8-OHdG",
+            "group": 0
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "investigate",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "association",
+            "group": 6
+        },
+        {
+            "id": 16,
+            "value": 3,
+            "name": "c.977C>G|c.977C>G|c.977C>G",
+            "group": 1
+        },
+        {
+            "id": 17,
+            "value": 3,
+            "name": "breast cancer|breast cancer|breast cancer",
+            "group": 3
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "Breast cancer",
+            "group": 3
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "not significantly",
+            "group": 8
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "different",
+            "group": 6
+        },
+        {
+            "id": 21,
+            "value": 3,
+            "name": "c.977|c.977|c.977",
+            "group": 1
+        },
+        {
+            "id": 22,
+            "value": 3,
+            "name": "C/G|G/G|G/G",
+            "group": 5
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "especially",
+            "group": 8
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "prevalent",
+            "group": 6
+        },
+        {
+            "id": 25,
+            "value": 2,
+            "name": "younger than 55 years|younger than 55 years",
+            "group": 5
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "premenopausal",
+            "group": 5
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "triple-negative disease",
+            "group": 3
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "p53-positive disease",
+            "group": 3
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "suggest",
+            "group": 4
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "increased",
+            "group": 7
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "risk",
+            "group": 6
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "premenopausal",
+            "group": 5
+        },
+        {
+            "id": 33,
+            "value": 2,
+            "name": "triple-negative|p53-positive",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 27,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 31,
+            "target": 30,
+            "value": 1
+        },
+        {
+            "source": 31,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 32,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 33,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 33,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 16,
+            "value": 1
+        }
+    ]
+}

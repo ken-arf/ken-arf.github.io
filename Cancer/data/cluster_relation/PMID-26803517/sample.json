@@ -1,0 +1,553 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Relationship",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "five GWAS-identified single nucleotide polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 5,
+            "name": "breast cancer|breast cancer|breast cancer|breast cancer|breast cancer",
+            "group": 1
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "Chinese Han female|Han Chinese of the Henan province",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "evaluated",
+            "group": 2
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "five SNPs|five SNPs",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "European ancestry",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "Asian ancestry",
+            "group": 3
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "Different genotypes",
+            "group": 3
+        },
+        {
+            "id": 9,
+            "value": 6,
+            "name": "rs3803662|rs3803662|rs3803662|rs3803662|rs3803662|rs3803662",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 3,
+            "name": "TOX3|TOX3|TOX3",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 3,
+            "name": "TNRC9|TNRC9|TNRC9",
+            "group": 3
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "statistically significant",
+            "group": 6
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "rs10069690",
+            "group": 0
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "TERT",
+            "group": 3
+        },
+        {
+            "id": 15,
+            "value": 2,
+            "name": "rs2046210|rs2046210",
+            "group": 0
+        },
+        {
+            "id": 16,
+            "value": 2,
+            "name": "6q25.1|6q25.1",
+            "group": 3
+        },
+        {
+            "id": 17,
+            "value": 2,
+            "name": "rs2981582|rs2981582",
+            "group": 0
+        },
+        {
+            "id": 18,
+            "value": 2,
+            "name": "EGFR2|EGFR2",
+            "group": 3
+        },
+        {
+            "id": 19,
+            "value": 2,
+            "name": "rs889312|rs889312",
+            "group": 0
+        },
+        {
+            "id": 20,
+            "value": 2,
+            "name": "MAP3K1|MAP3K1",
+            "group": 3
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "no significant statistical differences",
+            "group": 6
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "with",
+            "group": 4
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "AA",
+            "group": 3
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "GA",
+            "group": 3
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "GG",
+            "group": 3
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "increased",
+            "group": 5
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "risk",
+            "group": 4
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "no statistical",
+            "group": 6
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "differences",
+            "group": 4
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "different subtypes of breast cancer",
+            "group": 1
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "Five common from GWAS",
+            "group": 0
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "not strongly",
+            "group": 6
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "associated",
+            "group": 4
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "increase",
+            "group": 5
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "risk",
+            "group": 4
+        },
+        {
+            "id": 36,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 33,
+            "target": 31,
+            "value": 2
+        },
+        {
+            "source": 33,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 36,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 33,
+            "target": 32,
+            "value": 1
+        },
+        {
+            "source": 31,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 35,
+            "target": 34,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 31,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 31,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 31,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 31,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 31,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 33,
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,430 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 3,
+            "name": "Adiponectin pathway|adiponectin pathway|adiponectin pathway",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "risk",
+            "group": 6
+        },
+        {
+            "id": 3,
+            "value": 7,
+            "name": "breast cancer|breast cancer|breast cancer|breast cancer|breast cancer|breast cancer|breast cancer",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 5,
+            "name": "Women African Americans|African American women|African Americans|African American women|African Americans",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "Women Hispanics",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 5,
+            "name": "associated|associated|associated|associated|associated",
+            "group": 6
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "Single nucleotide polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "SNPs",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 2,
+            "name": "ADIPOQ|ADIPOQ",
+            "group": 4
+        },
+        {
+            "id": 11,
+            "value": 2,
+            "name": "ADIPOR1|ADIPOR2",
+            "group": 4
+        },
+        {
+            "id": 12,
+            "value": 3,
+            "name": "rs1501299|rs1501299|RS1501299",
+            "group": 0
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "functional",
+            "group": 2
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "Caucasian",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 2,
+            "name": "significantly|significantly",
+            "group": 7
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "not",
+            "group": 5
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "any other SNPs",
+            "group": 0
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "assessing",
+            "group": 3
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "role",
+            "group": 6
+        },
+        {
+            "id": 20,
+            "value": 2,
+            "name": "SNPs|SNPs",
+            "group": 0
+        },
+        {
+            "id": 21,
+            "value": 2,
+            "name": "Hispanics|Hispanics",
+            "group": 4
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "obesity",
+            "group": 4
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "diabetes",
+            "group": 4
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "adiponectin",
+            "group": 4
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "functional",
+            "group": 2
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "may",
+            "group": 3
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 1
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "risk assessment",
+            "group": 6
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 28,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 4,
+            "value": 1
+        }
+    ]
+}

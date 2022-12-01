@@ -1,0 +1,881 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "Hedgehog",
+            "group": 12,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1",
+            "name": "signaling",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "murine",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "melanoma",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "Hedgehog",
+            "group": 12,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T5",
+            "name": "intercellular signaling pathway",
+            "group": 13,
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T91",
+            "name": "cell",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T92",
+            "name": "proliferation",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T93",
+            "name": "differentiation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "blood vessel",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "development",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "Hedgehog",
+            "group": 12,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T10",
+            "name": "signaling",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "vasculature",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "human umbilical vein endothelial cells",
+            "group": 15,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T17",
+            "name": "B16F0",
+            "group": 15,
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1002",
+            "name": "murine",
+            "group": 1,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T14",
+            "name": "melanoma",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "tumors",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "Sonic hedgehog",
+            "group": 12,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T20",
+            "name": "Shh",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "increased",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "BrdU",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "incorporation",
+            "group": 14,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T24",
+            "name": "endothelial cells",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "Hedgehog",
+            "group": 12,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T25",
+            "name": "pathway",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "cyclopamine",
+            "group": 16,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T39",
+            "name": "reduced",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "Shh",
+            "group": 12,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T16",
+            "name": "induced",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "proliferation",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T31",
+            "name": "Hedgehog",
+            "group": 12,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T30",
+            "name": "signaling",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "hind limb tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T33",
+            "name": "B16F0 cell line",
+            "group": 15,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T4",
+            "name": "Treatment",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "cyclopamine",
+            "group": 16,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T35",
+            "name": "attenuated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "BrdU",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "incorporation",
+            "group": 14,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T38",
+            "name": "tumor cells",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T41",
+            "name": "endothelial cells",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "delayed",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "growth",
+            "group": 9,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "Hedgehog",
+            "group": 12,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T47",
+            "name": "Patched",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "localized",
+            "group": 14,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "tumor stroma",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "B16F0 cells",
+            "group": 15,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T49",
+            "name": "expressed",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "Shh",
+            "group": 12,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T1003",
+            "name": "mouse",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "embryonic fibroblasts",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "B16F0 cells",
+            "group": 15,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T55",
+            "name": "express",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "Patched",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "Shh",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "produced",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "melanoma cells",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "induces",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "Patched",
+            "group": 12,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "expression",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "fibroblasts",
+            "group": 15,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "tumor",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "Treatment",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "cyclopamine",
+            "group": 16,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T68",
+            "name": "attenuated",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "vascular",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T85",
+            "name": "formation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "altered",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T72",
+            "name": "vascular",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T74",
+            "name": "cyclopamine",
+            "group": 16,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T78",
+            "name": "tumor blood vessel",
+            "group": 3,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T80",
+            "name": "FITC",
+            "group": 16,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T77",
+            "name": "labeled",
+            "group": 8,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T81",
+            "name": "dextran",
+            "group": 16,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "effect",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T82",
+            "name": "blood vessels",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T84",
+            "name": "Hedgehog",
+            "group": 12,
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T83",
+            "name": "signaling",
+            "group": 13,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T90",
+            "name": "regulates",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T88",
+            "name": "melanoma",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T87",
+            "name": "vascular",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T89",
+            "name": "formation",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T7",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T35",
+            "target": "T4",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T38",
+            "value": 2
+        },
+        {
+            "source": "T42",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T47",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T49",
+            "target": "T51",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T56",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T59",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T61",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T59",
+            "value": 2
+        },
+        {
+            "source": "T61",
+            "target": "T62",
+            "value": 2
+        },
+        {
+            "source": "T71",
+            "target": "T72",
+            "value": 2
+        },
+        {
+            "source": "T71",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T24",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T28",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T67",
+            "value": 2
+        },
+        {
+            "source": "T68",
+            "target": "T52",
+            "value": 2
+        },
+        {
+            "source": "T68",
+            "target": "T85",
+            "value": 2
+        },
+        {
+            "source": "T85",
+            "target": "T70",
+            "value": 2
+        },
+        {
+            "source": "T77",
+            "target": "T80",
+            "value": 2
+        },
+        {
+            "source": "T77",
+            "target": "T81",
+            "value": 2
+        },
+        {
+            "source": "T89",
+            "target": "T87",
+            "value": 2
+        },
+        {
+            "source": "T90",
+            "target": "T83",
+            "value": 2
+        },
+        {
+            "source": "T90",
+            "target": "T89",
+            "value": 2
+        },
+        {
+            "source": "T90",
+            "target": "T83",
+            "value": 2
+        },
+        {
+            "source": "T90",
+            "target": "T87",
+            "value": 2
+        },
+        {
+            "source": "T92",
+            "target": "T91",
+            "value": 2
+        },
+        {
+            "source": "T93",
+            "target": "T91",
+            "value": 2
+        },
+        {
+            "source": "T65",
+            "target": "T64",
+            "value": 2
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T83",
+            "target": "T84",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T82",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T74",
+            "value": 2
+        }
+    ]
+}

@@ -1,0 +1,429 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 7,
+            "name": "rs4442975|rs4442975|rs4442975|rs4442975|rs4442975|rs4442975|rs4442975",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 3,
+            "name": "FOXA1|FOXA1|FOXA1",
+            "group": 7
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "binding affinity",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "not|not",
+            "group": 9
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "influence",
+            "group": 8
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 3
+        },
+        {
+            "id": 6,
+            "value": 3,
+            "name": "Chinese Han population|Chinese Han population|Chinese Han population",
+            "group": 7
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "regulate",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "estrogen receptor-chromatin interactions",
+            "group": 7
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "T-allele",
+            "group": 7
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "disrupts",
+            "group": 2
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "interacts",
+            "group": 4
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "IGFBP5 promoter",
+            "group": 7
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "associated",
+            "group": 8
+        },
+        {
+            "id": 14,
+            "value": 4,
+            "name": "BC|BC|BC|BC",
+            "group": 3
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "European population",
+            "group": 7
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "potential",
+            "group": 5
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "association",
+            "group": 8
+        },
+        {
+            "id": 18,
+            "value": 2,
+            "name": "No significant|No significant",
+            "group": 0
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "associations",
+            "group": 8
+        },
+        {
+            "id": 20,
+            "value": 2,
+            "name": "progesterone receptor expression|receptor expression estrogen",
+            "group": 7
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "smoking",
+            "group": 7
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "drinking habits",
+            "group": 7
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "menopausal status",
+            "group": 7
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "negative",
+            "group": 9
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "associations",
+            "group": 8
+        },
+        {
+            "id": 26,
+            "value": 2,
+            "name": "traditional progression factors|progression tumor",
+            "group": 7
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "size",
+            "group": 7
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "nodal status",
+            "group": 7
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "distant metastasis",
+            "group": 7
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "TNM staging",
+            "group": 7
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "may",
+            "group": 5
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "confer a risk",
+            "group": 8
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 29,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 25,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 32,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 32,
+            "target": 31,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 1
+        }
+    ]
+}

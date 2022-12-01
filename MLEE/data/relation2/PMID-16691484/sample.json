@@ -1,0 +1,368 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "localization",
+            "group": 10,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T2",
+            "name": "mitochondrial ATP synthase",
+            "group": 9,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T27",
+            "name": "target",
+            "group": 2,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "angiogenesis",
+            "group": 0,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "intervention",
+            "group": 3,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T4",
+            "name": "angiostatin",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "identified",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "endothelial cells",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "F(1)-F(0) ATP synthase",
+            "group": 9,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T9",
+            "name": "ATP synthase",
+            "group": 9,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T30",
+            "name": "catalyzes",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "ATP",
+            "group": 12,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T8",
+            "name": "synthesis",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "inhibited",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "angiostatin",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "Endothelial cells",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "grown",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "angiostatin",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "inhibition",
+            "group": 3,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "ATP synthase",
+            "group": 9,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T15",
+            "name": "endothelial cells",
+            "group": 11,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "grown",
+            "group": 5,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "tumor",
+            "group": 8,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "Angiostatin",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "inhibits",
+            "group": 3,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T33",
+            "name": "ATP",
+            "group": 12,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T34",
+            "name": "synthesis",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "ATP",
+            "group": 12,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T36",
+            "name": "hydrolysis",
+            "group": 1,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "angiostatin",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "administered",
+            "group": 6,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T21",
+            "name": "angiostatin-mimetics",
+            "group": 12,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T22",
+            "name": "angiostatin-mimetic",
+            "group": 12,
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T23",
+            "name": "polyclonal antibody against the beta catalytic subunit of ATP synthase",
+            "group": 9,
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T24",
+            "name": "ATP synthase",
+            "group": 9,
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T25",
+            "name": "angiostatin",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T7",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T29",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T14",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T26",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T26",
+            "value": 2
+        },
+        {
+            "source": "T27",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T30",
+            "target": "T9",
+            "value": 2
+        },
+        {
+            "source": "T31",
+            "target": "T11",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T34",
+            "target": "T33",
+            "value": 2
+        },
+        {
+            "source": "T36",
+            "target": "T35",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T36",
+            "value": 2
+        },
+        {
+            "source": "T17",
+            "target": "T20",
+            "value": 2
+        }
+    ]
+}

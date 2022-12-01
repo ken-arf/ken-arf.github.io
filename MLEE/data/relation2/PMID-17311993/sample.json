@@ -1,0 +1,696 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Inhibition",
+            "group": 10,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T3",
+            "name": "Dll4",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T71",
+            "name": "mediated",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "signaling",
+            "group": 11,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "induces",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T6",
+            "name": "proliferation",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "vessels",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "tissue",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "Vascular",
+            "group": 3,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T8",
+            "name": "development",
+            "group": 6,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T16",
+            "name": "dependent",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "interaction",
+            "group": 4,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "stroma",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "tissues",
+            "group": 1,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "hierarchic network",
+            "group": 1,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T9",
+            "name": "formation",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "recruitment",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "pericytes",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "Notch",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "Jagged",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T61",
+            "name": "Delta",
+            "group": 5,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "play a critical role",
+            "group": 2,
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T14",
+            "name": "VEGF",
+            "group": 5,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T15",
+            "name": "Dll4",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T62",
+            "name": "Notch",
+            "group": 5,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T38",
+            "name": "regulates",
+            "group": 2,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T66",
+            "name": "arterial",
+            "group": 3,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T68",
+            "name": "specification",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "maturation",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "Dll4 extracellular domain",
+            "group": 5,
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T19",
+            "name": "leads",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T21",
+            "name": "inhibition",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "Notch",
+            "group": 5,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T22",
+            "name": "signaling",
+            "group": 11,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "increased",
+            "group": 7,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "vascular",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "proliferation",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "defective",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "maturation",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "forming",
+            "group": 6,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "vessels",
+            "group": 3,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T53",
+            "name": "reduced",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "vessel lumen",
+            "group": 0,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "reduced",
+            "group": 10,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "pericyte",
+            "group": 13,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "recruitment",
+            "group": 8,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "vascular",
+            "group": 3,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "sDll4",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T55",
+            "name": "induced",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T39",
+            "name": "defective",
+            "group": 10,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T41",
+            "name": "vascular",
+            "group": 3,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T25",
+            "name": "response",
+            "group": 6,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T42",
+            "name": "tumor",
+            "group": 9,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T57",
+            "name": "leading",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T56",
+            "name": "reduced",
+            "group": 10,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T44",
+            "name": "tumor",
+            "group": 9,
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "growth",
+            "group": 12,
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "Dll4",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T64",
+            "name": "Notch",
+            "group": 5,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T45",
+            "name": "signaling",
+            "group": 11,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T47",
+            "name": "tumors",
+            "group": 9,
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T58",
+            "name": "induced",
+            "group": 7,
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T49",
+            "name": "Dll4",
+            "group": 5,
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T65",
+            "name": "Notch",
+            "group": 5,
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T48",
+            "name": "pathway",
+            "group": 11,
+            "trigger": 1,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 2
+        },
+        {
+            "source": "T8",
+            "target": "T10",
+            "value": 2
+        },
+        {
+            "source": "T11",
+            "target": "T13",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T21",
+            "value": 2
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 2
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 2
+        },
+        {
+            "source": "T24",
+            "target": "T50",
+            "value": 2
+        },
+        {
+            "source": "T28",
+            "target": "T51",
+            "value": 2
+        },
+        {
+            "source": "T32",
+            "target": "T34",
+            "value": 2
+        },
+        {
+            "source": "T39",
+            "target": "T25",
+            "value": 2
+        },
+        {
+            "source": "T43",
+            "target": "T44",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T6",
+            "value": 2
+        },
+        {
+            "source": "T4",
+            "target": "T1",
+            "value": 2
+        },
+        {
+            "source": "T16",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T23",
+            "value": 2
+        },
+        {
+            "source": "T18",
+            "target": "T70",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T67",
+            "value": 2
+        },
+        {
+            "source": "T50",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T51",
+            "target": "T27",
+            "value": 2
+        },
+        {
+            "source": "T52",
+            "target": "T30",
+            "value": 2
+        },
+        {
+            "source": "T53",
+            "target": "T31",
+            "value": 2
+        },
+        {
+            "source": "T54",
+            "target": "T32",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T55",
+            "target": "T37",
+            "value": 2
+        },
+        {
+            "source": "T56",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T43",
+            "value": 2
+        },
+        {
+            "source": "T57",
+            "target": "T39",
+            "value": 2
+        },
+        {
+            "source": "T58",
+            "target": "T48",
+            "value": 2
+        },
+        {
+            "source": "T67",
+            "target": "T66",
+            "value": 2
+        },
+        {
+            "source": "T68",
+            "target": "T66",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T15",
+            "value": 2
+        },
+        {
+            "source": "T38",
+            "target": "T68",
+            "value": 2
+        },
+        {
+            "source": "T22",
+            "target": "T63",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T46",
+            "value": 2
+        },
+        {
+            "source": "T45",
+            "target": "T64",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T49",
+            "value": 2
+        },
+        {
+            "source": "T48",
+            "target": "T65",
+            "value": 2
+        },
+        {
+            "source": "T71",
+            "target": "T3",
+            "value": 2
+        },
+        {
+            "source": "T71",
+            "target": "T2",
+            "value": 2
+        },
+        {
+            "source": "T9",
+            "target": "T5",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T60",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T8",
+            "value": 2
+        },
+        {
+            "source": "T12",
+            "target": "T61",
+            "value": 2
+        },
+        {
+            "source": "T25",
+            "target": "T41",
+            "value": 2
+        }
+    ]
+}

@@ -1,0 +1,414 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Association",
+            "group": 6
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "mitogen-activated protein kinase kinase kinase 1|mitogen-activated protein kinase kinase kinase 1",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 4,
+            "name": "breast cancer|breast cancer|breast cancer|breast cancer",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "meta-analysis",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "associations",
+            "group": 6
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "MAP3K1",
+            "group": 4
+        },
+        {
+            "id": 7,
+            "value": 6,
+            "name": "rs889312|rs889312|rs889312|rs889312|rs889312|rs889312",
+            "group": 0
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "A>C|T>G",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 3,
+            "name": "rs16886165|rs16886165|rs16886165",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "results inconsistent",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 2,
+            "name": "Significant|significant",
+            "group": 8
+        },
+        {
+            "id": 12,
+            "value": 2,
+            "name": "associations|associations",
+            "group": 6
+        },
+        {
+            "id": 13,
+            "value": 2,
+            "name": "Europeans|Europeans",
+            "group": 4
+        },
+        {
+            "id": 14,
+            "value": 2,
+            "name": "Asians|Asians",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "not",
+            "group": 5
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "Africans",
+            "group": 4
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "estrogen receptor",
+            "group": 4
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "ER",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "expression",
+            "group": 1
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "associated",
+            "group": 6
+        },
+        {
+            "id": 21,
+            "value": 2,
+            "name": "ER-positive breast cancers|ER-negative breast cancers",
+            "group": 2
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "positive",
+            "group": 7
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "negative",
+            "group": 5
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "suggests",
+            "group": 3
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "C allele",
+            "group": 4
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "G allele",
+            "group": 4
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "risk factors",
+            "group": 6
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 1
+        }
+    ]
+}
