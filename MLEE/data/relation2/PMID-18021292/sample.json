@@ -3,42 +3,48 @@
         {
             "id": "T3",
             "name": "decorin",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T2",
             "name": "expression",
-            "group": 7,
+            "group": 6,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T1",
             "name": "up-regulates",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T5",
             "name": "VEGF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T4",
             "name": "expression",
-            "group": 7,
+            "group": 6,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "mouse",
-            "group": 1,
+            "group": 12,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -46,202 +52,231 @@
             "id": "T6",
             "name": "cerebral endothelial cells",
             "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T9",
             "name": "activation",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T10",
             "name": "Sp1",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "HIF1alpha",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T12",
             "name": "Stat3",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "decorin",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T15",
             "name": "DCN",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T7",
             "name": "up-regulates",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 19
         },
         {
             "id": "T21",
             "name": "up-regulates",
-            "group": 14,
+            "group": 13,
+            "type": "Regulation",
             "trigger": 1,
             "value": 19
         },
         {
             "id": "T17",
             "name": "vascular endothelial growth factor",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T18",
             "name": "VEGF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T16",
             "name": "expression",
-            "group": 7,
+            "group": 6,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T8",
             "name": "activation",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T100",
             "name": "activation",
-            "group": 14,
+            "group": 13,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T22",
             "name": "VEGF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T13",
             "name": "regulating",
-            "group": 14,
+            "group": 13,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T23",
             "name": "Sp1",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T24",
             "name": "hypoxia-inducible factor 1alpha",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T25",
             "name": "HIF1alpha",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T26",
             "name": "signal transducer and activator of transcription 3",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T27",
             "name": "Stat3",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T29",
             "name": "epidermal growth factor receptor",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T30",
             "name": "EGFR",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T31",
             "name": "mitogen-activated protein kinase extracellular signal-regulated kinase 1/2",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T32",
             "name": "ERK1/2",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T33",
             "name": "protein kinase B",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T34",
             "name": "AKT",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T28",
             "name": "pathways",
-            "group": 13,
+            "group": 10,
+            "type": "Pathway",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T36",
             "name": "DCN",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -249,13 +284,15 @@
             "id": "T35",
             "name": "transfected",
             "group": 8,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "mouse",
-            "group": 1,
+            "group": 12,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -263,48 +300,55 @@
             "id": "T37",
             "name": "cerebral endothelial (MCE) cells",
             "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 15
         },
         {
             "id": "T41",
             "name": "induction",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T19",
             "name": "activation",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T42",
             "name": "Sp1",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T43",
             "name": "HIF1alpha",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T44",
             "name": "Stat3",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T20",
             "name": "localization",
-            "group": 11,
+            "group": 7,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
@@ -312,118 +356,135 @@
             "id": "T39",
             "name": "binding",
             "group": 5,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T45",
             "name": "VEGF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T40",
             "name": "promoter",
-            "group": 2,
+            "group": 1,
+            "type": "DNA_domain_or_region",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T101",
             "name": "induce",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T47",
             "name": "VEGF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T46",
             "name": "expression",
-            "group": 7,
+            "group": 6,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T48",
             "name": "pathways",
-            "group": 13,
+            "group": 10,
+            "type": "Pathway",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T49",
             "name": "pathways",
-            "group": 13,
+            "group": 10,
+            "type": "Pathway",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T38",
             "name": "DCN",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T84",
             "name": "EGFR",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T90",
             "name": "phosphoinositide-3 kinase",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T91",
             "name": "AKT",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T72",
             "name": "DCN",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T89",
             "name": "EGFR",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T92",
             "name": "ERK1/2",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T51",
             "name": "DCN",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T50",
             "name": "synthesizing",
-            "group": 7,
+            "group": 6,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
@@ -431,6 +492,7 @@
             "id": "T52",
             "name": "MCE cells",
             "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
@@ -438,27 +500,31 @@
             "id": "T102",
             "name": "cell",
             "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T53",
             "name": "protects",
-            "group": 6,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T54",
             "name": "Sp1",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T55",
             "name": "HIF1alpha",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -466,27 +532,31 @@
             "id": "T103",
             "name": "degradation",
             "group": 3,
+            "type": "Catabolism",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T56",
             "name": "regulation",
-            "group": 14,
+            "group": 13,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T57",
             "name": "VEGF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T59",
             "name": "DCN",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -494,6 +564,7 @@
             "id": "T58",
             "name": "transfected",
             "group": 8,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
@@ -501,48 +572,55 @@
             "id": "T60",
             "name": "MCE cells",
             "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T63",
             "name": "Induction",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T64",
             "name": "matrix metalloproteinase 2",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T104",
             "name": "9",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T65",
             "name": "tissue plasminogen activator",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T66",
             "name": "plasmin",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T68",
             "name": "DCN",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -550,6 +628,7 @@
             "id": "T67",
             "name": "transfection",
             "group": 8,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 22
         },
@@ -557,20 +636,23 @@
             "id": "T69",
             "name": "MCE cells",
             "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T105",
             "name": "leads",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T70",
             "name": "release",
-            "group": 0,
+            "group": 4,
+            "type": "Dissociation",
             "trigger": 1,
             "value": 23
         },
@@ -578,160 +660,183 @@
             "id": "T61",
             "name": "bound",
             "group": 5,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T71",
             "name": "VEGF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T62",
             "name": "activation",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T73",
             "name": "angiogenesis",
-            "group": 4,
+            "group": 9,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T74",
             "name": "signal pathways",
-            "group": 13,
+            "group": 10,
+            "type": "Pathway",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T93",
             "name": "DCN",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T95",
             "name": "EGFR",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T96",
             "name": "ERK1/2",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T94",
             "name": "DCN",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T97",
             "name": "EGFR",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T98",
             "name": "phosphoinositide-3 kinase",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T99",
             "name": "AKT",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T76",
             "name": "mediate",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T77",
             "name": "up-regulation",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 19
         },
         {
             "id": "T78",
             "name": "activation",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T79",
             "name": "VEGF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T80",
             "name": "HIF1alpha",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T81",
             "name": "Stat3",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T82",
             "name": "Sp1",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T83",
             "name": "increase",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T86",
             "name": "VEGF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T85",
             "name": "transcription",
-            "group": 9,
+            "group": 14,
+            "type": "Transcription",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T87",
             "name": "angiogenesis",
-            "group": 4,
+            "group": 9,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
@@ -739,6 +844,7 @@
             "id": "T88",
             "name": "MCE cells",
             "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 19
         }
@@ -747,982 +853,1178 @@
         {
             "source": "T2",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T4",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T16",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T35",
             "target": "T36",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T35",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T46",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T50",
             "target": "T51",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T53",
             "target": "T103",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T57",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T58",
             "target": "T60",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T63",
             "target": "T67",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T63",
             "target": "T64",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T67",
             "target": "T68",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T67",
             "target": "T69",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T70",
             "target": "T71",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T83",
             "target": "T85",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T85",
             "target": "T86",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T9",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T9",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T1",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T1",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T19",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T41",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T41",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T19",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T19",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T20",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T20",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T20",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "Site"
         },
         {
             "source": "T39",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme2"
         },
         {
             "source": "T39",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "Site"
         },
         {
             "source": "T39",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme2"
         },
         {
             "source": "T39",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "Site"
         },
         {
             "source": "T39",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme2"
         },
         {
             "source": "T101",
             "target": "T46",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T101",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T101",
             "target": "T46",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T101",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T103",
             "target": "T55",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T103",
             "target": "T54",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T53",
             "target": "T103",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T61",
             "target": "T71",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T62",
             "target": "T73",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T105",
             "target": "T70",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T105",
             "target": "T63",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T63",
             "target": "T67",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T63",
             "target": "T104",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T63",
             "target": "T67",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T63",
             "target": "T65",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T63",
             "target": "T67",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T63",
             "target": "T66",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T105",
             "target": "T62",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T105",
             "target": "T63",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T105",
             "target": "T70",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T105",
             "target": "T63",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T105",
             "target": "T62",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T105",
             "target": "T63",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T105",
             "target": "T70",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T105",
             "target": "T63",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T105",
             "target": "T62",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T105",
             "target": "T63",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T105",
             "target": "T70",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T105",
             "target": "T63",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T105",
             "target": "T62",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T105",
             "target": "T63",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T83",
             "target": "T87",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T78",
             "target": "T80",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T78",
             "target": "T81",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T78",
             "target": "T82",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T77",
             "target": "T80",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T77",
             "target": "T81",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T77",
             "target": "T82",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T83",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T83",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T83",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T83",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T78",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T78",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T78",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T78",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T78",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T78",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T77",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T77",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T77",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T77",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T77",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T76",
             "target": "T77",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T41",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T41",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T19",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T19",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T19",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T9",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T9",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T9",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T9",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T1",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T1",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T1",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T1",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T7",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T7",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T8",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T13",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T21",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T21",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T100",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T100",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T13",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T8",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T8",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T28",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T48",
             "target": "T38",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T48",
             "target": "T84",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant2"
         },
         {
             "source": "T48",
             "target": "T90",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant3"
         },
         {
             "source": "T48",
             "target": "T91",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant4"
         },
         {
             "source": "T49",
             "target": "T72",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T49",
             "target": "T89",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant2"
         },
         {
             "source": "T49",
             "target": "T92",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant3"
         },
         {
             "source": "T74",
             "target": "T93",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T74",
             "target": "T95",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant2"
         },
         {
             "source": "T74",
             "target": "T96",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant3"
         },
         {
             "source": "T74",
             "target": "T94",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T74",
             "target": "T97",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant2"
         },
         {
             "source": "T74",
             "target": "T98",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant3"
         },
         {
             "source": "T74",
             "target": "T99",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant4"
         },
         {
             "source": "T28",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T28",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T7",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T7",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T7",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T7",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T21",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T21",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T21",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T21",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T8",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T100",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T100",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T100",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T100",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T8",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T8",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T8",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T104",
             "target": "T64",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         }
     ]
 }

@@ -3,105 +3,120 @@
         {
             "id": "T1",
             "name": "neovascularization",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T16",
             "name": "treated",
-            "group": 4,
+            "group": 2,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T3",
             "name": "verteporfin",
-            "group": 7,
+            "group": 1,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T4",
             "name": "neovascularization",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T15",
             "name": "CNV",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T17",
             "name": "treated",
-            "group": 4,
+            "group": 2,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T6",
             "name": "verteporfin",
-            "group": 7,
+            "group": 1,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T7",
             "name": "eyes",
-            "group": 3,
+            "group": 0,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "patients",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T18",
             "name": "treated",
-            "group": 4,
+            "group": 2,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T2",
             "name": "Fluorescein",
-            "group": 7,
+            "group": 1,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T1002",
             "name": "CNV",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1003",
             "name": "patients",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T1004",
             "name": "CNV",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T20",
             "name": "lesion",
-            "group": 5,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
@@ -109,6 +124,7 @@
             "id": "T8",
             "name": "foveal avascular zone",
             "group": 6,
+            "type": "Tissue",
             "trigger": 0,
             "value": 18
         },
@@ -116,48 +132,55 @@
             "id": "T9",
             "name": "FAZ",
             "group": 6,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1005",
             "name": "Patient",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T19",
             "name": "treated",
-            "group": 4,
+            "group": 2,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T10",
             "name": "eye",
-            "group": 3,
+            "group": 0,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1006",
             "name": "CNV",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T5",
             "name": "fluorescein",
-            "group": 7,
+            "group": 1,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T21",
             "name": "lesion",
-            "group": 5,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
@@ -165,55 +188,63 @@
             "id": "T11",
             "name": "FAZ",
             "group": 6,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "eyes",
-            "group": 3,
+            "group": 0,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1007",
             "name": "CNV",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T22",
             "name": "lesions",
-            "group": 5,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T23",
             "name": "progressed",
-            "group": 2,
+            "group": 5,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T13",
             "name": "eyes",
-            "group": 3,
+            "group": 0,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T24",
             "name": "lesions",
-            "group": 5,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T25",
             "name": "lesions",
-            "group": 5,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
@@ -221,6 +252,7 @@
             "id": "T14",
             "name": "foveal center",
             "group": 6,
+            "type": "Tissue",
             "trigger": 0,
             "value": 19
         }
@@ -229,37 +261,44 @@
         {
             "source": "T16",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T16",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T17",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T17",
             "target": "T15",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T18",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T23",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

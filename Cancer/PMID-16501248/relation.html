@@ -42,8 +42,12 @@ d3.json("../data/relation2/PMID-16501248/sample.json", function(error, graph) {
     .selectAll("line")
     .data(graph.links)
     .enter().append("line")
-      .attr("stroke-width", function(d) { return 2 * d.value; });
-      // .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
+      .attr("stroke-width", function(d) { return 2 * d.value; })
+     .on("click", function(d) {
+        alert(d.source.name + "[" + d.source.type + "] ->" + 
+            d.link_name + " ->" +
+            d.target.name + "[" + d.target.type + "]")
+     });
 
   var node = svg.append("g")
       .attr("class", "nodes")

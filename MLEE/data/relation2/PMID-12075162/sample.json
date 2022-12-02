@@ -3,49 +3,56 @@
         {
             "id": "T1",
             "name": "breast",
-            "group": 4,
+            "group": 0,
+            "type": "Organism_subdivision",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T2",
             "name": "breast lesions",
-            "group": 2,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "infiltrating",
-            "group": 3,
+            "group": 2,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T3",
             "name": "carcinomas",
-            "group": 2,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T4",
             "name": "neoangiogenesis",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T12",
             "name": "Invasive",
-            "group": 3,
+            "group": 2,
+            "type": "Localization",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T5",
             "name": "carcinomas",
-            "group": 2,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
@@ -53,48 +60,55 @@
             "id": "T13",
             "name": "differentiated",
             "group": 1,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T6",
             "name": "tumors",
-            "group": 2,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "lesions",
-            "group": 2,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T7",
             "name": "carcinomas",
-            "group": 2,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T15",
             "name": "scar",
-            "group": 2,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T8",
             "name": "breast",
-            "group": 4,
+            "group": 0,
+            "type": "Organism_subdivision",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T9",
             "name": "breast lesions",
-            "group": 2,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         }
@@ -103,17 +117,20 @@
         {
             "source": "T11",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T12",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

@@ -3,91 +3,104 @@
         {
             "id": "T1",
             "name": "coagulation factor VIIa",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T2",
             "name": "Binding",
-            "group": 2,
+            "group": 5,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T3",
             "name": "factor VIIa",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T4",
             "name": "FVIIa",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T5",
             "name": "tissue factor",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "TF",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T10",
             "name": "induce",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T7",
             "name": "TF",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T38",
             "name": "mediated",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T9",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 9,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T11",
             "name": "tumor",
-            "group": 6,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T37",
             "name": "metastasis",
-            "group": 9,
+            "group": 6,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T12",
             "name": "FVIIa",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -95,349 +108,399 @@
             "id": "T8",
             "name": "Serum",
             "group": 1,
+            "type": "Organism_substance",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T49",
             "name": "induced",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T50",
             "name": "apoptosis",
-            "group": 12,
+            "group": 2,
+            "type": "Death",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T13",
             "name": "BHK(+TF) cells",
-            "group": 10,
+            "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T55",
             "name": "nuclei",
-            "group": 5,
+            "group": 3,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T56",
             "name": "chromatin",
-            "group": 5,
+            "group": 3,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "activation",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T15",
             "name": "caspase 3",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T16",
             "name": "FVIIa",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T63",
             "name": "cells",
-            "group": 10,
+            "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T17",
             "name": "TdT",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T51",
             "name": "dUTP",
-            "group": 11,
+            "group": 7,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T18",
             "name": "FVIIa",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T20",
             "name": "FVIIa",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T19",
             "name": "attenuated",
-            "group": 3,
+            "group": 4,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T22",
             "name": "caspase 3",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T21",
             "name": "activation",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T23",
             "name": "FVIIa",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T24",
             "name": "TF",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T25",
             "name": "factor Xa",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T26",
             "name": "thrombin",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T27",
             "name": "FVIIa",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T59",
             "name": "induced",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T57",
             "name": "cell",
-            "group": 10,
+            "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T58",
             "name": "survival",
-            "group": 12,
+            "group": 2,
+            "type": "Death",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T28",
             "name": "activation",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T29",
             "name": "Akt",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T30",
             "name": "PI3-kinase",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T31",
             "name": "LY294002",
-            "group": 11,
+            "group": 7,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T53",
             "name": "Blocking",
-            "group": 3,
+            "group": 4,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T52",
             "name": "activation",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T32",
             "name": "p44/42 mitogen-activated protein kinase",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T33",
             "name": "MAPK",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T34",
             "name": "mitogen-induced extracellular kinase",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T35",
             "name": "MEK",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T36",
             "name": "U0126",
-            "group": 11,
+            "group": 7,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T54",
             "name": "impaired",
-            "group": 3,
+            "group": 4,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T39",
             "name": "FVIIa",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T62",
             "name": "promote",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T61",
             "name": "cell",
-            "group": 10,
+            "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T60",
             "name": "survival",
-            "group": 12,
+            "group": 2,
+            "type": "Death",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T41",
             "name": "FVIIa",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T40",
             "name": "binding",
-            "group": 2,
+            "group": 5,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T42",
             "name": "TF",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T43",
             "name": "activation",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T45",
             "name": "PI3-kinase",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T46",
             "name": "Akt",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T44",
             "name": "pathway",
-            "group": 8,
+            "group": 10,
+            "type": "Pathway",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T48",
             "name": "p44/42 MAPK",
-            "group": 7,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T47",
             "name": "pathway",
-            "group": 8,
+            "group": 10,
+            "type": "Pathway",
             "trigger": 1,
             "value": 22
         }
@@ -446,182 +509,218 @@
         {
             "source": "T2",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T2",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T14",
             "target": "T15",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T21",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T21",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T28",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T40",
             "target": "T41",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T40",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T43",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T10",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T10",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T37",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T38",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T38",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T10",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T10",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T38",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T38",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T49",
             "target": "T50",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T50",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T52",
             "target": "T32",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T53",
             "target": "T52",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T53",
             "target": "T36",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T54",
             "target": "T53",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T54",
             "target": "T62",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T43",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T57",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T59",
             "target": "T58",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T60",
             "target": "T61",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T62",
             "target": "T39",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T62",
             "target": "T60",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T44",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T44",
             "target": "T46",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant2"
         },
         {
             "source": "T47",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         }
     ]
 }

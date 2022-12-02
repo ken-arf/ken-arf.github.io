@@ -3,14 +3,16 @@
         {
             "id": "T3",
             "name": "Modulation",
-            "group": 8,
+            "group": 9,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
@@ -18,6 +20,7 @@
             "id": "T2",
             "name": "progelatinase a",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -25,13 +28,15 @@
             "id": "T21",
             "name": "thrombin receptor",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T4",
             "name": "angiogenic",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
@@ -39,20 +44,23 @@
             "id": "T5",
             "name": "thrombin",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "mediated",
-            "group": 8,
+            "group": 9,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T7",
             "name": "activation",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -60,13 +68,15 @@
             "id": "T8",
             "name": "thrombin receptor",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T26",
             "name": "effects",
-            "group": 8,
+            "group": 9,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
@@ -74,13 +84,15 @@
             "id": "T10",
             "name": "SFLLR",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T38",
             "name": "activated",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -88,6 +100,7 @@
             "id": "T11",
             "name": "thrombin receptor",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -95,34 +108,39 @@
             "id": "T29",
             "name": "thrombin receptor",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "chick",
-            "group": 1,
+            "group": 8,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T15",
             "name": "chorioallantoic membrane",
-            "group": 3,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T16",
             "name": "CAM",
-            "group": 3,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
@@ -130,13 +148,15 @@
             "id": "T17",
             "name": "tripeptide FPR",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T18",
             "name": "1,4-disubstituted piperazine derivatives",
-            "group": 10,
+            "group": 4,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 15
         },
@@ -144,6 +164,7 @@
             "id": "T19",
             "name": "pentapeptide SFLLR",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 15
         },
@@ -151,27 +172,31 @@
             "id": "T20",
             "name": "thrombin",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T40",
             "name": "stimulation",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T22",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T23",
             "name": "CAM",
-            "group": 3,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
@@ -179,27 +204,31 @@
             "id": "T24",
             "name": "FPR",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T25",
             "name": "piperazine derivatives",
-            "group": 10,
+            "group": 4,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T52",
             "name": "suppression",
-            "group": 4,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T27",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
@@ -207,20 +236,23 @@
             "id": "T28",
             "name": "thrombin",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T54",
             "name": "antagonized",
-            "group": 4,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T30",
             "name": "angiogenic",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
@@ -228,6 +260,7 @@
             "id": "T31",
             "name": "Thrombin",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -235,13 +268,15 @@
             "id": "T32",
             "name": "SFLLR",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T9",
             "name": "activated",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -249,6 +284,7 @@
             "id": "T33",
             "name": "progelatinase A",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -256,20 +292,23 @@
             "id": "T34",
             "name": "MMP-2",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T35",
             "name": "human umbilical cord endothelial cells",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T36",
             "name": "HUVECs",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
@@ -277,27 +316,31 @@
             "id": "T37",
             "name": "MMP-2",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T39",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T6",
             "name": "leading",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T41",
             "name": "dissolution",
-            "group": 2,
+            "group": 3,
+            "type": "Catabolism",
             "trigger": 1,
             "value": 23
         },
@@ -305,27 +348,31 @@
             "id": "T42",
             "name": "basement membrane collagen",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T44",
             "name": "migration",
-            "group": 6,
+            "group": 5,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T55",
             "name": "activated",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T13",
             "name": "endothelial cells",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -333,41 +380,47 @@
             "id": "T45",
             "name": "FPR",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T46",
             "name": "piperazine derivatives",
-            "group": 10,
+            "group": 4,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T56",
             "name": "inhibited",
-            "group": 4,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T57",
             "name": "activation",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T58",
             "name": "antagonised",
-            "group": 4,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T59",
             "name": "effects",
-            "group": 8,
+            "group": 9,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
@@ -375,6 +428,7 @@
             "id": "T48",
             "name": "thrombin",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -382,6 +436,7 @@
             "id": "T49",
             "name": "SFLLR",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -389,20 +444,23 @@
             "id": "T50",
             "name": "MMP-2",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T47",
             "name": "activation",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T60",
             "name": "activated",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -410,20 +468,23 @@
             "id": "T51",
             "name": "thrombin receptor",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T61",
             "name": "modulators",
-            "group": 8,
+            "group": 9,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T53",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         }
@@ -432,262 +493,314 @@
         {
             "source": "T9",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T9",
             "target": "T32",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T7",
             "target": "T8",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T44",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T47",
             "target": "T50",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T3",
             "target": "T21",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T3",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T3",
             "target": "T21",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T3",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T12",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T12",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T26",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T38",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T40",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T40",
             "target": "T19",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T40",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T40",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T52",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T52",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T54",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T54",
             "target": "T30",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T52",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T52",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T9",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T9",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T6",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T6",
             "target": "T41",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T55",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T6",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T6",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T57",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T46",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T57",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T57",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T58",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T46",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T59",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T59",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T58",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T46",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T58",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T58",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T60",
             "target": "T51",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T61",
             "target": "T53",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T14",
             "target": "T15",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         },
         {
             "source": "T22",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         }
     ]
 }

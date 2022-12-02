@@ -3,196 +3,224 @@
         {
             "id": "T1",
             "name": "Mast cells",
-            "group": 8,
+            "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T2",
             "name": "tumors",
-            "group": 5,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T21",
             "name": "enhancement",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T3",
             "name": "tumor",
-            "group": 5,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T26",
             "name": "proliferation",
-            "group": 7,
+            "group": 2,
+            "type": "Growth",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T4",
             "name": "Mast cells",
-            "group": 8,
+            "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "peritoneal leukocytes",
-            "group": 8,
+            "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T27",
             "name": "enhance",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T28",
             "name": "proliferation",
-            "group": 7,
+            "group": 2,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T7",
             "name": "tumors",
-            "group": 5,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T8",
             "name": "mast cell",
-            "group": 8,
+            "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T9",
             "name": "tumor",
-            "group": 5,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T10",
             "name": "host cell",
-            "group": 8,
+            "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "tumor",
-            "group": 5,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "mast cell",
-            "group": 8,
+            "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T5",
             "name": "granules",
-            "group": 0,
+            "group": 1,
+            "type": "Organism_substance",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T13",
             "name": "heparin",
-            "group": 9,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T14",
             "name": "tumor",
-            "group": 5,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T15",
             "name": "granules",
-            "group": 0,
+            "group": 1,
+            "type": "Organism_substance",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T16",
             "name": "enhance",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T18",
             "name": "fibroblast",
-            "group": 8,
+            "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T17",
             "name": "proliferation",
-            "group": 3,
+            "group": 8,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T19",
             "name": "mast-cell",
-            "group": 8,
+            "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T29",
             "name": "mediated",
-            "group": 2,
+            "group": 7,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T20",
             "name": "tumor",
-            "group": 5,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T30",
             "name": "role",
-            "group": 2,
+            "group": 7,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T22",
             "name": "mast cells",
-            "group": 8,
+            "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T23",
             "name": "angiogenesis",
-            "group": 1,
+            "group": 5,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 22
         },
@@ -200,13 +228,15 @@
             "id": "T25",
             "name": "connective tissue",
             "group": 6,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T24",
             "name": "proliferation",
-            "group": 7,
+            "group": 2,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         }
@@ -215,72 +245,86 @@
         {
             "source": "T16",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T17",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T24",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T21",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T26",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T27",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T27",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T28",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T29",
             "target": "T19",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T29",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T30",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T30",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T30",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T30",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

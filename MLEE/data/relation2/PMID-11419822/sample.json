@@ -3,581 +3,664 @@
         {
             "id": "T1",
             "name": "Coexpression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T2",
             "name": "vascular endothelial growth factor",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T3",
             "name": "p53",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T4",
             "name": "squamous cell carcinoma",
-            "group": 7,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T5",
             "name": "esophagus",
-            "group": 4,
+            "group": 1,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "p53",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T30",
             "name": "plays a role",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T7",
             "name": "tumor",
-            "group": 7,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T8",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 5,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T9",
             "name": "vascular endothelial growth factor",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T10",
             "name": "VEGF",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T49",
             "name": "plays a key role",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 19
         },
         {
             "id": "T12",
             "name": "tumor",
-            "group": 7,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T13",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 5,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T14",
             "name": "expression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T15",
             "name": "p53",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T68",
             "name": "participates",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T17",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 5,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T18",
             "name": "coexpression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T19",
             "name": "VEGF",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T20",
             "name": "p53",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T74",
             "name": "significance",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T21",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 5,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T22",
             "name": "esophageal squamous cell carcinoma",
-            "group": 7,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T23",
             "name": "SCC",
-            "group": 7,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T81",
             "name": "Tissues samples",
-            "group": 9,
+            "group": 8,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T76",
             "name": "taken",
-            "group": 5,
+            "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "patients",
-            "group": 1,
+            "group": 10,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T24",
             "name": "esophageal SCC",
-            "group": 7,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T77",
             "name": "surgery",
-            "group": 5,
+            "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T26",
             "name": "expression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T27",
             "name": "VEGF",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T28",
             "name": "p53",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T29",
             "name": "SCC",
-            "group": 7,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T31",
             "name": "Microvessel",
-            "group": 9,
+            "group": 8,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T32",
             "name": "microvessels",
-            "group": 9,
+            "group": 8,
+            "type": "Tissue",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T33",
             "name": "tumor",
-            "group": 7,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T34",
             "name": "Factor VIII-related antigen",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T35",
             "name": "Ki-67",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T36",
             "name": "Ki-67",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T37",
             "name": "terminal deoxynucleotidyl transferase",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T38",
             "name": "deoxyuridine triphosphate biotin",
-            "group": 11,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T40",
             "name": "VEGF",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T39",
             "name": "expression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T42",
             "name": "p53",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T41",
             "name": "expression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1002",
             "name": "patients",
-            "group": 1,
+            "group": 10,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T44",
             "name": "VEGF",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T45",
             "name": "p53",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T43",
             "name": "coexpressed",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T48",
             "name": "venous",
-            "group": 2,
+            "group": 0,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T47",
             "name": "invasion",
-            "group": 6,
+            "group": 9,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T51",
             "name": "p53",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T50",
             "name": "expression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T52",
             "name": "SCC",
-            "group": 7,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T54",
             "name": "VEGF",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T55",
             "name": "p53",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T53",
             "name": "coexpression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T11",
             "name": "coexpression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T56",
             "name": "Ki-67",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T57",
             "name": "SCC",
-            "group": 7,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T59",
             "name": "p53",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T58",
             "name": "expression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T60",
             "name": "SCC",
-            "group": 7,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T61",
             "name": "Ki-67",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T62",
             "name": "SCC",
-            "group": 7,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T64",
             "name": "VEGF",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T65",
             "name": "p53",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T63",
             "name": "coexpression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T25",
             "name": "coexpression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1005",
             "name": "patients",
-            "group": 1,
+            "group": 10,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T78",
             "name": "coexpression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1006",
             "name": "patients",
-            "group": 1,
+            "group": 10,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T67",
             "name": "p53",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T66",
             "name": "expression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T69",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 5,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T16",
             "name": "metastasis",
-            "group": 7,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T70",
             "name": "esophageal SCC",
-            "group": 7,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T71",
             "name": "coexpression",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T72",
             "name": "p53",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T73",
             "name": "VEGF",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T80",
             "name": "play an important role",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T75",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 5,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         }
@@ -586,222 +669,266 @@
         {
             "source": "T1",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T1",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T14",
             "target": "T15",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T18",
             "target": "T19",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T18",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T26",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T43",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T43",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T47",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T50",
             "target": "T51",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T53",
             "target": "T55",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T53",
             "target": "T54",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T63",
             "target": "T65",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T63",
             "target": "T64",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T66",
             "target": "T67",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T71",
             "target": "T72",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T71",
             "target": "T73",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T30",
             "target": "T8",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T30",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T49",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T49",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T68",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T68",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T74",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T74",
             "target": "T21",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T74",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T74",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T81",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T77",
             "target": "T1000",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T26",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T11",
             "target": "T55",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T11",
             "target": "T54",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T25",
             "target": "T65",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T25",
             "target": "T64",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T78",
             "target": "T64",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T78",
             "target": "T65",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T80",
             "target": "T71",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T80",
             "target": "T75",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         },
         {
             "source": "T13",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         },
         {
             "source": "T69",
             "target": "T70",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         }
     ]
 }

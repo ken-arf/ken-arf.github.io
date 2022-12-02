@@ -3,21 +3,24 @@
         {
             "id": "T1",
             "name": "calcium",
-            "group": 10,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T33",
             "name": "entry",
-            "group": 8,
+            "group": 5,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T13",
             "name": "promotes",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -25,62 +28,71 @@
             "id": "T32",
             "name": "shape change",
             "group": 4,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T2",
             "name": "pulmonary endothelial cells",
-            "group": 9,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T20",
             "name": "expressing",
-            "group": 5,
+            "group": 3,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T3",
             "name": "Trp1",
-            "group": 7,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T35",
             "name": "Activation",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T4",
             "name": "Ca2+",
-            "group": 10,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T34",
             "name": "entry",
-            "group": 8,
+            "group": 5,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T37",
             "name": "produce",
-            "group": 3,
+            "group": 10,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T5",
             "name": "endothelial cell",
-            "group": 9,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -88,76 +100,87 @@
             "id": "T36",
             "name": "shape change",
             "group": 4,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T9",
             "name": "leukocyte",
-            "group": 9,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T38",
             "name": "migration",
-            "group": 8,
+            "group": 5,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T39",
             "name": "initiation",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T7",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 7,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T8",
             "name": "conduit-vessel endothelial cells",
-            "group": 9,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T10",
             "name": "Ca2+",
-            "group": 10,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T40",
             "name": "entry",
-            "group": 8,
+            "group": 5,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T53",
             "name": "cell",
-            "group": 9,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "Ca2+",
-            "group": 10,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T54",
             "name": "cell",
-            "group": 9,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -165,55 +188,63 @@
             "id": "T56",
             "name": "shape change",
             "group": 4,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "rat",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "pulmonary arterial endothelial cells",
-            "group": 9,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T41",
             "name": "increased",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T59",
             "name": "cytosolic",
-            "group": 2,
+            "group": 1,
+            "type": "Organism_substance",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "Ca2+",
-            "group": 10,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T42",
             "name": "dependent",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T6",
             "name": "membrane",
-            "group": 11,
+            "group": 2,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
@@ -221,209 +252,239 @@
             "id": "T43",
             "name": "Changes",
             "group": 4,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T15",
             "name": "endothelial cell",
-            "group": 9,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T44",
             "name": "dependent",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T16",
             "name": "Ca2+",
-            "group": 10,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T45",
             "name": "entry",
-            "group": 8,
+            "group": 5,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T46",
             "name": "induced",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T17",
             "name": "reconfiguration",
-            "group": 3,
+            "group": 10,
+            "type": "Regulation",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T18",
             "name": "peripheral (cortical) filamentous actin",
-            "group": 7,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T19",
             "name": "F-actin",
-            "group": 7,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T1001",
             "name": "Drosophila melanogaster",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T21",
             "name": "transient receptor potential",
-            "group": 7,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T22",
             "name": "trp",
-            "group": 7,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T23",
             "name": "Ca2+",
-            "group": 10,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T47",
             "name": "entry",
-            "group": 8,
+            "group": 5,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T58",
             "name": "cells",
-            "group": 9,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T24",
             "name": "Trp",
-            "group": 7,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1002",
             "name": "rat",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1003",
             "name": "human",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T25",
             "name": "pulmonary arterial endothelial cells",
-            "group": 9,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T55",
             "name": "cell",
-            "group": 9,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T48",
             "name": "express",
-            "group": 5,
+            "group": 3,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T26",
             "name": "Trp1",
-            "group": 7,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T49",
             "name": "expressed",
-            "group": 5,
+            "group": 3,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T27",
             "name": "Trp3",
-            "group": 7,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T28",
             "name": "Trp6",
-            "group": 7,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T29",
             "name": "Ca2+",
-            "group": 10,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T50",
             "name": "entry",
-            "group": 8,
+            "group": 5,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T30",
             "name": "pulmonary endothelial cells",
-            "group": 9,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T52",
             "name": "produces",
-            "group": 3,
+            "group": 10,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T57",
             "name": "cell",
-            "group": 9,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -431,13 +492,15 @@
             "id": "T51",
             "name": "shape change",
             "group": 4,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T31",
             "name": "Trp1",
-            "group": 7,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         }
@@ -446,182 +509,218 @@
         {
             "source": "T17",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T32",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T20",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T32",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T33",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T34",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T35",
             "target": "T34",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T37",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T37",
             "target": "T36",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T38",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T37",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T37",
             "target": "T38",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T37",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T37",
             "target": "T39",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T40",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T42",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T42",
             "target": "T41",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T43",
             "target": "T15",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T44",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T44",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T45",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T46",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T46",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T47",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T48",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T49",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T49",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T50",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T51",
             "target": "T57",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T52",
             "target": "T51",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T52",
             "target": "T50",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T56",
             "target": "T54",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

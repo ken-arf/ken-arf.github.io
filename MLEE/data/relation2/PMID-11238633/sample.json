@@ -4,41 +4,47 @@
             "id": "T2",
             "name": "IL-12",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T1",
             "name": "inhibition",
-            "group": 3,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T4",
             "name": "endothelial cell",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T5",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T8",
             "name": "lymphocyte",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T9",
             "name": "endothelial cell",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -46,27 +52,31 @@
             "id": "T11",
             "name": "IL-12",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T7",
             "name": "dependent",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T12",
             "name": "tumor",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T10",
             "name": "inhibition",
-            "group": 3,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -74,6 +84,7 @@
             "id": "T13",
             "name": "IL-12",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -81,34 +92,39 @@
             "id": "T14",
             "name": "CD8",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T17",
             "name": "inhibit",
-            "group": 3,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T16",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T19",
             "name": "immune cells",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T20",
             "name": "production",
-            "group": 4,
+            "group": 3,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
@@ -116,6 +132,7 @@
             "id": "T21",
             "name": "IFN-gamma",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -123,146 +140,167 @@
             "id": "T23",
             "name": "IL-12",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T18",
             "name": "activates",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T25",
             "name": "angiogenic",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T22",
             "name": "program",
-            "group": 3,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T27",
             "name": "Con A",
-            "group": 10,
+            "group": 4,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T26",
             "name": "activated",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "mouse",
-            "group": 1,
+            "group": 8,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T28",
             "name": "spleen cells",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T29",
             "name": "activated",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T30",
             "name": "spc",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "human",
-            "group": 1,
+            "group": 8,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T31",
             "name": "PBMC",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T32",
             "name": "activated",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T33",
             "name": "PBMC",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T34",
             "name": "arrest",
-            "group": 3,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T35",
             "name": "endothelial cells",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T36",
             "name": "EC",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T24",
             "name": "inhibit",
-            "group": 3,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T38",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T39",
             "name": "negatively modulate",
-            "group": 3,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T37",
             "name": "production",
-            "group": 4,
+            "group": 3,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
@@ -270,13 +308,15 @@
             "id": "T40",
             "name": "matrix metalloproteinase-9",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T42",
             "name": "EC",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -284,6 +324,7 @@
             "id": "T41",
             "name": "adhere",
             "group": 2,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
@@ -291,13 +332,15 @@
             "id": "T43",
             "name": "vitronectin",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T44",
             "name": "up-regulate",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 20
         },
@@ -305,6 +348,7 @@
             "id": "T46",
             "name": "ICAM-1",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -312,34 +356,39 @@
             "id": "T47",
             "name": "VCAM-1",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T45",
             "name": "expression",
-            "group": 4,
+            "group": 3,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T65",
             "name": "require",
-            "group": 8,
+            "group": 9,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T62",
             "name": "cell",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T63",
             "name": "cell",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -347,6 +396,7 @@
             "id": "T64",
             "name": "contact",
             "group": 2,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
@@ -354,27 +404,31 @@
             "id": "T51",
             "name": "interaction",
             "group": 2,
+            "type": "Binding",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T57",
             "name": "activated",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T48",
             "name": "lymphoid cells",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T49",
             "name": "EC",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -382,41 +436,47 @@
             "id": "T50",
             "name": "IFN-inducible protein-10",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T1002",
             "name": "nu/nu mice",
-            "group": 1,
+            "group": 8,
+            "type": "Organism",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T1003",
             "name": "nonobese diabetic-SCID mice",
-            "group": 1,
+            "group": 8,
+            "type": "Organism",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T52",
             "name": "activated",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T53",
             "name": "spc",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T66",
             "name": "cell",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -424,13 +484,15 @@
             "id": "T54",
             "name": "CD4",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "CD4(+)",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 16
         },
@@ -438,41 +500,47 @@
             "id": "T55",
             "name": "CD8",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T15",
             "name": "CD8(+)",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T56",
             "name": "NK cells",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T60",
             "name": "mediate",
-            "group": 8,
+            "group": 9,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T58",
             "name": "angiogenetic",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T61",
             "name": "effect",
-            "group": 8,
+            "group": 9,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
@@ -480,6 +548,7 @@
             "id": "T59",
             "name": "IL-12",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         }
@@ -488,217 +557,260 @@
         {
             "source": "T1",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T1",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T10",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T20",
             "target": "T21",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T26",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T26",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T29",
             "target": "T30",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T32",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T34",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T44",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T45",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T52",
             "target": "T53",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T1",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T1",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T7",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T7",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T17",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T17",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T18",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T18",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T22",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T26",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T26",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T24",
             "target": "T38",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T37",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T41",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T45",
             "target": "T46",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T44",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T51",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T51",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T57",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T57",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T60",
             "target": "T61",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T61",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T61",
             "target": "T58",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T64",
             "target": "T63",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T64",
             "target": "T62",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T65",
             "target": "T64",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T56",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         },
         {
             "source": "T6",
             "target": "T56",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         }
     ]
 }

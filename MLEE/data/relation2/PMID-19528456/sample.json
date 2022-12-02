@@ -3,7 +3,8 @@
         {
             "id": "T2",
             "name": "tumor cell",
-            "group": 14,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -11,6 +12,7 @@
             "id": "T3",
             "name": "VEGF",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -18,27 +20,31 @@
             "id": "T1",
             "name": "expression",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T4",
             "name": "vandetanib",
-            "group": 15,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T5",
             "name": "ZACTIMA",
-            "group": 15,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T6",
             "name": "ZD6474",
-            "group": 15,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 18
         },
@@ -46,20 +52,23 @@
             "id": "T7",
             "name": "VEGF",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T9",
             "name": "tumor",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T10",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 9,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
@@ -67,6 +76,7 @@
             "id": "T12",
             "name": "VEGF",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -74,20 +84,23 @@
             "id": "T11",
             "name": "expression",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T13",
             "name": "response",
-            "group": 13,
+            "group": 15,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T14",
             "name": "tumors",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
@@ -95,69 +108,79 @@
             "id": "T16",
             "name": "VEGFR2",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T8",
             "name": "associated",
-            "group": 2,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T17",
             "name": "vandetanib",
-            "group": 15,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T1000",
             "name": "Human",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T19",
             "name": "colon carcinoma",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T20",
             "name": "HT29",
-            "group": 14,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "murine",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T22",
             "name": "squamous carcinoma",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T23",
             "name": "SCCVII",
-            "group": 14,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T72",
             "name": "cell lines",
-            "group": 14,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -165,6 +188,7 @@
             "id": "T21",
             "name": "expressing",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
@@ -172,20 +196,23 @@
             "id": "T24",
             "name": "VEGF",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T25",
             "name": "response",
-            "group": 13,
+            "group": 15,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T26",
             "name": "vandetanib",
-            "group": 15,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 18
         },
@@ -193,90 +220,103 @@
             "id": "T71",
             "name": "tissue",
             "group": 12,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T27",
             "name": "solid tumors",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T29",
             "name": "Vandetanib",
-            "group": 15,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T28",
             "name": "treatment",
-            "group": 6,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T15",
             "name": "effect",
-            "group": 13,
+            "group": 15,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T30",
             "name": "tumor cell",
-            "group": 14,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T73",
             "name": "cell",
-            "group": 14,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T18",
             "name": "survival",
-            "group": 16,
+            "group": 2,
+            "type": "Death",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T31",
             "name": "reduced",
-            "group": 4,
+            "group": 3,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T34",
             "name": "endothelial cell",
-            "group": 14,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T33",
             "name": "migration",
-            "group": 9,
+            "group": 10,
+            "type": "Localization",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T35",
             "name": "tumors",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T74",
             "name": "cell clones",
-            "group": 14,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -284,6 +324,7 @@
             "id": "T36",
             "name": "expressing",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
@@ -291,83 +332,95 @@
             "id": "T37",
             "name": "VEGF",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T38",
             "name": "enhanced",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T39",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 9,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T44",
             "name": "growth",
-            "group": 7,
+            "group": 13,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T40",
             "name": "intradermal",
-            "group": 3,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T41",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 9,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T42",
             "name": "treatment",
-            "group": 6,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T43",
             "name": "vandetanib",
-            "group": 15,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T65",
             "name": "inhibit",
-            "group": 4,
+            "group": 3,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T47",
             "name": "blood vessel",
-            "group": 3,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T46",
             "name": "growth",
-            "group": 7,
+            "group": 13,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T69",
             "name": "induced",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -375,6 +428,7 @@
             "id": "T49",
             "name": "VEGF",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -382,41 +436,47 @@
             "id": "T48",
             "name": "expressing",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T50",
             "name": "tumor cell",
-            "group": 14,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T52",
             "name": "HT29 tumor",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T70",
             "name": "treatment",
-            "group": 6,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T51",
             "name": "response",
-            "group": 13,
+            "group": 15,
+            "type": "Regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T53",
             "name": "vandetanib",
-            "group": 15,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 18
         },
@@ -424,6 +484,7 @@
             "id": "T55",
             "name": "VEGF",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -431,55 +492,63 @@
             "id": "T54",
             "name": "expressing",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T75",
             "name": "cell clones",
-            "group": 14,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T57",
             "name": "SCCVII tumor",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T59",
             "name": "vandetanib",
-            "group": 15,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T58",
             "name": "therapy",
-            "group": 6,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T56",
             "name": "counteracted",
-            "group": 4,
+            "group": 3,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T61",
             "name": "tumor",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T60",
             "name": "growth",
-            "group": 7,
+            "group": 13,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
@@ -487,6 +556,7 @@
             "id": "T63",
             "name": "VEGF",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -494,20 +564,23 @@
             "id": "T62",
             "name": "over-expressing",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T64",
             "name": "tumor cells",
-            "group": 14,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T66",
             "name": "tumors",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
@@ -515,13 +588,15 @@
             "id": "T68",
             "name": "VEGF",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T67",
             "name": "interventions",
-            "group": 4,
+            "group": 3,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         }
@@ -530,217 +605,260 @@
         {
             "source": "T1",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T11",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T21",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T25",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T25",
             "target": "T21",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T28",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T28",
             "target": "T30",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T33",
             "target": "T34",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T42",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T46",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T48",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T54",
             "target": "T55",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T60",
             "target": "T61",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T62",
             "target": "T63",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T67",
             "target": "T68",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T15",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T18",
             "target": "T73",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T31",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T31",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T38",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T38",
             "target": "T39",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T44",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T38",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T38",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T65",
             "target": "T46",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T65",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T69",
             "target": "T50",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T69",
             "target": "T46",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T51",
             "target": "T53",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T51",
             "target": "T52",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T70",
             "target": "T52",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T60",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T58",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T10",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         },
         {
             "source": "T39",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         },
         {
             "source": "T41",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         }
     ]
 }

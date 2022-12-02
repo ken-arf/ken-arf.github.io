@@ -4,6 +4,7 @@
             "id": "T1",
             "name": "anti-vascular endothelial growth factor",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -11,153 +12,175 @@
             "id": "T2",
             "name": "vascular endothelial growth factor",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T3",
             "name": "bevacizumab",
-            "group": 10,
+            "group": 2,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T4",
             "name": "Avastin",
-            "group": 10,
+            "group": 2,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T5",
             "name": "bevacizumab",
-            "group": 10,
+            "group": 2,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T11",
             "name": "treatment",
-            "group": 5,
+            "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T13",
             "name": "affecting",
-            "group": 9,
+            "group": 10,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T6",
             "name": "macula",
-            "group": 8,
+            "group": 6,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "patients",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "edema",
-            "group": 6,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T8",
             "name": "capillary",
-            "group": 8,
+            "group": 6,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T9",
             "name": "neovascularization",
-            "group": 0,
+            "group": 5,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T20",
             "name": "intravitreal injection",
-            "group": 5,
+            "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T10",
             "name": "bevacizumab",
-            "group": 10,
+            "group": 2,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T1001",
             "name": "patient",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "Bevacizumab",
-            "group": 10,
+            "group": 2,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T21",
             "name": "treatment",
-            "group": 5,
+            "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T22",
             "name": "edema",
-            "group": 6,
+            "group": 4,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1002",
             "name": "patients",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1003",
             "name": "patients",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T15",
             "name": "bevacizumab",
-            "group": 10,
+            "group": 2,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T16",
             "name": "bevacizumab",
-            "group": 10,
+            "group": 2,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T17",
             "name": "vascular",
-            "group": 2,
+            "group": 0,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
@@ -165,6 +188,7 @@
             "id": "T19",
             "name": "anti-vascular endothelial growth factor",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -172,27 +196,31 @@
             "id": "T18",
             "name": "vascular endothelial growth factor",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T25",
             "name": "reduce",
-            "group": 3,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T23",
             "name": "tissue",
-            "group": 8,
+            "group": 6,
+            "type": "Tissue",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T24",
             "name": "damage",
-            "group": 4,
+            "group": 8,
+            "type": "Breakdown",
             "trigger": 1,
             "value": 23
         }
@@ -201,37 +229,44 @@
         {
             "source": "T11",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T13",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T13",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T20",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T21",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T24",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T25",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

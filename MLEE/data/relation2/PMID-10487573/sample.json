@@ -3,7 +3,8 @@
         {
             "id": "T2",
             "name": "neovascularization",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 21
         },
@@ -11,27 +12,31 @@
             "id": "T4",
             "name": "macular",
             "group": 5,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T3",
             "name": "degeneration",
-            "group": 2,
+            "group": 6,
+            "type": "Breakdown",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1",
             "name": "Control",
-            "group": 6,
+            "group": 8,
+            "type": "Regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T6",
             "name": "neovascularization",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 21
         },
@@ -39,48 +44,55 @@
             "id": "T8",
             "name": "macular",
             "group": 5,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T7",
             "name": "degeneration",
-            "group": 2,
+            "group": 6,
+            "type": "Breakdown",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "patients",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "patients",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T9",
             "name": "neovascularization",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T10",
             "name": "fluorescein",
-            "group": 8,
+            "group": 2,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1002",
             "name": "Patients",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 22
         },
@@ -88,13 +100,15 @@
             "id": "T5",
             "name": "treated",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1003",
             "name": "patients",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -102,41 +116,47 @@
             "id": "T12",
             "name": "received",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T11",
             "name": "head",
-            "group": 7,
+            "group": 1,
+            "type": "Organism_subdivision",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T1004",
             "name": "patients",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1005",
             "name": "women",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1006",
             "name": "men",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T1007",
             "name": "patients",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -144,20 +164,23 @@
             "id": "T13",
             "name": "therapy",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1008",
             "name": "patients",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T17",
             "name": "refusing",
-            "group": 4,
+            "group": 0,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -165,6 +188,7 @@
             "id": "T18",
             "name": "radiotherapy",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
@@ -172,13 +196,15 @@
             "id": "T16",
             "name": "irradiated",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1009",
             "name": "patients",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -186,6 +212,7 @@
             "id": "T14",
             "name": "irradiated",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
@@ -193,20 +220,23 @@
             "id": "T15",
             "name": "untreated",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1010",
             "name": "patients",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1011",
             "name": "Patients",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 22
         }
@@ -215,57 +245,68 @@
         {
             "source": "T3",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T7",
             "target": "T8",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T1",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T5",
             "target": "T1002",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T12",
             "target": "T1003",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T1007",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T14",
             "target": "T1010",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T1010",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T16",
             "target": "T1009",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T17",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T18",
             "target": "T1008",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

@@ -3,154 +3,176 @@
         {
             "id": "T1",
             "name": "Oxygen",
-            "group": 9,
+            "group": 4,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T3",
             "name": "metabolism",
-            "group": 11,
+            "group": 5,
+            "type": "Metabolism",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T2",
             "name": "Reactive oxygen species",
-            "group": 9,
+            "group": 4,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T4",
             "name": "ROS",
-            "group": 9,
+            "group": 4,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T19",
             "name": "produced",
-            "group": 2,
+            "group": 10,
+            "type": "Synthesis",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T5",
             "name": "activated",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T6",
             "name": "phagocytic cells",
-            "group": 8,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T7",
             "name": "excessive",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T8",
             "name": "production",
-            "group": 2,
+            "group": 10,
+            "type": "Synthesis",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T9",
             "name": "ROS",
-            "group": 9,
+            "group": 4,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T20",
             "name": "damage",
-            "group": 0,
+            "group": 3,
+            "type": "Catabolism",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T21",
             "name": "damage",
-            "group": 3,
+            "group": 8,
+            "type": "Breakdown",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T10",
             "name": "lipids",
-            "group": 9,
+            "group": 4,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "nucleic acids",
-            "group": 9,
+            "group": 4,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "matrix components",
-            "group": 10,
+            "group": 2,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T13",
             "name": "synovial",
-            "group": 6,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "synovial",
-            "group": 6,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T22",
             "name": "perfusion",
-            "group": 4,
+            "group": 6,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T16",
             "name": "activate",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T17",
             "name": "hypoxia-inducible factor-1alpha",
-            "group": 1,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T18",
             "name": "nuclear factor-kappaB",
-            "group": 1,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T15",
             "name": "regulated",
-            "group": 7,
+            "group": 9,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         }
@@ -159,67 +181,80 @@
         {
             "source": "T5",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T7",
             "target": "T8",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T16",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T3",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T20",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T21",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T20",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T22",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T16",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

@@ -3,84 +3,96 @@
         {
             "id": "T13",
             "name": "Retinal",
-            "group": 4,
+            "group": 0,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T1",
             "name": "revascularisation",
-            "group": 0,
+            "group": 3,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "patient",
-            "group": 1,
+            "group": 5,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T2",
             "name": "vessels",
-            "group": 4,
+            "group": 0,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "retinal periphery",
-            "group": 5,
+            "group": 4,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T3",
             "name": "capillary",
-            "group": 5,
+            "group": 4,
+            "type": "Tissue",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T10",
             "name": "macula",
-            "group": 5,
+            "group": 4,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T4",
             "name": "eye",
-            "group": 3,
+            "group": 1,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T5",
             "name": "vessels",
-            "group": 4,
+            "group": 0,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "revascularisation",
-            "group": 0,
+            "group": 3,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T7",
             "name": "vessels",
-            "group": 4,
+            "group": 0,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T8",
             "name": "retina",
-            "group": 4,
+            "group": 0,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 22
         },
@@ -88,13 +100,15 @@
             "id": "T12",
             "name": "appearance",
             "group": 2,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T9",
             "name": "vessels",
-            "group": 4,
+            "group": 0,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         }
@@ -103,12 +117,14 @@
         {
             "source": "T12",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T1",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         }
     ]
 }

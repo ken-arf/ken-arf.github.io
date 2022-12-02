@@ -3,84 +3,96 @@
         {
             "id": "T1",
             "name": "uteroglobin",
-            "group": 0,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "human",
-            "group": 1,
+            "group": 3,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T2",
             "name": "uteroglobin",
-            "group": 0,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "human",
-            "group": 1,
+            "group": 3,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T3",
             "name": "angiogenesis",
-            "group": 3,
+            "group": 0,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T4",
             "name": "fibronectin",
-            "group": 0,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T5",
             "name": "interleukin 2",
-            "group": 0,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T7",
             "name": "neutralize",
-            "group": 2,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T6",
             "name": "tumor necrosis factor-alpha",
-            "group": 0,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T8",
             "name": "uteroglobin",
-            "group": 0,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T9",
             "name": "uteroglobin",
-            "group": 0,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T10",
             "name": "uteroglobin",
-            "group": 0,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         }
@@ -89,7 +101,8 @@
         {
             "source": "T7",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

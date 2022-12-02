@@ -4,27 +4,31 @@
             "id": "T13",
             "name": "effect",
             "group": 9,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T2",
             "name": "perfluorocarbon",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T3",
             "name": "oxygen",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T4",
             "name": "tissue-engineered trachea",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 17
         },
@@ -32,272 +36,311 @@
             "id": "T15",
             "name": "effect",
             "group": 9,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T6",
             "name": "perfluorocarbon",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T7",
             "name": "oxygen",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T8",
             "name": "Oxygent",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T9",
             "name": "tissue-engineered trachea",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T10",
             "name": "TET",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "Oxygent",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T44",
             "name": "tissue",
-            "group": 8,
+            "group": 7,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "oxygen",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "TET epithelium",
-            "group": 8,
+            "group": 7,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1",
             "name": "Chondrocyte",
-            "group": 10,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T17",
             "name": "glycosaminoglycan",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T45",
             "name": "Tissue",
-            "group": 8,
+            "group": 7,
+            "type": "Tissue",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T18",
             "name": "TET epithelial scaffolds",
-            "group": 8,
+            "group": 7,
+            "type": "Tissue",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T1000",
             "name": "chick",
-            "group": 1,
+            "group": 8,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T19",
             "name": "embryo chorioallantoic membrane",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T21",
             "name": "Oxygent",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T22",
             "name": "TET epithelial",
-            "group": 8,
+            "group": 7,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T23",
             "name": "lactate",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T24",
             "name": "lactate",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T25",
             "name": "pyruvate",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T26",
             "name": "lactate",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T27",
             "name": "glucose",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T5",
             "name": "Chondrocyte",
-            "group": 10,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T29",
             "name": "Oxygent",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T30",
             "name": "glycosaminoglycan",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T31",
             "name": "mucopolysaccharides",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T35",
             "name": "formation",
-            "group": 4,
+            "group": 10,
+            "type": "Synthesis",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T36",
             "name": "capillary",
-            "group": 8,
+            "group": 7,
+            "type": "Tissue",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T41",
             "name": "cultured",
-            "group": 5,
+            "group": 4,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T32",
             "name": "chorioallantoic membranes",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T33",
             "name": "Oxygent",
-            "group": 11,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T42",
             "name": "increases",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T34",
             "name": "TET epithelial",
-            "group": 8,
+            "group": 7,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T43",
             "name": "impair",
-            "group": 3,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T37",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T38",
             "name": "slow",
-            "group": 3,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T40",
             "name": "cartilage tissue",
-            "group": 8,
+            "group": 7,
+            "type": "Tissue",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T39",
             "name": "formation",
-            "group": 2,
+            "group": 5,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         }
@@ -306,62 +349,74 @@
         {
             "source": "T38",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T38",
             "target": "T39",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T8",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T35",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T36",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T42",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T42",
             "target": "T34",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T43",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T43",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         }
     ]
 }

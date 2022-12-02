@@ -4,20 +4,23 @@
             "id": "T1",
             "name": "Down syndrome critical region gene 1",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T2",
             "name": "vascular bed",
-            "group": 3,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "mice",
-            "group": 0,
+            "group": 13,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -25,6 +28,7 @@
             "id": "T5",
             "name": "Down syndrome critical region gene 1",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -32,6 +36,7 @@
             "id": "T6",
             "name": "DSCR-1",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -39,6 +44,7 @@
             "id": "T7",
             "name": "DSCR-1s",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -46,6 +52,7 @@
             "id": "T9",
             "name": "calcineurin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 21
         },
@@ -53,13 +60,15 @@
             "id": "T10",
             "name": "NFAT",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T8",
             "name": "signaling",
-            "group": 12,
+            "group": 10,
+            "type": "Pathway",
             "trigger": 1,
             "value": 23
         },
@@ -67,6 +76,7 @@
             "id": "T11",
             "name": "DSCR1",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
@@ -74,13 +84,15 @@
             "id": "T13",
             "name": "VEGF",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "induces",
-            "group": 9,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -88,6 +100,7 @@
             "id": "T14",
             "name": "DSCR-1s",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -95,34 +108,39 @@
             "id": "T3",
             "name": "expression",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T15",
             "name": "endothelial cells",
-            "group": 14,
+            "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T4",
             "name": "attenuate",
-            "group": 4,
+            "group": 3,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T19",
             "name": "endothelial cell",
-            "group": 14,
+            "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T18",
             "name": "activation",
-            "group": 9,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -130,6 +148,7 @@
             "id": "T21",
             "name": "DSCR-1s",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -137,6 +156,7 @@
             "id": "T20",
             "name": "expression",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
@@ -144,20 +164,23 @@
             "id": "T22",
             "name": "DSCR-1",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T41",
             "name": "targeted",
-            "group": 8,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "human",
-            "group": 0,
+            "group": 13,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -165,13 +188,15 @@
             "id": "T23",
             "name": "DSCR1s",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T16",
             "name": "coupled",
-            "group": 8,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
@@ -179,6 +204,7 @@
             "id": "T24",
             "name": "lacZ",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -186,6 +212,7 @@
             "id": "T25",
             "name": "hypoxanthine guanine phosphoribosyl transferase",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -193,13 +220,15 @@
             "id": "T26",
             "name": "Hprt",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T1002",
             "name": "mice",
-            "group": 0,
+            "group": 13,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -207,6 +236,7 @@
             "id": "T29",
             "name": "lacZ",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -214,34 +244,39 @@
             "id": "T28",
             "name": "expressed",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T30",
             "name": "endothelium",
-            "group": 1,
+            "group": 12,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T31",
             "name": "transgenic embryos",
-            "group": 6,
+            "group": 4,
+            "type": "Developing_anatomical_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T27",
             "name": "downregulated",
-            "group": 4,
+            "group": 3,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T47",
             "name": "administration",
-            "group": 8,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
@@ -249,48 +284,55 @@
             "id": "T32",
             "name": "VEGF",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T33",
             "name": "LPS",
-            "group": 15,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1003",
             "name": "mice",
-            "group": 0,
+            "group": 13,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T56",
             "name": "resulted",
-            "group": 9,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T34",
             "name": "cyclosporine A",
-            "group": 15,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T55",
             "name": "sensitive",
-            "group": 13,
+            "group": 14,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T53",
             "name": "reactivation",
-            "group": 9,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -298,6 +340,7 @@
             "id": "T35",
             "name": "DSCR1s",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -305,27 +348,31 @@
             "id": "T54",
             "name": "promoter",
             "group": 2,
+            "type": "DNA_domain_or_region",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T63",
             "name": "organs",
-            "group": 7,
+            "group": 8,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T36",
             "name": "heart",
-            "group": 7,
+            "group": 8,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T37",
             "name": "brain",
-            "group": 7,
+            "group": 8,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
@@ -333,6 +380,7 @@
             "id": "T38",
             "name": "DSCR1s",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -340,34 +388,39 @@
             "id": "T58",
             "name": "promoter",
             "group": 2,
+            "type": "DNA_domain_or_region",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T57",
             "name": "induced",
-            "group": 9,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T39",
             "name": "endothelium",
-            "group": 1,
+            "group": 12,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T40",
             "name": "tumor",
-            "group": 10,
+            "group": 9,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T1004",
             "name": "mouse",
-            "group": 0,
+            "group": 13,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -375,6 +428,7 @@
             "id": "T42",
             "name": "DSCR-1s",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -382,27 +436,31 @@
             "id": "T59",
             "name": "deficient",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1005",
             "name": "mice",
-            "group": 0,
+            "group": 13,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T60",
             "name": "adenovirus",
-            "group": 0,
+            "group": 13,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T61",
             "name": "mediated",
-            "group": 9,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -410,6 +468,7 @@
             "id": "T44",
             "name": "DSCR-1s",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -417,13 +476,15 @@
             "id": "T43",
             "name": "overexpression",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T45",
             "name": "LPS",
-            "group": 15,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
@@ -431,6 +492,7 @@
             "id": "T46",
             "name": "DSCR1",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
@@ -438,13 +500,15 @@
             "id": "T62",
             "name": "promoter",
             "group": 2,
+            "type": "DNA_domain_or_region",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T48",
             "name": "vascular bed",
-            "group": 3,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
@@ -452,20 +516,23 @@
             "id": "T64",
             "name": "expression",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T49",
             "name": "activated",
-            "group": 9,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T51",
             "name": "endothelium",
-            "group": 1,
+            "group": 12,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
@@ -473,6 +540,7 @@
             "id": "T52",
             "name": "DSCR-1s",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         }
@@ -481,182 +549,218 @@
         {
             "source": "T12",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T12",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T18",
             "target": "T19",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T20",
             "target": "T21",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T27",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T28",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T43",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T49",
             "target": "T51",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T3",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T4",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T4",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T16",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T16",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T41",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T41",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T41",
             "target": "T1002",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T47",
             "target": "T1003",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T47",
             "target": "T32",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T47",
             "target": "T1003",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T47",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T53",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T53",
             "target": "T54",
-            "value": 2
+            "value": 2,
+            "link_name": "Site"
         },
         {
             "source": "T55",
             "target": "T34",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T55",
             "target": "T53",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T53",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T56",
             "target": "T53",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T57",
             "target": "T58",
-            "value": 2
+            "value": 2,
+            "link_name": "Site"
         },
         {
             "source": "T57",
             "target": "T38",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T61",
             "target": "T60",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T61",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T64",
             "target": "T46",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T8",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant2"
         }
     ]
 }

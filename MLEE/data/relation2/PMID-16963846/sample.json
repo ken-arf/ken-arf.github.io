@@ -4,20 +4,23 @@
             "id": "T6",
             "name": "Photodynamic therapy",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T2",
             "name": "verteporfin",
-            "group": 5,
+            "group": 2,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T4",
             "name": "neovascularization",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 21
         },
@@ -25,41 +28,47 @@
             "id": "T8",
             "name": "photodynamic therapy",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T5",
             "name": "verteporfin",
-            "group": 5,
+            "group": 2,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T7",
             "name": "neovascularization",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T3",
             "name": "CNV",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "patients",
-            "group": 1,
+            "group": 5,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T9",
             "name": "eyes",
-            "group": 2,
+            "group": 1,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
@@ -67,13 +76,15 @@
             "id": "T21",
             "name": "PDT",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T10",
             "name": "Verteporfin",
-            "group": 5,
+            "group": 2,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 21
         },
@@ -81,20 +92,23 @@
             "id": "T13",
             "name": "Photodynamic Therapy",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T1",
             "name": "fundus",
-            "group": 4,
+            "group": 0,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T20",
             "name": "fluorescein",
-            "group": 5,
+            "group": 2,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
@@ -102,13 +116,15 @@
             "id": "T14",
             "name": "angiography",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1002",
             "name": "Patients",
-            "group": 1,
+            "group": 5,
+            "type": "Organism",
             "trigger": 0,
             "value": 22
         },
@@ -116,41 +132,47 @@
             "id": "T17",
             "name": "treatment",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1003",
             "name": "patients",
-            "group": 1,
+            "group": 5,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1004",
             "name": "patients",
-            "group": 1,
+            "group": 5,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "eyes",
-            "group": 2,
+            "group": 1,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "eyes",
-            "group": 2,
+            "group": 1,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1005",
             "name": "CNV",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
@@ -158,34 +180,39 @@
             "id": "T18",
             "name": "PDT",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1006",
             "name": "patients",
-            "group": 1,
+            "group": 5,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1007",
             "name": "CNV",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1008",
             "name": "patients",
-            "group": 1,
+            "group": 5,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T15",
             "name": "eyes",
-            "group": 2,
+            "group": 1,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
@@ -193,13 +220,15 @@
             "id": "T19",
             "name": "PDT",
             "group": 3,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T16",
             "name": "verteporfin",
-            "group": 5,
+            "group": 2,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 20
         }
@@ -208,67 +237,80 @@
         {
             "source": "T6",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T8",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T13",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T13",
             "target": "T1001",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T14",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T14",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T17",
             "target": "T1002",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T18",
             "target": "T1006",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T19",
             "target": "T1008",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T19",
             "target": "T15",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T21",
             "target": "T1001",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

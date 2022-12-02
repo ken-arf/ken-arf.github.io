@@ -3,7 +3,8 @@
         {
             "id": "T30",
             "name": "Formation",
-            "group": 2,
+            "group": 4,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
@@ -11,6 +12,7 @@
             "id": "T1",
             "name": "bone",
             "group": 8,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
@@ -18,41 +20,47 @@
             "id": "T31",
             "name": "vertical distraction osteogenesis",
             "group": 5,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T1000",
             "name": "human",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T2",
             "name": "mandible",
-            "group": 4,
+            "group": 3,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T3",
             "name": "blood vessels",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "blood vessel",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T5",
             "name": "growth",
-            "group": 9,
+            "group": 6,
+            "type": "Growth",
             "trigger": 1,
             "value": 22
         },
@@ -60,34 +68,39 @@
             "id": "T32",
             "name": "vertical distraction osteogenesis",
             "group": 5,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T1001",
             "name": "human",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T7",
             "name": "mandible",
-            "group": 4,
+            "group": 3,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1002",
             "name": "patients",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T8",
             "name": "mandible",
-            "group": 4,
+            "group": 3,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
@@ -95,13 +108,15 @@
             "id": "T9",
             "name": "bone",
             "group": 8,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1003",
             "name": "patients",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -109,13 +124,15 @@
             "id": "T10",
             "name": "bone",
             "group": 8,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "blood vessel",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
@@ -123,20 +140,23 @@
             "id": "T12",
             "name": "bone",
             "group": 8,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T33",
             "name": "formed",
-            "group": 2,
+            "group": 4,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T13",
             "name": "blood vessels",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
@@ -144,41 +164,47 @@
             "id": "T14",
             "name": "soft connective tissue",
             "group": 8,
+            "type": "Tissue",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T15",
             "name": "blood vessels",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T34",
             "name": "delay",
-            "group": 3,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T16",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 7,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1004",
             "name": "patients",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T17",
             "name": "blood vessel",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
@@ -186,6 +212,7 @@
             "id": "T18",
             "name": "bone",
             "group": 8,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
@@ -193,6 +220,7 @@
             "id": "T19",
             "name": "bone",
             "group": 8,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
@@ -200,48 +228,55 @@
             "id": "T20",
             "name": "bone",
             "group": 8,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T21",
             "name": "blood vessels",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T22",
             "name": "blood vessels",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T23",
             "name": "blood vessel",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1005",
             "name": "patients",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T35",
             "name": "disruption",
-            "group": 3,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T24",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 7,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
@@ -249,13 +284,15 @@
             "id": "T25",
             "name": "soft connective tissue",
             "group": 8,
+            "type": "Tissue",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T39",
             "name": "stimulation",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
@@ -263,27 +300,31 @@
             "id": "T38",
             "name": "cells",
             "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T26",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 7,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T27",
             "name": "blood vessels",
-            "group": 7,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T36",
             "name": "formation",
-            "group": 2,
+            "group": 4,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
@@ -291,6 +332,7 @@
             "id": "T28",
             "name": "bone",
             "group": 8,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
@@ -298,27 +340,31 @@
             "id": "T37",
             "name": "distraction",
             "group": 5,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T1006",
             "name": "human",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T29",
             "name": "mandible",
-            "group": 4,
+            "group": 3,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1007",
             "name": "patients",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         }
@@ -327,57 +373,68 @@
         {
             "source": "T5",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T30",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T31",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T32",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T33",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T34",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T35",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T37",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T38",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T24",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         }
     ]
 }

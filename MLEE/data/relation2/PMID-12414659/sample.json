@@ -3,763 +3,872 @@
         {
             "id": "T2",
             "name": "tumor",
-            "group": 11,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T3",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 9,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T70",
             "name": "induced",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T5",
             "name": "cotransplantation",
-            "group": 8,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T6",
             "name": "cancer",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T7",
             "name": "endothelial cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "nude rats",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T67",
             "name": "mediating",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T59",
             "name": "interaction",
-            "group": 3,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T10",
             "name": "cancer",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "endothelial cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "tumor",
-            "group": 11,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T13",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 9,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T88",
             "name": "cultured",
-            "group": 8,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "murine",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "endothelial cell line",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T15",
             "name": "F-2",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T1002",
             "name": "human",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T89",
             "name": "cultured",
-            "group": 8,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T16",
             "name": "epidermoid cancer cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T17",
             "name": "A431",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T18",
             "name": "A431 cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T111",
             "name": "cell",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T19",
             "name": "adhesion",
-            "group": 3,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T20",
             "name": "endothelial F-2 cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T90",
             "name": "adhesion",
-            "group": 3,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T91",
             "name": "mediated",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T21",
             "name": "sialyl Lewis(x)",
-            "group": 16,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 15
         },
         {
             "id": "T22",
             "name": "Le(x)",
-            "group": 16,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T23",
             "name": "sialyl Le(a)",
-            "group": 16,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T24",
             "name": "cancer cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T26",
             "name": "E-selectin",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T25",
             "name": "expressed",
-            "group": 6,
+            "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T27",
             "name": "F-2 cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T29",
             "name": "implantation",
-            "group": 8,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T30",
             "name": "cancer cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T31",
             "name": "F-2 cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T28",
             "name": "mediated",
-            "group": 14,
+            "group": 15,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T32",
             "name": "alpha(3)beta(1)-integrin",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 14
         },
         {
             "id": "T33",
             "name": "F-2 cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T92",
             "name": "cultured",
-            "group": 8,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T36",
             "name": "tube",
-            "group": 13,
+            "group": 12,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T93",
             "name": "formation",
-            "group": 4,
+            "group": 10,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T94",
             "name": "coculture",
-            "group": 8,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T37",
             "name": "F-2 cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T38",
             "name": "A431 cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T40",
             "name": "A431 cell",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T41",
             "name": "F-2 cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T60",
             "name": "anti-sialyl Le(x)/Le(a)",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 14
         },
         {
             "id": "T42",
             "name": "sialyl Le(x)",
-            "group": 16,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T34",
             "name": "Le(a)",
-            "group": 16,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T43",
             "name": "anti-beta(1)-integrin antibodies",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 14
         },
         {
             "id": "T4",
             "name": "beta(1)-integrin",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 14
         },
         {
             "id": "T95",
             "name": "formation",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T44",
             "name": "cancer cell",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T39",
             "name": "aggregates",
-            "group": 3,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T96",
             "name": "independent",
-            "group": 14,
+            "group": 15,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T45",
             "name": "F-2 cell",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T46",
             "name": "tumors",
-            "group": 11,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T97",
             "name": "formed",
-            "group": 4,
+            "group": 10,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T47",
             "name": "A431",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T48",
             "name": "F-2 cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T98",
             "name": "cotransplanted",
-            "group": 8,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T110",
             "name": "back",
-            "group": 7,
+            "group": 3,
+            "type": "Organism_subdivision",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1003",
             "name": "nude rats",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T49",
             "name": "tumors",
-            "group": 11,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T50",
             "name": "A431",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T99",
             "name": "supplemented",
-            "group": 8,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T51",
             "name": "F-2 cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T54",
             "name": "tubular structures",
-            "group": 13,
+            "group": 12,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T53",
             "name": "formed",
-            "group": 4,
+            "group": 10,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T55",
             "name": "F-2 cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T87",
             "name": "lumen",
-            "group": 2,
+            "group": 13,
+            "type": "Immaterial_anatomical_entity",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1004",
             "name": "rat",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T56",
             "name": "blood cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T57",
             "name": "tumor",
-            "group": 11,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T100",
             "name": "formed",
-            "group": 4,
+            "group": 10,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T58",
             "name": "A431 tumors",
-            "group": 11,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T101",
             "name": "grown",
-            "group": 9,
+            "group": 1,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T61",
             "name": "F-2 cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T62",
             "name": "co-injection",
-            "group": 8,
+            "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T63",
             "name": "anti-Le(x)/Le(a)",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 14
         },
         {
             "id": "T78",
             "name": "Le(x)",
-            "group": 16,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T86",
             "name": "Le(a)",
-            "group": 16,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T64",
             "name": "anti-beta(1)-integrin antibodies",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 14
         },
         {
             "id": "T9",
             "name": "beta(1)-integrin",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 14
         },
         {
             "id": "T102",
             "name": "produced",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T65",
             "name": "reduction",
-            "group": 5,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T66",
             "name": "A431 tumors",
-            "group": 11,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T68",
             "name": "F-2 cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T69",
             "name": "A431 tumors",
-            "group": 11,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T71",
             "name": "A431 tumors",
-            "group": 11,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T103",
             "name": "raised",
-            "group": 9,
+            "group": 1,
+            "type": "Growth",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T73",
             "name": "F-2 cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T104",
             "name": "interaction",
-            "group": 3,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T74",
             "name": "tumor cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T75",
             "name": "endothelial cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T76",
             "name": "tumor",
-            "group": 11,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T77",
             "name": "angiomorphogenesis",
-            "group": 0,
+            "group": 9,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T105",
             "name": "dependent",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T79",
             "name": "mediating",
-            "group": 14,
+            "group": 15,
+            "type": "Regulation",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T81",
             "name": "adhesion",
-            "group": 3,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T82",
             "name": "cancer cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T83",
             "name": "endothelial cells",
-            "group": 15,
+            "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T108",
             "name": "inhibition",
-            "group": 5,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 17
         },
         {
             "id": "T106",
             "name": "retards",
-            "group": 5,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T84",
             "name": "tumor",
-            "group": 11,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T107",
             "name": "growth",
-            "group": 9,
+            "group": 1,
+            "type": "Growth",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T85",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 9,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 18
         }
@@ -768,352 +877,422 @@
         {
             "source": "T5",
             "target": "T1000",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T5",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T5",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T19",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T25",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T28",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T28",
             "target": "T32",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T29",
             "target": "T30",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T29",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T53",
             "target": "T54",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T62",
             "target": "T63",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T62",
             "target": "T64",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T65",
             "target": "T66",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T79",
             "target": "T81",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T81",
             "target": "T82",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T81",
             "target": "T83",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T67",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T70",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T70",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T88",
             "target": "T15",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T89",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T90",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T90",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T91",
             "target": "T90",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T91",
             "target": "T21",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T91",
             "target": "T90",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T91",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T91",
             "target": "T90",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T91",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T92",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T93",
             "target": "T36",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T94",
             "target": "T38",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T94",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T39",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T95",
             "target": "T39",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T96",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T96",
             "target": "T95",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T97",
             "target": "T46",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T98",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T98",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T98",
             "target": "T110",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T99",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T99",
             "target": "T51",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T100",
             "target": "T57",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T101",
             "target": "T58",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T102",
             "target": "T62",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T102",
             "target": "T65",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T103",
             "target": "T71",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T104",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T104",
             "target": "T75",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T105",
             "target": "T104",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T105",
             "target": "T79",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T106",
             "target": "T108",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T106",
             "target": "T107",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T107",
             "target": "T84",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T108",
             "target": "T104",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T106",
             "target": "T108",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T106",
             "target": "T85",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T3",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         },
         {
             "source": "T13",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         },
         {
             "source": "T77",
             "target": "T76",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         },
         {
             "source": "T85",
             "target": "T84",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         },
         {
             "source": "T10",
             "target": "T11",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         },
         {
             "source": "T6",
             "target": "T7",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         },
         {
             "source": "T63",
             "target": "T64",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         },
         {
             "source": "T60",
             "target": "T43",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         },
         {
             "source": "T47",
             "target": "T48",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         }
     ]
 }

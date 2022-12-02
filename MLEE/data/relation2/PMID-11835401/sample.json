@@ -3,490 +3,560 @@
         {
             "id": "T1",
             "name": "Inhibition",
-            "group": 8,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T2",
             "name": "PDGF",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T5",
             "name": "stimulated",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T4",
             "name": "matrix",
-            "group": 13,
+            "group": 1,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T13",
             "name": "mediated",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T6",
             "name": "proliferation",
-            "group": 4,
+            "group": 12,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "human",
-            "group": 0,
+            "group": 10,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T8",
             "name": "vascular smooth muscle cells",
-            "group": 11,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T9",
             "name": "SPARC",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "independent",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T66",
             "name": "changes",
-            "group": 3,
+            "group": 6,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T65",
             "name": "cell",
-            "group": 11,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T10",
             "name": "cyclin-dependent kinase inhibitors",
-            "group": 12,
+            "group": 7,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T11",
             "name": "Interactions",
-            "group": 1,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T69",
             "name": "cells",
-            "group": 11,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "extracellular matrix",
-            "group": 13,
+            "group": 1,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T39",
             "name": "regulate",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T27",
             "name": "proliferation",
-            "group": 4,
+            "group": 12,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T15",
             "name": "SPARC",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T16",
             "name": "secreted protein, acidic, and rich in cysteine",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T17",
             "name": "matrix",
-            "group": 13,
+            "group": 1,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T24",
             "name": "associated",
-            "group": 1,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T18",
             "name": "modulates",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T20",
             "name": "adhesion",
-            "group": 1,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T22",
             "name": "proliferation",
-            "group": 4,
+            "group": 12,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T23",
             "name": "vascular cells",
-            "group": 11,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T25",
             "name": "SPARC",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T26",
             "name": "inhibits",
-            "group": 8,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "human",
-            "group": 0,
+            "group": 10,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T29",
             "name": "arterial smooth muscle cell",
-            "group": 11,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T28",
             "name": "proliferation",
-            "group": 4,
+            "group": 12,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T30",
             "name": "stimulated",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T31",
             "name": "platelet-derived growth factor",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T32",
             "name": "adhesion",
-            "group": 1,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T33",
             "name": "monomeric type I collagen",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T38",
             "name": "Binding",
-            "group": 1,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T34",
             "name": "SPARC",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T35",
             "name": "SPARC peptides",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T59",
             "name": "interaction",
-            "group": 1,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T36",
             "name": "smooth muscle cells",
-            "group": 11,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T3",
             "name": "C-terminal Ca2+-binding region",
-            "group": 7,
+            "group": 5,
+            "type": "Protein_domain_or_region",
             "trigger": 0,
             "value": 15
         },
         {
             "id": "T37",
             "name": "SPARC",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T60",
             "name": "arrests",
-            "group": 8,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T19",
             "name": "collagen",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T21",
             "name": "supported",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T41",
             "name": "smooth muscle cell",
-            "group": 11,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T40",
             "name": "proliferation",
-            "group": 4,
+            "group": 12,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T67",
             "name": "cell",
-            "group": 11,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T7",
             "name": "effect",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T68",
             "name": "cell",
-            "group": 11,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T42",
             "name": "cyclin-dependent kinase inhibitors",
-            "group": 12,
+            "group": 7,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T43",
             "name": "Cyclin-dependent kinase-2",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T44",
             "name": "p107",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T45",
             "name": "cyclin A",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T47",
             "name": "retinoblastoma protein",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T46",
             "name": "phosphorylation",
-            "group": 9,
+            "group": 3,
+            "type": "Phosphorylation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T61",
             "name": "reduced",
-            "group": 8,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T62",
             "name": "response",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T48",
             "name": "addition",
-            "group": 5,
+            "group": 8,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T49",
             "name": "SPARC",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T50",
             "name": "SPARC",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T51",
             "name": "SPARC",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T52",
             "name": "platelet-derived growth factor",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T63",
             "name": "binding",
-            "group": 1,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T53",
             "name": "antagonizes",
-            "group": 8,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T57",
             "name": "smooth muscle cell",
-            "group": 11,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T56",
             "name": "proliferation",
-            "group": 4,
+            "group": 12,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T54",
             "name": "mediated",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T64",
             "name": "collagen",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T58",
             "name": "cyclin-dependent kinase-2",
-            "group": 2,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         }
@@ -495,337 +565,404 @@
         {
             "source": "T1",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T1",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T6",
             "target": "T8",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T11",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T11",
             "target": "T69",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T18",
             "target": "T15",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T18",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T20",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T22",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T28",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T32",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T40",
             "target": "T41",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T46",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T48",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T53",
             "target": "T56",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T54",
             "target": "T56",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T54",
             "target": "T64",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T56",
             "target": "T57",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T5",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T5",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T13",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T14",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T14",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T24",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T24",
             "target": "T15",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T18",
             "target": "T15",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T18",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T26",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T26",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T30",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T30",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T30",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T30",
             "target": "T32",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T38",
             "target": "T34",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T38",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Site"
         },
         {
             "source": "T59",
             "target": "T36",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme2"
         },
         {
             "source": "T59",
             "target": "T34",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Site"
         },
         {
             "source": "T59",
             "target": "T36",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme2"
         },
         {
             "source": "T60",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T60",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T61",
             "target": "T46",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T62",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T62",
             "target": "T61",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T61",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T61",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T61",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T62",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T62",
             "target": "T61",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T62",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T62",
             "target": "T61",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T62",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T62",
             "target": "T61",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T63",
             "target": "T52",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T66",
             "target": "T65",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T14",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T14",
             "target": "T66",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T7",
             "target": "T68",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T7",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T21",
             "target": "T19",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T21",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T27",
             "target": "T69",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         }
     ]
 }

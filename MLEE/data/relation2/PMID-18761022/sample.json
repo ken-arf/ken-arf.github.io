@@ -4,6 +4,7 @@
             "id": "T1",
             "name": "Endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -11,6 +12,7 @@
             "id": "T2",
             "name": "TEM 1",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -18,83 +20,95 @@
             "id": "T3",
             "name": "CD248",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T4",
             "name": "pericyte",
-            "group": 14,
+            "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "tumor",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T7",
             "name": "neovascularization",
-            "group": 0,
+            "group": 9,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T25",
             "name": "formation",
-            "group": 4,
+            "group": 6,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T9",
             "name": "blood vessels",
-            "group": 2,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T29",
             "name": "depends",
-            "group": 9,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T63",
             "name": "interaction",
-            "group": 3,
+            "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T11",
             "name": "endothelial cells",
-            "group": 14,
+            "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "pericytes",
-            "group": 14,
+            "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T15",
             "name": "vasculature",
-            "group": 2,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T13",
             "name": "development",
-            "group": 4,
+            "group": 6,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
@@ -102,6 +116,7 @@
             "id": "T88",
             "name": "tissues",
             "group": 12,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
@@ -109,6 +124,7 @@
             "id": "T16",
             "name": "Endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -116,41 +132,47 @@
             "id": "T17",
             "name": "TEM 1",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T18",
             "name": "cell membrane",
-            "group": 15,
+            "group": 2,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T71",
             "name": "expressed",
-            "group": 6,
+            "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T19",
             "name": "blood vessels",
-            "group": 2,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T20",
             "name": "mature vessels",
-            "group": 2,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "human",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -158,6 +180,7 @@
             "id": "T21",
             "name": "endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -165,41 +188,47 @@
             "id": "T23",
             "name": "endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T22",
             "name": "expression",
-            "group": 6,
+            "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "human",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T24",
             "name": "prenatal brain pericytes",
-            "group": 14,
+            "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T26",
             "name": "pericytes",
-            "group": 14,
+            "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T27",
             "name": "tumors",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
@@ -207,6 +236,7 @@
             "id": "T28",
             "name": "Anti-endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -214,13 +244,15 @@
             "id": "T5",
             "name": "endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T77",
             "name": "preventing",
-            "group": 5,
+            "group": 3,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
@@ -228,20 +260,23 @@
             "id": "T32",
             "name": "pericyte tube",
             "group": 12,
+            "type": "Tissue",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T31",
             "name": "formation",
-            "group": 4,
+            "group": 6,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T33",
             "name": "Brain pericytes",
-            "group": 14,
+            "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 19
         },
@@ -249,6 +284,7 @@
             "id": "T34",
             "name": "endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -256,6 +292,7 @@
             "id": "T35",
             "name": "TEM 1",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -263,6 +300,7 @@
             "id": "T41",
             "name": "TEMs-2",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -270,6 +308,7 @@
             "id": "T40",
             "name": "-3",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -277,6 +316,7 @@
             "id": "T39",
             "name": "-4",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -284,6 +324,7 @@
             "id": "T38",
             "name": "-5",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -291,6 +332,7 @@
             "id": "T37",
             "name": "-7",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -298,6 +340,7 @@
             "id": "T36",
             "name": "-8",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -305,48 +348,55 @@
             "id": "T42",
             "name": "endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T78",
             "name": "present",
-            "group": 13,
+            "group": 7,
+            "type": "Localization",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T43",
             "name": "pericyte",
-            "group": 14,
+            "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T79",
             "name": "Transgenic",
-            "group": 7,
+            "group": 10,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1002",
             "name": "mice",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T80",
             "name": "express",
-            "group": 6,
+            "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1003",
             "name": "human",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -354,20 +404,23 @@
             "id": "T44",
             "name": "endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T45",
             "name": "growth",
-            "group": 8,
+            "group": 13,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1004",
             "name": "human",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -375,41 +428,47 @@
             "id": "T46",
             "name": "tumor xenografts",
             "group": 12,
+            "type": "Tissue",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T1005",
             "name": "human",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T47",
             "name": "colon carcinoma Colo205",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T48",
             "name": "HT29",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T81",
             "name": "grown",
-            "group": 8,
+            "group": 13,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1006",
             "name": "human",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -417,20 +476,23 @@
             "id": "T49",
             "name": "endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T82",
             "name": "transgenic",
-            "group": 7,
+            "group": 10,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1007",
             "name": "mice",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -438,13 +500,15 @@
             "id": "T51",
             "name": "endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T50",
             "name": "expression",
-            "group": 6,
+            "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
@@ -452,20 +516,23 @@
             "id": "T52",
             "name": "NG2",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T83",
             "name": "expressing",
-            "group": 6,
+            "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T53",
             "name": "perivascular cells",
-            "group": 14,
+            "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
@@ -473,41 +540,47 @@
             "id": "T54",
             "name": "CD31",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T84",
             "name": "positive",
-            "group": 6,
+            "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T55",
             "name": "endothelial cells",
-            "group": 14,
+            "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1008",
             "name": "human",
-            "group": 1,
+            "group": 14,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T56",
             "name": "ovarian",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T57",
             "name": "colon tumors",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
@@ -515,20 +588,23 @@
             "id": "T59",
             "name": "endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T58",
             "name": "expression",
-            "group": 6,
+            "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T60",
             "name": "pericytes",
-            "group": 14,
+            "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -536,41 +612,47 @@
             "id": "T61",
             "name": "endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T85",
             "name": "expressed",
-            "group": 6,
+            "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T62",
             "name": "pericytes",
-            "group": 14,
+            "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T64",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 9,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T65",
             "name": "tumor",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T86",
             "name": "development",
-            "group": 4,
+            "group": 6,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
@@ -578,6 +660,7 @@
             "id": "T66",
             "name": "Anti-endosialin antibodies",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
@@ -585,13 +668,15 @@
             "id": "T10",
             "name": "endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T67",
             "name": "vasculature",
-            "group": 2,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 22
         },
@@ -599,13 +684,15 @@
             "id": "T68",
             "name": "malignant tissues",
             "group": 12,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T69",
             "name": "targeting",
-            "group": 7,
+            "group": 10,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 22
         },
@@ -613,41 +700,47 @@
             "id": "T70",
             "name": "endosialin",
             "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T87",
             "name": "interfere",
-            "group": 5,
+            "group": 3,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T74",
             "name": "blood vessel",
-            "group": 2,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T73",
             "name": "growth",
-            "group": 8,
+            "group": 13,
+            "type": "Growth",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T76",
             "name": "tumor",
-            "group": 10,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T75",
             "name": "development",
-            "group": 4,
+            "group": 6,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         }
@@ -656,192 +749,230 @@
         {
             "source": "T13",
             "target": "T15",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T22",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T45",
             "target": "T46",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T50",
             "target": "T51",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T69",
             "target": "T70",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T73",
             "target": "T74",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T75",
             "target": "T76",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T25",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T29",
             "target": "T63",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T29",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T63",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T63",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T71",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T77",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T77",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T31",
             "target": "T32",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T78",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T79",
             "target": "T1002",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T79",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T80",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T81",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T81",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T82",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T82",
             "target": "T1007",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T83",
             "target": "T52",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T84",
             "target": "T54",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T85",
             "target": "T61",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T86",
             "target": "T65",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T87",
             "target": "T69",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T87",
             "target": "T73",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T7",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         },
         {
             "source": "T40",
             "target": "T41",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         },
         {
             "source": "T39",
             "target": "T41",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         },
         {
             "source": "T38",
             "target": "T41",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         },
         {
             "source": "T37",
             "target": "T41",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         },
         {
             "source": "T36",
             "target": "T41",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         },
         {
             "source": "T56",
             "target": "T57",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         }
     ]
 }

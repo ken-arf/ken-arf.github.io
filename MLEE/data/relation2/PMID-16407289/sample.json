@@ -3,14 +3,16 @@
         {
             "id": "T15",
             "name": "Regulation",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T1",
             "name": "extracellular matrix",
-            "group": 12,
+            "group": 3,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
@@ -18,6 +20,7 @@
             "id": "T2",
             "name": "low density lipoprotein receptor-related protein-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -25,6 +28,7 @@
             "id": "T3",
             "name": "Low density lipoprotein receptor-related protein-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -32,34 +36,39 @@
             "id": "T4",
             "name": "LRP-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T5",
             "name": "extracellular matrix",
-            "group": 12,
+            "group": 3,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "ECM",
-            "group": 12,
+            "group": 3,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T27",
             "name": "bind",
-            "group": 3,
+            "group": 5,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T7",
             "name": "ECM",
-            "group": 12,
+            "group": 3,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
@@ -67,13 +76,15 @@
             "id": "T8",
             "name": "LRP-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T31",
             "name": "implicated",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
@@ -81,34 +92,39 @@
             "id": "T10",
             "name": "integrin",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T9",
             "name": "maturation",
-            "group": 2,
+            "group": 1,
+            "type": "Protein_processing",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T13",
             "name": "ECM",
-            "group": 12,
+            "group": 3,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "modeling",
-            "group": 5,
+            "group": 7,
+            "type": "Development",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T11",
             "name": "regulated",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
@@ -116,6 +132,7 @@
             "id": "T14",
             "name": "LRP-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -123,41 +140,47 @@
             "id": "T16",
             "name": "LRP-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T39",
             "name": "deficiency",
-            "group": 7,
+            "group": 6,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "murine",
-            "group": 1,
+            "group": 10,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T17",
             "name": "embryonic fibroblasts",
-            "group": 11,
+            "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T18",
             "name": "MEFs",
-            "group": 11,
+            "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T20",
             "name": "increased",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -165,6 +188,7 @@
             "id": "T21",
             "name": "type III collagen",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -172,20 +196,23 @@
             "id": "T22",
             "name": "pigment epithelium-derived factor",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T23",
             "name": "substratum",
-            "group": 12,
+            "group": 3,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T54",
             "name": "cells",
-            "group": 11,
+            "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -193,6 +220,7 @@
             "id": "T46",
             "name": "collagen",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -200,6 +228,7 @@
             "id": "T25",
             "name": "uPAR-AP",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -207,13 +236,15 @@
             "id": "T26",
             "name": "Endo-180",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T24",
             "name": "increased",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -221,27 +252,31 @@
             "id": "T28",
             "name": "LRP-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T19",
             "name": "deficient",
-            "group": 7,
+            "group": 6,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T29",
             "name": "MEFs",
-            "group": 11,
+            "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T1001",
             "name": "Human",
-            "group": 1,
+            "group": 10,
+            "type": "Organism",
             "trigger": 0,
             "value": 22
         },
@@ -249,6 +284,7 @@
             "id": "T30",
             "name": "LRP-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -256,13 +292,15 @@
             "id": "T32",
             "name": "LRP-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T50",
             "name": "deficiency",
-            "group": 7,
+            "group": 6,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
@@ -270,13 +308,15 @@
             "id": "T33",
             "name": "LRP-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T34",
             "name": "Inhibition",
-            "group": 6,
+            "group": 4,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -284,6 +324,7 @@
             "id": "T35",
             "name": "c-Jun amino-terminal kinase",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 15
         },
@@ -291,13 +332,15 @@
             "id": "T36",
             "name": "JNK",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T51",
             "name": "blocked",
-            "group": 6,
+            "group": 4,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -305,13 +348,15 @@
             "id": "T38",
             "name": "type III collagen",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T37",
             "name": "expression",
-            "group": 7,
+            "group": 6,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 22
         },
@@ -319,27 +364,31 @@
             "id": "T40",
             "name": "LRP-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T52",
             "name": "deficient",
-            "group": 7,
+            "group": 6,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T41",
             "name": "MEFs",
-            "group": 11,
+            "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T42",
             "name": "regulation",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
@@ -347,6 +396,7 @@
             "id": "T43",
             "name": "JNK",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -354,6 +404,7 @@
             "id": "T44",
             "name": "LRP-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -361,13 +412,15 @@
             "id": "T45",
             "name": "LRP-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T53",
             "name": "role",
-            "group": 10,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
@@ -375,20 +428,23 @@
             "id": "T47",
             "name": "LRP-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T48",
             "name": "blood vessel",
-            "group": 4,
+            "group": 2,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T49",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 8,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         }
@@ -397,132 +453,158 @@
         {
             "source": "T9",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T11",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T11",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T12",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T20",
             "target": "T21",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T24",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T34",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T37",
             "target": "T38",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T42",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T27",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T31",
             "target": "T8",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T31",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T20",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T24",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T50",
             "target": "T32",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T51",
             "target": "T34",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T51",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T52",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T53",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T53",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T53",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T53",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

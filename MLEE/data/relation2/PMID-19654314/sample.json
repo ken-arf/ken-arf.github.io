@@ -3,14 +3,16 @@
         {
             "id": "T3",
             "name": "Endothelial cell",
-            "group": 13,
+            "group": 14,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1",
             "name": "migration",
-            "group": 12,
+            "group": 6,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
@@ -18,6 +20,7 @@
             "id": "T5",
             "name": "vascular endothelial growth factor",
             "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
@@ -25,6 +28,7 @@
             "id": "T4",
             "name": "expression",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
@@ -32,62 +36,71 @@
             "id": "T6",
             "name": "breast tissue",
             "group": 11,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T8",
             "name": "Recruiting",
-            "group": 12,
+            "group": 6,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T9",
             "name": "blood",
-            "group": 0,
+            "group": 1,
+            "type": "Organism_substance",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "tumor",
-            "group": 9,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T10",
             "name": "progression",
-            "group": 3,
+            "group": 7,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T12",
             "name": "breast",
-            "group": 6,
+            "group": 4,
+            "type": "Organism_subdivision",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "transformed",
-            "group": 3,
+            "group": 7,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T13",
             "name": "breast epithelial cells",
-            "group": 13,
+            "group": 14,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T16",
             "name": "Elevated",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 21
         },
@@ -95,6 +108,7 @@
             "id": "T18",
             "name": "vascular endothelial growth factor",
             "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
@@ -102,62 +116,71 @@
             "id": "T19",
             "name": "VEGF",
             "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T17",
             "name": "secretion",
-            "group": 12,
+            "group": 6,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T20",
             "name": "malignant cells",
-            "group": 13,
+            "group": 14,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T15",
             "name": "enhanced",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T22",
             "name": "recruitment",
-            "group": 12,
+            "group": 6,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T23",
             "name": "endothelial cells",
-            "group": 13,
+            "group": 14,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T24",
             "name": "EC",
-            "group": 13,
+            "group": 14,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T25",
             "name": "phenotypic reversion",
-            "group": 3,
+            "group": 7,
+            "type": "Development",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T26",
             "name": "malignant cells",
-            "group": 13,
+            "group": 14,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -165,6 +188,7 @@
             "id": "T27",
             "name": "reexpression",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
@@ -172,13 +196,15 @@
             "id": "T28",
             "name": "HoxD10",
             "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T29",
             "name": "attenuated",
-            "group": 4,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
@@ -186,6 +212,7 @@
             "id": "T31",
             "name": "VEGF",
             "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -193,6 +220,7 @@
             "id": "T30",
             "name": "expression",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
@@ -200,62 +228,71 @@
             "id": "T32",
             "name": "hypoxia-inducible factor 1alpha",
             "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T33",
             "name": "independent",
-            "group": 2,
+            "group": 12,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T46",
             "name": "reduced",
-            "group": 4,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T36",
             "name": "EC",
-            "group": 13,
+            "group": 14,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T35",
             "name": "migration",
-            "group": 12,
+            "group": 6,
+            "type": "Localization",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T54",
             "name": "forced",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T37",
             "name": "proliferation",
-            "group": 7,
+            "group": 13,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T38",
             "name": "nonmalignant cells",
-            "group": 13,
+            "group": 14,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T55",
             "name": "induce",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -263,6 +300,7 @@
             "id": "T40",
             "name": "VEGF",
             "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -270,62 +308,71 @@
             "id": "T39",
             "name": "expression",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T43",
             "name": "EC",
-            "group": 13,
+            "group": 14,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T42",
             "name": "recruitment",
-            "group": 12,
+            "group": 6,
+            "type": "Localization",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T60",
             "name": "cells",
-            "group": 13,
+            "group": 14,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T44",
             "name": "disrupting",
-            "group": 4,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T45",
             "name": "cytostructure",
-            "group": 14,
+            "group": 3,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T56",
             "name": "activates",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T47",
             "name": "angiogenic",
-            "group": 1,
+            "group": 9,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T57",
             "name": "reduces",
-            "group": 4,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -333,6 +380,7 @@
             "id": "T49",
             "name": "VEGF",
             "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -340,20 +388,23 @@
             "id": "T48",
             "name": "expression",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T52",
             "name": "EC",
-            "group": 13,
+            "group": 14,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T51",
             "name": "activation",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -361,6 +412,7 @@
             "id": "T53",
             "name": "epithelium",
             "group": 11,
+            "type": "Tissue",
             "trigger": 0,
             "value": 22
         },
@@ -368,20 +420,23 @@
             "id": "T58",
             "name": "tissue",
             "group": 11,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T2",
             "name": "malignant",
-            "group": 9,
+            "group": 8,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T59",
             "name": "progression",
-            "group": 3,
+            "group": 7,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         }
@@ -390,187 +445,224 @@
         {
             "source": "T1",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T4",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T10",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T16",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T17",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T17",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "FromLoc"
         },
         {
             "source": "T22",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T25",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T27",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T29",
             "target": "T30",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T29",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T30",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T35",
             "target": "T36",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T37",
             "target": "T38",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T42",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T44",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T48",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T51",
             "target": "T52",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T14",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T15",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T33",
             "target": "T32",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T33",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T46",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T46",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T54",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T55",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T55",
             "target": "T39",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T55",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T55",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T57",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T57",
             "target": "T51",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

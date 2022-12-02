@@ -3,35 +3,40 @@
         {
             "id": "T1000",
             "name": "humans",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T4",
             "name": "regulation",
-            "group": 7,
+            "group": 8,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1",
             "name": "bone",
-            "group": 4,
+            "group": 3,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "formation",
-            "group": 3,
+            "group": 4,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T2",
             "name": "bone",
-            "group": 4,
+            "group": 3,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
@@ -39,6 +44,7 @@
             "id": "T3",
             "name": "insulin-like growth factor [IGF] I",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 15
         },
@@ -46,6 +52,7 @@
             "id": "T5",
             "name": "IGF binding protein [IGFBP] 3",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
@@ -53,6 +60,7 @@
             "id": "T7",
             "name": "transforming growth factor [TGF] beta1",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
@@ -60,6 +68,7 @@
             "id": "T9",
             "name": "basic FGF",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
@@ -67,13 +76,15 @@
             "id": "T10",
             "name": "bFGF",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T11",
             "name": "bone matrix",
-            "group": 9,
+            "group": 1,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
@@ -81,6 +92,7 @@
             "id": "T15",
             "name": "matrix-metalloproteinases [MMPs] 1",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 15
         },
@@ -88,6 +100,7 @@
             "id": "T14",
             "name": "2",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -95,6 +108,7 @@
             "id": "T13",
             "name": "3",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -102,6 +116,7 @@
             "id": "T16",
             "name": "human growth hormone",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
@@ -109,13 +124,15 @@
             "id": "T17",
             "name": "hGH",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T18",
             "name": "bone",
-            "group": 4,
+            "group": 3,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
@@ -123,6 +140,7 @@
             "id": "T19",
             "name": "ALP",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -130,6 +148,7 @@
             "id": "T20",
             "name": "bone-specific ALP",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -137,6 +156,7 @@
             "id": "T21",
             "name": "BAP",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -144,6 +164,7 @@
             "id": "T22",
             "name": "osteocalcin",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 22
         },
@@ -151,27 +172,31 @@
             "id": "T23",
             "name": "OC",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T24",
             "name": "serum samples",
-            "group": 0,
+            "group": 2,
+            "type": "Organism_substance",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1002",
             "name": "patients",
-            "group": 1,
+            "group": 7,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T28",
             "name": "increase",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -179,6 +204,7 @@
             "id": "T29",
             "name": "MMP-1",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -186,6 +212,7 @@
             "id": "T30",
             "name": "bFGF",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
@@ -193,6 +220,7 @@
             "id": "T31",
             "name": "ALP",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -200,13 +228,15 @@
             "id": "T32",
             "name": "BAP",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T36",
             "name": "increase",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -214,6 +244,7 @@
             "id": "T37",
             "name": "TGF-beta1",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
@@ -221,6 +252,7 @@
             "id": "T38",
             "name": "IGF-I",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -228,6 +260,7 @@
             "id": "T39",
             "name": "IGFBP-3",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -235,13 +268,15 @@
             "id": "T40",
             "name": "hGH",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T44",
             "name": "changes",
-            "group": 7,
+            "group": 8,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
@@ -249,13 +284,15 @@
             "id": "T45",
             "name": "MMP-1",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T46",
             "name": "bone",
-            "group": 4,
+            "group": 3,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
@@ -263,6 +300,7 @@
             "id": "T47",
             "name": "TGF-beta1",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -270,6 +308,7 @@
             "id": "T48",
             "name": "bFGF",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 21
         },
@@ -277,6 +316,7 @@
             "id": "T49",
             "name": "hGH",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -284,6 +324,7 @@
             "id": "T50",
             "name": "BAP",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
@@ -291,6 +332,7 @@
             "id": "T51",
             "name": "TGF-beta1",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
@@ -298,34 +340,39 @@
             "id": "T52",
             "name": "bFGF",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T8",
             "name": "activated",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T53",
             "name": "osteoblastic cells",
-            "group": 8,
+            "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T54",
             "name": "bone",
-            "group": 4,
+            "group": 3,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T56",
             "name": "increase",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -333,6 +380,7 @@
             "id": "T57",
             "name": "bFGF",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
@@ -340,27 +388,31 @@
             "id": "T58",
             "name": "MMP-1",
             "group": 6,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T12",
             "name": "increased",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T25",
             "name": "stimulation",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T60",
             "name": "angiogenesis",
-            "group": 2,
+            "group": 5,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 22
         }
@@ -369,122 +421,146 @@
         {
             "source": "T28",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T44",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T57",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T4",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T6",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T28",
             "target": "T30",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T28",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T28",
             "target": "T32",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T38",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T39",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T44",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T44",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T44",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T53",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T12",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T12",
             "target": "T56",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T25",
             "target": "T60",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T58",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T12",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T12",
             "target": "T56",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T14",
             "target": "T15",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         },
         {
             "source": "T13",
             "target": "T15",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         }
     ]
 }

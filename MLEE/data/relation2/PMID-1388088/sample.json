@@ -4,34 +4,39 @@
             "id": "T1",
             "name": "Interleukin-1 receptor antagonist",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T3",
             "name": "inhibits",
-            "group": 3,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T5",
             "name": "neuronal",
-            "group": 10,
+            "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T4",
             "name": "damage",
-            "group": 6,
+            "group": 10,
+            "type": "Breakdown",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "rat",
-            "group": 1,
+            "group": 11,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -39,6 +44,7 @@
             "id": "T7",
             "name": "Interleukin-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
@@ -46,6 +52,7 @@
             "id": "T8",
             "name": "IL-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
@@ -53,6 +60,7 @@
             "id": "T6",
             "name": "synthesis",
             "group": 4,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
@@ -60,13 +68,15 @@
             "id": "T9",
             "name": "brain",
             "group": 5,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T2",
             "name": "stimulated",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -74,55 +84,63 @@
             "id": "T10",
             "name": "IL-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T12",
             "name": "neovascularization",
-            "group": 0,
+            "group": 8,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T14",
             "name": "neuronal",
-            "group": 10,
+            "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T13",
             "name": "death",
-            "group": 12,
+            "group": 3,
+            "type": "Death",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T16",
             "name": "cerebral artery",
-            "group": 2,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "inhibited",
-            "group": 3,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "rats",
-            "group": 1,
+            "group": 11,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T15",
             "name": "injected",
-            "group": 7,
+            "group": 6,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
@@ -130,6 +148,7 @@
             "id": "T18",
             "name": "IL-1 receptor antagonist",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -137,34 +156,39 @@
             "id": "T20",
             "name": "IL-1ra",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T31",
             "name": "infusion",
-            "group": 7,
+            "group": 6,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T22",
             "name": "NMDA",
-            "group": 11,
+            "group": 7,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T23",
             "name": "cis-2,4-methanoglutamate",
-            "group": 11,
+            "group": 7,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 15
         },
         {
             "id": "T17",
             "name": "injection",
-            "group": 7,
+            "group": 6,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
@@ -172,6 +196,7 @@
             "id": "T24",
             "name": "IL-1ra",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -179,13 +204,15 @@
             "id": "T25",
             "name": "IL-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T19",
             "name": "mediator",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -193,13 +220,15 @@
             "id": "T27",
             "name": "brain",
             "group": 5,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T26",
             "name": "damage",
-            "group": 6,
+            "group": 10,
+            "type": "Breakdown",
             "trigger": 1,
             "value": 23
         },
@@ -207,20 +236,23 @@
             "id": "T28",
             "name": "IL-1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T30",
             "name": "neuronal",
-            "group": 10,
+            "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T29",
             "name": "death",
-            "group": 12,
+            "group": 3,
+            "type": "Death",
             "trigger": 1,
             "value": 22
         }
@@ -229,77 +261,92 @@
         {
             "source": "T3",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T3",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T4",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T6",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T26",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T29",
             "target": "T30",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T2",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T11",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T15",
             "target": "T1001",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T17",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T19",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T19",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T31",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         }
     ]
 }

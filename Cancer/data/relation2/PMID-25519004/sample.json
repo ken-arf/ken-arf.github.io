@@ -3,7 +3,8 @@
         {
             "id": "T1",
             "name": "SNP",
-            "group": 2,
+            "group": 0,
+            "type": "SNP",
             "trigger": 0,
             "value": 23
         },
@@ -11,13 +12,15 @@
             "id": "T2",
             "name": "Breast Cancer",
             "group": 1,
+            "type": "Cancer",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T3",
             "name": "Risk",
-            "group": 0,
+            "group": 2,
+            "type": "Association",
             "trigger": 1,
             "value": 23
         }
@@ -26,12 +29,14 @@
         {
             "source": "T3",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "bc"
         },
         {
             "source": "T3",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int"
         }
     ]
 }

@@ -3,7 +3,8 @@
         {
             "id": "T21",
             "name": "cell",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         },
@@ -11,6 +12,7 @@
             "id": "T1",
             "name": "perlecan",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -18,20 +20,23 @@
             "id": "T2",
             "name": "Perlecan",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T22",
             "name": "cell",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T23",
             "name": "cell",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -39,41 +44,47 @@
             "id": "T3",
             "name": "perlecan",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T8",
             "name": "interactions",
-            "group": 2,
+            "group": 3,
+            "type": "Binding",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T12",
             "name": "cancer",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "growth",
-            "group": 8,
+            "group": 4,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T4",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T5",
             "name": "angiogenic",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
@@ -81,41 +92,47 @@
             "id": "T6",
             "name": "perlecan",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T15",
             "name": "bound",
-            "group": 2,
+            "group": 3,
+            "type": "Binding",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T7",
             "name": "angiogenic",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T27",
             "name": "signals",
-            "group": 3,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T17",
             "name": "resulting",
-            "group": 5,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T16",
             "name": "interactions",
-            "group": 2,
+            "group": 3,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
@@ -123,6 +140,7 @@
             "id": "T9",
             "name": "endorepellin",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
@@ -130,34 +148,39 @@
             "id": "T18",
             "name": "integrins",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T19",
             "name": "control",
-            "group": 1,
+            "group": 8,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T20",
             "name": "adhesion",
-            "group": 2,
+            "group": 3,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T26",
             "name": "cells",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T10",
             "name": "extracellular matrix",
-            "group": 10,
+            "group": 2,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
@@ -165,27 +188,31 @@
             "id": "T11",
             "name": "perlecan",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T24",
             "name": "cell",
-            "group": 9,
+            "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T25",
             "name": "growth",
-            "group": 4,
+            "group": 9,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T13",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         }
@@ -194,67 +221,80 @@
         {
             "source": "T8",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T14",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T16",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T16",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T17",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T17",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T20",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T20",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T25",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T27",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

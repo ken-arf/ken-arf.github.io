@@ -3,14 +3,16 @@
         {
             "id": "T50",
             "name": "Association",
-            "group": 8,
+            "group": 1,
+            "type": "Association",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T52",
             "name": "5p12",
-            "group": 6,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 20
         },
@@ -18,27 +20,31 @@
             "id": "T53",
             "name": "genomic markers",
             "group": 5,
+            "type": "SNP",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T54",
             "name": "breast cancer",
-            "group": 2,
+            "group": 0,
+            "type": "Cancer",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T51",
             "name": "evidence",
-            "group": 1,
+            "group": 8,
+            "type": "Spec",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T2",
             "name": "association",
-            "group": 8,
+            "group": 1,
+            "type": "Association",
             "trigger": 1,
             "value": 23
         },
@@ -46,34 +52,39 @@
             "id": "T4",
             "name": "polymorphisms",
             "group": 5,
+            "type": "SNP",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T3",
             "name": "5p12",
-            "group": 6,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T5",
             "name": "breast cancer",
-            "group": 2,
+            "group": 0,
+            "type": "Cancer",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "BC",
-            "group": 2,
+            "group": 0,
+            "type": "Cancer",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T7",
             "name": "contradictory",
-            "group": 1,
+            "group": 8,
+            "type": "Spec",
             "trigger": 0,
             "value": 23
         },
@@ -81,6 +92,7 @@
             "id": "T1",
             "name": "rs10941679",
             "group": 5,
+            "type": "SNP",
             "trigger": 0,
             "value": 17
         },
@@ -88,20 +100,23 @@
             "id": "T8",
             "name": "rs4415084",
             "group": 5,
+            "type": "SNP",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T9",
             "name": "5p12",
-            "group": 6,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T15",
             "name": "OR",
-            "group": 8,
+            "group": 1,
+            "type": "Association",
             "trigger": 1,
             "value": 22
         },
@@ -109,6 +124,7 @@
             "id": "T10",
             "name": "rs10941679",
             "group": 5,
+            "type": "SNP",
             "trigger": 0,
             "value": 17
         },
@@ -116,6 +132,7 @@
             "id": "T23",
             "name": "rs10941679",
             "group": 5,
+            "type": "SNP",
             "trigger": 0,
             "value": 17
         },
@@ -123,6 +140,7 @@
             "id": "T25",
             "name": "rs10941679",
             "group": 5,
+            "type": "SNP",
             "trigger": 0,
             "value": 17
         },
@@ -130,6 +148,7 @@
             "id": "T11",
             "name": "rs4415084",
             "group": 5,
+            "type": "SNP",
             "trigger": 0,
             "value": 18
         },
@@ -137,6 +156,7 @@
             "id": "T24",
             "name": "rs4415084",
             "group": 5,
+            "type": "SNP",
             "trigger": 0,
             "value": 18
         },
@@ -144,69 +164,79 @@
             "id": "T26",
             "name": "rs4415084",
             "group": 5,
+            "type": "SNP",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T16",
             "name": "Significant",
-            "group": 4,
+            "group": 6,
+            "type": "Level",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T19",
             "name": "results",
-            "group": 8,
+            "group": 1,
+            "type": "Association",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T20",
             "name": "Asians",
-            "group": 6,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T21",
             "name": "Caucasians",
-            "group": 6,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T17",
             "name": "no significant",
-            "group": 4,
+            "group": 6,
+            "type": "Level",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T18",
             "name": "associations",
-            "group": 8,
+            "group": 1,
+            "type": "Association",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T22",
             "name": "Africans/African-Americans",
-            "group": 6,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T27",
             "name": "dominant",
-            "group": 6,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T28",
             "name": "recessive genetic models",
-            "group": 6,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 20
         },
@@ -214,6 +244,7 @@
             "id": "T29",
             "name": "rs4415084",
             "group": 5,
+            "type": "SNP",
             "trigger": 0,
             "value": 17
         },
@@ -221,76 +252,87 @@
             "id": "T30",
             "name": "rs10941679",
             "group": 5,
+            "type": "SNP",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T31",
             "name": "significantly",
-            "group": 4,
+            "group": 6,
+            "type": "Level",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T32",
             "name": "greater",
-            "group": 7,
+            "group": 3,
+            "type": "Effect_Type",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T33",
             "name": "risks",
-            "group": 8,
+            "group": 1,
+            "type": "Association",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T40",
             "name": "risks",
-            "group": 0,
+            "group": 4,
+            "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T34",
             "name": "ER-positive breast cancer",
-            "group": 2,
+            "group": 0,
+            "type": "Cancer",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T36",
             "name": "ER",
-            "group": 6,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T37",
             "name": "positive",
-            "group": 7,
+            "group": 3,
+            "type": "Effect_Type",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T35",
             "name": "ER-negative tumors",
-            "group": 2,
+            "group": 0,
+            "type": "Cancer",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T38",
             "name": "ER",
-            "group": 6,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T39",
             "name": "negative",
-            "group": 3,
+            "group": 7,
+            "type": "Neg",
             "trigger": 0,
             "value": 23
         },
@@ -298,13 +340,15 @@
             "id": "T41",
             "name": "rs10941679",
             "group": 5,
+            "type": "SNP",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T42",
             "name": "G allele",
-            "group": 6,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 23
         },
@@ -312,48 +356,55 @@
             "id": "T43",
             "name": "rs4415084",
             "group": 5,
+            "type": "SNP",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T44",
             "name": "T allele",
-            "group": 6,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T45",
             "name": "might be",
-            "group": 1,
+            "group": 8,
+            "type": "Spec",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T46",
             "name": "risk-conferring",
-            "group": 8,
+            "group": 1,
+            "type": "Association",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T47",
             "name": "breast cancer",
-            "group": 2,
+            "group": 0,
+            "type": "Cancer",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T48",
             "name": "Caucasians",
-            "group": 6,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T49",
             "name": "East-Asians",
-            "group": 6,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 19
         }
@@ -362,332 +413,398 @@
         {
             "source": "T2",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int"
         },
         {
             "source": "T2",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "bc"
         },
         {
             "source": "T15",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int"
         },
         {
             "source": "T15",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int2"
         },
         {
             "source": "T15",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "bc"
         },
         {
             "source": "T18",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int"
         },
         {
             "source": "T18",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int2"
         },
         {
             "source": "T19",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int"
         },
         {
             "source": "T19",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int2"
         },
         {
             "source": "T33",
             "target": "T30",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int"
         },
         {
             "source": "T33",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int2"
         },
         {
             "source": "T33",
             "target": "T34",
-            "value": 2
+            "value": 2,
+            "link_name": "bc"
         },
         {
             "source": "T33",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "bc"
         },
         {
             "source": "T33",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int2"
         },
         {
             "source": "T33",
             "target": "T30",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int"
         },
         {
             "source": "T40",
             "target": "T36",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T40",
             "target": "T30",
-            "value": 2
+            "value": 2,
+            "link_name": "Agent"
         },
         {
             "source": "T40",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Agent2"
         },
         {
             "source": "T40",
             "target": "T30",
-            "value": 2
+            "value": 2,
+            "link_name": "Agent"
         },
         {
             "source": "T40",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Agent2"
         },
         {
             "source": "T40",
             "target": "T38",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T46",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int"
         },
         {
             "source": "T46",
             "target": "T41",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int2"
         },
         {
             "source": "T46",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "bc"
         },
         {
             "source": "T50",
             "target": "T53",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int"
         },
         {
             "source": "T50",
             "target": "T54",
-            "value": 2
+            "value": 2,
+            "link_name": "bc"
         },
         {
             "source": "T4",
             "target": "T3",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_location"
         },
         {
             "source": "T6",
             "target": "T5",
-            "value": 1
+            "value": 1,
+            "link_name": "Equiv"
         },
         {
             "source": "T2",
             "target": "T7",
-            "value": 1
+            "value": 1,
+            "link_name": "Speculation_marker"
         },
         {
             "source": "T1",
             "target": "T9",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_location"
         },
         {
             "source": "T8",
             "target": "T9",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_location"
         },
         {
             "source": "T19",
             "target": "T16",
-            "value": 1
+            "value": 1,
+            "link_name": "Level_marker"
         },
         {
             "source": "T18",
             "target": "T17",
-            "value": 1
+            "value": 1,
+            "link_name": "Level_marker"
         },
         {
             "source": "T25",
             "target": "T20",
-            "value": 1
+            "value": 1,
+            "link_name": "Population_assignment"
         },
         {
             "source": "T25",
             "target": "T21",
-            "value": 1
+            "value": 1,
+            "link_name": "Population_assignment"
         },
         {
             "source": "T26",
             "target": "T20",
-            "value": 1
+            "value": 1,
+            "link_name": "Population_assignment"
         },
         {
             "source": "T26",
             "target": "T21",
-            "value": 1
+            "value": 1,
+            "link_name": "Population_assignment"
         },
         {
             "source": "T23",
             "target": "T22",
-            "value": 1
+            "value": 1,
+            "link_name": "Population_assignment"
         },
         {
             "source": "T24",
             "target": "T22",
-            "value": 1
+            "value": 1,
+            "link_name": "Population_assignment"
         },
         {
             "source": "T33",
             "target": "T32",
-            "value": 1
+            "value": 1,
+            "link_name": "Effect_type_marker"
         },
         {
             "source": "T33",
             "target": "T31",
-            "value": 1
+            "value": 1,
+            "link_name": "Level_marker"
         },
         {
             "source": "T40",
             "target": "T32",
-            "value": 1
+            "value": 1,
+            "link_name": "Effect_type_marker"
         },
         {
             "source": "T40",
             "target": "T31",
-            "value": 1
+            "value": 1,
+            "link_name": "Level_marker"
         },
         {
             "source": "T40",
             "target": "T37",
-            "value": 1
+            "value": 1,
+            "link_name": "Effect_type_marker"
         },
         {
             "source": "T40",
             "target": "T39",
-            "value": 1
+            "value": 1,
+            "link_name": "Negation_marker"
         },
         {
             "source": "T41",
             "target": "T42",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_allele"
         },
         {
             "source": "T43",
             "target": "T44",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_allele"
         },
         {
             "source": "T46",
             "target": "T45",
-            "value": 1
+            "value": 1,
+            "link_name": "Speculation_marker"
         },
         {
             "source": "T41",
             "target": "T48",
-            "value": 1
+            "value": 1,
+            "link_name": "Population_assignment"
         },
         {
             "source": "T41",
             "target": "T49",
-            "value": 1
+            "value": 1,
+            "link_name": "Population_assignment"
         },
         {
             "source": "T43",
             "target": "T48",
-            "value": 1
+            "value": 1,
+            "link_name": "Population_assignment"
         },
         {
             "source": "T43",
             "target": "T49",
-            "value": 1
+            "value": 1,
+            "link_name": "Population_assignment"
         },
         {
             "source": "T23",
             "target": "T27",
-            "value": 1
+            "value": 1,
+            "link_name": "Genotype"
         },
         {
             "source": "T10",
             "target": "T27",
-            "value": 1
+            "value": 1,
+            "link_name": "Genotype"
         },
         {
             "source": "T25",
             "target": "T27",
-            "value": 1
+            "value": 1,
+            "link_name": "Genotype"
         },
         {
             "source": "T24",
             "target": "T27",
-            "value": 1
+            "value": 1,
+            "link_name": "Genotype"
         },
         {
             "source": "T11",
             "target": "T27",
-            "value": 1
+            "value": 1,
+            "link_name": "Genotype"
         },
         {
             "source": "T26",
             "target": "T27",
-            "value": 1
+            "value": 1,
+            "link_name": "Genotype"
         },
         {
             "source": "T23",
             "target": "T28",
-            "value": 1
+            "value": 1,
+            "link_name": "Genotype"
         },
         {
             "source": "T10",
             "target": "T28",
-            "value": 1
+            "value": 1,
+            "link_name": "Genotype"
         },
         {
             "source": "T25",
             "target": "T28",
-            "value": 1
+            "value": 1,
+            "link_name": "Genotype"
         },
         {
             "source": "T24",
             "target": "T28",
-            "value": 1
+            "value": 1,
+            "link_name": "Genotype"
         },
         {
             "source": "T11",
             "target": "T28",
-            "value": 1
+            "value": 1,
+            "link_name": "Genotype"
         },
         {
             "source": "T26",
             "target": "T28",
-            "value": 1
+            "value": 1,
+            "link_name": "Genotype"
         },
         {
             "source": "T50",
             "target": "T51",
-            "value": 1
+            "value": 1,
+            "link_name": "Speculation_marker"
         },
         {
             "source": "T53",
             "target": "T52",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_location"
         }
     ]
 }

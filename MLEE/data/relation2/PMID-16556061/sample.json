@@ -3,252 +3,288 @@
         {
             "id": "T1",
             "name": "endothelial cells",
-            "group": 7,
+            "group": 8,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "Cancer",
-            "group": 4,
+            "group": 2,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T38",
             "name": "dependent",
-            "group": 3,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T2",
             "name": "neoangiogenesis",
-            "group": 0,
+            "group": 3,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T1001",
             "name": "Cancer",
-            "group": 4,
+            "group": 2,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T3",
             "name": "neoangiogenesis",
-            "group": 0,
+            "group": 3,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T5",
             "name": "vascular endothelial",
-            "group": 5,
+            "group": 4,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T7",
             "name": "dysfunction",
-            "group": 2,
+            "group": 5,
+            "type": "Breakdown",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T9",
             "name": "vascular endothelial",
-            "group": 5,
+            "group": 4,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "cancer",
-            "group": 4,
+            "group": 2,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T11",
             "name": "circulating endothelial cells",
-            "group": 7,
+            "group": 8,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T12",
             "name": "CEC",
-            "group": 7,
+            "group": 8,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "vascular endothelial",
-            "group": 5,
+            "group": 4,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T36",
             "name": "cell",
-            "group": 7,
+            "group": 8,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T16",
             "name": "endothelial progenitor cell",
-            "group": 7,
+            "group": 8,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T17",
             "name": "EPC",
-            "group": 7,
+            "group": 8,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T10",
             "name": "increase",
-            "group": 3,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T21",
             "name": "vascular",
-            "group": 5,
+            "group": 4,
+            "type": "Tissue",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T19",
             "name": "damage",
-            "group": 2,
+            "group": 5,
+            "type": "Breakdown",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T22",
             "name": "EPCs",
-            "group": 7,
+            "group": 8,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T15",
             "name": "have an important role",
-            "group": 6,
+            "group": 7,
+            "type": "Regulation",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T23",
             "name": "tumor",
-            "group": 4,
+            "group": 2,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T24",
             "name": "vasculogenesis",
-            "group": 0,
+            "group": 3,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T26",
             "name": "vascular",
-            "group": 5,
+            "group": 4,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T18",
             "name": "dysfunction",
-            "group": 2,
+            "group": 5,
+            "type": "Breakdown",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T27",
             "name": "endothelial microparticle",
-            "group": 8,
+            "group": 1,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T28",
             "name": "EMP",
-            "group": 8,
+            "group": 1,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T29",
             "name": "CECs",
-            "group": 7,
+            "group": 8,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T30",
             "name": "EPCs",
-            "group": 7,
+            "group": 8,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T31",
             "name": "EMPs",
-            "group": 8,
+            "group": 1,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T35",
             "name": "cancer",
-            "group": 4,
+            "group": 2,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1002",
             "name": "patients",
-            "group": 1,
+            "group": 6,
+            "type": "Organism",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T32",
             "name": "CECs",
-            "group": 7,
+            "group": 8,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T33",
             "name": "EPCs",
-            "group": 7,
+            "group": 8,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T34",
             "name": "EMPs",
-            "group": 8,
+            "group": 1,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T37",
             "name": "cell",
-            "group": 7,
+            "group": 8,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         }
@@ -257,52 +293,62 @@
         {
             "source": "T19",
             "target": "T21",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T7",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T10",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T15",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T18",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T3",
             "target": "T1001",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         },
         {
             "source": "T24",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         },
         {
             "source": "T38",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T38",
             "target": "T1000",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

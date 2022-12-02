@@ -3,21 +3,24 @@
         {
             "id": "T1",
             "name": "VEGF",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T2",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T3",
             "name": "vasculature",
-            "group": 1,
+            "group": 9,
+            "type": "Anatomical_system",
             "trigger": 0,
             "value": 22
         },
@@ -25,132 +28,151 @@
             "id": "T4",
             "name": "endothelial cells",
             "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T7",
             "name": "dividing",
-            "group": 2,
+            "group": 8,
+            "type": "Cell_division",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T5",
             "name": "growth",
-            "group": 9,
+            "group": 3,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T6",
             "name": "tumors",
-            "group": 7,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T13",
             "name": "requires",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T9",
             "name": "vascular",
-            "group": 3,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T8",
             "name": "growth",
-            "group": 9,
+            "group": 3,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T20",
             "name": "remodeling",
-            "group": 4,
+            "group": 2,
+            "type": "Remodeling",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T10",
             "name": "solid tumors",
-            "group": 7,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T21",
             "name": "grow",
-            "group": 9,
+            "group": 3,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T11",
             "name": "Vascular endothelial growth factor",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T12",
             "name": "VEGF",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T15",
             "name": "VEGF",
-            "group": 8,
+            "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T16",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T22",
             "name": "treatment",
-            "group": 5,
+            "group": 4,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T17",
             "name": "breast",
-            "group": 7,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T18",
             "name": "lung",
-            "group": 7,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T19",
             "name": "colorectal cancers",
-            "group": 7,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         }
@@ -159,72 +181,86 @@
         {
             "source": "T5",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T8",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T20",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T21",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T22",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T22",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T22",
             "target": "T19",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T7",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T18",
             "target": "T19",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         },
         {
             "source": "T17",
             "target": "T19",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         }
     ]
 }

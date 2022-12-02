@@ -3,7 +3,8 @@
         {
             "id": "T2",
             "name": "migration",
-            "group": 11,
+            "group": 5,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
@@ -11,6 +12,7 @@
             "id": "T3",
             "name": "roundabout4 knockdown endothelial cells",
             "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 16
         },
@@ -18,6 +20,7 @@
             "id": "T4",
             "name": "roundabout4",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -25,27 +28,31 @@
             "id": "T5",
             "name": "Roundabouts",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T19",
             "name": "play a role",
-            "group": 2,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T1",
             "name": "vascular",
-            "group": 3,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T20",
             "name": "guidance",
-            "group": 5,
+            "group": 6,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
@@ -53,6 +60,7 @@
             "id": "T25",
             "name": "knockdown",
             "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
@@ -60,6 +68,7 @@
             "id": "T10",
             "name": "Robos",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -67,6 +76,7 @@
             "id": "T11",
             "name": "roundabout 4",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
@@ -74,6 +84,7 @@
             "id": "T12",
             "name": "robo4",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
@@ -81,6 +92,7 @@
             "id": "T13",
             "name": "Robo",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -88,6 +100,7 @@
             "id": "T14",
             "name": "endothelial cells",
             "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -95,6 +108,7 @@
             "id": "T59",
             "name": "small interfering RNA",
             "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 18
         },
@@ -102,6 +116,7 @@
             "id": "T15",
             "name": "Robo1",
             "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 19
         },
@@ -109,6 +124,7 @@
             "id": "T16",
             "name": "Robo1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -116,6 +132,7 @@
             "id": "T17",
             "name": "Robo4 knockdown cells",
             "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 17
         },
@@ -123,6 +140,7 @@
             "id": "T18",
             "name": "Robo4",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -130,13 +148,15 @@
             "id": "T22",
             "name": "endothelial cell",
             "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T21",
             "name": "migration",
-            "group": 11,
+            "group": 5,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
@@ -144,6 +164,7 @@
             "id": "T23",
             "name": "knockdown",
             "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
@@ -151,20 +172,23 @@
             "id": "T24",
             "name": "robo4",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T63",
             "name": "abrogated",
-            "group": 6,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T64",
             "name": "response",
-            "group": 2,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
@@ -172,27 +196,31 @@
             "id": "T27",
             "name": "endothelial cells",
             "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T66",
             "name": "serum",
-            "group": 0,
+            "group": 3,
+            "type": "Organism_substance",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T65",
             "name": "enhanced",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T67",
             "name": "response",
-            "group": 2,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
@@ -200,6 +228,7 @@
             "id": "T28",
             "name": "Slit2",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 22
         },
@@ -207,6 +236,7 @@
             "id": "T29",
             "name": "robo1 knockdown cells",
             "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 16
         },
@@ -214,20 +244,23 @@
             "id": "T30",
             "name": "robo1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T68",
             "name": "response",
-            "group": 2,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T8",
             "name": "serum",
-            "group": 0,
+            "group": 3,
+            "type": "Organism_substance",
             "trigger": 0,
             "value": 23
         },
@@ -235,6 +268,7 @@
             "id": "T31",
             "name": "VEGF",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 22
         },
@@ -242,6 +276,7 @@
             "id": "T32",
             "name": "Robo4 knockdown endothelial cells",
             "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 16
         },
@@ -249,13 +284,15 @@
             "id": "T33",
             "name": "Robo4",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T34",
             "name": "up regulation",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
@@ -263,13 +300,15 @@
             "id": "T35",
             "name": "Rho GTPases",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 15
         },
         {
             "id": "T1000",
             "name": "Zebrafish",
-            "group": 1,
+            "group": 10,
+            "type": "Organism",
             "trigger": 0,
             "value": 21
         },
@@ -277,13 +316,15 @@
             "id": "T36",
             "name": "Robo4",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T69",
             "name": "rescues",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -291,27 +332,31 @@
             "id": "T38",
             "name": "Rho GTPase",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T9",
             "name": "serum",
-            "group": 0,
+            "group": 3,
+            "type": "Organism_substance",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "reduced",
-            "group": 6,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T39",
             "name": "chemotaxis",
-            "group": 11,
+            "group": 5,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
@@ -319,6 +364,7 @@
             "id": "T40",
             "name": "robo4 knockdown cells",
             "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 17
         },
@@ -326,6 +372,7 @@
             "id": "T41",
             "name": "robo4",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -333,6 +380,7 @@
             "id": "T43",
             "name": "Robo1",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -340,6 +388,7 @@
             "id": "T44",
             "name": "Robo4",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
@@ -347,6 +396,7 @@
             "id": "T42",
             "name": "interact",
             "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
@@ -354,6 +404,7 @@
             "id": "T45",
             "name": "Slit2",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -361,6 +412,7 @@
             "id": "T46",
             "name": "Mena",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -368,6 +420,7 @@
             "id": "T47",
             "name": "Vilse",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -375,6 +428,7 @@
             "id": "T48",
             "name": "Cdc42-GAP",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -382,13 +436,15 @@
             "id": "T49",
             "name": "IRSp53",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T50",
             "name": "activated",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
@@ -396,6 +452,7 @@
             "id": "T52",
             "name": "Cdc42",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
@@ -403,6 +460,7 @@
             "id": "T53",
             "name": "Mena",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -410,13 +468,15 @@
             "id": "T55",
             "name": "Robo4",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T54",
             "name": "signaling",
-            "group": 10,
+            "group": 8,
+            "type": "Pathway",
             "trigger": 1,
             "value": 23
         },
@@ -424,6 +484,7 @@
             "id": "T56",
             "name": "endothelial cells",
             "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -431,20 +492,23 @@
             "id": "T58",
             "name": "Robo",
             "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T57",
             "name": "signaling apparatus",
-            "group": 10,
+            "group": 8,
+            "type": "Pathway",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T61",
             "name": "migration",
-            "group": 11,
+            "group": 5,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
@@ -452,6 +516,7 @@
             "id": "T62",
             "name": "endothelial cells",
             "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         }
@@ -460,177 +525,212 @@
         {
             "source": "T2",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T21",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T23",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T34",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T42",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T42",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T50",
             "target": "T53",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T50",
             "target": "T52",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T61",
             "target": "T62",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T19",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T25",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T59",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T63",
             "target": "T64",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T63",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T64",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T64",
             "target": "T66",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T65",
             "target": "T67",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T65",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T67",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T67",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T68",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T68",
             "target": "T8",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T68",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T68",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T6",
             "target": "T39",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T6",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T69",
             "target": "T36",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T69",
             "target": "T39",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T54",
             "target": "T55",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T57",
             "target": "T58",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T20",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T17",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         }
     ]
 }

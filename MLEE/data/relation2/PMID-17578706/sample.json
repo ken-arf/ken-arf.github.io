@@ -3,28 +3,32 @@
         {
             "id": "T1",
             "name": "tumor",
-            "group": 11,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T2",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 8,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T4",
             "name": "stroma",
-            "group": 13,
+            "group": 10,
+            "type": "Tissue",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T32",
             "name": "generation",
-            "group": 4,
+            "group": 5,
+            "type": "Development",
             "trigger": 1,
             "value": 22
         },
@@ -32,83 +36,95 @@
             "id": "T3",
             "name": "tumor cells",
             "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T43",
             "name": "secreted",
-            "group": 14,
+            "group": 6,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T5",
             "name": "vascular permeability factor",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T6",
             "name": "VPF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T7",
             "name": "VPF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T50",
             "name": "prevent",
-            "group": 5,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T49",
             "name": "edema",
-            "group": 11,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "human",
-            "group": 1,
+            "group": 13,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "cancers",
-            "group": 11,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T8",
             "name": "VPF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T51",
             "name": "secreted",
-            "group": 14,
+            "group": 6,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "human",
-            "group": 1,
+            "group": 13,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -116,48 +132,55 @@
             "id": "T9",
             "name": "tumor cell lines",
             "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T11",
             "name": "VPF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "vasculature",
-            "group": 3,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T1002",
             "name": "human",
-            "group": 1,
+            "group": 13,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T15",
             "name": "tumors",
-            "group": 11,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T16",
             "name": "VPF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T52",
             "name": "stimulating",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 22
         },
@@ -165,209 +188,239 @@
             "id": "T20",
             "name": "endothelial cell",
             "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T19",
             "name": "growth",
-            "group": 7,
+            "group": 14,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T21",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 8,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T22",
             "name": "VPF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T23",
             "name": "vascular endothelial growth factor",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T24",
             "name": "VEGF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T53",
             "name": "secreting",
-            "group": 14,
+            "group": 6,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T25",
             "name": "VPF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T26",
             "name": "tumors",
-            "group": 11,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T54",
             "name": "induce",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T27",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 8,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T28",
             "name": "tumors",
-            "group": 11,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T55",
             "name": "secrete",
-            "group": 14,
+            "group": 6,
+            "type": "Localization",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T29",
             "name": "VPF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T30",
             "name": "blood vessels",
-            "group": 3,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T56",
             "name": "leak",
-            "group": 14,
+            "group": 6,
+            "type": "Localization",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T10",
             "name": "plasma",
-            "group": 2,
+            "group": 3,
+            "type": "Organism_substance",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T31",
             "name": "fibrinogen",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T57",
             "name": "stimulates",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T35",
             "name": "blood vessel",
-            "group": 3,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T33",
             "name": "growth",
-            "group": 8,
+            "group": 9,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T62",
             "name": "turn off",
-            "group": 5,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T37",
             "name": "VPF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T36",
             "name": "production",
-            "group": 6,
+            "group": 4,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T38",
             "name": "tumors",
-            "group": 11,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T63",
             "name": "turn off",
-            "group": 5,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T40",
             "name": "VPF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T39",
             "name": "production",
-            "group": 6,
+            "group": 4,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T41",
             "name": "make",
-            "group": 6,
+            "group": 4,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T42",
             "name": "VPF",
-            "group": 12,
+            "group": 11,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -375,76 +428,87 @@
             "id": "T17",
             "name": "malignant cells",
             "group": 15,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T58",
             "name": "induce",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T13",
             "name": "induce",
-            "group": 4,
+            "group": 5,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T45",
             "name": "blood vessels",
-            "group": 3,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T59",
             "name": "grow",
-            "group": 7,
+            "group": 14,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T60",
             "name": "spread",
-            "group": 14,
+            "group": 6,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T46",
             "name": "tumors",
-            "group": 11,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1003",
             "name": "patients",
-            "group": 1,
+            "group": 13,
+            "type": "Organism",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T61",
             "name": "treat",
-            "group": 9,
+            "group": 12,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T47",
             "name": "tumor",
-            "group": 11,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T48",
             "name": "blood",
-            "group": 2,
+            "group": 3,
+            "type": "Organism_substance",
             "trigger": 0,
             "value": 23
         }
@@ -453,172 +517,206 @@
         {
             "source": "T19",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T33",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T41",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T32",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T43",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T43",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "FromLoc"
         },
         {
             "source": "T50",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T50",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T51",
             "target": "T8",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T51",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "FromLoc"
         },
         {
             "source": "T52",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T52",
             "target": "T19",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T52",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T52",
             "target": "T21",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T53",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T53",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "FromLoc"
         },
         {
             "source": "T54",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T54",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T55",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T57",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T57",
             "target": "T56",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T58",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T59",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T60",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T61",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T62",
             "target": "T36",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T63",
             "target": "T38",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T63",
             "target": "T39",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T2",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         },
         {
             "source": "T13",
             "target": "T45",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

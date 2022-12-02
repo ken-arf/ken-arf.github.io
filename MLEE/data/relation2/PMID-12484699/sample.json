@@ -4,27 +4,31 @@
             "id": "T3",
             "name": "Regulation",
             "group": 3,
+            "type": "Regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T2",
             "name": "transforming growth factor-beta",
-            "group": 1,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T1",
             "name": "signaling",
-            "group": 2,
+            "group": 1,
+            "type": "Pathway",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T5",
             "name": "transforming growth factor (TGF)-beta",
-            "group": 1,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
@@ -32,27 +36,31 @@
             "id": "T4",
             "name": "Dysregulation",
             "group": 3,
+            "type": "Regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T8",
             "name": "TGF-beta",
-            "group": 1,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T12",
             "name": "TGF-beta",
-            "group": 1,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T11",
             "name": "signaling",
-            "group": 2,
+            "group": 1,
+            "type": "Pathway",
             "trigger": 1,
             "value": 22
         },
@@ -60,13 +68,15 @@
             "id": "T6",
             "name": "roles",
             "group": 3,
+            "type": "Regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T14",
             "name": "TGF-beta",
-            "group": 1,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -74,6 +84,7 @@
             "id": "T16",
             "name": "regulation",
             "group": 3,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
@@ -81,6 +92,7 @@
             "id": "T17",
             "name": "vascular wall cells",
             "group": 4,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
@@ -88,13 +100,15 @@
             "id": "T19",
             "name": "regulation",
             "group": 3,
+            "type": "Regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T21",
             "name": "TGF-beta",
-            "group": 1,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -102,13 +116,15 @@
             "id": "T7",
             "name": "inhibitory",
             "group": 0,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T22",
             "name": "Smads",
-            "group": 1,
+            "group": 2,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 21
         }
@@ -117,52 +133,62 @@
         {
             "source": "T16",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T21",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T3",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T4",
             "target": "T8",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T6",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T6",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T7",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T1",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T11",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         }
     ]
 }

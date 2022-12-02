@@ -3,35 +3,40 @@
         {
             "id": "T1000",
             "name": "New Zealand white rabbits",
-            "group": 1,
+            "group": 6,
+            "type": "Organism",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T11",
             "name": "inoculations",
-            "group": 3,
+            "group": 2,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T12",
             "name": "herpes simplex virus",
-            "group": 1,
+            "group": 6,
+            "type": "Organism",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T13",
             "name": "HSV",
-            "group": 1,
+            "group": 6,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "human",
-            "group": 1,
+            "group": 6,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -39,90 +44,103 @@
             "id": "T2",
             "name": "embryonic kidney cells",
             "group": 7,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T15",
             "name": "inoculation",
-            "group": 3,
+            "group": 2,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T14",
             "name": "HSV",
-            "group": 1,
+            "group": 6,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T3",
             "name": "Epithelial",
-            "group": 6,
+            "group": 5,
+            "type": "Tissue",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T1",
             "name": "disciform edema",
-            "group": 4,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T4",
             "name": "neovascularization",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T5",
             "name": "cornea",
-            "group": 5,
+            "group": 0,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T10",
             "name": "developed",
-            "group": 2,
+            "group": 1,
+            "type": "Development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T6",
             "name": "Epithelial",
-            "group": 6,
+            "group": 5,
+            "type": "Tissue",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T7",
             "name": "corneal edema",
-            "group": 4,
+            "group": 3,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T16",
             "name": "developed",
-            "group": 2,
+            "group": 1,
+            "type": "Development",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T8",
             "name": "neovascularization",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T9",
             "name": "corneas",
-            "group": 5,
+            "group": 0,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         }
@@ -131,37 +149,44 @@
         {
             "source": "T10",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T11",
             "target": "T1000",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T11",
             "target": "T12",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T15",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T16",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T4",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         },
         {
             "source": "T8",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "AtLoc"
         }
     ]
 }

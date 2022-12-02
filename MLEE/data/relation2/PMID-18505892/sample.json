@@ -3,301 +3,344 @@
         {
             "id": "T1",
             "name": "Adenomatoid tumour",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T2",
             "name": "liver",
-            "group": 3,
+            "group": 2,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T3",
             "name": "adenomatoid tumour",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T4",
             "name": "liver",
-            "group": 3,
+            "group": 2,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T7",
             "name": "Hepatectomy",
-            "group": 5,
+            "group": 4,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "patient",
-            "group": 1,
+            "group": 9,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T5",
             "name": "tumour",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T43",
             "name": "microcystic structures",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T6",
             "name": "angiomatoid",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T10",
             "name": "flattened",
-            "group": 5,
+            "group": 4,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T8",
             "name": "epithelioid cells",
-            "group": 10,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T9",
             "name": "vacuolated cytoplasm",
-            "group": 11,
+            "group": 1,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T12",
             "name": "nuclei",
-            "group": 11,
+            "group": 1,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "epithelioid cells",
-            "group": 10,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T13",
             "name": "proliferated",
-            "group": 9,
+            "group": 3,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T15",
             "name": "capillaries",
-            "group": 8,
+            "group": 7,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T16",
             "name": "arteries",
-            "group": 7,
+            "group": 0,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T17",
             "name": "collagenous stroma",
-            "group": 8,
+            "group": 7,
+            "type": "Tissue",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T18",
             "name": "epithelioid cells",
-            "group": 10,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T19",
             "name": "cytokeratins",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T20",
             "name": "AE1",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T21",
             "name": "AE3",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T22",
             "name": "CAM5.2",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T23",
             "name": "epithelial membrane antigen",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T24",
             "name": "cytokeratin 7",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T25",
             "name": "mesothelial",
-            "group": 8,
+            "group": 7,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T26",
             "name": "calretinin",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T27",
             "name": "Wilms' tumour 1",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T28",
             "name": "D2-40",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T44",
             "name": "cells",
-            "group": 10,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T29",
             "name": "Hep par-1",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T30",
             "name": "carcinoembryonic antigen",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T31",
             "name": "neural cell adhesion molecule",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T32",
             "name": "CD34",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T33",
             "name": "CD31",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T34",
             "name": "HMB45",
-            "group": 2,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T35",
             "name": "capillaries",
-            "group": 8,
+            "group": 7,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T36",
             "name": "cystic",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T37",
             "name": "proliferation",
-            "group": 4,
+            "group": 10,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T39",
             "name": "epithelioid cells",
-            "group": 10,
+            "group": 11,
+            "type": "Cell",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T40",
             "name": "vacuoles",
-            "group": 11,
+            "group": 1,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T41",
             "name": "epithelioid element",
-            "group": 8,
+            "group": 7,
+            "type": "Tissue",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T42",
             "name": "hepatic adenomatoid tumour",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 17
         }
@@ -306,27 +349,32 @@
         {
             "source": "T13",
             "target": "T15",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T37",
             "target": "T39",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T7",
             "target": "T1000",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T10",
             "target": "T8",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T13",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         }
     ]
 }

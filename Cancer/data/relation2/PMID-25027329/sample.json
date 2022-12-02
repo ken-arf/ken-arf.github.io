@@ -3,91 +3,104 @@
         {
             "id": "T14",
             "name": "5p15.33",
-            "group": 0,
+            "group": 1,
+            "type": "Entity",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T3",
             "name": "telomerase reverse transcriptase",
-            "group": 0,
+            "group": 1,
+            "type": "Entity",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T13",
             "name": "TERT",
-            "group": 0,
+            "group": 1,
+            "type": "Entity",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "rs7726159",
-            "group": 2,
+            "group": 0,
+            "type": "SNP",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T7",
             "name": "rs2853677",
-            "group": 2,
+            "group": 0,
+            "type": "SNP",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T8",
             "name": "rs2736098",
-            "group": 2,
+            "group": 0,
+            "type": "SNP",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T9",
             "name": "rs13172201",
-            "group": 2,
+            "group": 0,
+            "type": "SNP",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T10",
             "name": "rs10069690",
-            "group": 2,
+            "group": 0,
+            "type": "SNP",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T12",
             "name": "CLPTM1L",
-            "group": 0,
+            "group": 1,
+            "type": "Entity",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T11",
             "name": "rs451360",
-            "group": 2,
+            "group": 0,
+            "type": "SNP",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T16",
             "name": "DNA methylation",
-            "group": 1,
+            "group": 2,
+            "type": "Gene_Regulation",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T18",
             "name": "risk variants",
-            "group": 2,
+            "group": 0,
+            "type": "SNP",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T19",
             "name": "5p15.33",
-            "group": 0,
+            "group": 1,
+            "type": "Entity",
             "trigger": 0,
             "value": 18
         }
@@ -96,107 +109,128 @@
         {
             "source": "T16",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Agent"
         },
         {
             "source": "T6",
             "target": "T13",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
         },
         {
             "source": "T7",
             "target": "T13",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
         },
         {
             "source": "T8",
             "target": "T13",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
         },
         {
             "source": "T9",
             "target": "T13",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
         },
         {
             "source": "T10",
             "target": "T13",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
         },
         {
             "source": "T11",
             "target": "T12",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
         },
         {
             "source": "T6",
             "target": "T14",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_location"
         },
         {
             "source": "T7",
             "target": "T14",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_location"
         },
         {
             "source": "T8",
             "target": "T14",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_location"
         },
         {
             "source": "T9",
             "target": "T14",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_location"
         },
         {
             "source": "T10",
             "target": "T14",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_location"
         },
         {
             "source": "T11",
             "target": "T14",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_location"
         },
         {
             "source": "T18",
             "target": "T19",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_location"
         },
         {
             "source": "T13",
             "target": "T3",
-            "value": 1
+            "value": 1,
+            "link_name": "Equiv"
         },
         {
             "source": "T18",
             "target": "T11",
-            "value": 1
+            "value": 1,
+            "link_name": "Member"
         },
         {
             "source": "T18",
             "target": "T10",
-            "value": 1
+            "value": 1,
+            "link_name": "Member"
         },
         {
             "source": "T18",
             "target": "T9",
-            "value": 1
+            "value": 1,
+            "link_name": "Member"
         },
         {
             "source": "T18",
             "target": "T8",
-            "value": 1
+            "value": 1,
+            "link_name": "Member"
         },
         {
             "source": "T18",
             "target": "T7",
-            "value": 1
+            "value": 1,
+            "link_name": "Member"
         },
         {
             "source": "T18",
             "target": "T6",
-            "value": 1
+            "value": 1,
+            "link_name": "Member"
         }
     ]
 }

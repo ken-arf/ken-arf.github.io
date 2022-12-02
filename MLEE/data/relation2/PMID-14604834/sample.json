@@ -4,48 +4,55 @@
             "id": "T29",
             "name": "Expression",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T30",
             "name": "regulation",
-            "group": 9,
+            "group": 10,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1",
             "name": "IGF-1",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T2",
             "name": "IGF-1R",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T3",
             "name": "IGF-1 binding proteins",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T4",
             "name": "blood vessels",
-            "group": 3,
+            "group": 0,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "insulin-like growth factor (IGF)-1",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
@@ -53,55 +60,63 @@
             "id": "T5",
             "name": "system",
             "group": 8,
+            "type": "Pathway",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T7",
             "name": "IGFs",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T8",
             "name": "IGF-1 receptor",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T9",
             "name": "IGF-1R",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T10",
             "name": "vasculature",
-            "group": 2,
+            "group": 11,
+            "type": "Anatomical_system",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "IGF-1",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T32",
             "name": "mediated",
-            "group": 9,
+            "group": 10,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T12",
             "name": "IGF-1R",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -109,34 +124,39 @@
             "id": "T31",
             "name": "interactions",
             "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T13",
             "name": "IGF binding proteins",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T36",
             "name": "regulated",
-            "group": 9,
+            "group": 10,
+            "type": "Regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T33",
             "name": "phosphorylation",
-            "group": 6,
+            "group": 2,
+            "type": "Phosphorylation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T34",
             "name": "proteolysis",
-            "group": 1,
+            "group": 3,
+            "type": "Catabolism",
             "trigger": 1,
             "value": 23
         },
@@ -144,20 +164,23 @@
             "id": "T35",
             "name": "polymerization",
             "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T21",
             "name": "cell",
-            "group": 10,
+            "group": 12,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T14",
             "name": "matrix",
-            "group": 12,
+            "group": 1,
+            "type": "Cellular_component",
             "trigger": 0,
             "value": 23
         },
@@ -165,13 +188,15 @@
             "id": "T37",
             "name": "association",
             "group": 4,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T23",
             "name": "IGF",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -179,20 +204,23 @@
             "id": "T15",
             "name": "system",
             "group": 8,
+            "type": "Pathway",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T16",
             "name": "oxygen",
-            "group": 11,
+            "group": 6,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T39",
             "name": "IGF",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -200,41 +228,47 @@
             "id": "T17",
             "name": "system",
             "group": 8,
+            "type": "Pathway",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T28",
             "name": "integrin",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T38",
             "name": "role",
-            "group": 9,
+            "group": 10,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T19",
             "name": "IGF-1",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T20",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 7,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T22",
             "name": "regulation",
-            "group": 9,
+            "group": 10,
+            "type": "Regulation",
             "trigger": 1,
             "value": 22
         },
@@ -242,34 +276,39 @@
             "id": "T24",
             "name": "expression",
             "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T25",
             "name": "IGF-1",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T26",
             "name": "IGF-1R",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T27",
             "name": "IGF binding proteins",
-            "group": 7,
+            "group": 9,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T18",
             "name": "vasculature",
-            "group": 2,
+            "group": 11,
+            "type": "Anatomical_system",
             "trigger": 0,
             "value": 23
         }
@@ -278,187 +317,224 @@
         {
             "source": "T24",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T29",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T30",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T30",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T30",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T29",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T29",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T31",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T31",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T32",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T33",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T34",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T35",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T37",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T37",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T36",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T34",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T36",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T35",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T36",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T38",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T38",
             "target": "T19",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T22",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T24",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T24",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T22",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T22",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T37",
             "target": "T21",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T37",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T5",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T15",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T17",
             "target": "T39",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         }
     ]
 }

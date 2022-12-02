@@ -3,49 +3,56 @@
         {
             "id": "T7",
             "name": "evaluates",
-            "group": 0,
+            "group": 4,
+            "type": "Spec",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1",
             "name": "joint effect",
-            "group": 4,
+            "group": 5,
+            "type": "Interaction",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T2",
             "name": "23 SNP",
-            "group": 2,
+            "group": 3,
+            "type": "SNP",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T3",
             "name": "six steroid hormone metabolisms",
-            "group": 3,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T4",
             "name": "signaling-related genes",
-            "group": 3,
+            "group": 2,
+            "type": "Entity",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T5",
             "name": "involved",
-            "group": 5,
+            "group": 1,
+            "type": "Association",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T6",
             "name": "breast carcinogenesis",
-            "group": 1,
+            "group": 0,
+            "type": "Cancer",
             "trigger": 0,
             "value": 23
         }
@@ -54,32 +61,38 @@
         {
             "source": "T5",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "bc"
         },
         {
             "source": "T5",
             "target": "T1",
-            "value": 2
+            "value": 2,
+            "link_name": "snp_int"
         },
         {
             "source": "T1",
             "target": "T2",
-            "value": 1
+            "value": 1,
+            "link_name": "Equiv"
         },
         {
             "source": "T2",
             "target": "T3",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
         },
         {
             "source": "T2",
             "target": "T4",
-            "value": 1
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
         },
         {
             "source": "T5",
             "target": "T7",
-            "value": 1
+            "value": 1,
+            "link_name": "Speculation_marker"
         }
     ]
 }

@@ -4,6 +4,7 @@
             "id": "T1",
             "name": "TGFbeta1",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -11,6 +12,7 @@
             "id": "T2",
             "name": "TGFbeta1",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
@@ -18,6 +20,7 @@
             "id": "T3",
             "name": "transformed cells",
             "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
@@ -25,6 +28,7 @@
             "id": "T36",
             "name": "nontransformed cell",
             "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
@@ -32,6 +36,7 @@
             "id": "T4",
             "name": "TGFbeta",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -39,6 +44,7 @@
             "id": "T5",
             "name": "TGFalpha",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
@@ -46,6 +52,7 @@
             "id": "T6",
             "name": "EGF",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -53,13 +60,15 @@
             "id": "T8",
             "name": "TGFbeta1",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T7",
             "name": "growth",
-            "group": 9,
+            "group": 3,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
@@ -67,13 +76,15 @@
             "id": "T9",
             "name": "epithelial cells",
             "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T20",
             "name": "inactivating",
-            "group": 2,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -81,20 +92,23 @@
             "id": "T11",
             "name": "TGFbeta1",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T10",
             "name": "signaling pathway",
-            "group": 8,
+            "group": 6,
+            "type": "Pathway",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T12",
             "name": "cancers",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
@@ -102,48 +116,55 @@
             "id": "T14",
             "name": "TGFbeta1",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T13",
             "name": "signaling",
-            "group": 8,
+            "group": 6,
+            "type": "Pathway",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T15",
             "name": "tumor",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T16",
             "name": "cancer",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "human",
-            "group": 0,
+            "group": 8,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T18",
             "name": "carcinomas",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T17",
             "name": "overexpress",
-            "group": 3,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
@@ -151,27 +172,31 @@
             "id": "T19",
             "name": "TGFbeta1",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T1001",
             "name": "patient",
-            "group": 0,
+            "group": 8,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T32",
             "name": "increased",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T24",
             "name": "metastasis",
-            "group": 5,
+            "group": 4,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
@@ -179,13 +204,15 @@
             "id": "T21",
             "name": "tumor cell lines",
             "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T33",
             "name": "role",
-            "group": 1,
+            "group": 9,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
@@ -193,13 +220,15 @@
             "id": "T22",
             "name": "TGFbeta1",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T23",
             "name": "cancer",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 22
         },
@@ -207,34 +236,39 @@
             "id": "T25",
             "name": "TGFbeta1",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T26",
             "name": "tumor",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T34",
             "name": "promoting",
-            "group": 4,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T35",
             "name": "metastasis",
-            "group": 5,
+            "group": 4,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T27",
             "name": "tumor",
-            "group": 6,
+            "group": 5,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
@@ -242,13 +276,15 @@
             "id": "T28",
             "name": "tumor cells",
             "group": 10,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T29",
             "name": "alter",
-            "group": 1,
+            "group": 9,
+            "type": "Regulation",
             "trigger": 1,
             "value": 22
         },
@@ -256,13 +292,15 @@
             "id": "T31",
             "name": "TGFbeta1",
             "group": 7,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T30",
             "name": "pathway",
-            "group": 8,
+            "group": 6,
+            "type": "Pathway",
             "trigger": 1,
             "value": 22
         }
@@ -271,77 +309,92 @@
         {
             "source": "T17",
             "target": "T19",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T29",
             "target": "T30",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T7",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T20",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T24",
             "target": "T18",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T32",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T32",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T33",
             "target": "T22",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T33",
             "target": "T23",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T34",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T34",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T35",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T10",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T13",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         },
         {
             "source": "T30",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Participant"
         }
     ]
 }

@@ -3,14 +3,16 @@
         {
             "id": "T1",
             "name": "angiogenic",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1000",
             "name": "human",
-            "group": 1,
+            "group": 6,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -18,13 +20,15 @@
             "id": "T2",
             "name": "oral squamous cell carcinoma cells",
             "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T5",
             "name": "angiogenic",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
@@ -32,27 +36,31 @@
             "id": "T4",
             "name": "oral cancer cells",
             "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T3",
             "name": "Stimulatory effects",
-            "group": 6,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 20
         },
         {
             "id": "T8",
             "name": "proliferation",
-            "group": 5,
+            "group": 8,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T10",
             "name": "migration",
-            "group": 8,
+            "group": 3,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
@@ -60,6 +68,7 @@
             "id": "T11",
             "name": "human umbilical vein endothelial cells",
             "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
@@ -67,13 +76,15 @@
             "id": "T13",
             "name": "HUVEC",
             "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T14",
             "name": "angiogenic",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
@@ -81,6 +92,7 @@
             "id": "T15",
             "name": "oral cancer cells",
             "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
@@ -88,6 +100,7 @@
             "id": "T17",
             "name": "normal oral keratinocytes",
             "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
@@ -95,20 +108,23 @@
             "id": "T18",
             "name": "NOK",
             "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T19",
             "name": "vascular endothelial growth factors",
-            "group": 7,
+            "group": 5,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T20",
             "name": "VEGF",
-            "group": 7,
+            "group": 5,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -116,6 +132,7 @@
             "id": "T21",
             "name": "oral cancer cells",
             "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
@@ -123,55 +140,63 @@
             "id": "T23",
             "name": "NOK",
             "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T6",
             "name": "Attenuation",
-            "group": 3,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T25",
             "name": "angiogenic",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T26",
             "name": "neutralizing VEGF antibodies",
-            "group": 7,
+            "group": 5,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T27",
             "name": "VEGF",
-            "group": 7,
+            "group": 5,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T28",
             "name": "VEGF",
-            "group": 7,
+            "group": 5,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T16",
             "name": "play a key role",
-            "group": 2,
+            "group": 7,
+            "type": "Regulation",
             "trigger": 1,
             "value": 21
         },
         {
             "id": "T30",
             "name": "angiogenic",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
@@ -179,62 +204,71 @@
             "id": "T31",
             "name": "oral cancer cells",
             "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T33",
             "name": "p53",
-            "group": 7,
+            "group": 5,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T34",
             "name": "murine double mutant 2",
-            "group": 7,
+            "group": 5,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T35",
             "name": "Mdm2",
-            "group": 7,
+            "group": 5,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T36",
             "name": "p53",
-            "group": 7,
+            "group": 5,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T38",
             "name": "p53",
-            "group": 7,
+            "group": 5,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T22",
             "name": "function loss",
-            "group": 3,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T39",
             "name": "overexpression",
-            "group": 4,
+            "group": 2,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T40",
             "name": "Mdm2",
-            "group": 7,
+            "group": 5,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 21
         },
@@ -242,13 +276,15 @@
             "id": "T41",
             "name": "oral cancer cells",
             "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T43",
             "name": "angiogenic",
-            "group": 0,
+            "group": 4,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
@@ -256,27 +292,31 @@
             "id": "T45",
             "name": "oral cancer cells",
             "group": 9,
+            "type": "Cell",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T24",
             "name": "mediated",
-            "group": 2,
+            "group": 7,
+            "type": "Regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T48",
             "name": "VEGF",
-            "group": 7,
+            "group": 5,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T49",
             "name": "p53",
-            "group": 7,
+            "group": 5,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         }
@@ -285,77 +325,92 @@
         {
             "source": "T8",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T10",
             "target": "T11",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T39",
             "target": "T40",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T3",
             "target": "T8",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T3",
             "target": "T10",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T6",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T6",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T16",
             "target": "T28",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T16",
             "target": "T30",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T22",
             "target": "T39",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T22",
             "target": "T38",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T24",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T24",
             "target": "T48",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T24",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T24",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         }
     ]
 }

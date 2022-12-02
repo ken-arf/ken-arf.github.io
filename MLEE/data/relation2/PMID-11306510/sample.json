@@ -3,112 +3,128 @@
         {
             "id": "T2",
             "name": "Vascular endothelial growth factor-B",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T4",
             "name": "vascular endothelial growth factor-C",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T1",
             "name": "expression",
-            "group": 6,
+            "group": 4,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T5",
             "name": "renal cell carcinomas",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T6",
             "name": "von Hippel-Lindau",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T7",
             "name": "Angiogenesis",
-            "group": 0,
+            "group": 8,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T3",
             "name": "essential",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T9",
             "name": "tumor",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T8",
             "name": "growth",
-            "group": 15,
+            "group": 5,
+            "type": "Growth",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T89",
             "name": "metastasis",
-            "group": 11,
+            "group": 6,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T10",
             "name": "angiogenic",
-            "group": 0,
+            "group": 8,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T12",
             "name": "vascular endothelial growth factor",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T13",
             "name": "VEGF",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T20",
             "name": "VEGF-B",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T27",
             "name": "VEGF-C",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T28",
             "name": "VEGF",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
@@ -116,272 +132,311 @@
             "id": "T19",
             "name": "bind",
             "group": 3,
+            "type": "Binding",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T29",
             "name": "flt-1",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T30",
             "name": "VEGFR1",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T31",
             "name": "KDR",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T32",
             "name": "VEGFR2",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T33",
             "name": "flt-4",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T34",
             "name": "VEGFR3",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T35",
             "name": "VEGF-A",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T36",
             "name": "renal carcinomas",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T37",
             "name": "kidney tumors",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T38",
             "name": "VEGF-B",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T39",
             "name": "VEGF-C",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T80",
             "name": "RNase",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T40",
             "name": "normal kidney samples",
-            "group": 4,
+            "group": 1,
+            "type": "Multi-tissue_structure",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T41",
             "name": "renal cell cancers",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T42",
             "name": "up-regulation",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 19
         },
         {
             "id": "T43",
             "name": "VEGF-B",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T44",
             "name": "VEGF-C",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T45",
             "name": "neoplastic kidney",
-            "group": 7,
+            "group": 9,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T11",
             "name": "normal tissues",
-            "group": 14,
+            "group": 11,
+            "type": "Tissue",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T46",
             "name": "VEGF receptors",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T47",
             "name": "tumors",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T48",
             "name": "kidney",
-            "group": 7,
+            "group": 9,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T49",
             "name": "up-regulation",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 19
         },
         {
             "id": "T50",
             "name": "flt-1",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T51",
             "name": "KDR",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T52",
             "name": "flt-4",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T53",
             "name": "VEGF-C",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T54",
             "name": "flt-4",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T55",
             "name": "KDR",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T56",
             "name": "VEGF-B",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T57",
             "name": "flt-1",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T58",
             "name": "increase",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T60",
             "name": "flt-1",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T61",
             "name": "KDR",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T62",
             "name": "flt-4",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T63",
             "name": "VEGF-B",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T64",
             "name": "VEGF-C",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T59",
             "name": "expression",
-            "group": 6,
+            "group": 4,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
@@ -389,118 +444,135 @@
             "id": "T23",
             "name": "clear cell",
             "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T65",
             "name": "chromophil (papillary) carcinomas",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T66",
             "name": "VEGF-B",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T67",
             "name": "VEGF-C",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T68",
             "name": "flt-1",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T69",
             "name": "KDR",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 24
         },
         {
             "id": "T70",
             "name": "flt-4",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T1000",
             "name": "patient",
-            "group": 1,
+            "group": 13,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T1001",
             "name": "patient",
-            "group": 1,
+            "group": 13,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T71",
             "name": "tumor",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T15",
             "name": "effect",
-            "group": 2,
+            "group": 14,
+            "type": "Regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T72",
             "name": "von Hippel-Lindau",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T73",
             "name": "VHL",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T75",
             "name": "VEGF-B",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T77",
             "name": "VEGF-C",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T76",
             "name": "expression",
-            "group": 6,
+            "group": 4,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T78",
             "name": "renal carcinoma",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 18
         },
@@ -508,27 +580,31 @@
             "id": "T79",
             "name": "786-0",
             "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T25",
             "name": "transfected",
-            "group": 9,
+            "group": 12,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 17
         },
         {
             "id": "T81",
             "name": "VHL",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T14",
             "name": "growing",
-            "group": 8,
+            "group": 15,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 17
         },
@@ -536,6 +612,7 @@
             "id": "T26",
             "name": "cells",
             "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 18
         },
@@ -543,62 +620,71 @@
             "id": "T74",
             "name": "wild-type VHL cells",
             "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T82",
             "name": "VHL",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T84",
             "name": "VEGF-A",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T83",
             "name": "up-regulated",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 17
         },
         {
             "id": "T16",
             "name": "expression",
-            "group": 6,
+            "group": 4,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T86",
             "name": "VEGF-C",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T85",
             "name": "reduced",
-            "group": 5,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 17
         },
         {
             "id": "T87",
             "name": "repression",
-            "group": 5,
+            "group": 2,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T88",
             "name": "VEGF-C",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
@@ -606,146 +692,167 @@
             "id": "T24",
             "name": "mutant VHL cell lines",
             "group": 16,
+            "type": "Cell",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T90",
             "name": "VHL",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T92",
             "name": "VEGF-B",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T91",
             "name": "regulated",
-            "group": 2,
+            "group": 14,
+            "type": "Regulation",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T93",
             "name": "VHL",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T17",
             "name": "up-regulation",
-            "group": 10,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 17
         },
         {
             "id": "T94",
             "name": "clear cell carcinomas",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T18",
             "name": "regulating",
-            "group": 2,
+            "group": 14,
+            "type": "Regulation",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T96",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 8,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 19
         },
         {
             "id": "T97",
             "name": "lymphangiogenesis",
-            "group": 0,
+            "group": 8,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 17
         },
         {
             "id": "T98",
             "name": "clear cell tumors",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T100",
             "name": "angiogenic",
-            "group": 0,
+            "group": 8,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 19
         },
         {
             "id": "T21",
             "name": "chromophil",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T95",
             "name": "papillary",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T101",
             "name": "clear cell tumors",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T102",
             "name": "VHL",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T22",
             "name": "regulate",
-            "group": 2,
+            "group": 14,
+            "type": "Regulation",
             "trigger": 1,
             "value": 18
         },
         {
             "id": "T104",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 8,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 19
         },
         {
             "id": "T105",
             "name": "VEGFR1",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 18
         },
         {
             "id": "T106",
             "name": "flt-l",
-            "group": 13,
+            "group": 10,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T107",
             "name": "tumor",
-            "group": 12,
+            "group": 7,
+            "type": "Pathological_formation",
             "trigger": 0,
             "value": 18
         }
@@ -754,292 +861,350 @@
         {
             "source": "T1",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T8",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T42",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T49",
             "target": "T50",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T64",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T77",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T83",
             "target": "T84",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T85",
             "target": "T16",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T87",
             "target": "T88",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T91",
             "target": "T93",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T91",
             "target": "T92",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T1",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T3",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T3",
             "target": "T8",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T89",
             "target": "T9",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T3",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T3",
             "target": "T89",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T29",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T19",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T42",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T49",
             "target": "T51",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T49",
             "target": "T52",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T63",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T62",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T61",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T59",
             "target": "T60",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T58",
             "target": "T59",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T76",
             "target": "T75",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T14",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T72",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T15",
             "target": "T76",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T15",
             "target": "T72",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T15",
             "target": "T76",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T16",
             "target": "T86",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T17",
             "target": "T93",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T17",
             "target": "T92",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T18",
             "target": "T96",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T18",
             "target": "T97",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T22",
             "target": "T102",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T22",
             "target": "T104",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T25",
             "target": "T79",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T25",
             "target": "T81",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T21",
             "target": "T101",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         },
         {
             "source": "T95",
             "target": "T101",
-            "value": 1
+            "value": 1,
+            "link_name": "frag"
         }
     ]
 }

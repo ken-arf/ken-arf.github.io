@@ -3,336 +3,384 @@
         {
             "id": "T2",
             "name": "Hyperforin",
-            "group": 13,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T1",
             "name": "blocks",
-            "group": 9,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T4",
             "name": "neutrophil",
-            "group": 12,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T3",
             "name": "activation",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T5",
             "name": "matrix metalloproteinase-9",
-            "group": 3,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T6",
             "name": "motility",
-            "group": 11,
+            "group": 4,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T26",
             "name": "recruitment",
-            "group": 11,
+            "group": 4,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T40",
             "name": "triggered",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T7",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T9",
             "name": "lung",
-            "group": 5,
+            "group": 2,
+            "type": "Organ",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T10",
             "name": "Hyperforin",
-            "group": 13,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T11",
             "name": "Hyp",
-            "group": 13,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T58",
             "name": "John's wort",
-            "group": 1,
+            "group": 10,
+            "type": "Organism",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T1000",
             "name": "Hypericum perforatum",
-            "group": 1,
+            "group": 10,
+            "type": "Organism",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T13",
             "name": "lymphocyte",
-            "group": 12,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T14",
             "name": "tumor cell",
-            "group": 12,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T12",
             "name": "proliferation",
-            "group": 6,
+            "group": 12,
+            "type": "Cell_proliferation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T15",
             "name": "matrix proteinases",
-            "group": 3,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T16",
             "name": "inhibiting",
-            "group": 9,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T17",
             "name": "leukocyte elastase",
-            "group": 3,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 21
         },
         {
             "id": "T18",
             "name": "LE",
-            "group": 3,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T19",
             "name": "Hyp",
-            "group": 13,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T22",
             "name": "effective",
-            "group": 2,
+            "group": 11,
+            "type": "Regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T21",
             "name": "polymorphonuclear neutrophil (PMN) leukocyte",
-            "group": 12,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T20",
             "name": "recruitment",
-            "group": 11,
+            "group": 4,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T59",
             "name": "tissue",
-            "group": 10,
+            "group": 9,
+            "type": "Tissue",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T1001",
             "name": "human",
-            "group": 1,
+            "group": 10,
+            "type": "Organism",
             "trigger": 0,
             "value": 22
         },
         {
             "id": "T24",
             "name": "PMN",
-            "group": 12,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T27",
             "name": "Hyp",
-            "group": 13,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T28",
             "name": "dicyclohexylammonium salt",
-            "group": 13,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 16
         },
         {
             "id": "T23",
             "name": "inhibit",
-            "group": 9,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T25",
             "name": "chemotaxis",
-            "group": 11,
+            "group": 4,
+            "type": "Localization",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T42",
             "name": "chemoinvasion",
-            "group": 11,
+            "group": 4,
+            "type": "Localization",
             "trigger": 1,
             "value": 19
         },
         {
             "id": "T29",
             "name": "reduced",
-            "group": 9,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T30",
             "name": "expression",
-            "group": 4,
+            "group": 5,
+            "type": "Gene_expression",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T31",
             "name": "CD11b",
-            "group": 3,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T33",
             "name": "formyl-Met-Leu-Phe",
-            "group": 13,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 17
         },
         {
             "id": "T32",
             "name": "stimulated",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T34",
             "name": "neutrophils",
-            "group": 12,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T35",
             "name": "block",
-            "group": 9,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T37",
             "name": "LE",
-            "group": 3,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T45",
             "name": "triggered",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T36",
             "name": "activation",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T38",
             "name": "gelatinase matrix metalloproteinase-9",
-            "group": 3,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 19
         },
         {
             "id": "T39",
             "name": "PMN",
-            "group": 12,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T51",
             "name": "triggered",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T41",
             "name": "angiogenesis",
-            "group": 0,
+            "group": 6,
+            "type": "Blood_vessel_development",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T52",
             "name": "blocked",
-            "group": 9,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 23
         },
@@ -340,6 +388,7 @@
             "id": "T43",
             "name": "injection",
             "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
@@ -347,34 +396,39 @@
             "id": "T55",
             "name": "administration",
             "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T44",
             "name": "Hyp",
-            "group": 13,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T46",
             "name": "interleukin-8",
-            "group": 3,
+            "group": 8,
+            "type": "Gene_or_gene_product",
             "trigger": 0,
             "value": 20
         },
         {
             "id": "T56",
             "name": "induced",
-            "group": 8,
+            "group": 0,
+            "type": "Positive_regulation",
             "trigger": 1,
             "value": 23
         },
         {
             "id": "T1002",
             "name": "murine",
-            "group": 1,
+            "group": 10,
+            "type": "Organism",
             "trigger": 0,
             "value": 23
         },
@@ -382,48 +436,55 @@
             "id": "T57",
             "name": "treatment",
             "group": 7,
+            "type": "Planned_process",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T47",
             "name": "Hyp",
-            "group": 13,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T48",
             "name": "reduces",
-            "group": 9,
+            "group": 1,
+            "type": "Negative_regulation",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T50",
             "name": "PMN",
-            "group": 12,
+            "group": 13,
+            "type": "Cell",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T49",
             "name": "recruitment",
-            "group": 11,
+            "group": 4,
+            "type": "Localization",
             "trigger": 1,
             "value": 22
         },
         {
             "id": "T53",
             "name": "bleomycin",
-            "group": 13,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         },
         {
             "id": "T54",
             "name": "Hyp",
-            "group": 13,
+            "group": 3,
+            "type": "Drug_or_compound",
             "trigger": 0,
             "value": 23
         }
@@ -432,257 +493,308 @@
         {
             "source": "T1",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T1",
             "target": "T3",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T3",
             "target": "T5",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T3",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T12",
             "target": "T14",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T16",
             "target": "T19",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T16",
             "target": "T17",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T20",
             "target": "T21",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T29",
             "target": "T30",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T29",
             "target": "T34",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T30",
             "target": "T31",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T32",
             "target": "T33",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T32",
             "target": "T34",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T35",
             "target": "T38",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T36",
             "target": "T38",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T43",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T43",
             "target": "T1002",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T48",
             "target": "T57",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T48",
             "target": "T49",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T49",
             "target": "T50",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T6",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T26",
             "target": "T4",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T40",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T1",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T1",
             "target": "T6",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T1",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T1",
             "target": "T26",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T1",
             "target": "T2",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T1",
             "target": "T7",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T12",
             "target": "T13",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T22",
             "target": "T19",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T22",
             "target": "T20",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T23",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T23",
             "target": "T25",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T25",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T42",
             "target": "T24",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T23",
             "target": "T27",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T23",
             "target": "T42",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T45",
             "target": "T37",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T45",
             "target": "T36",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T51",
             "target": "T39",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T51",
             "target": "T41",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T52",
             "target": "T41",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T52",
             "target": "T43",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T55",
             "target": "T44",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         },
         {
             "source": "T55",
             "target": "T1002",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T56",
             "target": "T46",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T56",
             "target": "T1002",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T52",
             "target": "T41",
-            "value": 2
+            "value": 2,
+            "link_name": "Theme"
         },
         {
             "source": "T52",
             "target": "T55",
-            "value": 2
+            "value": 2,
+            "link_name": "Cause"
         },
         {
             "source": "T57",
             "target": "T47",
-            "value": 2
+            "value": 2,
+            "link_name": "Instrument"
         }
     ]
 }
