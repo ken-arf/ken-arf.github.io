@@ -1,0 +1,950 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "Nicked {beta}2-glycoprotein I",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T1",
+            "name": "binds",
+            "group": 5,
+            "type": "Binding",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "angiostatin 4.5",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T4",
+            "name": "plasminogen kringle 1",
+            "group": 6,
+            "type": "Protein_domain_or_region",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T37",
+            "name": "5",
+            "group": 6,
+            "type": "Protein_domain_or_region",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "attenuates",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "angiogenic",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "property",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "Angiostatin",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "plasminogen fragment",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T62",
+            "name": "tumor",
+            "group": 9,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "angiogenic",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "property",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "angiostatin",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "angiostatin 4.5",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T12",
+            "name": "AS4.5",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T13",
+            "name": "plasminogen kringle 1",
+            "group": 6,
+            "type": "Protein_domain_or_region",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T24",
+            "name": "4",
+            "group": 6,
+            "type": "Protein_domain_or_region",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "kringle 5",
+            "group": 6,
+            "type": "Protein_domain_or_region",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T39",
+            "name": "autoproteolysis",
+            "group": 1,
+            "type": "Protein_processing",
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 13,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "plasma",
+            "group": 3,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "beta2-glycoprotein I",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T17",
+            "name": "beta2GPI",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "cleaved",
+            "group": 1,
+            "type": "Protein_processing",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "cleaved",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "plasmin",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "domain V",
+            "group": 6,
+            "type": "Protein_domain_or_region",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T20",
+            "name": "nicked beta2GPI",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T51",
+            "name": "resulting",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "binding",
+            "group": 5,
+            "type": "Binding",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "plasminogen",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "angiogenic",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "properties",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "nicked beta2GPI",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T26",
+            "name": "beta2GPI",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T27",
+            "name": "binding",
+            "group": 5,
+            "type": "Binding",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "nicked beta2GPI",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T29",
+            "name": "AS4.5",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T67",
+            "name": "binding",
+            "group": 5,
+            "type": "Binding",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T30",
+            "name": "nicked beta2GPI",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T68",
+            "name": "attenuates",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T32",
+            "name": "angiogenic",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "functions",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T33",
+            "name": "AS4.5",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T35",
+            "name": "proliferation",
+            "group": 15,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "arterial",
+            "group": 16,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "venous endothelial cells",
+            "group": 16,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T41",
+            "name": "extracellular matrix",
+            "group": 4,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "invasion",
+            "group": 7,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T43",
+            "name": "tube",
+            "group": 12,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "formation",
+            "group": 8,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "venous endothelial cells",
+            "group": 16,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T46",
+            "name": "angiogenesis",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T47",
+            "name": "beta2GPI",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T72",
+            "name": "bind",
+            "group": 5,
+            "type": "Binding",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "AS4.5",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T73",
+            "name": "inhibit",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "angiogenic",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T74",
+            "name": "activity",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "nicked beta2GPI",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T52",
+            "name": "angiogenesis",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T53",
+            "name": "nicked beta2GPI",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T75",
+            "name": "promotes",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "angiogenesis",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "AS4.5",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T57",
+            "name": "nicked beta2GPI",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T76",
+            "name": "inhibits",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "angiogenesis",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "AS4.5",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T61",
+            "name": "plasmin-nicked beta2GPI",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 14
+        },
+        {
+            "id": "T77",
+            "name": "promotes",
+            "group": 14,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "angiogenesis",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "interacting",
+            "group": 5,
+            "type": "Binding",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "plasmin-generated AS4.5",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T78",
+            "name": "thrombus",
+            "group": 9,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T15",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T21",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T35",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T64",
+            "target": "T61",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T64",
+            "target": "T65",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T5",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T5",
+            "target": "T58",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T39",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T45",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T45",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T45",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Site"
+        },
+        {
+            "source": "T51",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T51",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T54",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T54",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T54",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T54",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T58",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T58",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T66",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T66",
+            "target": "T62",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T67",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T67",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T68",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T68",
+            "target": "T69",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T69",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T69",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T35",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T70",
+            "target": "T41",
+            "value": 2,
+            "link_name": "ToLoc"
+        },
+        {
+            "source": "T70",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T70",
+            "target": "T41",
+            "value": 2,
+            "link_name": "ToLoc"
+        },
+        {
+            "source": "T70",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T71",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T72",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T72",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T73",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T73",
+            "target": "T74",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T74",
+            "target": "T49",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T74",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T75",
+            "target": "T53",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T75",
+            "target": "T55",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T76",
+            "target": "T57",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T76",
+            "target": "T59",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T77",
+            "target": "T64",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T77",
+            "target": "T63",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T36",
+            "target": "T38",
+            "value": 1,
+            "link_name": "frag"
+        },
+        {
+            "source": "T24",
+            "target": "T13",
+            "value": 1,
+            "link_name": "frag"
+        },
+        {
+            "source": "T31",
+            "target": "T13",
+            "value": 1,
+            "link_name": "frag"
+        },
+        {
+            "source": "T37",
+            "target": "T4",
+            "value": 1,
+            "link_name": "frag"
+        }
+    ]
+}

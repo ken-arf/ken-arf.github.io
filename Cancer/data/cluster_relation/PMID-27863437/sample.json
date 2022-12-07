@@ -4,96 +4,112 @@
             "id": 0,
             "value": 2,
             "name": "13 tag single nucleotide polymorphisms|tag single nucleotide polymorphisms",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 1,
             "value": 1,
             "name": "tSNPs",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 2,
             "value": 1,
             "name": "investigate",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 3,
             "value": 1,
             "name": "associated",
-            "group": 5
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 4,
             "value": 2,
             "name": "breast cancer|breast cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 5,
             "value": 1,
             "name": "Chinese Han",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 6,
             "value": 1,
             "name": "six of the 13 SNPs",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 7,
             "value": 1,
             "name": "associated",
-            "group": 5
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 8,
             "value": 8,
             "name": "rs4973768|rs981782|rs1432679|rs10759243|rs981782|rs10759243|rs4973768|rs1432679",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 9,
             "value": 2,
             "name": "rs10822013|rs10822013",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 10,
             "value": 2,
             "name": "rs704010|rs704010",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 11,
             "value": 4,
             "name": "correlated|correlated|correlated|correlated",
-            "group": 5
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 12,
             "value": 2,
             "name": "ER+ breast cancer|ER- breast cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 13,
             "value": 2,
             "name": "ER|ER",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 14,
             "value": 1,
             "name": "+",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 15,
             "value": 1,
             "name": "-",
+            "trigger": 0,
             "group": 7
         }
     ],

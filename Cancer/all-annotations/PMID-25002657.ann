@@ -1,0 +1,114 @@
+T1	SNP 29 37	variants
+T2	Association 14 28	susceptibility
+E1	Association:T2 bc:T3 snp_int:T1
+T3	Cancer 0 13	Breast cancer
+T4	Entity 102 107;77 86	women norwegian
+R1	Population_assignment Arg1:T1 Arg2:T4	
+T5	Entity 87 101	postmenopausal
+R2	Risk_Factor Arg1:T1 Arg2:T5	
+T6	Cell_types_tissues_affected 42 62	mammographic density
+E2	Cell_types_tissues_affected:T6 Agent:T1
+T7	Spec 293 305	hypothesized
+T8	Association 325 339	susceptibility
+E3	Association:T8 bc:T9 snp_int:T10
+T9	Cancer 311 324	breast cancer
+T10	SNP 340 348	variants
+T11	Organic_inorganic_molecules_affected 360 362	MD
+E4	Organic_inorganic_molecules_affected:T11 Agent:T10
+R4	Equiv Arg1:E4 Arg2:E2	
+T12	Entity 406 424	nongenetic factors
+R5	Risk_Factor Arg1:T10 Arg2:T12	
+T13	Spec 387 390	may
+R6	Speculation_marker Arg1:T12 Arg2:T13	
+R3	Speculation_marker Arg1:E4 Arg2:T7	
+T14	Spec 671 680	determine
+T15	Cell_types_tissues_affected 718 720	MD
+E5	Cell_types_tissues_affected:T15 Agent:T16
+T16	SNP 705 713	each SNP
+R7	Member Arg1:T10 Arg2:T16	
+R8	Speculation_marker Arg1:E5 Arg2:T14	
+T17	SNP 809 811;838 842	17 SNPs
+T18	Cancer 824 837	breast cancer
+T19	Cell_types_tissues_affected 788 790	MD
+E6	Cell_types_tissues_affected:T19 Agent:T17 Agent2:T23
+T20	Association 791 803	associations
+E7	Association:T20 snp_int:T17 bc:T18 snp_int2:T23
+T21	Entity 878 897	non-genetic factors
+T22	Spec 778 787	evaluated
+R9	Speculation_marker Arg1:E6 Arg2:T22	
+T23	SNP 809 811;838 842	17 SNPs
+R10	Risk_Factor Arg1:T23 Arg2:T21	
+T24	Entity 913 919	6q25.1
+T25	SNP 920 929	rs9383938
+T26	Entity 934 940	TXNRD2
+T27	SNP 941 950	rs8141691
+R11	SNP_coupled_gene Arg1:T27 Arg2:T26	
+R12	SNP_location Arg1:T25 Arg2:T24	
+T28	Level 957 984	statistically significantly
+T29	Cell_types_tissues_affected 1001 1011	percent MD
+E8	Cell_types_tissues_affected:T29 Agent:T27 Agent2:T25
+A1	Level E8 High
+R13	Level_marker Arg1:E8 Arg2:T28	
+T30	Entity 1057 1063	6q25.1
+T31	SNP 1064 1073	rs9383938
+R14	SNP_location Arg1:T31 Arg2:T30	
+T32	Association 1116 1122	effect
+E9	Association:T32 bc:T33 snp_int:T31
+T33	Cancer 1126 1139	breast cancer
+T34	Entity 1160 1166	6q25.1
+T35	SNP 1167 1176	rs3734805
+R15	SNP_location Arg1:T35 Arg2:T34	
+T36	Cell_types_tissues_affected 1180 1190	percent MD
+E10	Cell_types_tissues_affected:T36 Agent:T35 Agent2:T41 Agent3:T44
+T37	Entity 1206 1212	parous
+T38	Entity 1217 1228	nulliparous
+T39	Entity 1229 1234	women
+R16	Risk_Factor Arg1:T35 Arg2:T37	
+R17	Risk_Factor Arg1:T35 Arg2:T38	
+R18	Risk_Factor Arg1:T35 Arg2:T39	
+T40	Entity 1281 1287	9q31.2
+T41	SNP 1288 1296	rs865686
+T42	Entity 1301 1307	MRPS30
+T43	Entity 1308 1313	FGF10
+T44	SNP 1314 1323	rs4415084
+R19	SNP_location Arg1:T44 Arg2:T43	
+R20	SNP_location Arg1:T44 Arg2:T42	
+R21	SNP_location Arg1:T41 Arg2:T40	
+T45	Entity 1350 1353	BMI
+R22	Risk_Factor Arg1:T44 Arg2:T45	
+R23	Risk_Factor Arg1:T41 Arg2:T45	
+T46	Neg 1411 1413	no
+T47	Spec 1414 1422	evidence
+T48	Entity 1449 1457;1472 1479	estrogen therapy
+T49	Entity 1462 1479	progestin therapy
+T50	Entity 1487 1506	alcohol consumption
+R28	Member Arg1:T17 Arg2:T25	
+R29	Member Arg1:T17 Arg2:T27	
+R30	Equiv Arg1:T25 Arg2:T31	
+R31	Member Arg1:T23 Arg2:T35	
+R32	Member Arg1:T23 Arg2:T41	
+R33	Member Arg1:T23 Arg2:T44	
+T51	Cell_types_tissues_affected 1426 1445	effect modification
+E11	Cell_types_tissues_affected:T51 Agent:T23
+R34	Equiv Arg1:E11 Arg2:E6	
+R35	Negation_marker Arg1:T48 Arg2:T46	
+R36	Negation_marker Arg1:T49 Arg2:T46	
+R37	Negation_marker Arg1:T50 Arg2:T46	
+R38	Speculation_marker Arg1:T50 Arg2:T47	
+R39	Speculation_marker Arg1:T48 Arg2:T47	
+R40	Speculation_marker Arg1:T49 Arg2:T47	
+T52	Spec 1534 1542	evidence
+T53	Cell_types_tissues_affected 1582 1584	MD
+E12	Cell_types_tissues_affected:T53 Agent:T55 Agent2:T59
+T54	Cancer 1589 1602	breast cancer
+T55	SNP 1553 1573	genetic risk factors
+R41	Speculation_marker Arg1:E12 Arg2:T52	
+T56	Association 1585 1588	and
+E13	Association:T56 bc:T54 snp_int:T55 snp_int2:T59
+T57	Spec 1610 1618	possible
+T58	Entity 1630 1656	environmental interactions
+R42	Speculation_marker Arg1:T58 Arg2:T57	
+T59	SNP 1622 1629	genetic
+R43	Risk_Factor Arg1:T59 Arg2:T58	
+R44	Member Arg1:T1 Arg2:T23	
+R45	Member Arg1:T1 Arg2:T17	

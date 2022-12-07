@@ -1,0 +1,163 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Intraepithelial neoplasm",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "uterine cervix",
+            "group": 2
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 3
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "uterine cervix",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "conization",
+            "group": 5
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "hysterectomy",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "vessel",
+            "group": 2
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "laminin",
+            "group": 7
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "type IV collagen",
+            "group": 7
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "epithelium",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "vessel basement membranes",
+            "group": 4
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "carcinoma",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 2,
+            "name": "vascular|vascular",
+            "group": 2
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "epithelial lesions",
+            "group": 1
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 3
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "vessels",
+            "group": 2
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "carcinomas",
+            "group": 1
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "histologic lesions",
+            "group": 1
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "Histogenesis",
+            "group": 6
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "abnormal vessels",
+            "group": 2
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "angiogenic",
+            "group": 3
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "cancerized epithelia",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 18,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 16,
+            "value": 2
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Extracellular matrix",
+            "group": 1,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "soft tissue",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "reconstruction",
+            "group": 2,
+            "type": "Remodeling",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T3",
+            "name": "extracellular matrix",
+            "group": 1,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "ECM",
+            "group": 1,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "induce",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T11",
+            "name": "repair",
+            "group": 3,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "restoration",
+            "group": 3,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "soft tissues",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "surgery",
+            "group": 4,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T6",
+            "name": "ECM",
+            "group": 1,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "proliferation",
+            "group": 5,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "tissue",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "tissue",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "tissue",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T21",
+            "name": "remodelling",
+            "group": 2,
+            "type": "Remodeling",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T22",
+            "name": "tissue",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T7",
+            "name": "ECM",
+            "group": 1,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "assisted",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T23",
+            "name": "tissue",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "remodelling",
+            "group": 2,
+            "type": "Remodeling",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "angiogenesis",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "recruitment",
+            "group": 7,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "progenitor cells",
+            "group": 9,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "remodelling",
+            "group": 2,
+            "type": "Remodeling",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T25",
+            "name": "tissue",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T27",
+            "name": "tissue",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T10",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T11",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T13",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T14",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T14",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T15",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T15",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T16",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T15",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T15",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T18",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T21",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T24",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T15",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T15",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T26",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

@@ -1,0 +1,562 @@
+{
+    "nodes": [
+        {
+            "id": "T40",
+            "name": "Role",
+            "group": 7,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T1",
+            "name": "interferon",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "inducible",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "IFI16",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "induction",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "ICAM-1",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T5",
+            "name": "TNF-alpha",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T6",
+            "name": "Interferon",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "inducible",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "IFI16",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T8",
+            "name": "HIN200",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T42",
+            "name": "activated",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "cell",
+            "group": 9,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "Interferons",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "regulation",
+            "group": 7,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "endothelial cell",
+            "group": 9,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "proliferation",
+            "group": 8,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "vessel",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "formation",
+            "group": 3,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "IFI16",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "IFN-gamma",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T18",
+            "name": "NF-kappaB",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T20",
+            "name": "IFI16",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T19",
+            "name": "induction",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T45",
+            "name": "extended",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "tumor necrosis factor (TNF)-alpha",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T22",
+            "name": "knock down",
+            "group": 4,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "IFI16",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T23",
+            "name": "expression",
+            "group": 2,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "TNF-alpha",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T26",
+            "name": "stimulate",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "intercellular adhesion molecule-1",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T29",
+            "name": "ICAM-1",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T30",
+            "name": "CD54",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "expression",
+            "group": 2,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "IFI16",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T33",
+            "name": "IFI16",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T32",
+            "name": "mediates",
+            "group": 7,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T35",
+            "name": "ICAM-1",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T34",
+            "name": "stimulation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "TNF-alpha",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T38",
+            "name": "NF-kappaB",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T37",
+            "name": "pathway",
+            "group": 5,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "IFI16",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T3",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T22",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T26",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T32",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T32",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T34",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T10",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T10",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T40",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T40",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T41",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T41",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T42",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T42",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T43",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T43",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T44",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T43",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T43",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T45",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T45",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T26",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T32",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T32",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T37",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Participant"
+        }
+    ]
+}

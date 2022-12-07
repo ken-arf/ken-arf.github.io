@@ -3,7 +3,7 @@
         {
             "id": "T50",
             "name": "Associations",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T46",
             "name": "1p11.2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -35,7 +35,7 @@
         {
             "id": "T47",
             "name": "14q24.1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -43,7 +43,7 @@
         {
             "id": "T48",
             "name": "RAD51L1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -51,7 +51,7 @@
         {
             "id": "T49",
             "name": "breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T3",
             "name": "1p11.2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -83,7 +83,7 @@
         {
             "id": "T4",
             "name": "14q24.1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -91,7 +91,7 @@
         {
             "id": "T5",
             "name": "RAD51L1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -99,7 +99,7 @@
         {
             "id": "T7",
             "name": "breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T6",
             "name": "susceptibility loci",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T8",
             "name": "stronger",
-            "group": 6,
+            "group": 9,
             "type": "Level",
             "trigger": 0,
             "value": 22
@@ -123,7 +123,7 @@
         {
             "id": "T9",
             "name": "effects",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -139,7 +139,7 @@
         {
             "id": "T11",
             "name": "estrogen receptor",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T14",
             "name": "estrogen receptor (ER)-positive tumors",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 16
@@ -155,7 +155,7 @@
         {
             "id": "T12",
             "name": "ER",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T13",
             "name": "positive",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -179,7 +179,7 @@
         {
             "id": "T17",
             "name": "1p.11.2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -187,7 +187,7 @@
         {
             "id": "T18",
             "name": "two highly correlated",
-            "group": 9,
+            "group": 8,
             "type": "Interaction",
             "trigger": 1,
             "value": 20
@@ -211,7 +211,7 @@
         {
             "id": "T21",
             "name": "14q24.1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -219,7 +219,7 @@
         {
             "id": "T22",
             "name": "RAD51L1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -235,7 +235,7 @@
         {
             "id": "T10",
             "name": "1p11.2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -243,7 +243,7 @@
         {
             "id": "T24",
             "name": "significantly stronger",
-            "group": 6,
+            "group": 9,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T25",
             "name": "associations",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -267,7 +267,7 @@
         {
             "id": "T26",
             "name": "ER",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -275,7 +275,7 @@
         {
             "id": "T28",
             "name": "ER-positive tumors",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 18
@@ -283,7 +283,7 @@
         {
             "id": "T27",
             "name": "positive",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -291,7 +291,7 @@
         {
             "id": "T30",
             "name": "per-allele odds ratio",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 17
@@ -299,7 +299,7 @@
         {
             "id": "T32",
             "name": "ER-negative tumors",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 18
@@ -307,7 +307,7 @@
         {
             "id": "T33",
             "name": "ER",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -315,7 +315,7 @@
         {
             "id": "T34",
             "name": "negative",
-            "group": 8,
+            "group": 2,
             "type": "Neg",
             "trigger": 0,
             "value": 24
@@ -323,7 +323,7 @@
         {
             "id": "T31",
             "name": "1.03",
-            "group": 6,
+            "group": 9,
             "type": "Level",
             "trigger": 0,
             "value": 16
@@ -339,7 +339,7 @@
         {
             "id": "T43",
             "name": "ER-positive tumors",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 18
@@ -347,7 +347,7 @@
         {
             "id": "T38",
             "name": "stronger",
-            "group": 6,
+            "group": 9,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -355,7 +355,7 @@
         {
             "id": "T35",
             "name": "tumors of lower grade and lobular histology",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 16
@@ -363,7 +363,7 @@
         {
             "id": "T36",
             "name": "lobular",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -379,7 +379,7 @@
         {
             "id": "T51",
             "name": "14q24.1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -387,7 +387,7 @@
         {
             "id": "T40",
             "name": "associated",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -395,7 +395,7 @@
         {
             "id": "T41",
             "name": "tumor subtypes",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -403,7 +403,7 @@
         {
             "id": "T42",
             "name": "triple-negative breast cancers",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 19

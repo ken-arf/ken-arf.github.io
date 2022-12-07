@@ -3,7 +3,7 @@
         {
             "id": "T1",
             "name": "Genetic variants",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T2",
             "name": "epigenetic genes",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T4",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T3",
             "name": "risk",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T5",
             "name": "some evidence",
-            "group": 7,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -43,7 +43,7 @@
         {
             "id": "T6",
             "name": "association",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T7",
             "name": "six SNP",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -59,7 +59,7 @@
         {
             "id": "T15",
             "name": "DNMT3b",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -67,7 +67,7 @@
         {
             "id": "T8",
             "name": "c31721t",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -75,7 +75,7 @@
         {
             "id": "T16",
             "name": "PRDM2",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -83,7 +83,7 @@
         {
             "id": "T9",
             "name": "c99243 t",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -91,7 +91,7 @@
         {
             "id": "T10",
             "name": "t105413c",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -99,7 +99,7 @@
         {
             "id": "T17",
             "name": "EHMT1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -107,7 +107,7 @@
         {
             "id": "T11",
             "name": "g-9441a",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -115,7 +115,7 @@
         {
             "id": "T12",
             "name": "g41451t",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -123,7 +123,7 @@
         {
             "id": "T14",
             "name": "EHMT2",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -131,7 +131,7 @@
         {
             "id": "T13",
             "name": "S237S",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -139,7 +139,7 @@
         {
             "id": "T18",
             "name": "most significant",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T19",
             "name": "result",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T20",
             "name": "DNMT3b",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -163,7 +163,7 @@
         {
             "id": "T21",
             "name": "c31721t",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -171,7 +171,7 @@
         {
             "id": "T24",
             "name": "trimethylation",
-            "group": 6,
+            "group": 4,
             "type": "Gene_Regulation",
             "trigger": 1,
             "value": 20
@@ -179,7 +179,7 @@
         {
             "id": "T25",
             "name": "K9 and K27 of histone H3",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -187,7 +187,7 @@
         {
             "id": "T23",
             "name": "possible",
-            "group": 7,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -195,7 +195,7 @@
         {
             "id": "T22",
             "name": "functional consequence",
-            "group": 2,
+            "group": 5,
             "type": "Other_effect",
             "trigger": 1,
             "value": 22
@@ -203,7 +203,7 @@
         {
             "id": "T27",
             "name": "these genetic variants",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 20
@@ -211,7 +211,7 @@
         {
             "id": "T26",
             "name": "histone methyltransferases",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19

@@ -1,0 +1,908 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Alpha-melanocyte-stimulating hormone",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T17",
+            "name": "modulates",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "activation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "NF-kappa B",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T5",
+            "name": "AP-1",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T6",
+            "name": "secretion",
+            "group": 4,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "interleukin-8",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 9,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "dermal fibroblasts",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "Alpha-melanocyte-stimulating hormone",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T10",
+            "name": "alpha-MSH",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T40",
+            "name": "mediator",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "growing",
+            "group": 11,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "non-melanocytic cell",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T11",
+            "name": "alpha-MSH",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T13",
+            "name": "modulation",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "AP-1",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T15",
+            "name": "NF-kappa B",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T12",
+            "name": "play an important role",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T16",
+            "name": "fibroblasts",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "extracellular matrix",
+            "group": 1,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "alpha-MSH",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T21",
+            "name": "activates",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "AP-1",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1001",
+            "name": "human",
+            "group": 9,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "dermal fibroblasts",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "coincubation",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "interleukin-1 beta",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T26",
+            "name": "IL-1 beta",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T55",
+            "name": "suppression",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "alpha-MSH",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T27",
+            "name": "induces",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "activation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "NF-kappa B",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T59",
+            "name": "modulate",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T62",
+            "name": "binding",
+            "group": 3,
+            "type": "Binding",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T65",
+            "name": "costimulation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T31",
+            "name": "IL-1 beta",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T32",
+            "name": "AP-1",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T33",
+            "name": "NF-kappa B",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T63",
+            "name": "controlling",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "interleukin-8",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T36",
+            "name": "IL-8",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T34",
+            "name": "transcription",
+            "group": 12,
+            "type": "Transcription",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "human",
+            "group": 9,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "fibroblasts",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "treated",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "alpha-MSH",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T39",
+            "name": "IL-1 beta",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T42",
+            "name": "alpha-MSH",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T41",
+            "name": "coincubation",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "IL-1 beta",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T66",
+            "name": "led",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "downregulation",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T46",
+            "name": "IL-8",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T45",
+            "name": "secretion",
+            "group": 4,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "treatment",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "IL-1 beta",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T48",
+            "name": "alpha-MSH",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T68",
+            "name": "effects",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "activation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "NF-kappa B",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T52",
+            "name": "AP-1",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1003",
+            "name": "human",
+            "group": 9,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "dermal fibroblasts",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "alpha-MSH",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T58",
+            "name": "have important regulatory functions",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T60",
+            "name": "extracellular matrix",
+            "group": 1,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "wound",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T6",
+            "target": "T8",
+            "value": 2,
+            "link_name": "FromLoc"
+        },
+        {
+            "source": "T13",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T21",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T41",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T44",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T45",
+            "target": "T46",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T50",
+            "target": "T51",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T58",
+            "target": "T60",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T58",
+            "target": "T57",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T17",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T17",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T3",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T17",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T17",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T17",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T17",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T20",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T40",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T40",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T13",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T13",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T19",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T19",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T19",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T55",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T55",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T59",
+            "target": "T62",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T59",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T62",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T63",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T64",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T64",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T64",
+            "target": "T39",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T65",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme2"
+        },
+        {
+            "source": "T65",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T41",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T66",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T67",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T68",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T68",
+            "target": "T50",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T50",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T68",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T68",
+            "target": "T50",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

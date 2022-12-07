@@ -1,0 +1,59 @@
+T1	Entity 22 26	8q24
+T2	Interaction 53 64	independent
+E1	Interaction:T2 Entity:T3
+T3	SNP 44 52;65 78	multiple risk variants
+R1	SNP_location Arg1:T3 Arg2:T1	
+T4	Cancer 83 96	breast cancer
+T5	Association 65 69	risk
+E2	Association:T5 snp_int:E1 bc:T4
+T6	Neg 53 64	independent
+R2	Negation_marker Arg1:E1 Arg2:T6	
+T7	Entity 145 171	women of European ancestry
+T8	Interaction 187 198	independent
+E3	Interaction:T8 Entity:T12 Entity2:T13
+T9	Neg 187 198	independent
+R3	Negation_marker Arg1:E3 Arg2:T9	
+T10	Cancer 199 212	breast cancer
+T11	Association 213 227	susceptibility
+E4	Association:T11 bc:T10 snp_int:E3
+T12	SNP 287 297	rs13281615
+T13	SNP 302 312	rs11780156
+T14	Entity 316 320	8q24
+R4	SNP_location Arg1:T12 Arg2:T14	
+R5	SNP_location Arg1:T13 Arg2:T14	
+R6	Population_assignment Arg1:E3 Arg2:T7	
+T15	Interaction 525 536	independent
+E5	Interaction:T15 Entity:T21 Entity2:T19 Entity3:T20
+T16	Neg 525 536	independent
+R7	Negation_marker Arg1:E5 Arg2:T16	
+T17	Association 537 548	association
+E6	Association:T17 snp_int:E5 bc:T10
+T18	Entity 560 586	women of European ancestry
+T19	SNP 603 613	rs35961416
+T20	SNP 678 687	rs7815245
+T21	SNP 755 764	rs2033101
+R8	Population_assignment Arg1:E5 Arg2:T18	
+T23	SNP 1032 1041	rs7815245
+T24	SNP 1059 1068	rs1121948
+T25	SNP 1113 1123	rs11780156
+T26	Spec 1145 1155	putatively
+T27	SNP 1156 1175	functional variants
+R9	Speculation_marker Arg1:T27 Arg2:T26	
+R10	Member Arg1:T27 Arg2:T23	
+R11	Member Arg1:T27 Arg2:T24	
+T28	Interaction 1085 1107	linkage disequilibrium
+E7	Interaction:T28 Entity:T25 Entity2:T24
+T22	Entity 1262 1266	8q24
+T29	SNP 1253 1261;1267 1275	multiple variants
+R12	SNP_location Arg1:T29 Arg2:T22	
+T31	Cancer 1292 1305	breast cancer
+T32	Entity 1324 1350	women of European ancestry
+T30	Association 1276 1286	associated
+E8	Association:T30 bc:T31 snp_int:T29
+R13	Population_assignment Arg1:T29 Arg2:T32	
+T33	Interaction 1191 1207	five independent
+E9	Interaction:T33 Entity:E7 Entity2:T23 Entity3:T19 Entity4:T21 Entity5:T12
+T34	Neg 1196 1207	independent
+R14	Negation_marker Arg1:E9 Arg2:T34	
+T35	Association 1208 1219	association
+E10	Association:T35 snp_int:E9 bc:T31

@@ -1,0 +1,482 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 5,
+            "name": "rs2046210|rs2046210|rs2046210|rs2046210|rs2046210",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 5,
+            "name": "rs3803662|rs3803662|rs3803662|rs3803662|rs3803662",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 3,
+            "name": "associated|associated|associated",
+            "group": 6
+        },
+        {
+            "id": 3,
+            "value": 6,
+            "name": "breast cancer|breast cancer|breast cancer|breast cancer|breast cancer|breast cancer",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 5,
+            "name": "Vietnamese|similar to Vietnamese|Vietnamese population|Vietnamese women|Vietnamese population",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "women",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "seven",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 3,
+            "name": "rs1219648|rs3817198|rs889312",
+            "group": 0
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "rs10941679|rs13281615",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "significantly",
+            "group": 7
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "various populations",
+            "group": 4
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "investigated",
+            "group": 2
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "relationship",
+            "group": 6
+        },
+        {
+            "id": 13,
+            "value": 2,
+            "name": "these SNPs|seven SNPs",
+            "group": 0
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "association",
+            "group": 6
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "determined by analyzing",
+            "group": 2
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "five of the seven",
+            "group": 0
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "no",
+            "group": 5
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "association",
+            "group": 6
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "relationship",
+            "group": 3
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "developing",
+            "group": 6
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "this disease",
+            "group": 1
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "A allele",
+            "group": 4
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "risk allele",
+            "group": 4
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "ESR1",
+            "group": 4
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "TNRC9",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "value": 1
+        }
+    ]
+}

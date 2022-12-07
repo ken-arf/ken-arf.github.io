@@ -1,0 +1,538 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "Association",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "germline microRNA SNPs",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T3",
+            "name": "pre-miRNA flanking",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T4",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "survival",
+            "group": 2,
+            "type": "Other_effect",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "Common germline variation",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T7",
+            "name": "5' region proximal",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T8",
+            "name": "precursor (pre-) miRNA gene",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T9",
+            "name": "evaluated",
+            "group": 6,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "association",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "survival",
+            "group": 2,
+            "type": "Other_effect",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "African Americans",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T14",
+            "name": "Caucasians",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T15",
+            "name": "miR-185",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T17",
+            "name": "suggestive evidence",
+            "group": 6,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "inverse",
+            "group": 4,
+            "type": "Effect_Type",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "association",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "rs2008591",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T23",
+            "name": "rs887205",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T22",
+            "name": "African Americans",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T25",
+            "name": "miR-34b/34c",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T16",
+            "name": "rs4938723",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T26",
+            "name": "miR-206",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T24",
+            "name": "rs6920648",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T27",
+            "name": "evidence",
+            "group": 6,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "survival",
+            "group": 2,
+            "type": "Other_effect",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "germline variation",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "5' region proximal",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T32",
+            "name": "pre-miRNA",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T34",
+            "name": "may be",
+            "group": 6,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "associated",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "African Americans",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T37",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "survival",
+            "group": 2,
+            "type": "Other_effect",
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T2",
+            "target": "T4",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T5",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T5",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T10",
+            "target": "T6",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T12",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T12",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T18",
+            "target": "T21",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T18",
+            "target": "T23",
+            "value": 2,
+            "link_name": "snp_int2"
+        },
+        {
+            "source": "T28",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T28",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Agent2"
+        },
+        {
+            "source": "T28",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T33",
+            "target": "T30",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T33",
+            "target": "T35",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T38",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T38",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T6",
+            "target": "T8",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T10",
+            "target": "T9",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T6",
+            "target": "T13",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T6",
+            "target": "T14",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T18",
+            "target": "T20",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T18",
+            "target": "T17",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T21",
+            "target": "T15",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T23",
+            "target": "T15",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T23",
+            "target": "T22",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T16",
+            "target": "T25",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T24",
+            "target": "T26",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T28",
+            "target": "T27",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T30",
+            "target": "T31",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T30",
+            "target": "T32",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T30",
+            "target": "T36",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T38",
+            "target": "T34",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        }
+    ]
+}

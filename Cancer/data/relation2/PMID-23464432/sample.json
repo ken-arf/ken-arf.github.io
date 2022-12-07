@@ -3,7 +3,7 @@
         {
             "id": "T2",
             "name": "hsa-mir-27a",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -11,7 +11,7 @@
         {
             "id": "T1",
             "name": "variant",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 22
@@ -19,7 +19,7 @@
         {
             "id": "T3",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T4",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T5",
             "name": "meta-analysis",
-            "group": 7,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 20
@@ -43,7 +43,7 @@
         {
             "id": "T7",
             "name": "association",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T9",
             "name": "hsa-mir-27a",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -59,7 +59,7 @@
         {
             "id": "T8",
             "name": "rs895819",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -67,7 +67,7 @@
         {
             "id": "T10",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T6",
             "name": "meta-analysis",
-            "group": 7,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 20
@@ -83,7 +83,7 @@
         {
             "id": "T12",
             "name": "hsa-mir-27a",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -91,7 +91,7 @@
         {
             "id": "T11",
             "name": "rs895819",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -99,7 +99,7 @@
         {
             "id": "T14",
             "name": "hsa-mir-27a",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -107,7 +107,7 @@
         {
             "id": "T13",
             "name": "rs895819",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -115,7 +115,7 @@
         {
             "id": "T31",
             "name": "rs895819",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -123,7 +123,7 @@
         {
             "id": "T33",
             "name": "rs895819",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -131,7 +131,7 @@
         {
             "id": "T15",
             "name": "not",
-            "group": 6,
+            "group": 4,
             "type": "Neg",
             "trigger": 0,
             "value": 23
@@ -139,7 +139,7 @@
         {
             "id": "T16",
             "name": "relationship",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T17",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T18",
             "name": "significantly",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T19",
             "name": "decreased",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -171,7 +171,7 @@
         {
             "id": "T20",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -179,7 +179,7 @@
         {
             "id": "T34",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -187,7 +187,7 @@
         {
             "id": "T21",
             "name": "Europeans",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -195,7 +195,7 @@
         {
             "id": "T22",
             "name": "AG",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -203,7 +203,7 @@
         {
             "id": "T32",
             "name": "AA",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -211,7 +211,7 @@
         {
             "id": "T23",
             "name": "AG",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -219,7 +219,7 @@
         {
             "id": "T24",
             "name": "GG",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -227,7 +227,7 @@
         {
             "id": "T25",
             "name": "hsa-mir-27a",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -235,7 +235,7 @@
         {
             "id": "T26",
             "name": "rs895819",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -243,7 +243,7 @@
         {
             "id": "T27",
             "name": "may",
-            "group": 7,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -251,7 +251,7 @@
         {
             "id": "T28",
             "name": "important",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T29",
             "name": "role",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -267,7 +267,7 @@
         {
             "id": "T30",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23

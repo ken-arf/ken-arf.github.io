@@ -1,0 +1,1002 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "Mitogen-activated protein kinase kinase",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T1",
+            "name": "signaling",
+            "group": 2,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "promotes",
+            "group": 4,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "growth",
+            "group": 0,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "vascularization",
+            "group": 17,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "fibrosarcoma",
+            "group": 10,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "mitogen-activated protein kinase (MAPK) kinase",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T11",
+            "name": "MKK",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T7",
+            "name": "pathways",
+            "group": 2,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "essential",
+            "group": 4,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "growth",
+            "group": 0,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "vascularization",
+            "group": 17,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "soft-tissue sarcomas",
+            "group": 10,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T16",
+            "name": "tumors",
+            "group": 10,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "mesenchymal tissues",
+            "group": 3,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "HT-1080",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T9",
+            "name": "NCI",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T3",
+            "name": "Shac fibrosarcoma-derived cell lines",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T1000",
+            "name": "anthrax",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T22",
+            "name": "lethal toxin",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "LeTx",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T24",
+            "name": "inactivates",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T25",
+            "name": "MKKs",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T26",
+            "name": "LeTx",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "treatment",
+            "group": 9,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T27",
+            "name": "reduced",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "phosphorylated",
+            "group": 14,
+            "type": "Phosphorylation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "extracellular signal-regulated kinase",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T32",
+            "name": "p38 MAPK",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T28",
+            "name": "treatments",
+            "group": 9,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T33",
+            "name": "LeTx",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T76",
+            "name": "affected",
+            "group": 6,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T73",
+            "name": "cell",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T77",
+            "name": "proliferation",
+            "group": 7,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T78",
+            "name": "cell",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "LeTx",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "inhibited",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "release",
+            "group": 15,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "angioproliferative",
+            "group": 17,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T40",
+            "name": "vascular endothelial growth factor",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T41",
+            "name": "interleukin-8",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T42",
+            "name": "basic fibroblast growth factor",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T79",
+            "name": "cell",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "malignant fibrous histiocytomas",
+            "group": 10,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T44",
+            "name": "leiomyosarcomas",
+            "group": 10,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T45",
+            "name": "liposarcomas",
+            "group": 10,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T46",
+            "name": "LeTx",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "decreased",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "MAPK",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "blocked",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "fibrosarcoma",
+            "group": 10,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "growth",
+            "group": 0,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "Growth",
+            "group": 0,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T80",
+            "name": "inhibition",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "cellular",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "proliferation",
+            "group": 7,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "decrease",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "tumor",
+            "group": 10,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "vessel",
+            "group": 13,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "reduction",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "serum",
+            "group": 5,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "angioproliferative",
+            "group": 17,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T29",
+            "name": "effects",
+            "group": 6,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T62",
+            "name": "LeTx",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "tumor",
+            "group": 10,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "perfusion",
+            "group": 16,
+            "type": "Development",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T57",
+            "name": "resulted",
+            "group": 4,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "reduction",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T60",
+            "name": "perfusion",
+            "group": 16,
+            "type": "Development",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T68",
+            "name": "tumor",
+            "group": 10,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "nontumor tissues",
+            "group": 3,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T71",
+            "name": "MKK",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "inhibition",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T72",
+            "name": "LeTx",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "targeting",
+            "group": 6,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "neovascularization",
+            "group": 17,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T75",
+            "name": "fibrosarcomas",
+            "group": 10,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T61",
+            "name": "proliferative lesions",
+            "group": 10,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T24",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T27",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T30",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T35",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T35",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T37",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T47",
+            "target": "T46",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T47",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T49",
+            "target": "T46",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T49",
+            "target": "T50",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T50",
+            "target": "T51",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T54",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T56",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T65",
+            "target": "T60",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T70",
+            "target": "T72",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T70",
+            "target": "T71",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T12",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T21",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T12",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T4",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T4",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T36",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T4",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T4",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T13",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T30",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T27",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T28",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T37",
+            "target": "T41",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T37",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T35",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T35",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T35",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T35",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T29",
+            "target": "T62",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T29",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T57",
+            "target": "T65",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T19",
+            "target": "T70",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T19",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T76",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T76",
+            "target": "T77",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T77",
+            "target": "T73",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T18",
+            "target": "T75",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T18",
+            "target": "T61",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T19",
+            "target": "T70",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T19",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Participant"
+        },
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Participant"
+        },
+        {
+            "source": "T20",
+            "target": "T64",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T60",
+            "target": "T68",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T67",
+            "target": "T51",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T80",
+            "target": "T67",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T9",
+            "target": "T3",
+            "value": 1,
+            "link_name": "frag"
+        },
+        {
+            "source": "T10",
+            "target": "T3",
+            "value": 1,
+            "link_name": "frag"
+        }
+    ]
+}

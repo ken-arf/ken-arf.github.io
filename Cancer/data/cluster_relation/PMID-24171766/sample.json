@@ -4,115 +4,134 @@
             "id": 0,
             "value": 1,
             "name": "low-penetrance risk variants",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 1,
             "value": 1,
             "name": "associated",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 2,
             "value": 3,
             "name": "breast cancer|breast cancer|breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 3,
             "value": 3,
             "name": "Polish women|Polish women|Polish population",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 4,
             "value": 4,
             "name": "rs2736098|rs2736098|rs2736098|rs2736098",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 5,
             "value": 1,
             "name": "rs13281615",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 6,
             "value": 2,
             "name": "rs1219648|rs1219648",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 7,
             "value": 2,
             "name": "rs2981582|rs2981582",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 8,
             "value": 1,
             "name": "significant",
-            "group": 5
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 9,
             "value": 1,
             "name": "association",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 10,
             "value": 1,
             "name": "familial cancers",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 11,
             "value": 1,
             "name": "sporadic cancers",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 12,
             "value": 1,
             "name": "associated",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 13,
             "value": 1,
             "name": "sporadic cancers",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 14,
             "value": 1,
             "name": "decreased",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 15,
             "value": 1,
             "name": "risk",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 16,
             "value": 1,
             "name": "association",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 17,
             "value": 1,
             "name": "four known susceptibility SNPs",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 18,
             "value": 1,
             "name": "three individual loci",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         }
     ],
     "links": [

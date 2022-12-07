@@ -1,0 +1,352 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Women of African ancestry",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T2",
+            "name": "rs13074711",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T3",
+            "name": "26.5\u2009Kb upstream of TNFSF10",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 14
+        },
+        {
+            "id": "T4",
+            "name": "3q26.21",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T5",
+            "name": "significantly",
+            "group": 6,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "associated",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "associated",
+            "group": 4,
+            "type": "Organic_inorganic_molecules_affected",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "oestrogen receptor",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T10",
+            "name": "oestrogen receptor (ER)-negative breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T8",
+            "name": "ER",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "negative",
+            "group": 7,
+            "type": "Neg",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "rs10069690",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T16",
+            "name": "best indicator",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "indicator",
+            "group": 4,
+            "type": "Organic_inorganic_molecules_affected",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "ER-negative breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T23",
+            "name": "ER",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "negative",
+            "group": 7,
+            "type": "Neg",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "5p15.33",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T15",
+            "name": "rs12998806",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T17",
+            "name": "best indicator",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "indicator",
+            "group": 4,
+            "type": "Organic_inorganic_molecules_affected",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "ER-positive breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T24",
+            "name": "ER",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "positive",
+            "group": 3,
+            "type": "Effect_Type",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "2q35",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T20",
+            "name": "women of African ancestry",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 16
+        }
+    ],
+    "links": [
+        {
+            "source": "T6",
+            "target": "T2",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T6",
+            "target": "T10",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T11",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T11",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T16",
+            "target": "T13",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T16",
+            "target": "T12",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T17",
+            "target": "T15",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T17",
+            "target": "T18",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T21",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T21",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T22",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T22",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T2",
+            "target": "T4",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T6",
+            "target": "T5",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T8",
+            "target": "T7",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T11",
+            "target": "T9",
+            "value": 1,
+            "link_name": "Negation_marker"
+        },
+        {
+            "source": "T12",
+            "target": "T14",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T15",
+            "target": "T19",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T12",
+            "target": "T20",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T22",
+            "target": "T26",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T21",
+            "target": "T25",
+            "value": 1,
+            "link_name": "Negation_marker"
+        }
+    ]
+}

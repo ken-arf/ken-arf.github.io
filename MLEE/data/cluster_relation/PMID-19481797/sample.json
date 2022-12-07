@@ -4,313 +4,365 @@
             "id": 0,
             "value": 2,
             "name": "Promoting|Promoting",
-            "group": 13
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 1,
             "value": 3,
             "name": "angiogenesis|angiogenesis|angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 2,
             "value": 1,
             "name": "manipulation",
-            "group": 5
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 3,
             "value": 2,
             "name": "VEGF|VEGF",
-            "group": 15
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 4,
             "value": 4,
             "name": "notch|Notch|Notch|Notch",
-            "group": 15
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 5,
             "value": 4,
             "name": "notch signaling|Notch signaling pathway|Notch signaling|Notch signaling",
-            "group": 1
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 6,
             "value": 1,
             "name": "delivery",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 7,
             "value": 1,
             "name": "vascular endothelial growth factor",
-            "group": 15
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 8,
             "value": 1,
             "name": "VEGF",
-            "group": 15
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "angiogenic",
-            "group": 4
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 10,
             "value": 1,
             "name": "cardiovascular",
-            "group": 7
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 11,
             "value": 1,
             "name": "tissue",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 12,
             "value": 1,
             "name": "regeneration",
-            "group": 12
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 13,
             "value": 1,
             "name": "signaling",
-            "group": 1
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 14,
             "value": 1,
             "name": "modulated",
-            "group": 5
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 15,
             "value": 1,
             "name": "inhibiting",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 16,
             "value": 1,
             "name": "enhance",
-            "group": 13
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 17,
             "value": 1,
             "name": "neovascularization",
-            "group": 4
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 18,
             "value": 1,
             "name": "responsiveness",
-            "group": 5
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 19,
             "value": 1,
             "name": "endothelial cells",
-            "group": 11
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 20,
             "value": 1,
             "name": "angiogenic",
-            "group": 4
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 21,
             "value": 2,
             "name": "human|human",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 22,
             "value": 2,
             "name": "endothelial cells|endothelial cells",
-            "group": 11
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 23,
             "value": 1,
             "name": "hindlimb",
-            "group": 9
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 24,
             "value": 1,
             "name": "Treatment",
+            "trigger": 1,
             "group": 6
         },
         {
             "id": 25,
             "value": 1,
             "name": "cultured",
+            "trigger": 1,
             "group": 6
         },
         {
             "id": 26,
             "value": 1,
             "name": "DAPT",
-            "group": 10
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 27,
             "value": 1,
             "name": "gamma secretase",
-            "group": 15
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 28,
             "value": 1,
             "name": "increased",
-            "group": 13
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 29,
             "value": 1,
             "name": "cell",
-            "group": 11
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 30,
             "value": 1,
             "name": "migration",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 31,
             "value": 1,
             "name": "sprout",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 32,
             "value": 1,
             "name": "formation",
-            "group": 12
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 33,
             "value": 1,
             "name": "VEGF",
-            "group": 15
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 34,
             "value": 1,
             "name": "stimulation",
-            "group": 13
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 35,
             "value": 1,
             "name": "DAPT",
-            "group": 10
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 36,
             "value": 3,
             "name": "DAPT|DAPT|DAPT",
-            "group": 10
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 37,
             "value": 3,
             "name": "VEGF|VEGF|VEGF",
-            "group": 15
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 38,
             "value": 1,
             "name": "hindlimbs",
-            "group": 9
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 39,
             "value": 1,
             "name": "blood",
-            "group": 3
+            "trigger": 0,
+            "group": 14
         },
         {
             "id": 40,
             "value": 1,
             "name": "delivery",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 41,
             "value": 1,
             "name": "injection",
+            "trigger": 1,
             "group": 6
         },
         {
             "id": 42,
             "value": 3,
             "name": "DAPT|DAPT|DAPT",
-            "group": 10
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 43,
             "value": 1,
             "name": "DAPT",
-            "group": 10
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 44,
             "value": 1,
             "name": "delivery",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 45,
             "value": 1,
             "name": "introduction",
-            "group": 13
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 46,
             "value": 1,
             "name": "promote",
-            "group": 13
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 47,
             "value": 1,
             "name": "controlling",
-            "group": 5
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 48,
             "value": 1,
             "name": "treat",
+            "trigger": 1,
             "group": 6
         },
         {
             "id": 49,
             "value": 1,
             "name": "patients",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 50,
             "value": 1,
             "name": "diminish",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 51,
             "value": 1,
             "name": "angiogenic",
-            "group": 4
+            "trigger": 1,
+            "group": 1
         }
     ],
     "links": [

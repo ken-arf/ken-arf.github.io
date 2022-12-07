@@ -1,0 +1,133 @@
+T1	Entity 21 26	MTHFR
+T2	SNP 0 13	Polymorphisms
+T3	Association 36 46	associated
+E1	Association:T3 bc:T4 snp_int:T2
+T4	Cancer 52 65	breast cancer
+R1	SNP_coupled_gene Arg1:T2 Arg2:T1	
+T5	Other_effect 75 84	prognosis
+E2	Other_effect:T5 Agent:T2 Theme:T4
+T6	Entity 90 108	Chinese population
+R2	Population_assignment Arg1:T2 Arg2:T6	
+T7	Entity 306 341	Methylenetetrahydrofolate reductase
+R3	Equiv Arg1:T1 Arg2:T7	
+T8	Spec 441 448	examine
+T9	SNP 457 488	single nucleotide polymorphisms
+T10	SNP 490 493	SNP
+R4	Equiv Arg1:T10 Arg2:T9	
+T11	Entity 502 507	MTHFR
+T12	Association 517 527	associated
+E3	Association:T12 bc:T13 snp_int:T10
+R5	Speculation_marker Arg1:E3 Arg2:T8	
+T13	Cancer 554 567	breast cancer
+R6	SNP_coupled_gene Arg1:T10 Arg2:T11	
+T14	Protective_effect 542 550	survival
+E4	Protective_effect:T14 Agent:T10 Theme:T13
+R7	Speculation_marker Arg1:E4 Arg2:T8	
+T15	Organic_inorganic_molecules_affected 585 591	levels
+E5	Organic_inorganic_molecules_affected:T15 Agent:T10 Theme:T16
+R8	Speculation_marker Arg1:E5 Arg2:T8	
+T16	Entity 572 584	serum folate
+R9	Population_assignment Arg1:T9 Arg2:T6	
+T17	SNP 785 794	rs1801133
+T18	SNP 626 643	nine tagging SNPs
+T19	Entity 651 656	MTHFR
+R10	SNP_coupled_gene Arg1:T18 Arg2:T19	
+R11	Population_assignment Arg1:T18 Arg2:T6	
+A1	SNP_Class T18 tSNP
+T20	Entity 770 772	TT
+R12	Genotype Arg1:T17 Arg2:T20	
+T21	Level 799 810	significant
+T22	Effect_Type 811 820	increased
+T23	Association 821 825	risk
+E6	Association:T23 snp_int:T17 bc:T24
+A2	Effect_Type E6 Increase
+A3	Level E6 High
+R14	Effect_type_marker Arg1:E6 Arg2:T22	
+R15	Level_marker Arg1:E6 Arg2:T21	
+T24	Cancer 829 842	breast cancer
+T25	Association 821 825	risk
+E7	Association:T25 snp_int:T27 bc:T24
+T26	Entity 932 934	CC
+T27	SNP 785 794	rs1801133
+R16	Genotype Arg1:T27 Arg2:T26	
+T28	Entity 949 951	CC
+R13	Member Arg1:T18 Arg2:T27	
+R17	Member Arg1:T18 Arg2:T17	
+T29	SNP 964 973	rs9651118
+R18	Member Arg1:T18 Arg2:T29	
+R19	Genotype Arg1:T29 Arg2:T28	
+T30	Level 984 995	significant
+T31	Effect_Type 996 1003	reduced
+T32	Association 1004 1008	risk
+E8	Association:T32 bc:T33 snp_int:T29
+A4	Effect_Type E8 Decrease
+A5	Level E8 High
+R20	Effect_type_marker Arg1:E8 Arg2:T31	
+R21	Level_marker Arg1:E8 Arg2:T30	
+T33	Cancer 1012 1025	breast cancer
+T34	Entity 1078 1080	TT
+T35	SNP 964 973	rs9651118
+R22	Genotype Arg1:T35 Arg2:T34	
+R23	Member Arg1:T18 Arg2:T35	
+T36	Association 1004 1008	risk
+E9	Association:T36 snp_int:T35 bc:T33
+T37	Entity 1127 1132	MTHFR
+T38	Interaction 1133 1139;1151 1161	CACCAA haplotypes
+E10	Interaction:T38 
+T39	Interaction 1144 1161	AGTCAC haplotypes
+E11	Interaction:T39 Entity:T40 Entity2:T41 Entity3:T42 Entity4:T43 Entity5:T44 Entity6:T45
+T40	SNP 1163 1173	rs12121543
+T41	SNP 1174 1184	rs13306553
+T42	SNP 1185 1194	rs9651118
+T43	SNP 1195 1204	rs1801133
+T44	SNP 1205 1214	rs4846048
+T45	SNP 1215 1224	rs1801131
+R24	SNP_coupled_gene Arg1:E10 Arg2:T37	
+R25	SNP_coupled_gene Arg1:E11 Arg2:T37	
+R26	Population_assignment Arg1:E11 Arg2:T6	
+T46	Interaction 1365 1381	CATTAA haplotype
+E12	Interaction:T46 
+T47	Level 1230 1241	significant
+T48	Effect_Type 1242 1249	reduced
+T49	Association 1250 1254	risk
+E13	Association:T49 bc:T50 snp_int:E11 snp_int2:E10
+A6	Effect_Type E13 Decrease
+A7	Level E13 High
+R27	Effect_type_marker Arg1:E13 Arg2:T48	
+R28	Level_marker Arg1:E13 Arg2:T47	
+T50	Cancer 1258 1271	breast cancer
+E14	Association:T49 bc:T50 snp_int:E12
+T51	Entity 1392 1397	MTHFR
+T52	SNP 1398 1407	rs9651118
+T53	Entity 1408 1410	CC
+R29	Genotype Arg1:T52 Arg2:T53	
+R30	SNP_coupled_gene Arg1:T52 Arg2:T51	
+T54	Level 1424 1437	significantly
+T55	Protective_effect 1454 1462	survival
+E15	Protective_effect:T55 Theme:T56 Agent:T52
+R31	Level_marker Arg1:E15 Arg2:T54	
+A8	Level E15 High
+T56	Cancer 1466 1479	breast cancer
+R32	Population_assignment Arg1:T52 Arg2:T6	
+T57	Neg 1546 1550	none
+T58	SNP 1558 1562	SNPs
+T59	Entity 1570 1575	MTHFR
+R33	SNP_coupled_gene Arg1:T58 Arg2:T59	
+T60	Organic_inorganic_molecules_affected 1585 1595;1614 1619	associated level
+E16	Organic_inorganic_molecules_affected:T60 Agent:T58 Theme:T61
+R34	Negation_marker Arg1:E16 Arg2:T57	
+R35	Equiv Arg1:T18 Arg2:T58	
+T61	Entity 1601 1613	serum folate
+T62	SNP 1669 1677	variants
+T63	Spec 1696 1709	may influence
+T64	Entity 1685 1690	MTHFR
+R36	SNP_coupled_gene Arg1:T62 Arg2:T64	
+T65	Association 1714 1718	risk
+E17	Association:T65 bc:T66
+T66	Cancer 1736 1749	breast cancer
+T67	Other_effect 1723 1732	prognosis
+E18	Other_effect:T67 Agent:T62 Theme:T66
+R37	Speculation_marker Arg1:E17 Arg2:T63	
+R38	Speculation_marker Arg1:E18 Arg2:T63	
+R39	SNP_coupled_gene Arg1:E12 Arg2:T37	
+R40	Population_assignment Arg1:E12 Arg2:T6	

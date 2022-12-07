@@ -3,7 +3,7 @@
         {
             "id": "T1",
             "name": "Polymorphic variation",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T2",
             "name": "-202 locus",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -19,7 +19,7 @@
         {
             "id": "T3",
             "name": "IGFBP3",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -27,7 +27,7 @@
         {
             "id": "T4",
             "name": "serum levels",
-            "group": 4,
+            "group": 6,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T5",
             "name": "insulin-like growth factors",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -43,7 +43,7 @@
         {
             "id": "T8",
             "name": "interaction",
-            "group": 4,
+            "group": 6,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T9",
             "name": "plasma retinol",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -59,7 +59,7 @@
         {
             "id": "T10",
             "name": "vitamin D",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 22
@@ -67,7 +67,7 @@
         {
             "id": "T7",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T6",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T29",
             "name": "suggested",
-            "group": 8,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T19",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -99,7 +99,7 @@
         {
             "id": "T17",
             "name": "premenopausal",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -107,7 +107,7 @@
         {
             "id": "T18",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T12",
             "name": "single nucleotide polymorphism",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 21
@@ -123,7 +123,7 @@
         {
             "id": "T11",
             "name": "SNP",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -131,7 +131,7 @@
         {
             "id": "T27",
             "name": "SNP",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -139,7 +139,7 @@
         {
             "id": "T28",
             "name": "SNP",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T13",
             "name": "promoter",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T14",
             "name": "IGFBP-3",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -163,7 +163,7 @@
         {
             "id": "T15",
             "name": "-202",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -171,7 +171,7 @@
         {
             "id": "T16",
             "name": "transcription",
-            "group": 7,
+            "group": 1,
             "type": "Gene_Regulation",
             "trigger": 1,
             "value": 22
@@ -179,7 +179,7 @@
         {
             "id": "T32",
             "name": "Age",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -187,7 +187,7 @@
         {
             "id": "T34",
             "name": "mean circulating levels",
-            "group": 4,
+            "group": 6,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 19
@@ -195,7 +195,7 @@
         {
             "id": "T38",
             "name": "mean circulating levels",
-            "group": 4,
+            "group": 6,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 19
@@ -203,7 +203,7 @@
         {
             "id": "T35",
             "name": "IGFBP-3",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -211,7 +211,7 @@
         {
             "id": "T33",
             "name": "highest",
-            "group": 3,
+            "group": 7,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -219,7 +219,7 @@
         {
             "id": "T20",
             "name": "AA genotype",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 22
@@ -227,7 +227,7 @@
         {
             "id": "T36",
             "name": "decreased",
-            "group": 3,
+            "group": 7,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -235,7 +235,7 @@
         {
             "id": "T37",
             "name": "significantly",
-            "group": 6,
+            "group": 4,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -243,7 +243,7 @@
         {
             "id": "T21",
             "name": "C allele",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T26",
             "name": "Breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T30",
             "name": "not significantly",
-            "group": 6,
+            "group": 4,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -267,7 +267,7 @@
         {
             "id": "T31",
             "name": "related",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -275,7 +275,7 @@
         {
             "id": "T42",
             "name": "-202",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -283,7 +283,7 @@
         {
             "id": "T41",
             "name": "IGFBP3",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -291,7 +291,7 @@
         {
             "id": "T40",
             "name": "polymorphism",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -299,7 +299,7 @@
         {
             "id": "T43",
             "name": "IGFBP-3",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -307,7 +307,7 @@
         {
             "id": "T39",
             "name": "serum levels",
-            "group": 4,
+            "group": 6,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -315,7 +315,7 @@
         {
             "id": "T22",
             "name": "not significant",
-            "group": 6,
+            "group": 4,
             "type": "Level",
             "trigger": 0,
             "value": 20
@@ -323,7 +323,7 @@
         {
             "id": "T23",
             "name": "influence",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -331,7 +331,7 @@
         {
             "id": "T24",
             "name": "this",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -339,7 +339,7 @@
         {
             "id": "T25",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23

@@ -4,397 +4,463 @@
             "id": 0,
             "value": 2,
             "name": "decorin|decorin",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 1,
             "value": 1,
             "name": "expression",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 2,
             "value": 3,
             "name": "up-regulates|up-regulates|up-regulates",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 3,
             "value": 8,
             "name": "VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 4,
             "value": 2,
             "name": "expression|expression",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 5,
             "value": 2,
             "name": "mouse|mouse",
-            "group": 10
+            "trigger": 0,
+            "group": 14
         },
         {
             "id": 6,
             "value": 1,
             "name": "cerebral endothelial cells",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 7,
             "value": 1,
             "name": "activation",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 8,
             "value": 4,
             "name": "Sp1|Sp1|Sp1|Sp1",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 9,
             "value": 5,
             "name": "HIF1alpha|HIF1alpha|HIF1alpha|HIF1alpha|HIF1alpha",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 10,
             "value": 3,
             "name": "Stat3|Stat3|Stat3",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 11,
             "value": 1,
             "name": "DCN",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 12,
             "value": 1,
             "name": "vascular endothelial growth factor",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 13,
             "value": 2,
             "name": "activation|activation",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 14,
             "value": 1,
             "name": "regulating",
-            "group": 6
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 15,
             "value": 1,
             "name": "hypoxia-inducible factor 1alpha",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 16,
             "value": 1,
             "name": "signal transducer and activator of transcription 3",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 17,
             "value": 1,
             "name": "Stat3",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 18,
             "value": 1,
             "name": "epidermal growth factor receptor",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 19,
             "value": 1,
             "name": "EGFR",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 20,
             "value": 1,
             "name": "mitogen-activated protein kinase extracellular signal-regulated kinase 1/2",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 21,
             "value": 3,
             "name": "ERK1/2|ERK1/2|ERK1/2",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 22,
             "value": 1,
             "name": "protein kinase B",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 23,
             "value": 1,
             "name": "AKT",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 24,
             "value": 1,
             "name": "pathways",
-            "group": 1
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 25,
             "value": 4,
             "name": "DCN|DCN|DCN|DCN",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 26,
             "value": 2,
             "name": "transfected|transfected",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 27,
             "value": 1,
             "name": "cerebral endothelial (MCE) cells",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 28,
             "value": 1,
             "name": "induction",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 29,
             "value": 1,
             "name": "activation",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 30,
             "value": 1,
             "name": "localization",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 31,
             "value": 1,
             "name": "binding",
-            "group": 9
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 32,
             "value": 1,
             "name": "promoter",
-            "group": 3
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 33,
             "value": 1,
             "name": "induce",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 34,
             "value": 1,
             "name": "expression",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 35,
             "value": 2,
             "name": "pathways|pathways",
-            "group": 1
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 36,
             "value": 4,
             "name": "DCN|DCN|DCN|DCN",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 37,
             "value": 4,
             "name": "EGFR|EGFR|EGFR|EGFR",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 38,
             "value": 2,
             "name": "phosphoinositide-3 kinase|phosphoinositide-3 kinase",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 39,
             "value": 2,
             "name": "AKT|AKT",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 40,
             "value": 1,
             "name": "synthesizing",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 41,
             "value": 4,
             "name": "MCE cells|MCE cells|MCE cells|MCE cells",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 42,
             "value": 1,
             "name": "cell",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 43,
             "value": 1,
             "name": "protects",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 44,
             "value": 1,
             "name": "degradation",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 45,
             "value": 1,
             "name": "regulation",
-            "group": 6
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 46,
             "value": 1,
             "name": "Induction",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 47,
             "value": 1,
             "name": "matrix metalloproteinase 2",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 48,
             "value": 1,
             "name": "9",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 49,
             "value": 1,
             "name": "tissue plasminogen activator",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 50,
             "value": 1,
             "name": "plasmin",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 51,
             "value": 1,
             "name": "transfection",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 52,
             "value": 1,
             "name": "leads",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 53,
             "value": 1,
             "name": "release",
-            "group": 0
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 54,
             "value": 1,
             "name": "bound",
-            "group": 9
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 55,
             "value": 1,
             "name": "VEGF",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 56,
             "value": 1,
             "name": "activation",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 57,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 58,
             "value": 1,
             "name": "signal pathways",
-            "group": 1
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 59,
             "value": 1,
             "name": "mediate",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 60,
             "value": 1,
             "name": "up-regulation",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 61,
             "value": 1,
             "name": "activation",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 62,
             "value": 1,
             "name": "Sp1",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 63,
             "value": 1,
             "name": "increase",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 64,
             "value": 1,
             "name": "transcription",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 65,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 4
         }
     ],
     "links": [

@@ -1,0 +1,524 @@
+{
+    "nodes": [
+        {
+            "id": "T49",
+            "name": "ocular",
+            "group": 3,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "angiogenic",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "pigment epithelium-derived factor",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T3",
+            "name": "PEDF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "aqueous humor",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T5",
+            "name": "microvascular",
+            "group": 7,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "angiogenic",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "aqueous humor",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T8",
+            "name": "eye",
+            "group": 3,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "Aqueous humor",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T18",
+            "name": "collected",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "patients",
+            "group": 9,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "controls",
+            "group": 9,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "angiogenic",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "vascular endothelial growth factor",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T12",
+            "name": "VEGF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "angiogenic",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "pigment epithelium-derived factor",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "PEDF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "Angiogenic",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "aqueous humor",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T22",
+            "name": "effect",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "migration",
+            "group": 4,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "capillary endothelial cells",
+            "group": 11,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T23",
+            "name": "aqueous fluid",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "VEGF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "increased",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "PEDF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "decreased",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "patients",
+            "group": 9,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "decrease",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "PEDF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "VEGF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "patients",
+            "group": 9,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "Angiogenic",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1003",
+            "name": "patients",
+            "group": 9,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "inhibitory",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T30",
+            "name": "PEDF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "inhibition",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "blocked",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "neutralizing antibodies to PEDF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T32",
+            "name": "PEDF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "angiogenic",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "blocked",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "antibodies to PEDF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T36",
+            "name": "PEDF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "angiogenic",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "PEDF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "PEDF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "negative regulator",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "angiogenic",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "aqueous humor",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 21
+        }
+    ],
+    "links": [
+        {
+            "source": "T20",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T18",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T22",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T22",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T29",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T37",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T41",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T41",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T44",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T45",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T45",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T46",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T46",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T47",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T47",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T1",
+            "target": "T49",
+            "value": 2,
+            "link_name": "AtLoc"
+        }
+    ]
+}

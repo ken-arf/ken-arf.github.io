@@ -3,7 +3,7 @@
         {
             "id": "T1",
             "name": "Terminal duct lobular units",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -11,7 +11,7 @@
         {
             "id": "T33",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T32",
             "name": "susceptibility",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T31",
             "name": "SNPs",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T34",
             "name": "whether they are associated",
-            "group": 7,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 19
@@ -43,7 +43,7 @@
         {
             "id": "T30",
             "name": "TDLU",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T26",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -67,7 +67,7 @@
         {
             "id": "T37",
             "name": "investigated",
-            "group": 7,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -75,7 +75,7 @@
         {
             "id": "T39",
             "name": "62 SNPs",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -83,7 +83,7 @@
         {
             "id": "T27",
             "name": "established",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 22
@@ -91,7 +91,7 @@
         {
             "id": "T28",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -99,7 +99,7 @@
         {
             "id": "T41",
             "name": "TDLU",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T44",
             "name": "36 SNPs",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -123,7 +123,7 @@
         {
             "id": "T45",
             "name": "SNPs 58.1%",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -139,7 +139,7 @@
         {
             "id": "T47",
             "name": "higher counts",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 19
@@ -147,7 +147,7 @@
         {
             "id": "T48",
             "name": "TDLU",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T43",
             "name": "not statistically significant",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 21
@@ -171,7 +171,7 @@
         {
             "id": "T8",
             "name": "rs616488",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -179,7 +179,7 @@
         {
             "id": "T11",
             "name": "PEX14",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -187,7 +187,7 @@
         {
             "id": "T9",
             "name": "rs11242675",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -195,7 +195,7 @@
         {
             "id": "T12",
             "name": "FOXQ1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -203,7 +203,7 @@
         {
             "id": "T10",
             "name": "rs6001930",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -211,7 +211,7 @@
         {
             "id": "T13",
             "name": "MKL1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -227,7 +227,7 @@
         {
             "id": "T14",
             "name": "higher TDLU count",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -235,7 +235,7 @@
         {
             "id": "T52",
             "name": "higher count",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 19
@@ -243,7 +243,7 @@
         {
             "id": "T15",
             "name": "rs1353747",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -251,7 +251,7 @@
         {
             "id": "T16",
             "name": "PDE4D",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -259,7 +259,7 @@
         {
             "id": "T17",
             "name": "rs6472903",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -267,7 +267,7 @@
         {
             "id": "T18",
             "name": "8q21.11",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -283,7 +283,7 @@
         {
             "id": "T53",
             "name": "higher count per TDLU",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 16
@@ -291,7 +291,7 @@
         {
             "id": "T19",
             "name": "higher acini count per TDLU",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -299,7 +299,7 @@
         {
             "id": "T55",
             "name": "acini",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -307,7 +307,7 @@
         {
             "id": "T21",
             "name": "rs1353747",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -315,7 +315,7 @@
         {
             "id": "T23",
             "name": "PDE4D",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -323,7 +323,7 @@
         {
             "id": "T22",
             "name": "rs204247",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -331,7 +331,7 @@
         {
             "id": "T24",
             "name": "RANBP9",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -347,7 +347,7 @@
         {
             "id": "T59",
             "name": "product of counts",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 18
@@ -355,7 +355,7 @@
         {
             "id": "T57",
             "name": "TDLU",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -363,7 +363,7 @@
         {
             "id": "T58",
             "name": "acini",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -371,7 +371,7 @@
         {
             "id": "T61",
             "name": "breast cancer SNPs",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -379,7 +379,7 @@
         {
             "id": "T62",
             "name": "may",
-            "group": 7,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -387,7 +387,7 @@
         {
             "id": "T63",
             "name": "not strongly",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 22
@@ -395,7 +395,7 @@
         {
             "id": "T65",
             "name": "TDLU",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23

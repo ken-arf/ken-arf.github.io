@@ -3,7 +3,7 @@
         {
             "id": "T1",
             "name": "8q24",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -11,7 +11,7 @@
         {
             "id": "T2",
             "name": "rs13281615",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -19,7 +19,7 @@
         {
             "id": "T3",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T4",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T14",
             "name": "meta-analysis",
-            "group": 6,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 20
@@ -43,7 +43,7 @@
         {
             "id": "T8",
             "name": "onset and progression",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 20
@@ -51,7 +51,7 @@
         {
             "id": "T5",
             "name": "BC",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T6",
             "name": "rs13281615",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -67,7 +67,7 @@
         {
             "id": "T7",
             "name": "8q24",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -75,7 +75,7 @@
         {
             "id": "T11",
             "name": "potential",
-            "group": 6,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -83,7 +83,7 @@
         {
             "id": "T12",
             "name": "association",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T10",
             "name": "rs13281615",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -99,7 +99,7 @@
         {
             "id": "T9",
             "name": "8q24",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -107,7 +107,7 @@
         {
             "id": "T13",
             "name": "BC",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T16",
             "name": "assess",
-            "group": 6,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -123,7 +123,7 @@
         {
             "id": "T17",
             "name": "association",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -131,7 +131,7 @@
         {
             "id": "T18",
             "name": "rs13281615",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -139,7 +139,7 @@
         {
             "id": "T19",
             "name": "8q24",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -147,7 +147,7 @@
         {
             "id": "T15",
             "name": "BC",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T20",
             "name": "GG",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T21",
             "name": "G-allele",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -171,7 +171,7 @@
         {
             "id": "T22",
             "name": "rs13281615",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -179,7 +179,7 @@
         {
             "id": "T29",
             "name": "rs13281615",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -187,7 +187,7 @@
         {
             "id": "T42",
             "name": "rs13281615",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -195,7 +195,7 @@
         {
             "id": "T23",
             "name": "8q24",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -203,7 +203,7 @@
         {
             "id": "T24",
             "name": "significantly",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -211,7 +211,7 @@
         {
             "id": "T26",
             "name": "increased",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -219,7 +219,7 @@
         {
             "id": "T25",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -227,7 +227,7 @@
         {
             "id": "T27",
             "name": "BC",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -235,7 +235,7 @@
         {
             "id": "T30",
             "name": "AA",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -243,7 +243,7 @@
         {
             "id": "T31",
             "name": "significantly",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T32",
             "name": "decreased",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T33",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -267,7 +267,7 @@
         {
             "id": "T34",
             "name": "BC",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -275,7 +275,7 @@
         {
             "id": "T35",
             "name": "G-allele",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -283,7 +283,7 @@
         {
             "id": "T28",
             "name": "rs13281615",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -291,7 +291,7 @@
         {
             "id": "T41",
             "name": "rs13281615",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -299,7 +299,7 @@
         {
             "id": "T36",
             "name": "8q24",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -307,7 +307,7 @@
         {
             "id": "T37",
             "name": "risk factor",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -315,7 +315,7 @@
         {
             "id": "T38",
             "name": "BC",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -323,7 +323,7 @@
         {
             "id": "T39",
             "name": "AA",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -331,7 +331,7 @@
         {
             "id": "T40",
             "name": "protective factor",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23

@@ -4,103 +4,120 @@
             "id": 0,
             "value": 1,
             "name": "reproductive windows",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 1,
             "value": 2,
             "name": "age at menarche and age at first birth|from menarche to menopause",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 2,
             "value": 2,
             "name": "reproductive lifespan|reproductive lifespan",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 3,
             "value": 1,
             "name": "may",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 4,
             "value": 1,
             "name": "genetic variants",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "association",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 6,
             "value": 1,
             "name": "breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 7,
             "value": 1,
             "name": "standardized age at first birth",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 8,
             "value": 1,
             "name": "OR",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 9,
             "value": 2,
             "name": "rs10941679|rs10483813",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 10,
             "value": 1,
             "name": "5p12",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "RAD51B",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 12,
             "value": 1,
             "name": "appeared to",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 13,
             "value": 1,
             "name": "No",
+            "trigger": 0,
             "group": 5
         },
         {
             "id": 14,
             "value": 1,
             "name": "genotype",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 15,
             "value": 1,
             "name": "results",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 16,
             "value": 2,
             "name": "ductal breast cancer|lobular breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         }
     ],
     "links": [

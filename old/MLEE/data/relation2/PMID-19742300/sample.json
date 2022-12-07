@@ -1,0 +1,844 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "Islet endothelial",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "activation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "reduced",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "IL-1Ra",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T47",
+            "name": "treatment",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "GK rat",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T5",
+            "name": "islet",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "dysfunction",
+            "group": 10,
+            "type": "Breakdown",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "human",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "islet",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "endothelial cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "endothelial cell",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "activation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "islets",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "Goto-Kakizaki (GK) rat",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 14
+        },
+        {
+            "id": "T17",
+            "name": "islet endotheliuml",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T13",
+            "name": "islet",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "vascularization",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "treatment",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "interleukin-1 (IL-1) receptor antagonist",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T18",
+            "name": "IL-1Ra",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T19",
+            "name": "islets",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "isolated",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "GK",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T1003",
+            "name": "Wistar rats",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1004",
+            "name": "GK rats",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T61",
+            "name": "treated",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "IL-1Ra",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T21",
+            "name": "Kineret",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T62",
+            "name": "saline",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "islet",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "pancreas",
+            "group": 3,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "endothelial cell",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "activation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "angiotensinogen",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "epoxide hydrolase",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T64",
+            "name": "decreased",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "12-lipoxygenase",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T31",
+            "name": "vascular endothelial growth factor",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T65",
+            "name": "showed no change",
+            "group": 12,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T63",
+            "name": "up-regulated",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T72",
+            "name": "GK",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T36",
+            "name": "islets",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "IL-1Ra",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T66",
+            "name": "treatment",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T1005",
+            "name": "GK rats",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T33",
+            "name": "endothelium",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "immune cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "IL-1Ra",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T67",
+            "name": "improved",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "islet",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "vascularization",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1006",
+            "name": "GK rat",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T39",
+            "name": "islets",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "islet endothelial cell",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T42",
+            "name": "activation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "beneficial effect",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T44",
+            "name": "IL-1Ra",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T16",
+            "name": "islet endothelial",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "immune cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "role",
+            "group": 12,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "IL-1",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T73",
+            "name": "GK",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T50",
+            "name": "islet",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "alterations",
+            "group": 6,
+            "type": "Development",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T69",
+            "name": "altered",
+            "group": 12,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "islet endothelium",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "affect",
+            "group": 12,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "beta-cell",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T54",
+            "name": "beta-cell",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1007",
+            "name": "GK rats",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T56",
+            "name": "islet endothelial cell",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T58",
+            "name": "beta-cell",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 20
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T25",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T42",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T49",
+            "target": "T50",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T45",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T45",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T47",
+            "target": "T1000",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T47",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T59",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T60",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T61",
+            "target": "T1004",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T61",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T61",
+            "target": "T1004",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T61",
+            "target": "T62",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T63",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T64",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T65",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T64",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T65",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T1005",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T67",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T67",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T40",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T40",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T40",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T40",
+            "target": "T46",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T68",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T68",
+            "target": "T49",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T69",
+            "target": "T51",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T70",
+            "target": "T69",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T70",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T14",
+            "target": "T13",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T38",
+            "target": "T37",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T16",
+            "target": "T46",
+            "value": 1,
+            "link_name": "frag"
+        },
+        {
+            "source": "T71",
+            "target": "T1003",
+            "value": 1,
+            "link_name": "frag"
+        }
+    ]
+}

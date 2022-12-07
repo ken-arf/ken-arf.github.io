@@ -1,0 +1,233 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "pigment epithelial|pigment epithelial",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "detachment",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "macular",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "degeneration",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "alterations",
+            "group": 8
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "retinal vasculature",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "detachments",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "macular",
+            "group": 0
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "degeneration",
+            "group": 3
+        },
+        {
+            "id": 9,
+            "value": 4,
+            "name": "indocyanine green|indocyanine green|indocyanine green|indocyanine green",
+            "group": 5
+        },
+        {
+            "id": 10,
+            "value": 2,
+            "name": "fluorescein|fluorescein",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "patients",
+            "group": 6
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "eyes",
+            "group": 9
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "fluorescein",
+            "group": 5
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "angiography",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "Vascular",
+            "group": 1
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "retina",
+            "group": 1
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "patients",
+            "group": 6
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "serous retinal",
+            "group": 1
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "detachment",
+            "group": 3
+        },
+        {
+            "id": 20,
+            "value": 2,
+            "name": "patients|patients",
+            "group": 6
+        },
+        {
+            "id": 21,
+            "value": 2,
+            "name": "neovascularizations|neovascularization",
+            "group": 2
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "retinal vascular",
+            "group": 1
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "elevation",
+            "group": 7
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "retina",
+            "group": 1
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "eyes",
+            "group": 9
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "angiography",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 2
+        }
+    ]
+}

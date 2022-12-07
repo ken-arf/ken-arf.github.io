@@ -4,103 +4,120 @@
             "id": 0,
             "value": 3,
             "name": "tumor|tumor|tumor",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 1,
             "value": 2,
             "name": "ARF|ARF",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 2,
             "value": 1,
             "name": "ARF",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 3,
             "value": 1,
             "name": "p53",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 4,
             "value": 1,
             "name": "dependent",
+            "trigger": 1,
             "group": 6
         },
         {
             "id": 5,
             "value": 1,
             "name": "p-53",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "independent",
-            "group": 3
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 7,
             "value": 1,
             "name": "implication",
-            "group": 3
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 8,
             "value": 4,
             "name": "ARF|ARF|ARF|ARF",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 9,
             "value": 1,
             "name": "angiogenesis",
-            "group": 2
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 10,
             "value": 1,
             "name": "regulation",
-            "group": 3
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 11,
             "value": 1,
             "name": "cell",
+            "trigger": 0,
             "group": 5
         },
         {
             "id": 12,
             "value": 1,
             "name": "apoptosis",
-            "group": 4
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 13,
             "value": 1,
             "name": "inactivation",
-            "group": 7
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 14,
             "value": 1,
             "name": "leads",
+            "trigger": 1,
             "group": 6
         },
         {
             "id": 15,
             "value": 1,
             "name": "growth",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 16,
             "value": 1,
             "name": "neoplasia",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         }
     ],
     "links": [

@@ -1,0 +1,120 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "ATM",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T1",
+            "name": "SNPs",
+            "group": 4,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "associated",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "increased",
+            "group": 3,
+            "type": "Effect_Type",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "CHEK2",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T9",
+            "name": "checkpoint kinase 2 checkpoint homologue",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T7",
+            "name": "missense",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "rs17879961",
+            "group": 4,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T1",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T8",
+            "target": "T7",
+            "value": 1,
+            "link_name": "SNP_type"
+        },
+        {
+            "source": "T8",
+            "target": "T5",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T3",
+            "target": "T6",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T5",
+            "target": "T9",
+            "value": 1,
+            "link_name": "Equiv"
+        }
+    ]
+}

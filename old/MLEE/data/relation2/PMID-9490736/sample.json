@@ -1,0 +1,660 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Integrin alphavbeta3",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T2",
+            "name": "mitogen-activated protein kinase",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T3",
+            "name": "angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "Angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "depends",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "vascular cell",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "adhesion",
+            "group": 3,
+            "type": "Binding",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "Integrins",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "activating",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "ras",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "MAP kinase",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "pathway",
+            "group": 8,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "influence",
+            "group": 11,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "endothelial cells",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "initiation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "basic fibroblast growth factor",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T19",
+            "name": "bFGF",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1000",
+            "name": "chick",
+            "group": 10,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "chorioallantoic membrane",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T21",
+            "name": "CAM",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "endothelial cell",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "mitogen-activated protein (MAP) kinase",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T26",
+            "name": "ERK",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "ERK",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "refractory",
+            "group": 11,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T28",
+            "name": "integrin antagonists",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T36",
+            "name": "depended",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "integrin alphavbeta3",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T30",
+            "name": "beta1 integrins",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T31",
+            "name": "Inhibition",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "MAP kinase kinase",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T33",
+            "name": "MEK",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "alphavbeta3",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T42",
+            "name": "dependent",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "ERK",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "blocked",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T47",
+            "name": "formation",
+            "group": 5,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "blood vessels",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "influencing",
+            "group": 11,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T39",
+            "name": "blood vessels",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "CAM",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "Inhibition",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "MEK",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "migration",
+            "group": 6,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "adhesion",
+            "group": 3,
+            "type": "Binding",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "endothelial cells",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "depends",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "ERK",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "regulated",
+            "group": 11,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T48",
+            "name": "integrin alphavbeta3",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        }
+    ],
+    "links": [
+        {
+            "source": "T6",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T11",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T5",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T9",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T9",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T24",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T24",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T25",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T25",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T36",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T36",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T36",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T36",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T42",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T42",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T45",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T45",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T47",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T49",
+            "target": "T39",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T49",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T50",
+            "target": "T41",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T52",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T50",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T53",
+            "target": "T51",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T50",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T53",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T54",
+            "target": "T46",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T54",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T46",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T17",
+            "target": "T20",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Participant"
+        },
+        {
+            "source": "T12",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Participant2"
+        }
+    ]
+}

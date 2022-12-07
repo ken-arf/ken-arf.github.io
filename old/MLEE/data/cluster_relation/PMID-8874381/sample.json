@@ -1,0 +1,283 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "vascular endothelial growth factor|Vascular endothelial growth factor",
+            "group": 11
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "stimulates",
+            "group": 10
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "collateral",
+            "group": 3
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "development",
+            "group": 9
+        },
+        {
+            "id": 4,
+            "value": 3,
+            "name": "VEGF|VEGF|VEGF",
+            "group": 11
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "secreted",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "endothelial cell",
+            "group": 8
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "arterial gene therapy",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "stimulate|stimulating",
+            "group": 10
+        },
+        {
+            "id": 9,
+            "value": 3,
+            "name": "collateral artery|collateral vessel|collateral vessel",
+            "group": 3
+        },
+        {
+            "id": 10,
+            "value": 2,
+            "name": "development|development",
+            "group": 9
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "human",
+            "group": 7
+        },
+        {
+            "id": 12,
+            "value": 6,
+            "name": "phVEGF121|phVEGF165|phVEGF189|phVEGF121|phVEGF165|phVEGF189",
+            "group": 11
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "iliac artery",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "rabbits",
+            "group": 7
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "hindlimb",
+            "group": 6
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "transfected",
+            "group": 5
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "LacZ",
+            "group": 11
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "site-specific transfection",
+            "group": 5
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "phVEGF",
+            "group": 11
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "resulted",
+            "group": 10
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "development",
+            "group": 9
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "calf",
+            "group": 7
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "blood",
+            "group": 2
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "ischemic",
+            "group": 6
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "normal limb",
+            "group": 6
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "blood",
+            "group": 2
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "capillary",
+            "group": 0
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "myocyte",
+            "group": 8
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 4
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "cells",
+            "group": 8
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "angiogenic",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 10,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 1
+        }
+    ]
+}

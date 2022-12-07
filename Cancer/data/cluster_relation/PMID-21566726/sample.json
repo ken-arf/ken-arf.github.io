@@ -4,205 +4,239 @@
             "id": 0,
             "value": 2,
             "name": "SNP|SNP",
-            "group": 1
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 1,
             "value": 1,
             "name": "interactions",
-            "group": 5
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 2,
             "value": 1,
             "name": "dNTP",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 3,
             "value": 2,
             "name": "mismatch DNA repair|DNA mismatch repair",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 4,
             "value": 1,
             "name": "in",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 5,
             "value": 5,
             "name": "breast cancer|breast cancer|breast cancer|breast cancer|breast cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 6,
             "value": 1,
             "name": "RRM1",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 7,
             "value": 1,
             "name": "DCTD",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 8,
             "value": 1,
             "name": "TYMS",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "TK1",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 10,
             "value": 1,
             "name": "DCK",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 11,
             "value": 1,
             "name": "balance",
-            "group": 2
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 12,
             "value": 1,
             "name": "dNTP pools",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 13,
             "value": 2,
             "name": "MLH1|MSH2",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 14,
             "value": 1,
             "name": "possibility",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 15,
             "value": 1,
             "name": "interactions",
-            "group": 5
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 16,
             "value": 1,
             "name": "explored",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 17,
             "value": 1,
             "name": "development",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 18,
             "value": 2,
             "name": "69 SNPs|30 SNPs",
-            "group": 1
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 19,
             "value": 1,
             "name": "dNTP supply",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 20,
             "value": 1,
             "name": "mismatch repair",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 21,
             "value": 1,
             "name": "2070 SNP-SNP interactions",
-            "group": 5
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 22,
             "value": 1,
             "name": "evaluated",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 23,
             "value": 1,
             "name": "effect",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 24,
             "value": 1,
             "name": "Of these, 12 SNPs",
-            "group": 1
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 25,
             "value": 1,
             "name": "statistically significant",
-            "group": 9
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 26,
             "value": 1,
             "name": "associations",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 27,
             "value": 2,
             "name": "Four of them|eight of them",
-            "group": 1
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 28,
             "value": 1,
             "name": "decrease",
-            "group": 8
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 29,
             "value": 2,
             "name": "risk|risk",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 30,
             "value": 1,
             "name": "increase",
-            "group": 8
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 31,
             "value": 1,
             "name": "697 of 2070 two-way interactions",
-            "group": 5
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 32,
             "value": 1,
             "name": "significant",
-            "group": 9
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 33,
             "value": 1,
             "name": "associated",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         }
     ],
     "links": [

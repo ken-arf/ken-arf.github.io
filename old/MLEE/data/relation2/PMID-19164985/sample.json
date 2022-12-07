@@ -1,0 +1,412 @@
+{
+    "nodes": [
+        {
+            "id": "T37",
+            "name": "Effect",
+            "group": 7,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "platelet-rich plasma",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T4",
+            "name": "fibrin",
+            "group": 7,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "calvarial bone",
+            "group": 2,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T6",
+            "name": "platelet-rich plasma",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T9",
+            "name": "PRP",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "effects",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "PRP",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "platelet-poor plasma",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T14",
+            "name": "PPP",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "bone",
+            "group": 2,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "bone",
+            "group": 2,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "parietal bones",
+            "group": 2,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "rabbits",
+            "group": 9,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "Saline",
+            "group": 3,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "thrombin",
+            "group": 7,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T19",
+            "name": "PPP",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "PRP",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "applied",
+            "group": 4,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T8",
+            "name": "formed",
+            "group": 5,
+            "type": "Development",
+            "trigger": 1,
+            "value": 24
+        },
+        {
+            "id": "T21",
+            "name": "bones",
+            "group": 2,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "bone trabecula",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T23",
+            "name": "neovascularization",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T24",
+            "name": "bone marrow",
+            "group": 0,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "connective tissue",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "formation",
+            "group": 5,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "formed",
+            "group": 5,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "bone",
+            "group": 2,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "bone",
+            "group": 2,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "formation",
+            "group": 5,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "PRP",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "PPP",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "effects",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "bone",
+            "group": 2,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "PRP",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "fibrin",
+            "group": 7,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "platelet",
+            "group": 11,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "PRP",
+            "group": 1,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T27",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T3",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T3",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T3",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T3",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T7",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T7",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T7",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T7",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T8",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T13",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T34",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Cause"
+        }
+    ]
+}

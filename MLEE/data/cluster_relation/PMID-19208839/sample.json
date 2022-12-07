@@ -4,385 +4,449 @@
             "id": 0,
             "value": 2,
             "name": "angiopoietin-2|Angiopoietin-2",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 1,
             "value": 1,
             "name": "affects",
-            "group": 7
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 2,
             "value": 2,
             "name": "tumor|tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 3,
             "value": 1,
             "name": "development",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 4,
             "value": 1,
             "name": "vessel",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 5,
             "value": 1,
             "name": "maturation",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 6,
             "value": 1,
             "name": "dispensable",
-            "group": 7
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 7,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 8,
             "value": 1,
             "name": "angiopoietin",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 9,
             "value": 1,
             "name": "Tie2",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 10,
             "value": 1,
             "name": "system",
-            "group": 2
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 11,
             "value": 1,
             "name": "vascular",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 12,
             "value": 1,
             "name": "controlling",
-            "group": 7
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 13,
             "value": 1,
             "name": "vessel",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 14,
             "value": 1,
             "name": "assembly",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 15,
             "value": 1,
             "name": "maturation",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 16,
             "value": 1,
             "name": "quiescence",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 17,
             "value": 6,
             "name": "Ang-2|Ang-2|Ang-2|Ang-2|Ang-2|Ang-2",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 18,
             "value": 1,
             "name": "up-regulated",
-            "group": 11
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 19,
             "value": 1,
             "name": "vasculature",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 20,
             "value": 1,
             "name": "tumors",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 21,
             "value": 1,
             "name": "angiogenic",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 22,
             "value": 1,
             "name": "intervention",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 23,
             "value": 2,
             "name": "tumor|tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 24,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 25,
             "value": 1,
             "name": "depending",
-            "group": 7
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 26,
             "value": 2,
             "name": "role|role",
-            "group": 7
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 27,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 28,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 29,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 30,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 31,
             "value": 1,
             "name": "tumors",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 32,
             "value": 5,
             "name": "Ang-2|Ang-2|Ang-2|Ang-2|Ang-2",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 33,
             "value": 4,
             "name": "Ang-2-deficient mice|Ang-2-deficient mice|Ang-2-deficient mice|Ang-2-deficient mice",
-            "group": 8
+            "trigger": 0,
+            "group": 14
         },
         {
             "id": 34,
             "value": 5,
             "name": "deficient|deficient|deficient|deficient|deficient",
-            "group": 14
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 35,
             "value": 1,
             "name": "Lewis lung carcinomas",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 36,
             "value": 1,
             "name": "MT-ret melanomas",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 37,
             "value": 1,
             "name": "B16F10 melanomas",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 38,
             "value": 1,
             "name": "grew",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 39,
             "value": 2,
             "name": "tumor|tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 40,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 41,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 42,
             "value": 1,
             "name": "development",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 43,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 44,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 45,
             "value": 1,
             "name": "progression",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 46,
             "value": 2,
             "name": "intratumoral vascular architecture|intratumoral microvessels",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 47,
             "value": 1,
             "name": "microvessel",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 48,
             "value": 1,
             "name": "perfusion",
-            "group": 3
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 49,
             "value": 1,
             "name": "tumors",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 50,
             "value": 1,
             "name": "grown",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 51,
             "value": 1,
             "name": "vasculature",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 52,
             "value": 1,
             "name": "pericyte",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 53,
             "value": 1,
             "name": "recruitment",
-            "group": 3
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 54,
             "value": 1,
             "name": "maturation",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 55,
             "value": 1,
             "name": "Ang-2-deficient tumor vessels",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 56,
             "value": 1,
             "name": "pericyte",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 57,
             "value": 1,
             "name": "Recruited",
-            "group": 3
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 58,
             "value": 1,
             "name": "pericytes",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 59,
             "value": 1,
             "name": "desmin",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 60,
             "value": 1,
             "name": "NG2",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 61,
             "value": 1,
             "name": "alpha-smooth muscle actin",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 62,
             "value": 1,
             "name": "pericyte",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 63,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         }
     ],
     "links": [

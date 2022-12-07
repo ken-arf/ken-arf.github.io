@@ -4,343 +4,400 @@
             "id": 0,
             "value": 1,
             "name": "tumor cell",
-            "group": 12
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 1,
             "value": 8,
             "name": "VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 2,
             "value": 2,
             "name": "expression|expression",
-            "group": 16
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 3,
             "value": 7,
             "name": "vandetanib|vandetanib|vandetanib|Vandetanib|vandetanib|vandetanib|vandetanib",
-            "group": 9
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 4,
             "value": 1,
             "name": "ZACTIMA",
-            "group": 9
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 5,
             "value": 1,
             "name": "ZD6474",
-            "group": 9
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 6,
             "value": 1,
             "name": "tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 7,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 8,
             "value": 1,
             "name": "response",
-            "group": 6
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 9,
             "value": 1,
             "name": "tumors",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 10,
             "value": 1,
             "name": "VEGFR2",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 11,
             "value": 1,
             "name": "associated",
-            "group": 7
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 12,
             "value": 1,
             "name": "Human",
-            "group": 10
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 13,
             "value": 1,
             "name": "colon carcinoma",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 14,
             "value": 1,
             "name": "HT29",
-            "group": 12
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 15,
             "value": 1,
             "name": "murine",
-            "group": 10
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 16,
             "value": 1,
             "name": "squamous carcinoma",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 17,
             "value": 1,
             "name": "SCCVII",
-            "group": 12
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 18,
             "value": 1,
             "name": "cell lines",
-            "group": 12
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 19,
             "value": 2,
             "name": "expressing|expressing",
-            "group": 16
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 20,
             "value": 1,
             "name": "response",
-            "group": 6
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 21,
             "value": 1,
             "name": "tissue",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 22,
             "value": 1,
             "name": "solid tumors",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 23,
             "value": 1,
             "name": "treatment",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 24,
             "value": 1,
             "name": "effect",
-            "group": 6
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 25,
             "value": 1,
             "name": "tumor cell",
-            "group": 12
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 26,
             "value": 1,
             "name": "cell",
-            "group": 12
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 27,
             "value": 1,
             "name": "survival",
-            "group": 11
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 28,
             "value": 1,
             "name": "reduced",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 29,
             "value": 1,
             "name": "endothelial cell",
-            "group": 12
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 30,
             "value": 1,
             "name": "migration",
-            "group": 2
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 31,
             "value": 1,
             "name": "tumors",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 32,
             "value": 2,
             "name": "cell clones|cell clones",
-            "group": 12
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 33,
             "value": 1,
             "name": "enhanced",
-            "group": 13
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 34,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 35,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 36,
             "value": 1,
             "name": "intradermal",
-            "group": 4
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 37,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 38,
             "value": 1,
             "name": "treatment",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 39,
             "value": 1,
             "name": "inhibit",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 40,
             "value": 1,
             "name": "blood vessel",
-            "group": 4
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 41,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 42,
             "value": 1,
             "name": "induced",
-            "group": 13
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 43,
             "value": 2,
             "name": "expressing|expressing",
-            "group": 16
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 44,
             "value": 2,
             "name": "tumor cell|tumor cells",
-            "group": 12
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 45,
             "value": 1,
             "name": "HT29 tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 46,
             "value": 1,
             "name": "treatment",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 47,
             "value": 1,
             "name": "response",
-            "group": 6
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 48,
             "value": 1,
             "name": "SCCVII tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 49,
             "value": 1,
             "name": "therapy",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 50,
             "value": 1,
             "name": "counteracted",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 51,
             "value": 1,
             "name": "tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 52,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 53,
             "value": 1,
             "name": "over-expressing",
-            "group": 16
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 54,
             "value": 1,
             "name": "tumors",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 55,
             "value": 1,
             "name": "VEGF",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 56,
             "value": 1,
             "name": "interventions",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         }
     ],
     "links": [

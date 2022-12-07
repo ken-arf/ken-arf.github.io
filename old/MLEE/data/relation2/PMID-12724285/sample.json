@@ -1,0 +1,830 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "cyclooxygenase II",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T2",
+            "name": "ovarian luteal",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T3",
+            "name": "development",
+            "group": 5,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "corpus luteum",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T5",
+            "name": "CL",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "angiogenesis",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "roles",
+            "group": 11,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "prostaglandin",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "cyclooxygenase (COX) I",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T9",
+            "name": "COX-II",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T10",
+            "name": "angiogenesis",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "progesterone",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "production",
+            "group": 12,
+            "type": "Synthesis",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "formed",
+            "group": 5,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "CL",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "COX enzymes",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T15",
+            "name": "gonadotropin",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "pseudopregnant",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T1000",
+            "name": "rat",
+            "group": 10,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "Injection",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "indomethacin",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T18",
+            "name": "COX",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "decreased",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "serum",
+            "group": 3,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "progesterone",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "injection",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "COX-II",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T24",
+            "name": "NS-398",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T25",
+            "name": "COX-I",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T26",
+            "name": "SC-560",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T70",
+            "name": "effect",
+            "group": 11,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "serum",
+            "group": 3,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "progesterone",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T72",
+            "name": "effect",
+            "group": 11,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "superovulated ovaries",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T31",
+            "name": "synthesis",
+            "group": 12,
+            "type": "Synthesis",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "progesterone",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "cultured luteal cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T34",
+            "name": "changes",
+            "group": 11,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "angiogenesis",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T73",
+            "name": "responsible",
+            "group": 11,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "decrease",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "progesterone",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T74",
+            "name": "synthesis",
+            "group": 12,
+            "type": "Synthesis",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "hemoglobin",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T40",
+            "name": "CD34",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T41",
+            "name": "luteinized",
+            "group": 5,
+            "type": "Development",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T42",
+            "name": "ovaries",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "COX",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T76",
+            "name": "cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "platelet-endothelial cell adhesion molecule",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T48",
+            "name": "endothelial cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "COX-II",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T51",
+            "name": "changes",
+            "group": 11,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "vasculature",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "responsible",
+            "group": 11,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "decrease",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 24
+        },
+        {
+            "id": "T54",
+            "name": "serum",
+            "group": 3,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T55",
+            "name": "progesterone",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "ovarian",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T58",
+            "name": "NS-398",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T57",
+            "name": "inhibited",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T61",
+            "name": "establishment",
+            "group": 5,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "luteal capillary vessels",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T63",
+            "name": "injection",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "hCG",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "COX-II",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T75",
+            "name": "associated",
+            "group": 11,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "formation",
+            "group": 5,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "CL",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "stimulation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "angiogenesis",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T19",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T22",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T36",
+            "target": "T74",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T55",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T57",
+            "target": "T58",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T57",
+            "target": "T61",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T61",
+            "target": "T62",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T64",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T67",
+            "target": "T68",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T69",
+            "target": "T71",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T69",
+            "target": "T66",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T30",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T30",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T30",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T30",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T30",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T30",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T30",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T30",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T37",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T59",
+            "target": "T1000",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T65",
+            "target": "T59",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T65",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T70",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T70",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T72",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T73",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T73",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T74",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T46",
+            "target": "T51",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T46",
+            "target": "T53",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T75",
+            "target": "T69",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T75",
+            "target": "T67",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

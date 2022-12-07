@@ -1,0 +1,796 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "single nucleotide polymorphisms",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1",
+            "name": "adiponectin",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "adiponectin",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "levels",
+            "group": 5,
+            "type": "Organic_inorganic_molecules_affected",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "cardio-metabolic risk",
+            "group": 1,
+            "type": "Patho_physiology",
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T6",
+            "name": "patients cancer",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T7",
+            "name": "aims study",
+            "group": 8,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T8",
+            "name": "polymorphisms",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "adiponectin gene",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "adiponectin",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "levels",
+            "group": 5,
+            "type": "Organic_inorganic_molecules_affected",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "potential",
+            "group": 8,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "associations",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "associations",
+            "group": 3,
+            "type": "Other_effect",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T35",
+            "name": "prostate cancer",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T36",
+            "name": "colon cancer",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "other adipokines",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T16",
+            "name": "adipokines",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "Three single nucleotide polymorphisms",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T17",
+            "name": "rs182052",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T22",
+            "name": "G -A",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T18",
+            "name": "rs1501299",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T21",
+            "name": "276",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "G > T",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T19",
+            "name": "rs224176",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T24",
+            "name": "45",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T25",
+            "name": "T > G",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T20",
+            "name": "adiponectin gene",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "GG",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "rs1501299",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T40",
+            "name": "rs1501299",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T28",
+            "name": "significantly",
+            "group": 7,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "associated",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "associated",
+            "group": 3,
+            "type": "Other_effect",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "higher significantly",
+            "group": 7,
+            "type": "Level",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T32",
+            "name": "levels",
+            "group": 5,
+            "type": "Organic_inorganic_molecules_affected",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "adiponectin",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "breast cancers",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T38",
+            "name": "colon cancers",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "GT",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "associated",
+            "group": 3,
+            "type": "Other_effect",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "significantly",
+            "group": 7,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "colon cancer",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "rs224176",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T45",
+            "name": "associated",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "adiponectin",
+            "group": 4,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "rs1501299",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T48",
+            "name": "rs224176",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T50",
+            "name": "may be",
+            "group": 8,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T51",
+            "name": "predisposing factors",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T52",
+            "name": "cancers",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T3",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T5",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T10",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T10",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme2"
+        },
+        {
+            "source": "T13",
+            "target": "T8",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T29",
+            "target": "T27",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T32",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T32",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T34",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Theme2"
+        },
+        {
+            "source": "T34",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T37",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T37",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T43",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T43",
+            "target": "T41",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T45",
+            "target": "T46",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T45",
+            "target": "T44",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T51",
+            "target": "T48",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T51",
+            "target": "T47",
+            "value": 2,
+            "link_name": "snp_int2"
+        },
+        {
+            "source": "T51",
+            "target": "T52",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T2",
+            "target": "T6",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T10",
+            "target": "T7",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T13",
+            "target": "T12",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T11",
+            "target": "T16",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T18",
+            "target": "T21",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T18",
+            "target": "T23",
+            "value": 1,
+            "link_name": "Nucleotide_substitution"
+        },
+        {
+            "source": "T19",
+            "target": "T25",
+            "value": 1,
+            "link_name": "Nucleotide_substitution"
+        },
+        {
+            "source": "T19",
+            "target": "T24",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T18",
+            "target": "T20",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T17",
+            "target": "T20",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T17",
+            "target": "T22",
+            "value": 1,
+            "link_name": "Nucleotide_substitution"
+        },
+        {
+            "source": "T27",
+            "target": "T26",
+            "value": 1,
+            "link_name": "Genotype"
+        },
+        {
+            "source": "T27",
+            "target": "T21",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T27",
+            "target": "T20",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T29",
+            "target": "T28",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T32",
+            "target": "T31",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T34",
+            "target": "T12",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T40",
+            "target": "T39",
+            "value": 1,
+            "link_name": "Genotype"
+        },
+        {
+            "source": "T43",
+            "target": "T42",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T40",
+            "target": "T20",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T40",
+            "target": "T21",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T40",
+            "target": "T23",
+            "value": 1,
+            "link_name": "Nucleotide_substitution"
+        },
+        {
+            "source": "T37",
+            "target": "T28",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T44",
+            "target": "T19",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T47",
+            "target": "T49",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T48",
+            "target": "T49",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T51",
+            "target": "T50",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T52",
+            "target": "T46",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T27",
+            "target": "T47",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T48",
+            "target": "T44",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T53",
+            "target": "T17",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T53",
+            "target": "T18",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T53",
+            "target": "T19",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T8",
+            "target": "T53",
+            "value": 1,
+            "link_name": "Equiv"
+        }
+    ]
+}

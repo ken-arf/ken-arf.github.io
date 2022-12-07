@@ -1,0 +1,590 @@
+{
+    "nodes": [
+        {
+            "id": "T20",
+            "name": "Intracerebral grafting",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T2",
+            "name": "skin fibroblasts",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "rat",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "striatum",
+            "group": 0,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "graft",
+            "group": 10,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "central nervous system",
+            "group": 14,
+            "type": "Anatomical_system",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T5",
+            "name": "fibroblasts",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "isolated",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "skin biopsies",
+            "group": 0,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "intracerebral grafting",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T1001",
+            "name": "rat",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "striatum",
+            "group": 0,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "cultured",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "skin fibroblasts",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "proliferate",
+            "group": 13,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "contact",
+            "group": 4,
+            "type": "Binding",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T51",
+            "name": "inhibited",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T34",
+            "name": "implantation",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "striatum",
+            "group": 0,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "fibroblast grafts",
+            "group": 10,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "fibronectin",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "graft",
+            "group": 10,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "passages",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "culture",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "grafting",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "grafts",
+            "group": 10,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "collagen",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "fibroblasts",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "endoplasmic reticulum",
+            "group": 2,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "vesicles",
+            "group": 2,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "astrocytic processes",
+            "group": 2,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T16",
+            "name": "phagocytic cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T36",
+            "name": "grafts",
+            "group": 10,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "grafts",
+            "group": 10,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "capillaries",
+            "group": 10,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "endothelium",
+            "group": 10,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T19",
+            "name": "endothelial cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "skin fibroblasts",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "survive",
+            "group": 3,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "synthesize",
+            "group": 5,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "collagen",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "fibronectin",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "grafts",
+            "group": 10,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "skin fibroblasts",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "produce",
+            "group": 6,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "tumors",
+            "group": 8,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T42",
+            "name": "graft",
+            "group": 10,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "grafts",
+            "group": 10,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "angiogenesis",
+            "group": 9,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "skin fibroblasts",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "grafted",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "rat",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "central nervous system",
+            "group": 14,
+            "type": "Anatomical_system",
+            "trigger": 0,
+            "value": 21
+        }
+    ],
+    "links": [
+        {
+            "source": "T20",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T20",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T24",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T24",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T31",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T32",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T33",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T38",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T39",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T39",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T41",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T44",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T44",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T50",
+            "target": "T49",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T50",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T54",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Instrument"
+        }
+    ]
+}

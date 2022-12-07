@@ -1,0 +1,186 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "VEGF",
+            "group": 5,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T1000",
+            "name": "man",
+            "group": 8,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "eye",
+            "group": 1,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "intravitreal injection",
+            "group": 3,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T4",
+            "name": "bevacizumab",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T12",
+            "name": "treat",
+            "group": 3,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "neovascularization",
+            "group": 4,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T11",
+            "name": "due to",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "macular",
+            "group": 6,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "degeneration",
+            "group": 7,
+            "type": "Breakdown",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "intravitreal injection",
+            "group": 3,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T8",
+            "name": "bevacizumab",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "patient",
+            "group": 8,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "received",
+            "group": 3,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T9",
+            "name": "Ultralan",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T3",
+            "target": "T1000",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T10",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T11",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T11",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T13",
+            "target": "T1001",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T13",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Instrument"
+        }
+    ]
+}

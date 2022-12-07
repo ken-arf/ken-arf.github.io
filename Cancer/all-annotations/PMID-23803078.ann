@@ -1,0 +1,85 @@
+T1	Entity 4 12	C allele
+T2	SNP 34 43	rs1805414
+T3	SNP 45 54	Ala284Ala
+R1	Equiv Arg1:T3 Arg2:T2	
+R2	SNP_allele Arg1:T2 Arg2:T1	
+A1	SNP_Type T2 Synonymous
+T4	Entity 59 64	PARP1
+R3	SNP_coupled_gene Arg1:T2 Arg2:T4	
+T5	Association 70 81	risk factor
+E1	Association:T5 bc:T6 snp_int:T2
+T6	Cancer 104 117	breast cancer
+T7	Entity 121 135	Saudi patients
+R4	Population_assignment Arg1:T2 Arg2:T7	
+T8	Organic_inorganic_molecules_affected 45 54	Ala284Ala
+E2	Organic_inorganic_molecules_affected:T8 Agent:T3 Theme:T9
+T9	Entity 45 51	Ala284
+T10	SNP 321 330	rs1805404
+T11	SNP 332 340	Asp81Asp
+A2	SNP_Type T10 Synonymous
+R5	Equiv Arg1:T10 Arg2:T11	
+T12	SNP 346 355	rs1805414
+T13	SNP 357 366	Ala284Ala
+R6	Equiv Arg1:T12 Arg2:T13	
+T14	Entity 375 380	PARP1
+R7	SNP_coupled_gene Arg1:T10 Arg2:T14	
+R8	SNP_coupled_gene Arg1:T12 Arg2:T14	
+T15	Association 395 399	risk
+E3	Association:T15 snp_int:T12 snp_int2:T10 bc:T16
+T16	Cancer 403 416	breast cancer
+T17	Entity 420 432	Saudi Arabia
+R9	Population_assignment Arg1:T12 Arg2:T17	
+R10	Population_assignment Arg1:T10 Arg2:T17	
+A3	SNP_Type T12 Synonymous
+T18	Organic_inorganic_molecules_affected 332 340	Asp81Asp
+E4	Organic_inorganic_molecules_affected:T18 Agent:T11 Theme:T20
+T19	Organic_inorganic_molecules_affected 357 366	Ala284Ala
+E5	Organic_inorganic_molecules_affected:T19 Agent:T13 Theme:T21
+T20	Entity 332 337	Asp81
+T21	Entity 357 363	Ala284
+T22	Spec 289 296	analyze
+R11	Speculation_marker Arg1:E3 Arg2:T22	
+T23	SNP 434 449	These two SNP's
+R12	Member Arg1:T23 Arg2:T10	
+R13	Member Arg1:T23 Arg2:T12	
+T24	SNP 710 719	rs1805414
+A4	SNP_Type T24 Synonymous
+T25	Association 766 780	susceptibility
+E6	Association:T25 snp_int:T24 bc:T28
+A5	Effect_Type E6 Increase
+A6	Level E6 High
+T26	Level 742 755	significantly
+T27	Effect_Type 756 765	increased
+R15	Level_marker Arg1:E6 Arg2:T26	
+R16	Effect_type_marker Arg1:E6 Arg2:T27	
+T28	Cancer 784 797	breast cancer
+T29	Entity 839 841	TC
+T30	Entity 843 845	CC
+T31	Entity 850 855	TC+CC
+R17	Genotype Arg1:T24 Arg2:T29	
+R18	Genotype Arg1:T24 Arg2:T30	
+R19	Genotype Arg1:T24 Arg2:T31	
+T32	Entity 881 886	PARP1
+T33	SNP 887 896	rs1805414
+R20	SNP_coupled_gene Arg1:T33 Arg2:T32	
+R14	Member Arg1:T12 Arg2:T24	
+T34	Spec 915 921	may be
+T35	Association 938 946	etiology
+E7	Association:T35 snp_int:T33 bc:T36
+T36	Cancer 950 963	breast cancer
+T37	Entity 971 987	Saudi population
+R21	Speculation_marker Arg1:E7 Arg2:T34	
+R22	SNP_coupled_gene Arg1:T33 Arg2:T37	
+A7	SNP_Type T33 Synonymous
+R23	Equiv Arg1:T33 Arg2:T13	
+T38	Entity 1002 1007	PARP1
+T39	SNP 1008 1017	rs1805404
+R24	SNP_coupled_gene Arg1:T39 Arg2:T38	
+A8	SNP_Type T39 Synonymous
+T40	Level 1022 1025;1035 1046	not significant
+T41	Association 1047 1058	association
+E8	Association:T41 snp_int:T39 bc:T42
+A9	Level E8 Low
+R25	Level_marker Arg1:E8 Arg2:T40	
+T42	Cancer 1073 1086	breast cancer
+R26	Equiv Arg1:T39 Arg2:T10	

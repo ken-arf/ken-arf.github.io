@@ -1,0 +1,179 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "neovascularization|neovascularization",
+            "group": 2
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "treated|treated",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "verteporfin|verteporfin",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 5,
+            "name": "CNV|CNV|CNV|CNV|CNV",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "eyes",
+            "group": 7
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "patients",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "treated",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "Fluorescein",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "patients",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "lesion|lesion",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "foveal avascular zone",
+            "group": 0
+        },
+        {
+            "id": 11,
+            "value": 2,
+            "name": "FAZ|FAZ",
+            "group": 0
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "Patient",
+            "group": 5
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "treated",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "eye",
+            "group": 7
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "fluorescein",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "eyes",
+            "group": 7
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "lesions",
+            "group": 1
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "progressed",
+            "group": 6
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "eyes",
+            "group": 7
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "lesions",
+            "group": 1
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "lesions",
+            "group": 1
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "foveal center",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "value": 2
+        }
+    ]
+}

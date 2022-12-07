@@ -4,187 +4,218 @@
             "id": 0,
             "value": 1,
             "name": "No",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 1,
             "value": 2,
             "name": "evidence|evidence",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 2,
             "value": 4,
             "name": "GATA3|GATA3|GATA3|GATA3",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 3,
             "value": 4,
             "name": "rs570613|rs570613|rs570613|rs570613",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 4,
             "value": 4,
             "name": "breast cancer|breast cancer|breast cancer|breast cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 5,
             "value": 1,
             "name": "risk",
-            "group": 7
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 6,
             "value": 1,
             "name": "GATA-binding protein 3",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 7,
             "value": 1,
             "name": "intron 4",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 8,
             "value": 1,
             "name": "reduction",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 9,
             "value": 1,
             "name": "risk",
-            "group": 7
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 10,
             "value": 1,
             "name": "Norway",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 11,
             "value": 1,
             "name": "Poland",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 12,
             "value": 1,
             "name": "some evidence",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 13,
             "value": 1,
             "name": "stronger",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 14,
             "value": 2,
             "name": "association|association",
-            "group": 7
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 15,
             "value": 1,
             "name": "estrogen receptor",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 16,
             "value": 1,
             "name": "estrogen receptor negative tumours",
-            "group": 3
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 17,
             "value": 1,
             "name": "ER",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 18,
             "value": 1,
             "name": "negative",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 19,
             "value": 1,
             "name": "found",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 20,
             "value": 1,
             "name": "no",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 21,
             "value": 1,
             "name": "association",
-            "group": 7
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 22,
             "value": 2,
             "name": "this SNP|this SNP",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 23,
             "value": 1,
             "name": "ER negative",
-            "group": 3
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 24,
             "value": 2,
             "name": "BRCA1 mutation|BRCA2 mutation",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 25,
             "value": 1,
             "name": "no",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 26,
             "value": 1,
             "name": "any variant",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 27,
             "value": 1,
             "name": "strong",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 28,
             "value": 1,
             "name": "linkage disequilibrium",
-            "group": 5
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 29,
             "value": 1,
             "name": "associated",
-            "group": 7
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 30,
             "value": 1,
             "name": "women",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         }
     ],
     "links": [

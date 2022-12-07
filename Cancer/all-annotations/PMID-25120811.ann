@@ -1,0 +1,144 @@
+T1	SNP 38 47	rs3124591
+T2	Entity 0 6	Notch1
+R1	SNP_coupled_gene Arg1:T1 Arg2:T2	
+T3	Association 51 61	associated
+E1	Association:T3 snp_int:T1 bc:T4
+T4	Cancer 94 126	invasive ductal breast carcinoma
+A1	Cancer_Type T4 Invasive_NST_ILC_IDC
+T5	Entity 132 150	Chinese population
+R2	Population_assignment Arg1:T1 Arg2:T5	
+T6	SNP 321 334	polymorphisms
+T7	Entity 315 320	Notch
+R3	SNP_coupled_gene Arg1:T6 Arg2:T7	
+T8	Association 300 311	association
+E2	Association:T8 snp_int:T6 bc:T10
+T9	Spec 283 295	investigated
+R4	Speculation_marker Arg1:E2 Arg2:T9	
+T10	Cancer 340 353	breast cancer
+T11	SNP 682 691	rs3124591
+T12	SNP 701 711	rs11249433
+T13	SNP 721 730	rs3815188
+T14	SNP 736 745	rs1043994
+T15	SNP 759 767	rs367398
+T16	SNP 773 781	rs520692
+T17	Entity 674 680	Notch1
+T18	Entity 693 699	Notch2
+T19	Entity 713 719	Notch3
+T20	Entity 751 757	Notch4
+R5	SNP_coupled_gene Arg1:T15 Arg2:T20	
+R6	SNP_coupled_gene Arg1:T11 Arg2:T17	
+R7	SNP_coupled_gene Arg1:T12 Arg2:T18	
+R8	SNP_coupled_gene Arg1:T13 Arg2:T19	
+R9	SNP_coupled_gene Arg1:T14 Arg2:T19	
+R10	SNP_coupled_gene Arg1:T16 Arg2:T20	
+T21	SNP 955 964	rs3124591
+T22	Entity 965 976	TC genotype
+R11	Genotype Arg1:T21 Arg2:T22	
+T23	Level 981 994	significantly
+T24	Effect_Type 995 1001	higher
+T25	Association 942 951	frequency
+E3	Association:T25 snp_int:T21 bc:T26 bc2:T27
+A2	Effect_Type E3 Increase
+A3	Level E3 High
+R12	Level_marker Arg1:E3 Arg2:T23	
+R13	Effect_type_marker Arg1:E3 Arg2:T24	
+T26	Cancer 1005 1008	IDC
+A4	Cancer_Type T26 Invasive_NST_ILC_IDC
+T27	Cancer 1028 1032	DCIS
+A5	Cancer_Type T27 In_Situ
+T28	Spec 816 825	determine
+T29	Organic_inorganic_molecules_affected 883 901	protein expression
+E4	Organic_inorganic_molecules_affected:T29 Theme:T30 Agent:T31
+T30	Entity 877 882	Notch
+T31	SNP 840 859	Notch polymorphisms
+R14	Speculation_marker Arg1:E4 Arg2:T28	
+T32	Cancer 1314 1342	poorly differentiated tumors
+A6	Cancer_Type T32 Other
+T33	Cancer 1351 1370;1401 1407	well-differentiated tumors
+A7	Cancer_Type T33 Other
+T34	Cancer 1375 1407	moderately differentiated tumors
+T37	Organic_inorganic_molecules_affected 1507 1525	protein expression
+E6	Organic_inorganic_molecules_affected:T37 Theme:T38 Agent:T39
+T38	Entity 1500 1506	Notch1
+T39	SNP 1469 1478	rs3124591
+T40	Entity 1479 1490	TC genotype
+R15	Genotype Arg1:T39 Arg2:T40	
+T41	Cancer 1542 1546	DCIS
+A8	Cancer_Type T41 In_Situ
+T42	Association 1530 1538	observed
+E7	Association:T42 bc:T41 snp_int:T39
+T43	Neg 1572 1575	not
+E8	Association:T42 bc:T44 snp_int:T39
+R16	Negation_marker Arg1:E8 Arg2:T43	
+T44	Cancer 1579 1582	IDC
+A9	Cancer_Type T44 Invasive_NST_ILC_IDC
+T45	Effect_Type 1631 1640	increased
+T46	Association 1641 1645	risk
+E9	Association:T46 bc:T47 bc2:T48 snp_int:T50
+T47	Cancer 1649 1652	IDC
+A10	Cancer_Type T47 Invasive_NST_ILC_IDC
+T48	Cancer 1657 1661	DCIS
+A11	Cancer_Type T48 In_Situ
+T49	Entity 1684 1690	Notch1
+T50	SNP 1691 1700	rs3124591
+R17	SNP_coupled_gene Arg1:T50 Arg2:T49	
+R18	Effect_type_marker Arg1:E9 Arg2:T45	
+A12	Effect_Type E9 Increase
+T51	SNP 1771 1780	rs3124591
+T52	Organic_inorganic_molecules_affected 1800 1810	expression
+E10	Organic_inorganic_molecules_affected:T52 Theme:T53 Agent:T51
+T53	Entity 1793 1799	Notch1
+T55	Spec 1733 1758	inconsistent associations
+R19	Speculation_marker Arg1:E10 Arg2:T55	
+T54	Cell_types_tissues_affected 94 102	invasive
+E11	Cell_types_tissues_affected:T54 Agent:T1 Theme:T56
+T56	Entity 103 109	ductal
+R20	Equiv Arg1:T26 Arg2:T4	
+T57	Entity 1028 1029	D
+R21	Equiv Arg1:T57 Arg2:T56	
+T58	Cell_types_tissues_affected 1028 1029	D
+E12	Cell_types_tissues_affected:T58 Theme:T57 Agent:T21
+T35	Patho_physiology 1321 1342	differentiated tumors
+E13	Patho_physiology:T35 Agent:T21
+R23	Level_marker Arg1:E13 Arg2:T62	
+A13	Level E13 High
+T59	Patho_physiology 1356 1370;1401 1407	differentiated tumors
+E14	Patho_physiology:T59 Agent:T21
+T60	Organic_inorganic_molecules_affected 1530 1538	observed
+E15	Organic_inorganic_molecules_affected:T60 Theme:T61 Agent:T39
+T61	Entity 1542 1543	D
+R22	Equiv Arg1:T61 Arg2:T57	
+T62	Effect_Type 1314 1320	poorly
+T36	Effect_Type 1351 1355	well
+R24	Level_marker Arg1:E14 Arg2:T36	
+T63	Patho_physiology 1386 1407	differentiated tumors
+E16	Patho_physiology:T63 Agent:T21
+T64	Association 1261 1270	frequency
+E5	Association:T64 bc:T32 snp_int:T21
+E17	Association:T64 bc:T33 bc2:T34 snp_int:T21
+T65	Level 1290 1310	significantly higher
+A16	Level E5 High
+R25	Level_marker Arg1:E5 Arg2:T65	
+A15	Effect_Type E13 Decrease
+R26	Level_marker Arg1:E13 Arg2:T65	
+A14	Effect_Type E14 Increase
+T66	Effect_Type 1495 1499	high
+A17	Effect_Type E6 Increase
+R27	Effect_type_marker Arg1:E6 Arg2:T66	
+T67	Effect_Type 1436 1456	positive correlation
+R28	Effect_type_marker Arg1:E6 Arg2:T67	
+T68	Neg 1910 1920	other than
+T69	Organic_inorganic_molecules_affected 1943 1961	protein expression
+E18	Organic_inorganic_molecules_affected:T69 Theme:T70 Agent:T51
+T70	Entity 1936 1942	Notch1
+R29	Negation_marker Arg1:E18 Arg2:T68	
+T71	Spec 1841 1851	may affect
+R30	Speculation_marker Arg1:E18 Arg2:T71	
+T72	Association 1746 1758	associations
+E19	Association:T72 bc:T73 bc2:T74 bc3:T75 snp_int:T51
+T73	Cancer 1852 1865	breast cancer
+T74	Cancer 1814 1817	IDC
+A18	Cancer_Type T74 Invasive_NST_ILC_IDC
+T75	Cancer 1822 1826	DCIS
+A19	Cancer_Type T75 In_Situ
+A20	Cancer_Type T34 Other

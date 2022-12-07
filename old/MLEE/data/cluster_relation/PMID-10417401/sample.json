@@ -1,0 +1,399 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "induced",
+            "group": 8
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "coronary|coronary",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "angiogenesis|angiogenesis",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "dependent",
+            "group": 8
+        },
+        {
+            "id": 4,
+            "value": 2,
+            "name": "vascular endothelial growth factor|vascular endothelial growth factor",
+            "group": 10
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "VEGF",
+            "group": 10
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "endothelial cell",
+            "group": 7
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 2
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "upregulated",
+            "group": 8
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "heart",
+            "group": 11
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "rats",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "administering",
+            "group": 4
+        },
+        {
+            "id": 12,
+            "value": 7,
+            "name": "alinidine|alinidine|alinidine|alinidine|alinidine|alinidine|alinidine",
+            "group": 6
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "Arterial",
+            "group": 1
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "Left ventricular capillary",
+            "group": 0
+        },
+        {
+            "id": 15,
+            "value": 2,
+            "name": "increased|increased",
+            "group": 8
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "administration",
+            "group": 4
+        },
+        {
+            "id": 17,
+            "value": 2,
+            "name": "increase|increase",
+            "group": 8
+        },
+        {
+            "id": 18,
+            "value": 3,
+            "name": "treatment|treatment|treatment",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "Left ventricular",
+            "group": 1
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "increase",
+            "group": 8
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "capillary",
+            "group": 0
+        },
+        {
+            "id": 22,
+            "value": 5,
+            "name": "VEGF|VEGF|VEGF|VEGF|VEGF",
+            "group": 10
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "declined",
+            "group": 9
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "treated",
+            "group": 4
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "rats",
+            "group": 5
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "increased",
+            "group": 8
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "Injection",
+            "group": 4
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "VEGF-neutralizing antibodies",
+            "group": 10
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "blocked",
+            "group": 9
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "stimulated",
+            "group": 8
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 2
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "bFGF",
+            "group": 10
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "altered",
+            "group": 3
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "plays a key role",
+            "group": 3
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "angiogenic",
+            "group": 2
+        },
+        {
+            "id": 36,
+            "value": 1,
+            "name": "associated",
+            "group": 3
+        },
+        {
+            "id": 37,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 8,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 31,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 31,
+            "value": 2
+        },
+        {
+            "source": 33,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 33,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 34,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 34,
+            "target": 35,
+            "value": 2
+        },
+        {
+            "source": 36,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 36,
+            "target": 37,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        }
+    ]
+}

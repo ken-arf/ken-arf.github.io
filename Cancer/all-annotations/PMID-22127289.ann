@@ -1,0 +1,7 @@
+T1	Interaction 58 70	interactions
+E1	Interaction:T1 
+T2	Entity 75 95	CXCL12-related genes
+R1	SNP_coupled_gene Arg1:E1 Arg2:T2	
+T3	Association 40 49	detecting
+E2	Association:T3 bc:T4 snp_int:E1
+T4	Cancer 99 112	breast cancer

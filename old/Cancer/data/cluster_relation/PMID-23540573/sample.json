@@ -1,0 +1,505 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Functional variants",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "11q13|11q13",
+            "group": 7
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "risk locus",
+            "group": 9
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "breast cancer|breast cancer",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 2,
+            "name": "regulate expression through long-range enhancers|long-range enhancers",
+            "group": 2
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "cyclin D1|cyclin D1 protein",
+            "group": 7
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "variants three",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "European subjects",
+            "group": 7
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "independent|independent",
+            "group": 6
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "association|association",
+            "group": 9
+        },
+        {
+            "id": 10,
+            "value": 2,
+            "name": "estrogen-receptor-positive tumors|estrogen-receptor",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "positive",
+            "group": 10
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "transcriptional enhancer element",
+            "group": 7
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "G allele",
+            "group": 7
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "best",
+            "group": 0
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "candidate",
+            "group": 5
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "causative",
+            "group": 9
+        },
+        {
+            "id": 17,
+            "value": 3,
+            "name": "rs554219|rs78540526|rs75915166",
+            "group": 1
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "increases",
+            "group": 10
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "risk",
+            "group": 9
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "reduces",
+            "group": 10
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "binding",
+            "group": 2
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "ELK4 transcription factor",
+            "group": 7
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "luciferase",
+            "group": 7
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "activity",
+            "group": 4
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "may",
+            "group": 5
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "low",
+            "group": 10
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "levels",
+            "group": 4
+        },
+        {
+            "id": 28,
+            "value": 2,
+            "name": "tumors|tumors",
+            "group": 8
+        },
+        {
+            "id": 29,
+            "value": 2,
+            "name": "candidate|candidate",
+            "group": 5
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "same enhancer element",
+            "group": 7
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "association",
+            "group": 9
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "creates binding site",
+            "group": 2
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "GATA3",
+            "group": 7
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "within a silencer element",
+            "group": 7
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "enhancer",
+            "group": 7
+        },
+        {
+            "id": 36,
+            "value": 1,
+            "name": "silencer",
+            "group": 7
+        },
+        {
+            "id": 37,
+            "value": 1,
+            "name": "interact",
+            "group": 2
+        },
+        {
+            "id": 38,
+            "value": 1,
+            "name": "CCND1",
+            "group": 7
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 34,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 37,
+            "target": 38,
+            "value": 2
+        },
+        {
+            "source": 37,
+            "target": 36,
+            "value": 2
+        },
+        {
+            "source": 37,
+            "target": 35,
+            "value": 2
+        },
+        {
+            "source": 37,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 30,
+            "value": 1
+        },
+        {
+            "source": 30,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        }
+    ]
+}

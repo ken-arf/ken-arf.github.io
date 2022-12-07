@@ -3,7 +3,7 @@
         {
             "id": "T1",
             "name": "SNPs",
-            "group": 3,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T4",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T5",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T6",
             "name": "prediction",
-            "group": 6,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T2",
             "name": "African American women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -43,7 +43,7 @@
         {
             "id": "T3",
             "name": "Hispanic women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -51,7 +51,7 @@
         {
             "id": "T8",
             "name": "Hispanic women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -59,7 +59,7 @@
         {
             "id": "T7",
             "name": "women African American",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -67,7 +67,7 @@
         {
             "id": "T9",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T10",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T11",
             "name": "prediction models",
-            "group": 6,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T12",
             "name": "susceptibility single nucleotide polymorphisms",
-            "group": 3,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -99,7 +99,7 @@
         {
             "id": "T13",
             "name": "SNPs",
-            "group": 3,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T14",
             "name": "US population",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -115,7 +115,7 @@
         {
             "id": "T15",
             "name": ">70 SNPs",
-            "group": 3,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -131,7 +131,7 @@
         {
             "id": "T17",
             "name": "independent",
-            "group": 4,
+            "group": 3,
             "type": "Neg",
             "trigger": 0,
             "value": 22
@@ -139,7 +139,7 @@
         {
             "id": "T18",
             "name": "estimate",
-            "group": 6,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T19",
             "name": "risk associations",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 22

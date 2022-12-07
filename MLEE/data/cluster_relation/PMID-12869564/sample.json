@@ -4,283 +4,330 @@
             "id": 0,
             "value": 1,
             "name": "organ",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 1,
             "value": 1,
             "name": "vascularization",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 2,
             "value": 5,
             "name": "lipoplex|lipoplex|lipoplex|lipoplex|lipoplex",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 3,
             "value": 1,
             "name": "serum",
-            "group": 2
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 4,
             "value": 1,
             "name": "murine",
-            "group": 9
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 5,
             "value": 5,
             "name": "lipofection|lipofection|lipofection|lipofection|lipofection",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 6,
             "value": 1,
             "name": "administration",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 7,
             "value": 6,
             "name": "lipoplexes|lipoplexes|lipoplexes|lipoplexes|lipoplexes|lipoplexes",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 8,
             "value": 1,
             "name": "mice",
-            "group": 9
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 9,
             "value": 1,
             "name": "lungs",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 10,
             "value": 2,
             "name": "entrapment|entrapment",
-            "group": 3
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 11,
             "value": 1,
             "name": "lung vascular tree",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 12,
             "value": 1,
             "name": "organs",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 13,
             "value": 1,
             "name": "enhanced",
+            "trigger": 1,
             "group": 11
         },
         {
             "id": 14,
             "value": 1,
             "name": "increasing",
+            "trigger": 1,
             "group": 11
         },
         {
             "id": 15,
             "value": 1,
             "name": "vascularization",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 16,
             "value": 1,
             "name": "mouse",
-            "group": 9
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 17,
             "value": 1,
             "name": "tissue",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 18,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 19,
             "value": 1,
             "name": "liver",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 20,
             "value": 1,
             "name": "Tail vein",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 21,
             "value": 1,
             "name": "injection",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 22,
             "value": 1,
             "name": "N-(1-(2,3-dioleoyloxy)propyl)-N,N,N-trimethylammonium chloride (DOTAP)/cholesterol lipoplexes",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 23,
             "value": 1,
             "name": "resulted",
+            "trigger": 1,
             "group": 11
         },
         {
             "id": 24,
             "value": 1,
             "name": "increased",
+            "trigger": 1,
             "group": 11
         },
         {
             "id": 25,
             "value": 1,
             "name": "liver",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 26,
             "value": 1,
             "name": "boost",
+            "trigger": 1,
             "group": 11
         },
         {
             "id": 27,
             "value": 1,
             "name": "luciferase",
-            "group": 12
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 28,
             "value": 1,
             "name": "expression",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 29,
             "value": 1,
             "name": "delivery",
-            "group": 3
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 30,
             "value": 1,
             "name": "sufficient",
+            "trigger": 1,
             "group": 11
         },
         {
             "id": 31,
             "value": 1,
             "name": "organ",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 32,
             "value": 1,
             "name": "injected",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 33,
             "value": 1,
             "name": "migrated",
-            "group": 3
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 34,
             "value": 1,
             "name": "lungs",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 35,
             "value": 2,
             "name": "serum|serum",
-            "group": 2
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 36,
             "value": 1,
             "name": "lung",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 37,
             "value": 1,
             "name": "DOTAP",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 38,
             "value": 1,
             "name": "serum",
-            "group": 2
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 39,
             "value": 1,
             "name": "lipid",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 40,
             "value": 1,
             "name": "cholesterol",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 41,
             "value": 1,
             "name": "aggregate",
-            "group": 7
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 42,
             "value": 1,
             "name": "aggregation",
-            "group": 7
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 43,
             "value": 1,
             "name": "lung cells",
-            "group": 10
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 44,
             "value": 2,
             "name": "serum|serum",
-            "group": 2
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 45,
             "value": 2,
             "name": "cholesterol-based lipoplexes|Dioleoyl phosphatidylethanolamine-based lipoplexes",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 46,
             "value": 1,
             "name": "tissue",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         }
     ],
     "links": [

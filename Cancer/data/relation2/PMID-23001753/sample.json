@@ -3,7 +3,7 @@
         {
             "id": "T1",
             "name": "Genetic polymorphisms",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T6",
             "name": "Genetic polymorphisms",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T3",
             "name": "centrobin",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -27,7 +27,7 @@
         {
             "id": "T2",
             "name": "Nek2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -35,7 +35,7 @@
         {
             "id": "T4",
             "name": "associated",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 24
@@ -43,7 +43,7 @@
         {
             "id": "T5",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T7",
             "name": "Chinese Han population",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -59,7 +59,7 @@
         {
             "id": "T9",
             "name": "genetic polymorphisms",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -67,7 +67,7 @@
         {
             "id": "T10",
             "name": "may",
-            "group": 9,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T11",
             "name": "affect",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T12",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T13",
             "name": "Chinese Han population",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -99,7 +99,7 @@
         {
             "id": "T14",
             "name": "Five single nucleotide polymorphisms",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -107,7 +107,7 @@
         {
             "id": "T8",
             "name": "single nucleotide polymorphisms",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 21
@@ -115,7 +115,7 @@
         {
             "id": "T15",
             "name": "SNPs",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 24
@@ -123,7 +123,7 @@
         {
             "id": "T16",
             "name": "centrobin",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -131,7 +131,7 @@
         {
             "id": "T17",
             "name": "four SNPs",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -139,7 +139,7 @@
         {
             "id": "T18",
             "name": "Nek2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -147,7 +147,7 @@
         {
             "id": "T19",
             "name": "Chinese Han population",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -163,7 +163,7 @@
         {
             "id": "T21",
             "name": "centrobin",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -171,7 +171,7 @@
         {
             "id": "T22",
             "name": "strongly",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -179,7 +179,7 @@
         {
             "id": "T24",
             "name": "decreased",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -187,7 +187,7 @@
         {
             "id": "T39",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -195,7 +195,7 @@
         {
             "id": "T23",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -203,7 +203,7 @@
         {
             "id": "T25",
             "name": "C allele",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -211,7 +211,7 @@
         {
             "id": "T26",
             "name": "rs11650083",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -219,7 +219,7 @@
         {
             "id": "T27",
             "name": "A>C",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -227,7 +227,7 @@
         {
             "id": "T28",
             "name": "exon 12",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -235,7 +235,7 @@
         {
             "id": "T29",
             "name": "Pro578Gln",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -243,7 +243,7 @@
         {
             "id": "T30",
             "name": "Pro578Gln",
-            "group": 4,
+            "group": 7,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 17
@@ -251,7 +251,7 @@
         {
             "id": "T31",
             "name": "Pro578",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -259,7 +259,7 @@
         {
             "id": "T34",
             "name": "None",
-            "group": 7,
+            "group": 4,
             "type": "Neg",
             "trigger": 0,
             "value": 22
@@ -267,7 +267,7 @@
         {
             "id": "T33",
             "name": "individual SNPs",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -275,7 +275,7 @@
         {
             "id": "T32",
             "name": "Nek2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -283,7 +283,7 @@
         {
             "id": "T35",
             "name": "associated",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -291,7 +291,7 @@
         {
             "id": "T36",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -315,7 +315,7 @@
         {
             "id": "T38",
             "name": "Nek2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -323,7 +323,7 @@
         {
             "id": "T41",
             "name": "increased",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -331,7 +331,7 @@
         {
             "id": "T40",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 24
@@ -339,7 +339,7 @@
         {
             "id": "T42",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -347,7 +347,7 @@
         {
             "id": "T43",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -355,7 +355,7 @@
         {
             "id": "T44",
             "name": "significantly",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -363,7 +363,7 @@
         {
             "id": "T45",
             "name": "elevated",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -371,7 +371,7 @@
         {
             "id": "T46",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -379,7 +379,7 @@
         {
             "id": "T47",
             "name": "family history of cancer",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -387,7 +387,7 @@
         {
             "id": "T48",
             "name": "menarche-first full-term pregnancy interval >11\u00a0years",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -395,7 +395,7 @@
         {
             "id": "T49",
             "name": "first full-term pregnancy",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -403,7 +403,7 @@
         {
             "id": "T50",
             "name": "FFTP",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -411,7 +411,7 @@
         {
             "id": "T57",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 22
@@ -435,7 +435,7 @@
         {
             "id": "T56",
             "name": "Nek2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -443,7 +443,7 @@
         {
             "id": "T69",
             "name": "protective",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -459,7 +459,7 @@
         {
             "id": "T55",
             "name": "centrobin",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -467,7 +467,7 @@
         {
             "id": "T58",
             "name": "decreased",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -475,7 +475,7 @@
         {
             "id": "T60",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -483,7 +483,7 @@
         {
             "id": "T59",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -491,7 +491,7 @@
         {
             "id": "T70",
             "name": "suggesting",
-            "group": 9,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -507,7 +507,7 @@
         {
             "id": "T62",
             "name": "genetic variants",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -515,7 +515,7 @@
         {
             "id": "T63",
             "name": "Nek2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -523,7 +523,7 @@
         {
             "id": "T64",
             "name": "increased",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -531,7 +531,7 @@
         {
             "id": "T65",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -539,7 +539,7 @@
         {
             "id": "T66",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -547,7 +547,7 @@
         {
             "id": "T67",
             "name": "genetic variants",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -555,7 +555,7 @@
         {
             "id": "T68",
             "name": "centrobin",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -563,7 +563,7 @@
         {
             "id": "T71",
             "name": "genetic polymorphisms",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -571,7 +571,7 @@
         {
             "id": "T74",
             "name": "genetic polymorphisms",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -579,7 +579,7 @@
         {
             "id": "T72",
             "name": "centrobin",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -595,7 +595,7 @@
         {
             "id": "T73",
             "name": "Nek2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -603,7 +603,7 @@
         {
             "id": "T75",
             "name": "related to",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -611,7 +611,7 @@
         {
             "id": "T76",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -619,7 +619,7 @@
         {
             "id": "T78",
             "name": "Chinese Han women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17

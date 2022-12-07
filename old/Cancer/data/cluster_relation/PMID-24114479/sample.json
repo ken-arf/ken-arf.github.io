@@ -1,0 +1,216 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Selenium",
+            "group": 5
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "single-nucleotide polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "SNP",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "selenoprotein genes",
+            "group": 5
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "evidence",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "risk",
+            "group": 6
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "breast cancers",
+            "group": 2
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "small number of SNPs",
+            "group": 0
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "glutathione peroxidases 1 and 4",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "selenoprotein P|selenoprotein S",
+            "group": 5
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "15-kDa selenoprotein",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "functional consequences",
+            "group": 3
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "suggest",
+            "group": 4
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "variant",
+            "group": 0
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "codon 198",
+            "group": 5
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "glutathione peroxidase 1",
+            "group": 5
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "influences",
+            "group": 1
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "Se",
+            "group": 5
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "associated",
+            "group": 6
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 0,
+            "value": 1
+        }
+    ]
+}

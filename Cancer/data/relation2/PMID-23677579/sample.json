@@ -3,7 +3,7 @@
         {
             "id": "T3",
             "name": "breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T4",
             "name": "risk",
-            "group": 1,
+            "group": 2,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T2",
             "name": "10q25",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -35,7 +35,7 @@
         {
             "id": "T5",
             "name": "East Asian women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -43,7 +43,7 @@
         {
             "id": "T14",
             "name": "association",
-            "group": 1,
+            "group": 2,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T15",
             "name": "breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T13",
             "name": "replicated",
-            "group": 1,
+            "group": 2,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T7",
             "name": "6q14",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -91,7 +91,7 @@
         {
             "id": "T9",
             "name": "10q25",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -99,7 +99,7 @@
         {
             "id": "T11",
             "name": "association",
-            "group": 1,
+            "group": 2,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -131,7 +131,7 @@
         {
             "id": "T17",
             "name": "breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -139,7 +139,7 @@
         {
             "id": "T18",
             "name": "risk",
-            "group": 1,
+            "group": 2,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T19",
             "name": "10q25",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -155,7 +155,7 @@
         {
             "id": "T20",
             "name": "East Asian women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18

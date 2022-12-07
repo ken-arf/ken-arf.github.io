@@ -4,175 +4,204 @@
             "id": 0,
             "value": 1,
             "name": "SNP-SNP interactions",
-            "group": 5
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 1,
             "value": 2,
             "name": "breast cancer|breast cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 2,
             "value": 1,
             "name": "susceptibility",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 3,
             "value": 1,
             "name": "evidence",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 4,
             "value": 1,
             "name": "interaction",
-            "group": 5
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 5,
             "value": 1,
             "name": "increased",
-            "group": 8
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 6,
             "value": 1,
             "name": "risk",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 7,
             "value": 2,
             "name": "DNA repair|DNA repair",
-            "group": 0
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 8,
             "value": 1,
             "name": "immune system",
-            "group": 0
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 9,
             "value": 1,
             "name": "XPD",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 10,
             "value": 4,
             "name": "Lys751Gln|Lys751Gln|Lys751Gln|Lys751Gln",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 11,
             "value": 2,
             "name": "Lys|Lys",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 12,
             "value": 4,
             "name": "and|and|and|and",
-            "group": 5
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 13,
             "value": 1,
             "name": "IL10",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 14,
             "value": 2,
             "name": "G(-1082)A|G(-1082)A",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 15,
             "value": 1,
             "name": "cell cycle",
-            "group": 0
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 16,
             "value": 1,
             "name": "estrogen metabolism",
-            "group": 0
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 17,
             "value": 2,
             "name": "CCND1|BARD1",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 18,
             "value": 2,
             "name": "Pro241Pro|Pro241Pro",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 19,
             "value": 2,
             "name": "Pro|Pro",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 20,
             "value": 2,
             "name": "COMT|COMT",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 21,
             "value": 4,
             "name": "Met108/158Val|Met108/158Val|Met108/158Val|Met108/158Val",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 22,
             "value": 2,
             "name": "Met|Met",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 23,
             "value": 2,
             "name": "Pro24Ser|Pro24Ser",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 24,
             "value": 1,
             "name": "XPD",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 25,
             "value": 1,
             "name": "carcinogen metabolism",
-            "group": 0
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 26,
             "value": 1,
             "name": "GSTP1",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 27,
             "value": 2,
             "name": "Ile105Val|Ile105Val",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 28,
             "value": 1,
             "name": "Ile",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         }
     ],
     "links": [

@@ -4,247 +4,288 @@
             "id": 0,
             "value": 1,
             "name": "Adenovirus",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 1,
             "value": 1,
             "name": "mediated",
-            "group": 11
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 2,
             "value": 1,
             "name": "gene transfer",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 3,
             "value": 4,
             "name": "endostatin|endostatin|endostatin|endostatin",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 4,
             "value": 1,
             "name": "results",
-            "group": 11
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 5,
             "value": 1,
             "name": "expression",
-            "group": 14
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 6,
             "value": 1,
             "name": "inhibition",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 7,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 8,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 9,
             "value": 1,
             "name": "metastases",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 10,
             "value": 1,
             "name": "Inhibition",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 11,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 12,
             "value": 2,
             "name": "cancer|cancer",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 13,
             "value": 2,
             "name": "therapy|therapy",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 14,
             "value": 1,
             "name": "mice",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 15,
             "value": 3,
             "name": "angiogenic|angiogenic|angiogenic",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 16,
             "value": 1,
             "name": "constructed",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 17,
             "value": 1,
             "name": "adenovirus",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 18,
             "value": 1,
             "name": "expresses",
-            "group": 14
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 19,
             "value": 1,
             "name": "murine",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 20,
             "value": 1,
             "name": "endothelial cell",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 21,
             "value": 1,
             "name": "proliferation",
-            "group": 0
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 22,
             "value": 1,
             "name": "suppression",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 23,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 24,
             "value": 1,
             "name": "induced",
-            "group": 11
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 25,
             "value": 1,
             "name": "vascular endothelial growth factor 165",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 26,
             "value": 1,
             "name": "serum",
-            "group": 3
+            "trigger": 0,
+            "group": 14
         },
         {
             "id": 27,
             "value": 1,
             "name": "administration",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 28,
             "value": 1,
             "name": "nude mice",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 29,
             "value": 1,
             "name": "resulted",
-            "group": 11
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 30,
             "value": 1,
             "name": "reduction",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 31,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 32,
             "value": 1,
             "name": "JC breast carcinoma",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 33,
             "value": 2,
             "name": "Lewis lung carcinoma|Lewis lung carcinoma",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 34,
             "value": 1,
             "name": "vector treatment",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 35,
             "value": 1,
             "name": "prevented",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 36,
             "value": 1,
             "name": "formation",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 37,
             "value": 1,
             "name": "pulmonary micrometastases",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 38,
             "value": 1,
             "name": "tumors",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 39,
             "value": 1,
             "name": "decreased",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 40,
             "value": 1,
             "name": "blood vessels",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         }
     ],
     "links": [

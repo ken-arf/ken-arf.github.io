@@ -4,168 +4,196 @@
             "id": 0,
             "value": 1,
             "name": "expression",
-            "group": 14
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 1,
             "value": 7,
             "name": "CYR61|CYR61|CYR61|CYR61|CYR61|CYR61|CYR61",
-            "group": 13
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 2,
             "value": 6,
             "name": "CTGF|CTGF|CTGF|CTGF|CTGF|CTGF",
-            "group": 13
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 3,
             "value": 1,
             "name": "tumor",
-            "group": 1
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 4,
             "value": 1,
             "name": "progression",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 5,
             "value": 1,
             "name": "survival",
-            "group": 6
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 6,
             "value": 1,
             "name": "individuals",
-            "group": 8
+            "trigger": 0,
+            "group": 14
         },
         {
             "id": 7,
             "value": 4,
             "name": "gliomas|gliomas|gliomas|gliomas",
-            "group": 1
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 8,
             "value": 2,
             "name": "CCN|CCN",
-            "group": 13
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 9,
             "value": 1,
             "name": "stimulation",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 10,
             "value": 1,
             "name": "cell",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 11,
             "value": 1,
             "name": "proliferation",
-            "group": 12
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 12,
             "value": 1,
             "name": "migration",
-            "group": 0
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 13,
             "value": 1,
             "name": "adhesion",
-            "group": 7
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 14,
             "value": 1,
             "name": "angiogenesis",
-            "group": 3
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 15,
             "value": 3,
             "name": "WISP-1|WISP-1|WISP-1",
-            "group": 13
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 16,
             "value": 3,
             "name": "NOV|NOV|NOV",
-            "group": 13
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 17,
             "value": 1,
             "name": "expression",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 18,
             "value": 1,
             "name": "brain samples",
-            "group": 2
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 19,
             "value": 1,
             "name": "expression",
-            "group": 14
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 20,
             "value": 1,
             "name": "Overexpression",
-            "group": 14
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 21,
             "value": 3,
             "name": "expression|expression|expression",
-            "group": 14
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 22,
             "value": 2,
             "name": "tumor|tumor",
-            "group": 1
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 23,
             "value": 1,
             "name": "CTGF",
-            "group": 13
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 24,
             "value": 1,
             "name": "patient",
-            "group": 8
+            "trigger": 0,
+            "group": 14
         },
         {
             "id": 25,
             "value": 1,
             "name": "survival",
-            "group": 6
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 26,
             "value": 1,
             "name": "play a role",
-            "group": 5
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 27,
             "value": 1,
             "name": "progression",
+            "trigger": 1,
             "group": 10
         }
     ],

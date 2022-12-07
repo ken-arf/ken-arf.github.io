@@ -1,0 +1,60 @@
+{
+    "name": "ROOT",
+    "children": [
+        {
+            "name": "C0",
+            "children": [
+                {
+                    "name": "alpha2 (I) collagen",
+                    "value": 16
+                },
+                {
+                    "name": "alpha1 (V) collagen",
+                    "value": 16
+                }
+            ]
+        },
+        {
+            "name": "C1",
+            "children": [
+                {
+                    "name": "COL-I",
+                    "value": 20
+                },
+                {
+                    "name": "COL-IV",
+                    "value": 20
+                },
+                {
+                    "name": "COL-V",
+                    "value": 20
+                },
+                {
+                    "name": "COL-IV",
+                    "value": 20
+                },
+                {
+                    "name": "COL-I",
+                    "value": 20
+                },
+                {
+                    "name": "COL-V",
+                    "value": 20
+                }
+            ]
+        },
+        {
+            "name": "C2",
+            "children": [
+                {
+                    "name": "VEGF",
+                    "value": 24
+                },
+                {
+                    "name": "VEGF",
+                    "value": 23
+                }
+            ]
+        }
+    ]
+}

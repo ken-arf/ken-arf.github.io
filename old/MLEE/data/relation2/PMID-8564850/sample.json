@@ -1,0 +1,350 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "angiogenic",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "bone marrow",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "transplantation",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "blood",
+            "group": 2,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "endothelialization",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "endothelial cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "induce",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "capillary",
+            "group": 9,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "growth",
+            "group": 4,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "transplanting",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "bone marrow cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T15",
+            "name": "create",
+            "group": 6,
+            "type": "Development",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T16",
+            "name": "blood cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T23",
+            "name": "resulting",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "inducement",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "capillary",
+            "group": 9,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "growth",
+            "group": 4,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "marrow cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "infiltrated",
+            "group": 8,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "implanted",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "abdominal aortic",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "dogs",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "Marrow cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T34",
+            "name": "survived",
+            "group": 3,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "basic fibroblast growth factor",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T27",
+            "name": "bFGF",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T28",
+            "name": "endothelialization",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "bone marrow",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "Endothelialization",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "endothelial cell",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "thrombus",
+            "group": 11,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "Bone marrow",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "angiogenicity",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T9",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T15",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T17",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T23",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T23",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T25",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

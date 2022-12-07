@@ -4,373 +4,435 @@
             "id": 0,
             "value": 2,
             "name": "Short pigment epithelial-derived factor-derived peptide|Pigment epithelial-derived factor",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 1,
             "value": 1,
             "name": "inhibits",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 2,
             "value": 1,
             "name": "angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 3,
             "value": 2,
             "name": "tumor|tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 4,
             "value": 2,
             "name": "growth|growth",
-            "group": 0
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 5,
             "value": 4,
             "name": "PEDF|PEDF|PEDF|PEDF",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 6,
             "value": 1,
             "name": "angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 7,
             "value": 1,
             "name": "enhance",
-            "group": 8
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 8,
             "value": 2,
             "name": "angiogenic|angiogenic",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 9,
             "value": 1,
             "name": "activities",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 10,
             "value": 1,
             "name": "tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 11,
             "value": 1,
             "name": "efficacy",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 12,
             "value": 1,
             "name": "angioinhibitory",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 13,
             "value": 3,
             "name": "P14|P18|P23",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 14,
             "value": 1,
             "name": "block",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 15,
             "value": 2,
             "name": "endothelial cell|endothelial cell",
-            "group": 7
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 16,
             "value": 2,
             "name": "chemotaxis|chemotaxis",
-            "group": 1
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 17,
             "value": 1,
             "name": "induce",
-            "group": 8
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 18,
             "value": 1,
             "name": "apoptosis",
-            "group": 5
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 19,
             "value": 1,
             "name": "angiogenic",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 20,
             "value": 2,
             "name": "activity|activity",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 21,
             "value": 1,
             "name": "tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 22,
             "value": 1,
             "name": "xenografted",
-            "group": 6
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 23,
             "value": 1,
             "name": "prostate carcinoma",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 24,
             "value": 1,
             "name": "renal cell carcinoma",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 25,
             "value": 2,
             "name": "P18|P18",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 26,
             "value": 1,
             "name": "PEDF targets",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 27,
             "value": 2,
             "name": "vascular endothelial growth factor receptor 2|vascular endothelial growth factor receptor 2",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 28,
             "value": 2,
             "name": "CD95 ligand|CD95 ligand",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 29,
             "value": 1,
             "name": "expression",
-            "group": 11
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 30,
             "value": 1,
             "name": "treated",
-            "group": 6
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 31,
             "value": 1,
             "name": "vasculature",
-            "group": 3
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 32,
             "value": 10,
             "name": "P14|P18|P18|P23|P18|P23|P14|P18|P18|P18",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 33,
             "value": 1,
             "name": "blocked",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 34,
             "value": 1,
             "name": "induced",
-            "group": 8
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 35,
             "value": 1,
             "name": "apoptosis",
-            "group": 5
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 36,
             "value": 1,
             "name": "blocked",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 37,
             "value": 1,
             "name": "angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 38,
             "value": 1,
             "name": "inactive",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 39,
             "value": 1,
             "name": "angiogenic",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 40,
             "value": 1,
             "name": "increased",
-            "group": 8
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 41,
             "value": 1,
             "name": "production",
-            "group": 11
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 42,
             "value": 1,
             "name": "reduced",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 43,
             "value": 1,
             "name": "expression",
-            "group": 11
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 44,
             "value": 1,
             "name": "endothelial cells",
-            "group": 7
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 45,
             "value": 1,
             "name": "tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 46,
             "value": 1,
             "name": "blocking",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 47,
             "value": 1,
             "name": "angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 48,
             "value": 1,
             "name": "growth",
-            "group": 0
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 49,
             "value": 1,
             "name": "prostate cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 50,
             "value": 1,
             "name": "parental 34-mer",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 51,
             "value": 1,
             "name": "renal cell carcinoma",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 52,
             "value": 1,
             "name": "decreased",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 53,
             "value": 1,
             "name": "angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 54,
             "value": 1,
             "name": "halted",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 55,
             "value": 1,
             "name": "progression",
-            "group": 8
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 56,
             "value": 1,
             "name": "tumors",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 57,
             "value": 1,
             "name": "P18",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 58,
             "value": 1,
             "name": "angiogenic",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 59,
             "value": 1,
             "name": "treatment",
-            "group": 6
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 60,
             "value": 1,
             "name": "prostate",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 61,
             "value": 1,
             "name": "renal cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         }
     ],
     "links": [

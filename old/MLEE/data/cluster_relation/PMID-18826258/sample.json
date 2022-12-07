@@ -1,0 +1,203 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "cell",
+            "group": 7
+        },
+        {
+            "id": 1,
+            "value": 5,
+            "name": "perlecan|Perlecan|perlecan|perlecan|perlecan",
+            "group": 10
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "cell",
+            "group": 7
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "cell",
+            "group": 7
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "interactions",
+            "group": 6
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "cancer",
+            "group": 2
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "growth",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "angiogenic|angiogenic",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "bound",
+            "group": 6
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "signals",
+            "group": 9
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "resulting",
+            "group": 8
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "interactions",
+            "group": 6
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "endorepellin",
+            "group": 10
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "integrins",
+            "group": 10
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "control",
+            "group": 5
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "adhesion",
+            "group": 6
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "cells",
+            "group": 7
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "extracellular matrix",
+            "group": 3
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "cell",
+            "group": 7
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "growth",
+            "group": 0
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 4,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 8,
+            "value": 2
+        }
+    ]
+}

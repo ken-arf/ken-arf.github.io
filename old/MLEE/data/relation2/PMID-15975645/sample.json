@@ -1,0 +1,808 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Thalidomide",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T2",
+            "name": "angiostatin",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "inhibit",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "tumor",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "growth",
+            "group": 4,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "murine",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "human",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "cervical cancer",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "thalidomide",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T7",
+            "name": "angiostatin",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "tumor",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "growth",
+            "group": 4,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "apoptosis",
+            "group": 2,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "cervical cancer",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "Human",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "endothelial cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "treated",
+            "group": 8,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "angiostatin",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "thalidomide",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T16",
+            "name": "bFGF",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1003",
+            "name": "Human",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "cervical cancer cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T18",
+            "name": "CaSki",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "SiHa",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "injected",
+            "group": 8,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "flanks",
+            "group": 3,
+            "type": "Organism_subdivision",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1004",
+            "name": "nude mice",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "tumors",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "developed",
+            "group": 10,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1005",
+            "name": "mice",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "treated",
+            "group": 8,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "angiostatin",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "thalidomide",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T27",
+            "name": "tumor",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T26",
+            "name": "growth",
+            "group": 4,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T28",
+            "name": "tumors",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "Angiostatin",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "inhibited",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "endothelial cell",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "proliferation",
+            "group": 13,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "Thalidomide",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T51",
+            "name": "no direct effect",
+            "group": 12,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T36",
+            "name": "endothelial cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "Angiostatin",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "thalidomide",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T39",
+            "name": "inhibited",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "tumor",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "growth",
+            "group": 4,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "inhibited",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "tumors",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "Angiostatin",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "thalidomide",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T53",
+            "name": "inhibit",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "tumor",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "growth",
+            "group": 4,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "induce",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "apoptosis",
+            "group": 2,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "cervical cancer",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T3",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T23",
+            "target": "T1005",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T39",
+            "target": "T41",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T39",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T40",
+            "target": "T41",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T3",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T3",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T12",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T11",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T11",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T11",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T11",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T22",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T50",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T50",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T51",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T39",
+            "target": "T41",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T39",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T52",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T52",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T52",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T52",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T53",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T53",
+            "target": "T54",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T54",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T53",
+            "target": "T54",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T53",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T53",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T49",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T56",
+            "target": "T55",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T56",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T56",
+            "target": "T55",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T56",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T10",
+            "target": "T46",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T48",
+            "target": "T49",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T57",
+            "target": "T46",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T23",
+            "target": "T1005",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T23",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Instrument"
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "nodes": [
+        {
+            "id": "T1000",
+            "name": "Punica granatum",
+            "group": 8,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T18",
+            "name": "cancer",
+            "group": 5,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "Punica granatum",
+            "group": 8,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T1002",
+            "name": "Punica granatum",
+            "group": 8,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T11",
+            "name": "seed",
+            "group": 1,
+            "type": "Developing_anatomical_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "juice",
+            "group": 0,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "peel",
+            "group": 7,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "leaf",
+            "group": 3,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "flower",
+            "group": 2,
+            "type": "Organism_subdivision",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "bark",
+            "group": 7,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "roots",
+            "group": 3,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "Juice",
+            "group": 0,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "peels",
+            "group": 7,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "juice",
+            "group": 0,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "peel",
+            "group": 7,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "oil",
+            "group": 0,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "juice",
+            "group": 0,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "peel",
+            "group": 7,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "oil",
+            "group": 0,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "tumor cell",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T20",
+            "name": "proliferation",
+            "group": 9,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "cell",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "invasion",
+            "group": 4,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "angiogenesis",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1003",
+            "name": "Punica granatum",
+            "group": 8,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 19
+        }
+    ],
+    "links": [
+        {
+            "source": "T20",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T21",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

@@ -1,0 +1,748 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "41 single nucleotide polymorphisms",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T2",
+            "name": "associations",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "BC",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "investigated",
+            "group": 8,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "effects",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "these 41 SNPs",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T7",
+            "name": "six SNPs",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T8",
+            "name": "associated",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "associated",
+            "group": 4,
+            "type": "Organic_inorganic_molecules_affected",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "estrogen receptor negative BC",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T10",
+            "name": "estrogen receptor",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "ER",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T15",
+            "name": "negative",
+            "group": 7,
+            "type": "Neg",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T12",
+            "name": "13 environmental risk factors",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T16",
+            "name": "rs6828523",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T25",
+            "name": "rs6828523",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T17",
+            "name": "associated",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "associated",
+            "group": 4,
+            "type": "Organic_inorganic_molecules_affected",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "increased",
+            "group": 3,
+            "type": "Effect_Type",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "ER-negative BC",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T34",
+            "name": "ER",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "negative",
+            "group": 7,
+            "type": "Neg",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "women",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "\u2265170 cm",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T22",
+            "name": "inversely",
+            "group": 3,
+            "type": "Effect_Type",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "associated",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 24
+        },
+        {
+            "id": "T24",
+            "name": "ER-negative BC",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T26",
+            "name": "women",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "<160 cm",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T28",
+            "name": "inverse",
+            "group": 3,
+            "type": "Effect_Type",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "association",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "association",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "association",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "rs4808801",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T38",
+            "name": "rs4808801",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T43",
+            "name": "rs4808801",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T31",
+            "name": "BC",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "stronger",
+            "group": 6,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "women",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "four or more pregnancies",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T44",
+            "name": "pregnancies one",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T40",
+            "name": "absent",
+            "group": 7,
+            "type": "Neg",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T41",
+            "name": "women",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "rs11242675",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T53",
+            "name": "rs11242675",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T46",
+            "name": "inversely",
+            "group": 3,
+            "type": "Effect_Type",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "associated",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "BC",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "never/former smokers",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T50",
+            "name": "no",
+            "group": 7,
+            "type": "Neg",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "association",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "current smoker",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T8",
+            "target": "T7",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T13",
+            "target": "T6",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T13",
+            "target": "T3",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T14",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T14",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T17",
+            "target": "T16",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T17",
+            "target": "T19",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T23",
+            "target": "T25",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T29",
+            "target": "T31",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T32",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T32",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T36",
+            "target": "T38",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T36",
+            "target": "T31",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T42",
+            "target": "T31",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T42",
+            "target": "T43",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T47",
+            "target": "T48",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T47",
+            "target": "T45",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T51",
+            "target": "T48",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T51",
+            "target": "T53",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T4",
+            "target": "T3",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T11",
+            "target": "T10",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T7",
+            "target": "T12",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T13",
+            "target": "T2",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T13",
+            "target": "T5",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T6",
+            "target": "T12",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T8",
+            "target": "T5",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 1,
+            "link_name": "Negation_marker"
+        },
+        {
+            "source": "T17",
+            "target": "T18",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T16",
+            "target": "T20",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T16",
+            "target": "T21",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T23",
+            "target": "T22",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T25",
+            "target": "T26",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T25",
+            "target": "T27",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T29",
+            "target": "T28",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T32",
+            "target": "T33",
+            "value": 1,
+            "link_name": "Negation_marker"
+        },
+        {
+            "source": "T36",
+            "target": "T35",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T30",
+            "target": "T37",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T36",
+            "target": "T28",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T38",
+            "target": "T37",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T38",
+            "target": "T39",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T42",
+            "target": "T40",
+            "value": 1,
+            "link_name": "Negation_marker"
+        },
+        {
+            "source": "T42",
+            "target": "T28",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T43",
+            "target": "T41",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T43",
+            "target": "T44",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T47",
+            "target": "T46",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T45",
+            "target": "T49",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T51",
+            "target": "T50",
+            "value": 1,
+            "link_name": "Negation_marker"
+        },
+        {
+            "source": "T53",
+            "target": "T52",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        }
+    ]
+}

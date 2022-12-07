@@ -1,0 +1,165 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "5p15.33|5p15.33",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "telomerase reverse transcriptase",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "TERT",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 4,
+            "name": "rs7726159|rs2853677|rs2736098|rs10069690",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "rs13172201",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "CLPTM1L",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "rs451360",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "DNA methylation",
+            "group": 2
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "risk variants",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 7,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 3,
+            "value": 1
+        }
+    ]
+}

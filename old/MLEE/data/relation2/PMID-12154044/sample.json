@@ -1,0 +1,890 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Inhibition",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "angiogenesis",
+            "group": 17,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "cancer",
+            "group": 11,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "conjugated linoleic acid",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T4",
+            "name": "conjugated linoleic acid",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T5",
+            "name": "CLA",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "rat",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "mammary",
+            "group": 9,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "effects",
+            "group": 6,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "mammary epithelial cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T21",
+            "name": "decreased",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "proliferation",
+            "group": 7,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "induction",
+            "group": 3,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "apoptosis",
+            "group": 4,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "CLA",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "effects",
+            "group": 6,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "inhibiting",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "differentiation",
+            "group": 15,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "mammary stromal cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T12",
+            "name": "endothelial cell",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "CLA",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "decrease",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "mammary stromal cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T17",
+            "name": "form",
+            "group": 15,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "microcapillary networks",
+            "group": 14,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T19",
+            "name": "basement membrane",
+            "group": 0,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "CLA",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "inhibit",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "angiogenesis",
+            "group": 17,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "mice",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "placed",
+            "group": 10,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "CLA",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "angiogenic",
+            "group": 17,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "s.c. injection",
+            "group": 10,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 15
+        },
+        {
+            "id": "T25",
+            "name": "angiogenic",
+            "group": 17,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "abundant",
+            "group": 3,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T27",
+            "name": "branching",
+            "group": 15,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "networks of blood vessels",
+            "group": 14,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T64",
+            "name": "lumen",
+            "group": 19,
+            "type": "Immaterial_anatomical_entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "RBCs",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "CLA",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "fed",
+            "group": 10,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "infiltrating",
+            "group": 16,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "formed",
+            "group": 15,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "cellular networks",
+            "group": 14,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "collapsed",
+            "group": 2,
+            "type": "Breakdown",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "lumen",
+            "group": 19,
+            "type": "Immaterial_anatomical_entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "RBCs",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "CLA",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "RBC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "vessels",
+            "group": 14,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "CLA",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "decreased",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "serum",
+            "group": 5,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "vascular endothelial growth factor",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T44",
+            "name": "VEGF",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T45",
+            "name": "mammary gland",
+            "group": 9,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "VEGF",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "Flk-1",
+            "group": 18,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T48",
+            "name": "cis-9",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T49",
+            "name": "trans-11",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T50",
+            "name": "trans-10",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T51",
+            "name": "cis-12 CLA isomers",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T67",
+            "name": "effective",
+            "group": 6,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "inhibiting",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "angiogenesis",
+            "group": 17,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "CLA",
+            "group": 1,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "inhibit",
+            "group": 8,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "angiogenesis",
+            "group": 17,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T9",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T9",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T32",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T41",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T41",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T21",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T37",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T56",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T56",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T58",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T58",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T58",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T58",
+            "target": "T53",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T10",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T9",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T9",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T59",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T59",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T59",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T59",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T60",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T60",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T61",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T61",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T62",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T62",
+            "target": "T1001",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T65",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T41",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T41",
+            "target": "T46",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T41",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T41",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T54",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T67",
+            "target": "T66",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T67",
+            "target": "T51",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T67",
+            "target": "T66",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T67",
+            "target": "T50",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T67",
+            "target": "T66",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T67",
+            "target": "T49",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T67",
+            "target": "T66",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T67",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T68",
+            "target": "T55",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T68",
+            "target": "T57",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T70",
+            "target": "T69",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T71",
+            "target": "T1001",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T17",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T50",
+            "target": "T51",
+            "value": 1,
+            "link_name": "frag"
+        },
+        {
+            "source": "T49",
+            "target": "T51",
+            "value": 1,
+            "link_name": "frag"
+        },
+        {
+            "source": "T48",
+            "target": "T51",
+            "value": 1,
+            "link_name": "frag"
+        }
+    ]
+}

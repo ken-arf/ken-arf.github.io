@@ -4,270 +4,315 @@
             "id": 0,
             "value": 2,
             "name": "AVE8062|AVE8062A",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 1,
             "value": 1,
             "name": "combretastatin",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 2,
             "value": 1,
             "name": "vascular",
-            "group": 3
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 3,
             "value": 1,
             "name": "disrupting",
-            "group": 5
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 4,
             "value": 1,
             "name": "Angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 5,
             "value": 1,
             "name": "has an essential role",
-            "group": 6
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 6,
             "value": 1,
             "name": "promoting",
+            "trigger": 1,
             "group": 13
         },
         {
             "id": 7,
             "value": 1,
             "name": "supporting",
+            "trigger": 1,
             "group": 13
         },
         {
             "id": 8,
             "value": 1,
             "name": "tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 9,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 10,
             "value": 1,
             "name": "tumor vascular network",
-            "group": 3
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 11,
             "value": 1,
             "name": "angiogenic",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 12,
             "value": 1,
             "name": "interaction",
-            "group": 8
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 13,
             "value": 1,
             "name": "endothelial cells",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 14,
             "value": 1,
             "name": "extracellular matrix",
-            "group": 7
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 15,
             "value": 1,
             "name": "angiogenic",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 16,
             "value": 1,
             "name": "improve",
+            "trigger": 1,
             "group": 13
         },
         {
             "id": 17,
             "value": 1,
             "name": "tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 18,
             "value": 1,
             "name": "control",
-            "group": 6
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 19,
             "value": 2,
             "name": "vascular-targeting agents|vascular-disrupting agents",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 20,
             "value": 2,
             "name": "VTA|VDAs",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 21,
             "value": 2,
             "name": "VTAs|VTAs",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 22,
             "value": 1,
             "name": "antiangiogenic agents",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 23,
             "value": 1,
             "name": "angiogenic",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 24,
             "value": 1,
             "name": "angiogenic",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 25,
             "value": 1,
             "name": "tumor masses",
-            "group": 2
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 26,
             "value": 1,
             "name": "tumor periphery",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 27,
             "value": 1,
             "name": "VEGF receptor",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 28,
             "value": 2,
             "name": "VDAs|VDAs",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 29,
             "value": 1,
             "name": "target",
-            "group": 6
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 30,
             "value": 1,
             "name": "destroy",
-            "group": 14
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 31,
             "value": 1,
             "name": "established",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 32,
             "value": 1,
             "name": "tumor vessels",
-            "group": 3
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 33,
             "value": 1,
             "name": "destruction",
-            "group": 5
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 34,
             "value": 1,
             "name": "masses",
-            "group": 2
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 35,
             "value": 1,
             "name": "necrosis",
-            "group": 9
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 36,
             "value": 1,
             "name": "survival",
-            "group": 9
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 37,
             "value": 1,
             "name": "peripheral tumor layer",
-            "group": 2
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 38,
             "value": 1,
             "name": "small-molecule VDAs",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 39,
             "value": 1,
             "name": "flavonoids",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 40,
             "value": 1,
             "name": "5,6-dimethylxanthenone-4-acetic acid",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 41,
             "value": 1,
             "name": "DMXAA",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 42,
             "value": 1,
             "name": "microtubule-destabilizing agents",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 43,
             "value": 1,
             "name": "antitubulin agents",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 44,
             "value": 1,
             "name": "combretastatin A4-phosphate derivative",
+            "trigger": 0,
             "group": 10
         }
     ],

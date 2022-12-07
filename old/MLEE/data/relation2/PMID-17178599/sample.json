@@ -1,0 +1,268 @@
+{
+    "nodes": [
+        {
+            "id": "T21",
+            "name": "Role",
+            "group": 11,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "fibrinolytic",
+            "group": 6,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "matrix metalloproteinase",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T2",
+            "name": "systems",
+            "group": 6,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "development",
+            "group": 2,
+            "type": "Development",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T4",
+            "name": "adipose tissue",
+            "group": 7,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "cancer",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "modifications",
+            "group": 1,
+            "type": "Remodeling",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T7",
+            "name": "adipose tissue",
+            "group": 7,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "angiogenesis",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "extracellular matrix",
+            "group": 0,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "proteolysis",
+            "group": 9,
+            "type": "Breakdown",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T11",
+            "name": "fibrinolytic",
+            "group": 6,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "plasminogen",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "plasmin",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "matrix metalloproteinase",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T16",
+            "name": "MMP",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "systems",
+            "group": 6,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "transgenic",
+            "group": 3,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "mice",
+            "group": 10,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "fibrinolytic",
+            "group": 6,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "MMP",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "systems",
+            "group": 6,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T9",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T20",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T21",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T21",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Participant"
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Participant"
+        },
+        {
+            "source": "T11",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Participant2"
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Participant"
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Participant"
+        },
+        {
+            "source": "T21",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T21",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T22",
+            "target": "T1000",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

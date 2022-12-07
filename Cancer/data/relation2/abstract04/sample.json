@@ -3,7 +3,7 @@
         {
             "id": "T2",
             "name": "ATM",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -19,7 +19,7 @@
         {
             "id": "T3",
             "name": "associated",
-            "group": 1,
+            "group": 2,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T4",
             "name": "breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 20
@@ -43,7 +43,7 @@
         {
             "id": "T5",
             "name": "CHEK2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -51,7 +51,7 @@
         {
             "id": "T9",
             "name": "checkpoint kinase 2 checkpoint homologue",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -59,7 +59,7 @@
         {
             "id": "T7",
             "name": "missense",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23

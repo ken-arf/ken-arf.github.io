@@ -4,307 +4,358 @@
             "id": 0,
             "value": 1,
             "name": "Pericytes",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 1,
             "value": 1,
             "name": "limit",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 2,
             "value": 3,
             "name": "tumor cell|tumor cell|tumor cell",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 3,
             "value": 3,
             "name": "metastasis|metastasis|metastasis",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 4,
             "value": 1,
             "name": "neural cell adhesion molecule",
-            "group": 15
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 5,
             "value": 1,
             "name": "NCAM",
-            "group": 15
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 6,
             "value": 1,
             "name": "deficiency",
-            "group": 16
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 7,
             "value": 2,
             "name": "beta tumor cells|beta tumor cell",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 8,
             "value": 1,
             "name": "facilitates",
+            "trigger": 1,
             "group": 13
         },
         {
             "id": 9,
             "value": 1,
             "name": "metastasis",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 10,
             "value": 2,
             "name": "organs|organs",
-            "group": 1
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 11,
             "value": 2,
             "name": "lymph nodes|lymph nodes",
-            "group": 4
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 12,
             "value": 1,
             "name": "NCAM-deficient beta cell tumors",
-            "group": 3
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 13,
             "value": 2,
             "name": "NCAM|NCAM",
-            "group": 15
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 14,
             "value": 1,
             "name": "grew",
-            "group": 12
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 15,
             "value": 1,
             "name": "blood vessels",
-            "group": 4
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 16,
             "value": 1,
             "name": "pericyte",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 17,
             "value": 2,
             "name": "endothelial|endothelial",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 18,
             "value": 2,
             "name": "cell-cell interactions|cell-cell interactions",
-            "group": 7
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 19,
             "value": 2,
             "name": "perivascular|perivascular",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 20,
             "value": 2,
             "name": "deposition|deposition",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 21,
             "value": 2,
             "name": "ECM components|ECM molecules",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 22,
             "value": 1,
             "name": "tumor cell",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 23,
             "value": 1,
             "name": "expression",
-            "group": 16
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 24,
             "value": 1,
             "name": "fibrosarcoma model",
-            "group": 3
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 25,
             "value": 1,
             "name": "T241",
-            "group": 3
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 26,
             "value": 1,
             "name": "improved",
+            "trigger": 1,
             "group": 13
         },
         {
             "id": 27,
             "value": 1,
             "name": "pericyte",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 28,
             "value": 1,
             "name": "recruitment",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 29,
             "value": 1,
             "name": "increased",
+            "trigger": 1,
             "group": 13
         },
         {
             "id": 30,
             "value": 1,
             "name": "NCAM",
-            "group": 15
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 31,
             "value": 1,
             "name": "limit",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 32,
             "value": 1,
             "name": "stabilizing",
+            "trigger": 1,
             "group": 13
         },
         {
             "id": 33,
             "value": 1,
             "name": "microvessel wall",
-            "group": 0
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 34,
             "value": 2,
             "name": "pericyte|pericytes",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 35,
             "value": 1,
             "name": "dysfunction",
-            "group": 8
+            "trigger": 1,
+            "group": 16
         },
         {
             "id": 36,
             "value": 1,
             "name": "increases",
+            "trigger": 1,
             "group": 13
         },
         {
             "id": 37,
             "value": 1,
             "name": "metastatic",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 38,
             "value": 1,
             "name": "solid tumors",
-            "group": 3
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 39,
             "value": 1,
             "name": "beta cell",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 40,
             "value": 1,
             "name": "pericyte",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 41,
             "value": 1,
             "name": "Pdgfb(ret/ret) mice",
-            "group": 9
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 42,
             "value": 1,
             "name": "Pdgfb",
-            "group": 15
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 43,
             "value": 1,
             "name": "metastases",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 44,
             "value": 1,
             "name": "role",
-            "group": 6
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 45,
             "value": 1,
             "name": "limiting",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 46,
             "value": 1,
             "name": "tumor cells",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 47,
             "value": 1,
             "name": "trigger",
+            "trigger": 1,
             "group": 13
         },
         {
             "id": 48,
             "value": 1,
             "name": "metastasis",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 49,
             "value": 1,
             "name": "perturbing",
-            "group": 6
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 50,
             "value": 1,
             "name": "pericyte",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         }
     ],
     "links": [

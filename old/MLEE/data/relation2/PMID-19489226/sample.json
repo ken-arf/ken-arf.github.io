@@ -1,0 +1,968 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Activation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "sterol regulatory element binding protein",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T26",
+            "name": "involvement",
+            "group": 8,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "endothelial cell",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "migration",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "activation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "sterol regulatory element binding protein",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T9",
+            "name": "SREBP",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T36",
+            "name": "critical role",
+            "group": 8,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "endothelial cell",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "migration",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "Bovine",
+            "group": 7,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "aortic endothelial cells",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T16",
+            "name": "ECs",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "cultured",
+            "group": 4,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "expression",
+            "group": 2,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "SREBP",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T20",
+            "name": "Cdc42",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T23",
+            "name": "ECs",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "migration",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "SREBP",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T24",
+            "name": "activated",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "ECs",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "migration",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "increased",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "SREBP",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T40",
+            "name": "migrating",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "non-migrating",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T32",
+            "name": "ECs",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "SREBP",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T34",
+            "name": "activation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "decreased",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "ECs",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "migration",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "slowed",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "SREBP",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T41",
+            "name": "activation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "mRNA expression",
+            "group": 9,
+            "type": "Transcription",
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T46",
+            "name": "low density lipoprotein receptor",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T47",
+            "name": "HMG-CoA reductase",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T48",
+            "name": "fatty acid synthase",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T43",
+            "name": "increased",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "migrating",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "ECs",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "Migration",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T54",
+            "name": "SREBP",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T53",
+            "name": "activation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "ECs",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "inhibited",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "SREBP-acting protein",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T57",
+            "name": "25-hydroxycholesterol",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T58",
+            "name": "Inhibition",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "SREBP",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T80",
+            "name": "led",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T79",
+            "name": "decreased",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "ECs",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "migration",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T90",
+            "name": "Cells",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T86",
+            "name": "deficient",
+            "group": 2,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "SREBP-acting protein",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T65",
+            "name": "S1P",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T66",
+            "name": "S2P",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T70",
+            "name": "SREBP",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T69",
+            "name": "inhibition",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "ECs",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T72",
+            "name": "suppressed",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T73",
+            "name": "Cdc42",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T76",
+            "name": "ECs",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "motility",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T78",
+            "name": "SREBP",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T77",
+            "name": "activated",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "plays a critical role",
+            "group": 8,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T83",
+            "name": "ECs",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T82",
+            "name": "migration",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T84",
+            "name": "Targeting",
+            "group": 4,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T85",
+            "name": "SREBP",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T89",
+            "name": "ECs",
+            "group": 10,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T88",
+            "name": "migration",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T17",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T17",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T22",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T28",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T30",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T38",
+            "target": "T39",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T45",
+            "target": "T46",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T54",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T58",
+            "target": "T59",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T62",
+            "target": "T63",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T69",
+            "target": "T70",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T72",
+            "target": "T73",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T72",
+            "target": "T69",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T77",
+            "target": "T78",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T82",
+            "target": "T83",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T84",
+            "target": "T85",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T88",
+            "target": "T89",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T26",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T26",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T36",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T36",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T40",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T49",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T56",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T45",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T45",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T43",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T43",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T43",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T44",
+            "target": "T60",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T44",
+            "target": "T53",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T60",
+            "target": "T55",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T68",
+            "target": "T60",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T68",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T68",
+            "target": "T60",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T68",
+            "target": "T57",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T79",
+            "target": "T62",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T80",
+            "target": "T58",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T80",
+            "target": "T79",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T86",
+            "target": "T64",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T86",
+            "target": "T65",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T86",
+            "target": "T66",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T67",
+            "target": "T78",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T67",
+            "target": "T82",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T10",
+            "target": "T76",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

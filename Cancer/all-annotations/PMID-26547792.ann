@@ -1,0 +1,164 @@
+T1	Association 35 49	susceptibility
+E1	Association:T1 bc:T2 snp_int:T4
+T2	Cancer 53 66	breast cancer
+T3	Entity 72 79	Chinese
+T4	SNP 0 13	Polymorphisms
+R1	Population_assignment Arg1:T4 Arg2:T3	
+T5	Entity 17 30	lncRNA HOTAIR
+R2	SNP_location Arg1:T4 Arg2:T5	
+A1	SNP_Type T4 Non-Coding
+T6	Association 132 143	association
+E2	Association:T6 snp_int:T8 bc:T12
+T7	Spec 93 106	Controversial
+R3	Speculation_marker Arg1:E2 Arg2:T7	
+T8	SNP 209 217	rs920778
+T9	Entity 217 220	C>T
+R4	Nucleotide_substitution Arg1:T8 Arg2:T9	
+T10	Entity 225 253	Hox transcript antisense RNA
+T11	Entity 255 261	HOTAIR
+R5	Equiv Arg1:T11 Arg2:T10	
+R6	SNP_location Arg1:T8 Arg2:T10	
+T12	Cancer 152 158	cancer
+R7	Equiv Arg1:T2 Arg2:T12	
+T13	Association 279 290	association
+E3	Association:T13 snp_int:T16 bc:T17
+T14	Spec 264 271	No data
+R8	Speculation_marker Arg1:E3 Arg2:T14	
+T15	Entity 299 305	HOTAIR
+T16	SNP 209 217	rs920778
+R9	SNP_location Arg1:T16 Arg2:T15	
+T17	Cancer 323 336	breast cancer
+T18	Cancer 338 340	BC
+R10	Equiv Arg1:T18 Arg2:T17	
+T19	Entity 361 381	reproductive factors
+T20	Entity 404 409	China
+R11	Risk_Factor Arg1:T16 Arg2:T19	
+R12	Population_assignment Arg1:T16 Arg2:T20	
+T21	Spec 428 440	investigated
+T22	Association 445 456	association
+E4	Association:T22 snp_int:T24 bc:T25
+R13	Speculation_marker Arg1:E4 Arg2:T21	
+T23	Entity 465 471	HOTAIR
+T24	SNP 472 485	polymorphisms
+R14	SNP_location Arg1:T24 Arg2:T23	
+T25	Cancer 490 492	BC
+T26	Entity 590 595	China
+R15	Population_assignment Arg1:T24 Arg2:T26	
+T27	SNP 627 636	rs1899663
+T28	SNP 638 647	rs4759314
+T29	SNP 649 657	rs920778
+A2	SNP_Class T27 tSNP
+A3	SNP_Class T28 tSNP
+A4	SNP_Class T29 Index_lead_SNP
+T30	Entity 662 668	HOTAIR
+R16	SNP_location Arg1:T29 Arg2:T30	
+R17	SNP_location Arg1:T28 Arg2:T30	
+R18	SNP_location Arg1:T27 Arg2:T30	
+A5	SNP_Type T16 Non-Coding
+A6	SNP_Type T8 Non-Coding
+A7	SNP_Type T24 Non-Coding
+A8	SNP_Type T27 Non-Coding
+A9	SNP_Type T28 Non-Coding
+A10	SNP_Type T29 Non-Coding
+T31	SNP 941 945	SNPs
+T32	Entity 950 970	reproductive factors
+T33	Spec 984 993	evaluated
+R19	Speculation_marker Arg1:T32 Arg2:T33	
+R20	Risk_Factor Arg1:T31 Arg2:T32	
+R21	Member Arg1:T31 Arg2:T27	
+R22	Member Arg1:T31 Arg2:T28	
+R23	Member Arg1:T31 Arg2:T29	
+T34	Entity 1320 1321	T
+T35	SNP 1321 1329	rs920778
+R24	SNP_allele Arg1:T35 Arg2:T34	
+T36	Level 1336 1349	significantly
+T37	Effect_Type 1350 1359	increased
+T38	Association 1360 1364	risk
+E5	Association:T38 snp_int:T35 bc:T39
+A11	Effect_Type E5 Increase
+A12	Level E5 High
+R25	Effect_type_marker Arg1:E5 Arg2:T37	
+R26	Level_marker Arg1:E5 Arg2:T36	
+T39	Cancer 1368 1381	breast cancer
+T40	SNP 1459 1467	rs920778
+T41	Entity 1472 1492	reproductive factors
+R27	Risk_Factor Arg1:T40 Arg2:T41	
+T42	Entity 1504 1520	age at menopause
+R28	Member Arg1:T41 Arg2:T42	
+T43	Entity 1522 1541	number of abortions
+R29	Member Arg1:T41 Arg2:T43	
+T44	Entity 1547 1561	family history
+R30	Member Arg1:T41 Arg2:T44	
+T45	Association 1360 1364	risk
+E6	Association:T45 bc:T39 snp_int:T40
+T46	Level 1427 1438	significant
+R31	Level_marker Arg1:E6 Arg2:T46	
+A13	Level E6 High
+T47	SNP 1673 1681	rs920778
+A14	SNP_Type T47 Non-Coding
+A15	SNP_Type T40 Non-Coding
+A16	SNP_Type T35 Non-Coding
+T48	Entity 1685 1691	HOTAIR
+R32	SNP_location Arg1:T47 Arg2:T48	
+R33	Population_assignment Arg1:T31 Arg2:T26	
+T49	Entity 1306 1314	Subjects
+R34	Population_assignment Arg1:T35 Arg2:T49	
+R35	Equiv Arg1:T49 Arg2:T26	
+R36	Population_assignment Arg1:T40 Arg2:T49	
+A17	SNP_Class T35 tSNP
+A18	SNP_Class T40 tSNP
+A19	SNP_Class T47 tSNP
+R37	Population_assignment Arg1:T47 Arg2:T49	
+T50	Level 1692 1705	significantly
+T51	Effect_Type 1706 1715	increased
+T52	Association 1720 1724	risk
+E7	Association:T52 snp_int:T47 bc:T53
+A20	Effect_Type E7 Increase
+A21	Level E7 High
+R38	Effect_type_marker Arg1:E7 Arg2:T51	
+R39	Level_marker Arg1:E7 Arg2:T50	
+T53	Cancer 1728 1730	BC
+T54	Spec 1739 1742	may
+T55	Entity 1774 1794	reproductive factors
+R40	Speculation_marker Arg1:T55 Arg2:T54	
+T56	Association 1802 1813	progression
+E8	Association:T56 bc:T57 snp_int:T58
+T57	Cancer 1817 1819	BC
+T58	SNP 1673 1681	rs920778
+R41	Risk_Factor Arg1:T58 Arg2:T55	
+R42	SNP_location Arg1:T58 Arg2:T48	
+A22	SNP_Type T58 Non-Coding
+A23	SNP_Class T58 tSNP
+R43	Population_assignment Arg1:T58 Arg2:T49	
+T59	Association 1865 1876	association
+E9	Association:T59 snp_int:T61 bc:T62
+T60	Entity 1885 1891	HOTAIR
+T61	SNP 1892 1905	polymorphisms
+R44	SNP_location Arg1:T61 Arg2:T60	
+T62	Cancer 1910 1912	BC
+T63	Cancer 1052 1054	BC
+T64	Association 1055 1059	risk
+E10	Association:T64 bc:T63 snp_int:T68 snp_int2:T72
+A24	Effect_Type E10 Decrease
+T65	Effect_Type 1060 1069	reduction
+R45	Effect_type_marker Arg1:E10 Arg2:T65	
+T66	Entity 1099 1118	age at menarche >14
+T67	Entity 1153 1177	number of pregnancies >2
+T68	SNP 1218 1227	rs1899663
+R46	Risk_Factor Arg1:T68 Arg2:T67	
+R47	Risk_Factor Arg1:T68 Arg2:T66	
+T69	Entity 1212 1214	GT
+T70	Entity 1215 1217	TT
+R48	Genotype Arg1:T68 Arg2:T70	
+R49	Genotype Arg1:T68 Arg2:T69	
+T71	Entity 1233 1254	age at menopause ≤ 50
+T72	SNP 1295 1304	rs4759314
+T73	Entity 1289 1291	AG
+T74	Entity 1292 1294	GG
+R50	Genotype Arg1:T72 Arg2:T74	
+R51	Genotype Arg1:T72 Arg2:T73	
+R52	Risk_Factor Arg1:T72 Arg2:T71	
+A25	SNP_Type T68 Non-Coding
+A26	SNP_Class T68 tSNP
+A27	SNP_Type T72 Non-Coding
+A28	SNP_Class T72 tSNP

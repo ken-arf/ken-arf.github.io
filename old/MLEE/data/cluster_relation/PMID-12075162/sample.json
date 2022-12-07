@@ -1,0 +1,99 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "breast|breast",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "breast lesions",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "infiltrating",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "carcinomas",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "neoangiogenesis",
+            "group": 2
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "Invasive",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "carcinomas",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "differentiated",
+            "group": 3
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "tumors",
+            "group": 1
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "lesions",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "carcinomas",
+            "group": 1
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "scar",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "breast lesions",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 2
+        }
+    ]
+}

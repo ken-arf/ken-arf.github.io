@@ -4,127 +4,148 @@
             "id": 0,
             "value": 4,
             "name": "integrin alpha5beta1|Integrin alpha5beta1|integrin alpha5beta1|integrin alpha5beta1",
-            "group": 10
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 1,
             "value": 4,
             "name": "A5-1|A5-1|A5-1|A5-1",
-            "group": 10
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 2,
             "value": 1,
             "name": "angiogenesis",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 3,
             "value": 2,
             "name": "Fibronectin|fibronectin",
-            "group": 10
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 4,
             "value": 2,
             "name": "interaction|interaction",
-            "group": 4
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 5,
             "value": 1,
             "name": "VILVLF",
-            "group": 10
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "inhibits",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 7,
             "value": 1,
             "name": "integrin",
-            "group": 10
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 8,
             "value": 1,
             "name": "inhibits",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 9,
             "value": 1,
             "name": "human umbilical vein endothelial cell",
+            "trigger": 0,
             "group": 6
         },
         {
             "id": 10,
             "value": 1,
             "name": "proliferation",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 11,
             "value": 1,
             "name": "migration",
-            "group": 1
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 12,
             "value": 1,
             "name": "adhesion",
-            "group": 4
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 13,
             "value": 1,
             "name": "tubular network",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 14,
             "value": 1,
             "name": "formation",
-            "group": 7
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 15,
             "value": 1,
             "name": "bFGF",
-            "group": 10
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 16,
             "value": 1,
             "name": "induced",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 17,
             "value": 1,
             "name": "neovascularization",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 18,
             "value": 1,
             "name": "chick",
-            "group": 5
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 19,
             "value": 1,
             "name": "chorioallantoic membrane",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 20,
             "value": 1,
             "name": "neovascularization",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         }
     ],
     "links": [

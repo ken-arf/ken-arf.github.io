@@ -1,0 +1,273 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Five variants",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "rs78378222",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "TP53",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "rs10069690",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "TERT",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "rs1800057|rs1801516",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "ATM",
+            "group": 4
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "rs7907606",
+            "group": 1
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "OBFC1",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "four signals",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "established risk",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "endometriosis",
+            "group": 0
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 2
+        },
+        {
+            "id": 13,
+            "value": 4,
+            "name": "1q36.12|2p25.1|20p12.3|6q26.2",
+            "group": 4
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "CDC42",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "WNT4",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "GREB1",
+            "group": 4
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "MCM8",
+            "group": 4
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "SYNE1",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 2,
+            "name": "ESR1|ESR1",
+            "group": 4
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "non-coding risk variants",
+            "group": 1
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "affect",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 10,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 9,
+            "value": 1
+        }
+    ]
+}

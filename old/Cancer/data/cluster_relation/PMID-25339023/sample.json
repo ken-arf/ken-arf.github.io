@@ -1,0 +1,514 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Evaluation",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "genetic variations|genetic variation",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "miRNA-binding sites",
+            "group": 5
+        },
+        {
+            "id": 3,
+            "value": 9,
+            "name": "BRCA1|BRCA2|BRCA1|BRCA2|BRCA1|BRCA2|BRCA1|BRCA1|BRCA1",
+            "group": 5
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "risk factors",
+            "group": 6
+        },
+        {
+            "id": 5,
+            "value": 3,
+            "name": "early-onset breast cancer|early-onset breast cancer|early-onset breast cancer",
+            "group": 2
+        },
+        {
+            "id": 6,
+            "value": 3,
+            "name": "familial breast cancer|familial breast cancer|familial breast cancer",
+            "group": 2
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "3' untranslated region",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 3,
+            "name": "3'UTR|3'UTR|3'UTR",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "disrupting",
+            "group": 7
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "microRNA",
+            "group": 5
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "miRNA",
+            "group": 5
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "miRNA binding",
+            "group": 1
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "can be",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "functional",
+            "group": 3
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "can act",
+            "group": 4
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "genetic markers",
+            "group": 3
+        },
+        {
+            "id": 18,
+            "value": 2,
+            "name": "cancer|cancer development",
+            "group": 5
+        },
+        {
+            "id": 19,
+            "value": 2,
+            "name": "determine|determine",
+            "group": 4
+        },
+        {
+            "id": 20,
+            "value": 2,
+            "name": "with mutations in the coding regions|without mutations in the coding regions",
+            "group": 5
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "variants",
+            "group": 0
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "may be",
+            "group": 4
+        },
+        {
+            "id": 23,
+            "value": 3,
+            "name": "c.*1287C>T|c.*1287C>T|c.*1287C>T",
+            "group": 0
+        },
+        {
+            "id": 24,
+            "value": 3,
+            "name": "1287|1287|128",
+            "group": 5
+        },
+        {
+            "id": 25,
+            "value": 3,
+            "name": "C>T|C>T|C>T",
+            "group": 5
+        },
+        {
+            "id": 26,
+            "value": 3,
+            "name": "rs12516|rs12516|rs12516",
+            "group": 0
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "105",
+            "group": 5
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "A>C",
+            "group": 5
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "rs15869",
+            "group": 0
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "BRCA1 mutations",
+            "group": 5
+        },
+        {
+            "id": 31,
+            "value": 2,
+            "name": "increased|increased",
+            "group": 7
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "risk",
+            "group": 6
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 2
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "likely",
+            "group": 4
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "function",
+            "group": 3
+        },
+        {
+            "id": 36,
+            "value": 1,
+            "name": "risk",
+            "group": 6
+        },
+        {
+            "id": 37,
+            "value": 1,
+            "name": "Turkish population",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 4,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 36,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 36,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 36,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 27,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 30,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 32,
+            "target": 31,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 35,
+            "target": 34,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 37,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 37,
+            "value": 1
+        },
+        {
+            "source": 36,
+            "target": 31,
+            "value": 1
+        }
+    ]
+}

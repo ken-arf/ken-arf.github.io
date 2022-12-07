@@ -1,0 +1,528 @@
+{
+    "nodes": [
+        {
+            "id": "T8",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "2q35",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T10",
+            "name": "276 SNPs",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T5",
+            "name": "strongly",
+            "group": 6,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "correlated",
+            "group": 8,
+            "type": "Interaction",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "rs4442975",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T3",
+            "name": "G/T",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T2",
+            "name": "rs6721996",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T4",
+            "name": "G/A",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T11",
+            "name": "causal",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "best functional",
+            "group": 6,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "rs4442975",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T35",
+            "name": "rs4442975",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T13",
+            "name": "associated",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "associated",
+            "group": 4,
+            "type": "Organic_inorganic_molecules_affected",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "oestrogen receptor positive disease",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T17",
+            "name": "oestrogen receptor",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T18",
+            "name": "positive",
+            "group": 3,
+            "type": "Effect_Type",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "ER",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "Europeans",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T21",
+            "name": "t-allel",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T22",
+            "name": "This SNP",
+            "group": 5,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "flanks a transcriptional enhancer",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T32",
+            "name": "interacts",
+            "group": 7,
+            "type": "Gene_Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "promoter of IGFBP5",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T24",
+            "name": "IGFBP5",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T27",
+            "name": "IGFBP5",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T25",
+            "name": "insulin-like growth factor-binding protein 5",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T26",
+            "name": "allele-specific gene expression",
+            "group": 7,
+            "type": "Gene_Regulation",
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T29",
+            "name": "FOXA1",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T28",
+            "name": "binding",
+            "group": 7,
+            "type": "Gene_Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "chromatin",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "looping",
+            "group": 4,
+            "type": "Organic_inorganic_molecules_affected",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "g-allele",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T37",
+            "name": "increased",
+            "group": 3,
+            "type": "Effect_Type",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "susceptibility",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "downregulation",
+            "group": 7,
+            "type": "Gene_Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T40",
+            "name": "IGFBP5",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        }
+    ],
+    "links": [
+        {
+            "source": "T6",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Entity"
+        },
+        {
+            "source": "T6",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Entity2"
+        },
+        {
+            "source": "T11",
+            "target": "T6",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T11",
+            "target": "T8",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T13",
+            "target": "T7",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T13",
+            "target": "T15",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T19",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T19",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T26",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T28",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T28",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T30",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T30",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T32",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T32",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T36",
+            "target": "T38",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T36",
+            "target": "T35",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T39",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 1,
+            "link_name": "Nucleotide_substitution"
+        },
+        {
+            "source": "T2",
+            "target": "T4",
+            "value": 1,
+            "link_name": "Nucleotide_substitution"
+        },
+        {
+            "source": "T6",
+            "target": "T5",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T1",
+            "target": "T9",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T2",
+            "target": "T9",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T13",
+            "target": "T12",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T19",
+            "target": "T18",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T7",
+            "target": "T20",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T7",
+            "target": "T21",
+            "value": 1,
+            "link_name": "SNP_allele"
+        },
+        {
+            "source": "T22",
+            "target": "T7",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T22",
+            "target": "T23",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T35",
+            "target": "T34",
+            "value": 1,
+            "link_name": "SNP_allele"
+        },
+        {
+            "source": "T36",
+            "target": "T37",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        }
+    ]
+}

@@ -4,337 +4,393 @@
             "id": 0,
             "value": 1,
             "name": "Enhanced",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 1,
             "value": 1,
             "name": "expression",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 2,
             "value": 2,
             "name": "vascular endothelial growth factor|Vascular endothelial growth factor",
-            "group": 14
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 3,
             "value": 3,
             "name": "periodontal|periodontal|periodontal",
-            "group": 7
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 4,
             "value": 1,
             "name": "gingival fibroblasts",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 5,
             "value": 1,
             "name": "VEGF",
-            "group": 14
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 6,
             "value": 1,
             "name": "inducer",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 7,
             "value": 1,
             "name": "vascular",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 8,
             "value": 1,
             "name": "angiogenesis",
-            "group": 2
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 9,
             "value": 1,
             "name": "Aberrant",
-            "group": 4
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 10,
             "value": 1,
             "name": "angiogenesis",
-            "group": 2
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 11,
             "value": 1,
             "name": "associated",
-            "group": 4
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 12,
             "value": 1,
             "name": "lesion",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 13,
             "value": 1,
             "name": "formation",
+            "trigger": 1,
             "group": 11
         },
         {
             "id": 14,
             "value": 8,
             "name": "VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF",
-            "group": 14
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 15,
             "value": 1,
             "name": "expression",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 16,
             "value": 1,
             "name": "human",
-            "group": 8
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 17,
             "value": 1,
             "name": "gingival fibroblasts",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 18,
             "value": 1,
             "name": "HGF",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 19,
             "value": 2,
             "name": "HGF|HGF",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 20,
             "value": 1,
             "name": "stimulated",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 21,
             "value": 1,
             "name": "lipopolysaccharide",
-            "group": 9
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 22,
             "value": 1,
             "name": "LPS",
-            "group": 9
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 23,
             "value": 1,
             "name": "vesicle",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 24,
             "value": 1,
             "name": "Ve",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 25,
             "value": 1,
             "name": "outer membrane protein",
-            "group": 14
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 26,
             "value": 1,
             "name": "OMP",
-            "group": 14
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 27,
             "value": 2,
             "name": "Actinobacillus actinomycetemcomitans|A. actinomycetemcomitans",
-            "group": 8
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 28,
             "value": 1,
             "name": "Porphyromonas gingivalis",
-            "group": 8
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 29,
             "value": 1,
             "name": "produced",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 30,
             "value": 1,
             "name": "enhanced",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 31,
             "value": 1,
             "name": "stimulation",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 32,
             "value": 2,
             "name": "Ve|Ve",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 33,
             "value": 6,
             "name": "OMP|OMP|OMP|OMP|OMP|OMP",
-            "group": 14
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 34,
             "value": 1,
             "name": "P. gingivalis",
-            "group": 8
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 35,
             "value": 1,
             "name": "increased",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 36,
             "value": 1,
             "name": "LPS",
-            "group": 9
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 37,
             "value": 1,
             "name": "expression",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 38,
             "value": 3,
             "name": "Ve|Ve|Ve",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 39,
             "value": 3,
             "name": "stimulated|stimulated|stimulated",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 40,
             "value": 3,
             "name": "HGF|HGF|HGF",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 41,
             "value": 1,
             "name": "vascular",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 42,
             "value": 1,
             "name": "enhancement",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 43,
             "value": 1,
             "name": "guinea pigs",
-            "group": 8
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 44,
             "value": 1,
             "name": "enhance",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 45,
             "value": 1,
             "name": "vascular",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 46,
             "value": 1,
             "name": "injection",
-            "group": 6
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 47,
             "value": 1,
             "name": "anti-VEGF polyclonal antibodies",
-            "group": 14
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 48,
             "value": 1,
             "name": "reduced",
-            "group": 13
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 49,
             "value": 1,
             "name": "enhancing",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 50,
             "value": 1,
             "name": "Ve",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 51,
             "value": 1,
             "name": "enhance",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 52,
             "value": 1,
             "name": "expression",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 53,
             "value": 1,
             "name": "neovascularization",
-            "group": 2
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 54,
             "value": 1,
             "name": "stimulated",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 55,
             "value": 1,
             "name": "edema",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         }
     ],
     "links": [

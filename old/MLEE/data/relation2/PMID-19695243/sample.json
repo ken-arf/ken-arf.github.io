@@ -1,0 +1,926 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "5-fluorouracil",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T2",
+            "name": "oxaliplatin",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T3",
+            "name": "irinotecan",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T35",
+            "name": "colorectal cancer",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "enhances",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "endothelial",
+            "group": 7,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "activity",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "angiogenic",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T73",
+            "name": "tumor",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T72",
+            "name": "activities",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "irinotecan",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T8",
+            "name": "CPT-11",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T9",
+            "name": "oxaliplatin",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T10",
+            "name": "L-OHP",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T11",
+            "name": "5-fluorouracil",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T12",
+            "name": "5-FU",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T50",
+            "name": "colorectal cancer",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "cell",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "proliferation",
+            "group": 12,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "vascular endothelial growth factor",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T15",
+            "name": "VEGF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "secretion",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "endothelial (HMVEC-d)",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T17",
+            "name": "colorectal cancer (HT-29) cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 14
+        },
+        {
+            "id": "T5",
+            "name": "exposed",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "SN-38",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T19",
+            "name": "CPT-11",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T20",
+            "name": "L-OHP",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T21",
+            "name": "5-FU",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T22",
+            "name": "HT-29",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 10,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "colorectal cancer xenograft model",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T24",
+            "name": "tumour",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "growth",
+            "group": 9,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "microvessel",
+            "group": 7,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "VEGF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "tumours",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "CPT-11",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T30",
+            "name": "L-OHP",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T31",
+            "name": "5-FU",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T32",
+            "name": "SN-38",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T33",
+            "name": "5-FU",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T34",
+            "name": "L-OHP",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T64",
+            "name": "inhibited",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "endothelial cell",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "proliferation",
+            "group": 12,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "exposure",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "HT-29",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T40",
+            "name": "HMVEC-d cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T41",
+            "name": "SN-38",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T42",
+            "name": "L-OHP",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T43",
+            "name": "5-FU",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T63",
+            "name": "increase",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "VEGF",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "secretion",
+            "group": 3,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "HT-29 cancer cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T47",
+            "name": "CPT-11",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T48",
+            "name": "5-FU",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T49",
+            "name": "L-OHP",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T66",
+            "name": "inhibits",
+            "group": 1,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "HT-29 tumor",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T52",
+            "name": "tumor growth",
+            "group": 9,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "microvessel",
+            "group": 7,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "5-FU",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T57",
+            "name": "L-OHP",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T58",
+            "name": "CPT-11",
+            "group": 2,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T67",
+            "name": "therapy",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T68",
+            "name": "affect",
+            "group": 11,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "microvascular",
+            "group": 7,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "colorectal cancer",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T37",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T44",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T52",
+            "target": "T53",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T5",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T5",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T5",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T5",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T5",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T5",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T5",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T5",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T5",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T5",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T5",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T5",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T5",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T5",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T5",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T5",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T64",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T64",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T64",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T64",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T64",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T64",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T65",
+            "target": "T41",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T65",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T65",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T65",
+            "target": "T39",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T65",
+            "target": "T41",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T65",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T65",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T65",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T49",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T66",
+            "target": "T55",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T49",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T66",
+            "target": "T55",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T66",
+            "target": "T55",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T66",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T66",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T67",
+            "target": "T58",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T67",
+            "target": "T57",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T67",
+            "target": "T56",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T68",
+            "target": "T67",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T68",
+            "target": "T59",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T60",
+            "target": "T51",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T69",
+            "target": "T60",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T71",
+            "target": "T70",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T72",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T72",
+            "target": "T73",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 1,
+            "link_name": "frag"
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 1,
+            "link_name": "frag"
+        }
+    ]
+}

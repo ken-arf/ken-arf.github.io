@@ -1,0 +1,466 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "AngiomiRs",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T2",
+            "name": "angiogenesis",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "formation",
+            "group": 3,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "blood vessels",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "angiogenesis",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "critical",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "vascular",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T8",
+            "name": "development",
+            "group": 3,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "Aberrant",
+            "group": 8,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T11",
+            "name": "angiogenesis",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "leads",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "cancer",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "regulating",
+            "group": 8,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T14",
+            "name": "endothelial cell",
+            "group": 9,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "EC",
+            "group": 9,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "angiogenesis",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "Mice",
+            "group": 7,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T17",
+            "name": "EC",
+            "group": 9,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "deletion",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "Dicer",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "angiogenesis",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T22",
+            "name": "angiomiRs",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T43",
+            "name": "regulate",
+            "group": 8,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T24",
+            "name": "angiogenesis",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "miRNA-126",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T26",
+            "name": "EC",
+            "group": 9,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "regulates",
+            "group": 8,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T3",
+            "name": "vascular",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T32",
+            "name": "angiogenesis",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T33",
+            "name": "miR-378",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T34",
+            "name": "miR-296",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T35",
+            "name": "miR-17-",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T6",
+            "name": "92",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T44",
+            "name": "contribute",
+            "group": 8,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "tumor",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T37",
+            "name": "angiogenesis",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "angiomiRs",
+            "group": 6,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T40",
+            "name": "vascularization",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T8",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T29",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T29",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T23",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T30",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T30",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T7",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T36",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T36",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T38",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T38",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T41",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T43",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T43",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T44",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T44",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T44",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T44",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T44",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T44",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T37",
+            "target": "T13",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T29",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T29",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T44",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T44",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T6",
+            "target": "T35",
+            "value": 1,
+            "link_name": "frag"
+        }
+    ]
+}

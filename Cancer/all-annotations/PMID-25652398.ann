@@ -1,0 +1,87 @@
+T1	SNP 139 147	rs865686
+T2	Entity 197 203	9q31.2
+T3	Cancer 153 193	estrogen-receptor positive breast cancer
+A1	Cancer_Type T3 ER+
+R1	SNP_location Arg1:T1 Arg2:T2	
+T4	Association 115 129	susceptibility
+E1	Association:T4 snp_int:T1 bc:T3
+T5	Entity 322 339	European ancestry
+T6	Entity 414 428	Asian ancestry
+T7	SNP 485 493	rs676256
+T8	SNP 480 483	SNP
+T9	SNP 448 478	Single nucleotide polymorphism
+R2	Equiv Arg1:T8 Arg2:T9	
+T10	Level 498 511	most strongly
+T11	Association 512 522	associated
+E2	Association:T11 bc:T16 snp_int:T7
+T12	Entity 536 545	Europeans
+R3	Population_assignment Arg1:T7 Arg2:T12	
+R4	Level_marker Arg1:E2 Arg2:T10	
+A2	Level E2 High
+T13	Organic_inorganic_molecules_affected 115 129	susceptibility
+E3	Organic_inorganic_molecules_affected:T13 Agent:T1 Theme:T14
+T14	Entity 153 170	estrogen-receptor
+T15	Effect_Type 171 179	positive
+A3	Effect_Type E3 Increase
+R5	Effect_type_marker Arg1:E3 Arg2:T15	
+T16	Cancer 39 52	breast cancer
+R6	SNP_location Arg1:T7 Arg2:T2	
+T17	SNP 681 689	rs865686
+T18	Entity 696 710	spans ∼14.5 kb
+R7	SNP_location Arg1:T17 Arg2:T18	
+R8	SNP_location Arg1:T17 Arg2:T2	
+T19	Interaction 650 669	correlated variants
+E4	Interaction:T19 Entity:T17 Entity2:T7
+T20	Level 643 649	highly
+R9	Level_marker Arg1:E4 Arg2:T20	
+A4	Level E4 High
+T21	SNP 792 802	rs10816625
+T22	Interaction 741 752	independent
+E5	Interaction:T22 Entity:T26 Entity2:T21
+T23	Neg 741 752	independent
+R10	Negation_marker Arg1:E5 Arg2:T23	
+T24	SNP 923 933	rs10816625
+T25	Neg 939 942	not
+T26	SNP 943 953	rs13294895
+T27	Association 964 974	associated
+E6	Association:T27 snp_int:T26 bc:T29
+E7	Association:T27 bc:T29 snp_int:T24
+R11	Negation_marker Arg1:E6 Arg2:T25	
+T28	Entity 1005 1010	Asian
+T29	Cancer 988 1001	breast cancer
+R12	Population_assignment Arg1:E5 Arg2:T28	
+R13	Population_assignment Arg1:T26 Arg2:T28	
+R14	Population_assignment Arg1:T24 Arg2:T28	
+T30	SNP 1174 1184	these SNPs
+R15	Member Arg1:T30 Arg2:T26	
+R16	Member Arg1:T30 Arg2:T24	
+T31	Spec 1197 1205	putative
+T32	Entity 1206 1223	enhancer elements
+R17	Speculation_marker Arg1:T32 Arg2:T31	
+R18	SNP_location Arg1:T30 Arg2:T32	
+T33	Gene_Regulation 1229 1233	bind
+E8	Gene_Regulation:T33 Agent:T30 Theme:T34 Theme2:T35 Theme3:T36
+T34	Entity 1294 1298	ER-α
+T35	Entity 1300 1305	FOXA1
+T36	Entity 1310 1316	GATA-3
+T38	Association 1240 1247	drivers
+E9	Association:T38 bc:T39 snp_int:T30
+T39	Cancer 1251 1282	hormone-dependent breast cancer
+A5	Cancer_Type T39 Horm+ve_other
+T40	SNP 1350 1360	rs10816625
+T41	SNP 1365 1375	rs13294895
+T42	Entity 1381 1396	allele-specific
+T43	Spec 1336 1344	indicate
+R22	SNP_allele Arg1:T41 Arg2:T42	
+R23	SNP_allele Arg1:T40 Arg2:T42	
+T44	Gene_Regulation 1417 1425	activity
+E10	Gene_Regulation:T44 Theme:T45 Agent:T41 Agent2:T40
+T45	Entity 1408 1416	enhancer
+R24	Speculation_marker Arg1:E10 Arg2:T43	
+T46	Spec 1430 1437	suggest
+T47	Gene_Regulation 1438 1460	chromatin interactions
+E11	Gene_Regulation:T47 Theme:T48 Agent:T41 Agent2:T40
+R25	Speculation_marker Arg1:E11 Arg2:T46	
+T48	Entity 1470 1474	KLF4
+T49	Entity 1475 1479	gene
+R26	Equiv Arg1:T48 Arg2:T49	

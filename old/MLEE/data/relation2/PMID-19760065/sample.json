@@ -1,0 +1,472 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "TNF",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "Treatment",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "Cancer",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "Tumor necrosis factor-alpha",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T4",
+            "name": "TNF-alpha",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T5",
+            "name": "kill",
+            "group": 1,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "kill",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "tumor cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "TNF-alpha",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T9",
+            "name": "immune cell",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "TNF-alpha",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T40",
+            "name": "major players",
+            "group": 13,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "tumor",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "initiation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "proliferation",
+            "group": 4,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "invasion",
+            "group": 7,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "angiogenesis",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "metastasis",
+            "group": 7,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "TNF-alpha",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T20",
+            "name": "bowel",
+            "group": 3,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "TNF",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "etanercept",
+            "group": 10,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T23",
+            "name": "Enbrel",
+            "group": 10,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T11",
+            "name": "TNF",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "infliximab",
+            "group": 10,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T26",
+            "name": "Remicade",
+            "group": 10,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T27",
+            "name": "adalimumab",
+            "group": 10,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T28",
+            "name": "Humira",
+            "group": 10,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T29",
+            "name": "anti-TNF antibodies",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T37",
+            "name": "TNF",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "treatment",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "bowel",
+            "group": 3,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "TNF-alpha",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T32",
+            "name": "suppress",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T34",
+            "name": "TNF",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "expression",
+            "group": 11,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T36",
+            "name": "TNF",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "signaling",
+            "group": 12,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T13",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T14",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T32",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T8",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T8",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T39",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T39",
+            "target": "T1000",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T40",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T40",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T40",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T40",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T40",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T40",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T40",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T40",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T40",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T40",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T15",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T15",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T15",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T32",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T18",
+            "target": "T17",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T35",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Participant"
+        }
+    ]
+}

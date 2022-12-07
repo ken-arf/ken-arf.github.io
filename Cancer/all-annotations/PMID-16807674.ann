@@ -1,0 +1,169 @@
+T1	SNP 50 62	polymorphism
+T2	Association 81 85	risk
+E1	Association:T2 snp_int:T1
+T3	Spec 2 7	study
+R1	Speculation_marker Arg1:E1 Arg2:T3	
+T4	Entity 30 49	cytochrome-P450 1A1
+R2	SNP_coupled_gene Arg1:T1 Arg2:T4	
+T5	Entity 89 107	north Indian women
+R3	Population_assignment Arg1:T1 Arg2:T5	
+T6	Entity 132 138	CYP1A1
+R4	Equiv Arg1:T6 Arg2:T4	
+T8	Organic_inorganic_molecules_affected 381 390;391 416	to valine substitution at 462 codon
+E3	Organic_inorganic_molecules_affected:T8 Theme:T7 Agent:T9
+T7	Entity 370 380	isoleucine
+T9	SNP 305 308;487 489	SNP M2
+A1	SNP_Class T9 Common_variant
+T10	Entity 326 332	CYP1A1
+R5	SNP_coupled_gene Arg1:T9 Arg2:T10	
+T11	Entity 451 457	A to G
+R6	Nucleotide_substitution Arg1:T9 Arg2:T11	
+T12	Entity 472 485	position 2455
+R7	SNP_location Arg1:T9 Arg2:T12	
+T13	SNP 305 308;581 583	SNP M4
+R8	SNP_coupled_gene Arg1:T13 Arg2:T10	
+T14	Organic_inorganic_molecules_affected 502 515;516 528;532 541	to asparagine substitution codon 461
+E2	Organic_inorganic_molecules_affected:T14 Theme:T15 Agent:T13
+T15	Entity 492 501	threonine
+T16	Entity 543 549	C to A
+R9	Nucleotide_substitution Arg1:T13 Arg2:T16	
+T17	Entity 566 579	position 2453
+R10	SNP_location Arg1:T13 Arg2:T17	
+T18	Entity 586 592	T to C
+T19	Entity 607 620	3801 position
+T20	Entity 630 636	T to C
+T21	Entity 651 664	position 3205
+T22	Entity 673 693	3' non-coding region
+T23	SNP 305 308;666 668	SNP M3
+T24	SNP 305 308;622 624	SNP M1
+R11	Nucleotide_substitution Arg1:T24 Arg2:T18	
+R12	SNP_location Arg1:T24 Arg2:T19	
+R13	Nucleotide_substitution Arg1:T23 Arg2:T20	
+R14	SNP_location Arg1:T23 Arg2:T21	
+R15	SNP_location Arg1:T23 Arg2:T22	
+A2	SNP_Type T23 Non-Coding
+A3	SNP_Class T23 Common_variant
+A4	SNP_Class T13 Common_variant
+A5	SNP_Class T24 Common_variant
+T25	Level 861 872	significant
+T26	Association 873 884	association
+E4	Association:T26 snp_int:T28 bc:T29
+T27	Entity 893 899	CYP1A1
+T28	SNP 909 921	polymorphism
+T29	Cancer 926 939	breast cancer
+R16	Level_marker Arg1:E4 Arg2:T25	
+A6	Level E4 High
+R17	SNP_coupled_gene Arg1:T28 Arg2:T27	
+T30	Spec 730 742	inconsistent
+T31	Association 743 751	patterns
+E5	Association:T31 snp_int:T32 bc:T34
+R18	Speculation_marker Arg1:E5 Arg2:T30	
+T32	SNP 767 779	polymorphism
+T33	Entity 760 766	CYP1A1
+R19	SNP_coupled_gene Arg1:T32 Arg2:T33	
+T34	Cancer 784 797	breast cancer
+T35	Entity 809 828	various populations
+R20	Population_assignment Arg1:T32 Arg2:T35	
+T36	Spec 1000 1011	investigate
+T37	Association 1016 1027	association
+E6	Association:T37 bc:T44 snp_int:T38 snp_int2:T39 snp_int3:T40 snp_int4:T41
+T38	SNP 1031 1033	M1
+T39	SNP 1035 1037	M2
+T40	SNP 1039 1041	M3
+T41	SNP 1046 1048	M4
+T42	Entity 1100 1113	premenopausal
+T43	Entity 1118 1132	postmenopausal
+T44	Cancer 1144 1157	breast cancer
+T45	Entity 1166 1184	north Indian women
+R21	Risk_Factor Arg1:T38 Arg2:T42	
+R22	Risk_Factor Arg1:T38 Arg2:T43	
+R23	Risk_Factor Arg1:T39 Arg2:T42	
+R24	Risk_Factor Arg1:T39 Arg2:T43	
+R25	Risk_Factor Arg1:T40 Arg2:T42	
+R26	Risk_Factor Arg1:T40 Arg2:T43	
+R27	Risk_Factor Arg1:T41 Arg2:T42	
+R28	Risk_Factor Arg1:T41 Arg2:T43	
+R29	Speculation_marker Arg1:E6 Arg2:T36	
+R30	Population_assignment Arg1:T38 Arg2:T45	
+R31	Population_assignment Arg1:T39 Arg2:T45	
+R32	Population_assignment Arg1:T40 Arg2:T45	
+R33	Population_assignment Arg1:T41 Arg2:T45	
+R34	Equiv Arg1:T38 Arg2:T24	
+R35	Equiv Arg1:T39 Arg2:T9	
+R36	Equiv Arg1:T40 Arg2:T23	
+R37	Equiv Arg1:T41 Arg2:T13	
+R38	SNP_coupled_gene Arg1:T23 Arg2:T10	
+R39	SNP_coupled_gene Arg1:T24 Arg2:T10	
+T46	Entity 2521 2526	M2/M2
+T47	Neg 2540 2543	not
+T48	Association 2544 2549	found
+E7	Association:T48 bc:T49 snp_int:T50
+R40	Negation_marker Arg1:E7 Arg2:T47	
+T49	Cancer 2553 2566	breast cancer
+T50	SNP 1517 1519	M2
+R41	Genotype Arg1:T50 Arg2:T46	
+T51	SNP 2593 2595	M1
+T52	SNP 2600 2602	M4
+T53	Level 2615 2618;2625 2638	not significantly
+T54	Association 2639 2649	associated
+E8	Association:T54 bc:T55 snp_int:T52 snp_int2:T51
+R42	Level_marker Arg1:E8 Arg2:T53	
+A7	Level E8 Low
+T55	Cancer 2655 2668	breast cancer
+T56	Entity 2846 2860	postmenopausal
+R43	Population_assignment Arg1:T50 Arg2:T45	
+R44	Population_assignment Arg1:T51 Arg2:T45	
+R45	Population_assignment Arg1:T52 Arg2:T45	
+T57	Level 2869 2880	significant
+T59	Association 2881 2903	protective association
+E9	Association:T59 bc:T60 snp_int:T62
+T60	Cancer 2909 2922	breast cancer
+R46	Level_marker Arg1:E9 Arg2:T57	
+T61	Entity 2796 2802	CYP1A1
+T62	SNP 2803 2805	M2
+R47	SNP_coupled_gene Arg1:T62 Arg2:T61	
+R48	Risk_Factor Arg1:T62 Arg2:T56	
+A8	Level E9 High
+R49	Population_assignment Arg1:T62 Arg2:T45	
+T58	Spec 3284 3292	probably
+T63	Entity 3293 3299	CYP1A1
+T64	SNP 3301 3303	M1
+T65	SNP 3305 3307	M2
+T66	SNP 3309 3311	M3
+T67	SNP 3317 3319	M4
+T69	Level 3345 3348;3356 3367	not significant
+T70	Association 3368 3372	role
+E10	Association:T70 bc:T71 snp_int:T68
+T71	Cancer 3380 3393	breast cancer
+R54	Level_marker Arg1:E10 Arg2:T69	
+T68	SNP 3321 3333	polymorphism
+R55	Member Arg1:T68 Arg2:T67	
+R56	Member Arg1:T68 Arg2:T66	
+R57	Member Arg1:T68 Arg2:T65	
+R58	Member Arg1:T68 Arg2:T64	
+R59	SNP_coupled_gene Arg1:T68 Arg2:T63	
+R50	Speculation_marker Arg1:E10 Arg2:T58	
+T72	Entity 3402 3420	north Indian women
+R51	Population_assignment Arg1:T68 Arg2:T72	
+R52	Equiv Arg1:T1 Arg2:T68	
+A9	SNP_Type T13 Missense
+A10	SNP_Type T9 Missense
+A11	SNP_Class T38 Common_variant
+A12	SNP_Type T39 Missense
+A13	SNP_Class T39 Common_variant
+A14	SNP_Type T40 Non-Coding
+A15	SNP_Class T40 Common_variant
+A16	SNP_Type T41 Missense
+A17	SNP_Class T41 Common_variant
+A18	SNP_Class T51 Common_variant
+A19	SNP_Type T52 Missense
+A20	SNP_Class T52 Common_variant
+A21	SNP_Type T62 Missense
+A22	SNP_Class T62 Common_variant
+A23	SNP_Class T64 Common_variant
+A24	SNP_Type T65 Missense
+A25	SNP_Class T65 Common_variant
+A26	SNP_Type T66 Non-Coding
+A27	SNP_Class T66 Common_variant
+A28	SNP_Type T67 Missense
+A29	SNP_Class T67 Common_variant

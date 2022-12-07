@@ -3,7 +3,7 @@
         {
             "id": "T6",
             "name": "Single nucleotide polymorphisms",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 20
@@ -11,7 +11,7 @@
         {
             "id": "T11",
             "name": "Single nucleotide polymorphisms",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 20
@@ -19,7 +19,7 @@
         {
             "id": "T1",
             "name": "p21",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T2",
             "name": "bcl2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -35,7 +35,7 @@
         {
             "id": "T4",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -43,7 +43,7 @@
         {
             "id": "T3",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T5",
             "name": "Saudi Arabia",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -59,7 +59,7 @@
         {
             "id": "T7",
             "name": "single nucleotide polymorphisms",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 21
@@ -67,7 +67,7 @@
         {
             "id": "T8",
             "name": "SNPs",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T12",
             "name": "SNPs",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T9",
             "name": "p21",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -91,7 +91,7 @@
         {
             "id": "T10",
             "name": "bcl2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -99,7 +99,7 @@
         {
             "id": "T13",
             "name": "increase",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T14",
             "name": "susceptibility",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T15",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -123,7 +123,7 @@
         {
             "id": "T18",
             "name": "not clear",
-            "group": 7,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 20
@@ -131,7 +131,7 @@
         {
             "id": "T16",
             "name": "polymorphic variants",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 22
@@ -139,7 +139,7 @@
         {
             "id": "T17",
             "name": "polymorphic variants",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 22
@@ -147,7 +147,7 @@
         {
             "id": "T19",
             "name": "increase",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T20",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T21",
             "name": "Saudi Arabian",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -171,7 +171,7 @@
         {
             "id": "T60",
             "name": "aim",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -179,7 +179,7 @@
         {
             "id": "T58",
             "name": "this",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -187,7 +187,7 @@
         {
             "id": "T45",
             "name": "study",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -195,7 +195,7 @@
         {
             "id": "T22",
             "name": "determine whether",
-            "group": 7,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -203,7 +203,7 @@
         {
             "id": "T23",
             "name": "polymorphisms",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 22
@@ -211,7 +211,7 @@
         {
             "id": "T26",
             "name": "polymorphisms",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 22
@@ -219,7 +219,7 @@
         {
             "id": "T24",
             "name": "p21",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -227,7 +227,7 @@
         {
             "id": "T25",
             "name": "Bcl2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -235,7 +235,7 @@
         {
             "id": "T28",
             "name": "increased",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -243,7 +243,7 @@
         {
             "id": "T27",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T29",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T30",
             "name": "Saudi women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -267,7 +267,7 @@
         {
             "id": "T32",
             "name": "p21",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -275,7 +275,7 @@
         {
             "id": "T31",
             "name": "rs733590",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -283,7 +283,7 @@
         {
             "id": "T38",
             "name": "rs733590",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -291,7 +291,7 @@
         {
             "id": "T39",
             "name": "rs733590",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -299,7 +299,7 @@
         {
             "id": "T33",
             "name": "C",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -307,7 +307,7 @@
         {
             "id": "T37",
             "name": "T",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -315,7 +315,7 @@
         {
             "id": "T34",
             "name": "not",
-            "group": 6,
+            "group": 4,
             "type": "Neg",
             "trigger": 0,
             "value": 23
@@ -323,7 +323,7 @@
         {
             "id": "T35",
             "name": "associated",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -331,7 +331,7 @@
         {
             "id": "T36",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -339,7 +339,7 @@
         {
             "id": "T40",
             "name": "reverse mutation T/C",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -347,7 +347,7 @@
         {
             "id": "T41",
             "name": "might be",
-            "group": 7,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -355,7 +355,7 @@
         {
             "id": "T42",
             "name": "linked",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -363,7 +363,7 @@
         {
             "id": "T43",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -371,7 +371,7 @@
         {
             "id": "T53",
             "name": "genotypes",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -379,7 +379,7 @@
         {
             "id": "T46",
             "name": "marginally",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 22
@@ -387,7 +387,7 @@
         {
             "id": "T47",
             "name": "associated",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -395,7 +395,7 @@
         {
             "id": "T48",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -403,7 +403,7 @@
         {
             "id": "T49",
             "name": "significantly",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 22
@@ -411,7 +411,7 @@
         {
             "id": "T50",
             "name": "associated",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -419,7 +419,7 @@
         {
             "id": "T51",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -427,7 +427,7 @@
         {
             "id": "T63",
             "name": "frequency",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -435,7 +435,7 @@
         {
             "id": "T61",
             "name": "G",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 22
@@ -443,7 +443,7 @@
         {
             "id": "T62",
             "name": "higher",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -451,7 +451,7 @@
         {
             "id": "T64",
             "name": "patients",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 22
@@ -459,7 +459,7 @@
         {
             "id": "T52",
             "name": "AA",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -467,7 +467,7 @@
         {
             "id": "T54",
             "name": "AG",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -475,7 +475,7 @@
         {
             "id": "T55",
             "name": "GG",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -483,7 +483,7 @@
         {
             "id": "T65",
             "name": "dominant genotype",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23

@@ -3,7 +3,7 @@
         {
             "id": "T52",
             "name": "analysis",
-            "group": 8,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T1",
             "name": "genetic variation",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T3",
             "name": "61 genes",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T4",
             "name": "insulin-like growth factor-I metabolism",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -35,7 +35,7 @@
         {
             "id": "T2",
             "name": "metabolism steroid hormone",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -43,7 +43,7 @@
         {
             "id": "T6",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T5",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T7",
             "name": "variation",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -67,7 +67,7 @@
         {
             "id": "T8",
             "name": "genes involved in steroid hormone and IGF-I metabolism",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -75,7 +75,7 @@
         {
             "id": "T10",
             "name": "yet to provide convincing",
-            "group": 7,
+            "group": 4,
             "type": "Neg",
             "trigger": 0,
             "value": 19
@@ -83,7 +83,7 @@
         {
             "id": "T9",
             "name": "evidence",
-            "group": 8,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T11",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -99,7 +99,7 @@
         {
             "id": "T12",
             "name": "US",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -107,7 +107,7 @@
         {
             "id": "T13",
             "name": "European",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -115,7 +115,7 @@
         {
             "id": "T18",
             "name": "1416 tagging single nucleotide polymorphisms",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -123,7 +123,7 @@
         {
             "id": "T19",
             "name": "37 steroid hormone metabolism genes",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -131,7 +131,7 @@
         {
             "id": "T20",
             "name": "24 IGF-I pathway genes",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -139,7 +139,7 @@
         {
             "id": "T21",
             "name": "mostly Caucasian women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -147,7 +147,7 @@
         {
             "id": "T22",
             "name": "postmenopausal",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T17",
             "name": "SNPs tested",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 20
@@ -163,7 +163,7 @@
         {
             "id": "T14",
             "name": "significantly None",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 19
@@ -171,7 +171,7 @@
         {
             "id": "T15",
             "name": "associated",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -179,7 +179,7 @@
         {
             "id": "T16",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -187,7 +187,7 @@
         {
             "id": "T23",
             "name": "age at diagnosis/recruitment",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -195,7 +195,7 @@
         {
             "id": "T24",
             "name": "advanced disease",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -203,7 +203,7 @@
         {
             "id": "T25",
             "name": "nonadvanced disease",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -211,7 +211,7 @@
         {
             "id": "T26",
             "name": "body mass index",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 22
@@ -219,7 +219,7 @@
         {
             "id": "T27",
             "name": "in situ cases",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -227,7 +227,7 @@
         {
             "id": "T28",
             "name": "Caucasians",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -235,7 +235,7 @@
         {
             "id": "T32",
             "name": "estrogen receptor-negative",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 19
@@ -243,7 +243,7 @@
         {
             "id": "T33",
             "name": "SNP",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T34",
             "name": "3'",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T35",
             "name": "growth hormone receptor",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -267,7 +267,7 @@
         {
             "id": "T36",
             "name": "GHR",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -275,7 +275,7 @@
         {
             "id": "T29",
             "name": "marginally associated",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 22
@@ -283,7 +283,7 @@
         {
             "id": "T31",
             "name": "increased",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -291,7 +291,7 @@
         {
             "id": "T30",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -299,7 +299,7 @@
         {
             "id": "T37",
             "name": "no significant",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -307,7 +307,7 @@
         {
             "id": "T38",
             "name": "overall associations",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -315,7 +315,7 @@
         {
             "id": "T39",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -323,7 +323,7 @@
         {
             "id": "T40",
             "name": "common germline variation",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 20
@@ -331,7 +331,7 @@
         {
             "id": "T41",
             "name": "61 genes",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -339,7 +339,7 @@
         {
             "id": "T42",
             "name": "steroid hormone metabolism",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -347,7 +347,7 @@
         {
             "id": "T43",
             "name": "IGF-I metabolism",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -355,7 +355,7 @@
         {
             "id": "T44",
             "name": "variations",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -363,7 +363,7 @@
         {
             "id": "T46",
             "name": "endogenous hormone",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 22
@@ -371,7 +371,7 @@
         {
             "id": "T45",
             "name": "levels",
-            "group": 4,
+            "group": 7,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 22
@@ -379,7 +379,7 @@
         {
             "id": "T47",
             "name": "single SNPs",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -387,7 +387,7 @@
         {
             "id": "T48",
             "name": "not",
-            "group": 7,
+            "group": 4,
             "type": "Neg",
             "trigger": 0,
             "value": 23
@@ -395,7 +395,7 @@
         {
             "id": "T49",
             "name": "appear",
-            "group": 8,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -403,7 +403,7 @@
         {
             "id": "T50",
             "name": "alter",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -411,7 +411,7 @@
         {
             "id": "T51",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23

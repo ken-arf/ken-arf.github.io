@@ -4,223 +4,260 @@
             "id": 0,
             "value": 1,
             "name": "Genetic modifiers",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 1,
             "value": 1,
             "name": "modifiers",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 2,
             "value": 2,
             "name": "menopausal hormone replacement therapy|menopausal hormone therapy",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 3,
             "value": 1,
             "name": "breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 4,
             "value": 1,
             "name": "risk",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 5,
             "value": 1,
             "name": "Women",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 6,
             "value": 1,
             "name": "breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 7,
             "value": 1,
             "name": "assess",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 8,
             "value": 1,
             "name": "single-nucleotide polymorphisms",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 9,
             "value": 1,
             "name": "SNPs",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 10,
             "value": 1,
             "name": "MHT",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "risk",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 12,
             "value": 1,
             "name": "overall BC",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 13,
             "value": 1,
             "name": "lobular BC",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 14,
             "value": 1,
             "name": "BC",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 15,
             "value": 1,
             "name": "effect modification",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 16,
             "value": 1,
             "name": "current MHT use",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 17,
             "value": 1,
             "name": "BC",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 18,
             "value": 6,
             "name": "two SNPs|two SNPs|three SNPs|one SNP|three SNPs|two SNPs",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 19,
             "value": 3,
             "name": "chr13|chr17|chr18",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 20,
             "value": 1,
             "name": "near POMP",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 21,
             "value": 2,
             "name": "SLC25A21|near SLC25A52",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 22,
             "value": 1,
             "name": "PLCG2",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 23,
             "value": 1,
             "name": "association",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 24,
             "value": 1,
             "name": "lobular BC",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 25,
             "value": 1,
             "name": "potentially modified",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 26,
             "value": 1,
             "name": "SNP",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 27,
             "value": 1,
             "name": "TMEFF2",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 28,
             "value": 1,
             "name": "CD80",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 29,
             "value": 1,
             "name": "near TMEM132E",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 30,
             "value": 1,
             "name": "polymorphisms",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 31,
             "value": 2,
             "name": "genes solute transportation in mitochondria|genes transmembrane signaling",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 32,
             "value": 1,
             "name": "genes immune cell activation",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 33,
             "value": 1,
             "name": "potentially modifying",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 34,
             "value": 1,
             "name": "BC",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 35,
             "value": 1,
             "name": "risk",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 36,
             "value": 1,
             "name": "current use of MHT",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         }
     ],
     "links": [

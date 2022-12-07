@@ -1,0 +1,95 @@
+T1	SNP 181 190	rs4415084
+T2	SNP 196 206	rs10941679
+T3	Entity 221 225	5p12
+T4	Interaction 192 195	and
+E1	Interaction:T4 Entity:T1 Entity2:T2
+T5	Association 231 241	associated
+E2	Association:T5 snp_int:E1 bc:T6
+T6	Cancer 255 268	breast cancer
+T7	Entity 330 338	European
+T8	Entity 321 326	women
+R1	SNP_location Arg1:T2 Arg2:T3	
+R2	SNP_location Arg1:T1 Arg2:T3	
+R3	Population_assignment Arg1:T2 Arg2:T8	
+R4	Population_assignment Arg1:T2 Arg2:T7	
+R5	Population_assignment Arg1:T1 Arg2:T8	
+R6	Population_assignment Arg1:T1 Arg2:T7	
+T10	Entity 382 396	high-LD region
+R7	SNP_location Arg1:T1 Arg2:T10	
+R8	SNP_location Arg1:T2 Arg2:T10	
+T11	Entity 498 520	African American women
+T12	SNP 1007 1016	rs4415084
+T14	Cancer 1136 1169	estrogen receptor positive tumors
+A4	Cancer_Type T14 ER+
+T13	Association 1119 1130	association
+E4	Association:T13 bc:T14 bc2:T16
+T15	Association 992 1003	association
+E5	Association:T15 snp_int:T12 bc:T16
+T16	Cancer 1042 1055	breast cancer
+T17	Entity 1368 1380;1385 1393	59 kb HapMap LD block
+T18	Association 1280 1284	risk
+E6	Association:T18 snp_int:E7 bc:T24
+T19	SNP 1213 1222	rs6451770
+T20	SNP 1224 1234	rs12515012
+T21	SNP 1236 1246	rs13156930
+T22	SNP 1252 1262	rs16901937
+T23	Interaction 1248 1251	and
+E7	Interaction:T23 Entity:T22 Entity2:T21 Entity3:T20 Entity4:T19
+R9	SNP_location Arg1:T22 Arg2:T17	
+R10	SNP_location Arg1:T21 Arg2:T17	
+R11	SNP_location Arg1:T20 Arg2:T17	
+R12	SNP_location Arg1:T19 Arg2:T17	
+T24	Cancer 1288 1301	breast cancer
+T25	SNP 1459 1469	rs16901937
+T26	Association 1438 1449	association
+E8	Association:T26 snp_int:T25 bc:T28
+T27	Entity 1519 1527	G allele
+R13	SNP_allele Arg1:T25 Arg2:T27	
+T28	Cancer 1572 1585	breast cancer
+T29	Association 1564 1568	risk
+E9	Association:T29 bc:T28 snp_int:T25
+T30	Association 1609 1617	increase
+E10	Association:T30 snp_int:T25 bc:T31
+A11	Effect_Type E10 Increase
+A12	Effect_Type E9 Increase
+T31	Cancer 1621 1681	tumors positive for both estrogen and progesterone receptors
+A13	Cancer_Type T31 Horm+ve_other
+T32	Entity 1711 1727	African ancestry
+R14	Population_assignment Arg1:T25 Arg2:T32	
+T33	Entity 1832 1836	5p12
+R15	SNP_location Arg1:T25 Arg2:T33	
+T34	Entity 1381 1384	YRI
+T35	Association 40 50	associated
+E11	Association:T35 snp_int:T36 bc:T37
+T36	SNP 0 16	Genetic variants
+T37	Cancer 64 77	breast cancer
+T38	Entity 81 103	African American women
+R20	Population_assignment Arg1:T36 Arg2:T38	
+T39	Entity 31 35	5p12
+R21	SNP_location Arg1:T36 Arg2:T39	
+T9	Level 1479 1490	significant
+R22	Level_marker Arg1:E8 Arg2:T9	
+T40	Effect_Type 1554 1563	increased
+R23	Effect_type_marker Arg1:E9 Arg2:T40	
+T41	Effect_Type 1609 1617	increase
+R24	Effect_type_marker Arg1:E10 Arg2:T41	
+T42	Level 1110 1118	stronger
+R25	Level_marker Arg1:E4 Arg2:T42	
+A16	Level E4 High
+A17	Level E8 High
+R16	Population_assignment Arg1:E7 Arg2:T17	
+T43	Entity 1136 1153	estrogen receptor
+T44	Effect_Type 1154 1162	positive
+T45	Organic_inorganic_molecules_affected 1119 1130	association
+E3	Organic_inorganic_molecules_affected:T45 Theme:T43 Agent:T12
+A1	Effect_Type E3 Increase
+R17	Effect_type_marker Arg1:E3 Arg2:T44	
+T46	Effect_Type 1628 1636	positive
+T47	Entity 1646 1654;1672 1681	estrogen receptors
+T48	Entity 1659 1681	progesterone receptors
+T49	Organic_inorganic_molecules_affected 1609 1617	increase
+E12	Organic_inorganic_molecules_affected:T49 Theme:T47 Theme2:T48 Agent:T25
+A3	Effect_Type E12 Increase
+R18	Effect_type_marker Arg1:E12 Arg2:T41	
+R19	Effect_type_marker Arg1:E12 Arg2:T46	
+T50	SNP 1621 1681	tumors positive for both estrogen and progesterone receptors

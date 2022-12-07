@@ -4,91 +4,106 @@
             "id": 0,
             "value": 1,
             "name": "New Zealand white rabbits",
-            "group": 5
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 1,
             "value": 1,
             "name": "inoculations",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 2,
             "value": 1,
             "name": "herpes simplex virus",
-            "group": 5
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 3,
             "value": 1,
             "name": "HSV",
-            "group": 5
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 4,
             "value": 1,
             "name": "human",
-            "group": 5
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 5,
             "value": 1,
             "name": "embryonic kidney cells",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 6,
             "value": 1,
             "name": "inoculation",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 7,
             "value": 1,
             "name": "HSV",
-            "group": 5
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 8,
             "value": 2,
             "name": "Epithelial|Epithelial",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 9,
             "value": 1,
             "name": "disciform edema",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 10,
             "value": 2,
             "name": "neovascularization|neovascularization",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "cornea",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 12,
             "value": 2,
             "name": "developed|developed",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 13,
             "value": 1,
             "name": "corneal edema",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 14,
             "value": 1,
             "name": "corneas",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         }
     ],
     "links": [

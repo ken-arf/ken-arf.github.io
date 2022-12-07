@@ -4,487 +4,568 @@
             "id": 0,
             "value": 1,
             "name": "targeting",
-            "group": 6
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 1,
             "value": 9,
             "name": "survivin|survivin|survivin|survivin|survivin|survivin|survivin|survivin|Survivin",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 2,
             "value": 1,
             "name": "pathway",
-            "group": 0
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 3,
             "value": 2,
             "name": "suppression|suppression",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 4,
             "value": 1,
             "name": "tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "triggering",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 7,
             "value": 1,
             "name": "tumor cell",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 8,
             "value": 1,
             "name": "apoptosis",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 9,
             "value": 1,
             "name": "inhibiting",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 10,
             "value": 1,
             "name": "tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 11,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 12,
             "value": 1,
             "name": "cell",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 13,
             "value": 1,
             "name": "death",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 14,
             "value": 1,
             "name": "Human",
-            "group": 9
+            "trigger": 0,
+            "group": 14
         },
         {
             "id": 15,
             "value": 1,
             "name": "umbilical vein",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 16,
             "value": 2,
             "name": "dermal microvascular endothelial cells|dermal microvascular endothelial cells",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 17,
             "value": 1,
             "name": "infected",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 18,
             "value": 1,
             "name": "adenoviruses",
-            "group": 9
+            "trigger": 0,
+            "group": 14
         },
         {
             "id": 19,
             "value": 2,
             "name": "pAd-Survivin|pAd-Survivin",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 20,
             "value": 1,
             "name": "green fluorescent protein",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 21,
             "value": 1,
             "name": "pAd-GFP",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 22,
             "value": 1,
             "name": "survivin",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 23,
             "value": 3,
             "name": "pAd-T34A|pAd-T34A|pAd-T34A",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 24,
             "value": 1,
             "name": "effect",
-            "group": 6
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 25,
             "value": 2,
             "name": "capillary network|capillary networks",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 26,
             "value": 1,
             "name": "endothelial cell",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 27,
             "value": 1,
             "name": "caspase",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 28,
             "value": 1,
             "name": "activation",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 29,
             "value": 1,
             "name": "tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 30,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 31,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 32,
             "value": 2,
             "name": "breast cancer xenograft|breast cancer xenografts",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 33,
             "value": 1,
             "name": "cell",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 34,
             "value": 1,
             "name": "death",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 35,
             "value": 1,
             "name": "initiated",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 36,
             "value": 2,
             "name": "targeting|targeting",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 37,
             "value": 2,
             "name": "cytochrome c|cytochrome c",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 38,
             "value": 1,
             "name": "release",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 39,
             "value": 2,
             "name": "mouse|mouse",
-            "group": 9
+            "trigger": 0,
+            "group": 14
         },
         {
             "id": 40,
             "value": 2,
             "name": "embryonic fibroblasts|embryonic fibroblasts",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 41,
             "value": 1,
             "name": "deficient",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 42,
             "value": 2,
             "name": "Apaf-1|Apaf-1",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 43,
             "value": 2,
             "name": "caspase-9|caspase-9",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 44,
             "value": 1,
             "name": "Adenoviral",
-            "group": 9
+            "trigger": 0,
+            "group": 14
         },
         {
             "id": 45,
             "value": 1,
             "name": "transduction",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 46,
             "value": 1,
             "name": "endothelial cells",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 47,
             "value": 1,
             "name": "ceramide",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 48,
             "value": 1,
             "name": "reduced",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 49,
             "value": 2,
             "name": "caspase-3|caspase-3",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 50,
             "value": 1,
             "name": "-7",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 51,
             "value": 1,
             "name": "generation",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 52,
             "value": 1,
             "name": "expression",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 53,
             "value": 1,
             "name": "caused",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 54,
             "value": 1,
             "name": "apoptosis",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 55,
             "value": 1,
             "name": "umbilical vein",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 56,
             "value": 1,
             "name": "resulted",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 57,
             "value": 1,
             "name": "Cell",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 58,
             "value": 1,
             "name": "death",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 59,
             "value": 1,
             "name": "induced",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 60,
             "value": 1,
             "name": "release",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 61,
             "value": 1,
             "name": "knockout",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 62,
             "value": 1,
             "name": "injected",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 63,
             "value": 1,
             "name": "human",
-            "group": 9
+            "trigger": 0,
+            "group": 14
         },
         {
             "id": 64,
             "value": 1,
             "name": "inhibited",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 65,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 66,
             "value": 1,
             "name": "tumors",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 67,
             "value": 1,
             "name": "triggered",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 68,
             "value": 1,
             "name": "tumor cell",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 69,
             "value": 1,
             "name": "apoptosis",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 70,
             "value": 1,
             "name": "reduction",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 71,
             "value": 1,
             "name": "tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 72,
             "value": 1,
             "name": "blood vessels",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 73,
             "value": 1,
             "name": "CD31",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 74,
             "value": 1,
             "name": "tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 75,
             "value": 1,
             "name": "endothelial cell",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 76,
             "value": 1,
             "name": "apoptosis",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 77,
             "value": 1,
             "name": "induction",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 78,
             "value": 1,
             "name": "tumor cell",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 79,
             "value": 1,
             "name": "apoptosis",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 80,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         }
     ],
     "links": [

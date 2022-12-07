@@ -1,0 +1,372 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Regulation",
+            "group": 5
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "skin microvasculature",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "cell|cell",
+            "group": 8
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "migration",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 6,
+            "name": "PKCalpha|PKCalpha|PKCalpha|PKCalpha|PKCalpha|PKCalpha",
+            "group": 11
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "Activation",
+            "group": 9
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "protein kinase C",
+            "group": 11
+        },
+        {
+            "id": 8,
+            "value": 3,
+            "name": "PKC|PKC|PKC",
+            "group": 11
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "induces",
+            "group": 9
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "changes",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "microvascular endothelial cells",
+            "group": 8
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "affect",
+            "group": 5
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "microvasculature",
+            "group": 0
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "migration",
+            "group": 1
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "vascular",
+            "group": 3
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "responsible",
+            "group": 5
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "IL-1beta",
+            "group": 11
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "phorbol myristic acetate",
+            "group": 6
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "activate",
+            "group": 9
+        },
+        {
+            "id": 21,
+            "value": 3,
+            "name": "Go6976|Go6976|Go6976",
+            "group": 6
+        },
+        {
+            "id": 22,
+            "value": 2,
+            "name": "PKCbeta|PKCbeta",
+            "group": 11
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "hispidin",
+            "group": 6
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "controls",
+            "group": 5
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 4
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "inhibition",
+            "group": 10
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "inhibition",
+            "group": 10
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "changes",
+            "group": 5
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "phosphorylated",
+            "group": 7
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "nonphosphorylated",
+            "group": 7
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "cell membrane",
+            "group": 2
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "cytoplasm",
+            "group": 2
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "inhibition",
+            "group": 10
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "endothelial cell",
+            "group": 8
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "microvascular",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 33,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 33,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 29,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 2
+        }
+    ]
+}

@@ -4,402 +4,469 @@
             "id": 0,
             "value": 1,
             "name": "Activation",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 1,
             "value": 2,
             "name": "vascular endothelial growth factor|vascular endothelial growth factor",
-            "group": 12
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 2,
             "value": 1,
             "name": "oxygen",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 3,
             "value": 1,
             "name": "mediates",
-            "group": 4
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 4,
             "value": 2,
             "name": "20-hydroxyeicosatetraenoic acid|20-Hydroxyeicosatetraenoic acid",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 5,
             "value": 1,
             "name": "induced",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 6,
             "value": 1,
             "name": "endothelial cell",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 7,
             "value": 1,
             "name": "proliferation",
-            "group": 11
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 8,
             "value": 13,
             "name": "20-HETE|20-HETE|20-HETE|20-HETE|20-HETE|20-HETE|20-HETE|20-HETE|20-HETE|20-HETE|20-HETE|20-HETE|20-HETE",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 9,
             "value": 1,
             "name": "formed",
-            "group": 1
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 10,
             "value": 1,
             "name": "arachidonic acid",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 11,
             "value": 1,
             "name": "cytochrome P450 4A",
-            "group": 12
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 12,
             "value": 1,
             "name": "4F",
-            "group": 12
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 13,
             "value": 1,
             "name": "induces",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 14,
             "value": 1,
             "name": "angiogenic",
+            "trigger": 1,
             "group": 3
         },
         {
             "id": 15,
             "value": 1,
             "name": "increases",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 16,
             "value": 1,
             "name": "endothelial cell",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 17,
             "value": 1,
             "name": "EC",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 18,
             "value": 3,
             "name": "proliferation|proliferation|proliferation",
-            "group": 11
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 19,
             "value": 1,
             "name": "VEGF",
-            "group": 12
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 20,
             "value": 1,
             "name": "effects",
-            "group": 4
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 21,
             "value": 2,
             "name": "WIT003|WIT003",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 22,
             "value": 1,
             "name": "20-hydroxyeicosa-5(Z),14(Z)-dienoic acid",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 23,
             "value": 1,
             "name": "human",
-            "group": 7
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 24,
             "value": 1,
             "name": "macrovascular",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 25,
             "value": 1,
             "name": "microvascular EC",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 26,
             "value": 1,
             "name": "stimulated",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 27,
             "value": 3,
             "name": "EC|EC|EC",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 28,
             "value": 2,
             "name": "increased|increased",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 29,
             "value": 5,
             "name": "VEGF|VEGF|VEGF|VEGF|VEGF",
-            "group": 12
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 30,
             "value": 1,
             "name": "expression",
-            "group": 13
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 31,
             "value": 1,
             "name": "release",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 32,
             "value": 1,
             "name": "phosphorylation",
-            "group": 8
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 33,
             "value": 1,
             "name": "VEGF receptor 2",
-            "group": 12
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 34,
             "value": 2,
             "name": "inhibited|inhibited",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 35,
             "value": 1,
             "name": "VEGF-neutralizing antibody",
-            "group": 12
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 36,
             "value": 1,
             "name": "Polyethylene glycol-superoxide dismutase",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 37,
             "value": 2,
             "name": "PEG-SOD|PEG-SOD",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 38,
             "value": 1,
             "name": "inhibited",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 39,
             "value": 1,
             "name": "increases",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 40,
             "value": 1,
             "name": "expression",
-            "group": 13
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 41,
             "value": 1,
             "name": "administration",
-            "group": 5
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 42,
             "value": 2,
             "name": "NAD(P)H oxidase|NAD(P)H oxidase",
-            "group": 12
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 43,
             "value": 3,
             "name": "apocynin|apocynin|apocynin",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 44,
             "value": 1,
             "name": "effect",
-            "group": 4
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 45,
             "value": 2,
             "name": "increased|increased",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 46,
             "value": 2,
             "name": "superoxide|superoxide",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 47,
             "value": 2,
             "name": "formation|formation",
-            "group": 1
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 48,
             "value": 1,
             "name": "dihydroethidium",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 49,
             "value": 1,
             "name": "staining",
-            "group": 5
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 50,
             "value": 2,
             "name": "EC|EC",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 51,
             "value": 1,
             "name": "phosphorylation",
-            "group": 8
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 52,
             "value": 1,
             "name": "p42/p44 mitogen-activated protein kinase",
-            "group": 12
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 53,
             "value": 2,
             "name": "MAPK|MAPK",
-            "group": 12
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 54,
             "value": 1,
             "name": "MAPK",
-            "group": 12
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 55,
             "value": 1,
             "name": "U0126",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 56,
             "value": 1,
             "name": "1,4-diamino-2,3-dicyano-1,4-bis(2-aminophenylthio)butadiene",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 57,
             "value": 1,
             "name": "suppressed",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 58,
             "value": 1,
             "name": "changes",
-            "group": 4
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 59,
             "value": 1,
             "name": "stimulates",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 60,
             "value": 1,
             "name": "activating",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 61,
             "value": 1,
             "name": "enhancing",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 62,
             "value": 1,
             "name": "synthesis",
-            "group": 13
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 63,
             "value": 1,
             "name": "drives",
-            "group": 4
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 64,
             "value": 1,
             "name": "involved",
-            "group": 4
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 65,
             "value": 1,
             "name": "regulation",
-            "group": 4
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 66,
             "value": 1,
             "name": "angiogenesis",
+            "trigger": 1,
             "group": 3
         }
     ],

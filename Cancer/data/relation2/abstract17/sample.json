@@ -3,7 +3,7 @@
         {
             "id": "T1",
             "name": "5p12",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -11,7 +11,7 @@
         {
             "id": "T2",
             "name": "rs10941679",
-            "group": 6,
+            "group": 10,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -19,7 +19,7 @@
         {
             "id": "T3",
             "name": "associated",
-            "group": 2,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T9",
             "name": "associated",
-            "group": 5,
+            "group": 7,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T4",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -43,7 +43,7 @@
         {
             "id": "T5",
             "name": "estrogen receptor",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T8",
             "name": "estrogen receptor (ER)-positive disease",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 14
@@ -59,7 +59,7 @@
         {
             "id": "T6",
             "name": "ER",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -67,7 +67,7 @@
         {
             "id": "T7",
             "name": "positive",
-            "group": 4,
+            "group": 8,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T36",
             "name": "ductal carcinoma in situ",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 19
@@ -83,7 +83,7 @@
         {
             "id": "T10",
             "name": "white Europeans",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -91,7 +91,7 @@
         {
             "id": "T11",
             "name": "per-allele OR",
-            "group": 2,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 19
@@ -99,7 +99,7 @@
         {
             "id": "T18",
             "name": "per-allele OR",
-            "group": 8,
+            "group": 9,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 19
@@ -107,7 +107,7 @@
         {
             "id": "T13",
             "name": "5p12",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -115,7 +115,7 @@
         {
             "id": "T12",
             "name": "rs10941679",
-            "group": 6,
+            "group": 10,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -123,7 +123,7 @@
         {
             "id": "T25",
             "name": "rs10941679",
-            "group": 6,
+            "group": 10,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -131,7 +131,7 @@
         {
             "id": "T14",
             "name": "invasive breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 20
@@ -139,7 +139,7 @@
         {
             "id": "T15",
             "name": "invasive",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T16",
             "name": "invasive",
-            "group": 1,
+            "group": 4,
             "type": "Patho_physiology",
             "trigger": 1,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T17",
             "name": "DCIS",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T19",
             "name": "D",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -171,7 +171,7 @@
         {
             "id": "T20",
             "name": "Asian women",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -179,7 +179,7 @@
         {
             "id": "T23",
             "name": "estimated OR",
-            "group": 2,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 22
@@ -187,7 +187,7 @@
         {
             "id": "T21",
             "name": "invasive",
-            "group": 1,
+            "group": 4,
             "type": "Patho_physiology",
             "trigger": 1,
             "value": 23
@@ -195,7 +195,7 @@
         {
             "id": "T22",
             "name": "invasive",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -203,7 +203,7 @@
         {
             "id": "T24",
             "name": "invasive disease",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -211,7 +211,7 @@
         {
             "id": "T32",
             "name": "suggested",
-            "group": 10,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -219,7 +219,7 @@
         {
             "id": "T26",
             "name": "association",
-            "group": 2,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -227,7 +227,7 @@
         {
             "id": "T31",
             "name": "association",
-            "group": 5,
+            "group": 7,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -235,7 +235,7 @@
         {
             "id": "T27",
             "name": "progesterone receptor",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -243,7 +243,7 @@
         {
             "id": "T30",
             "name": "progesterone receptor (PR)-positive disease",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 15
@@ -251,7 +251,7 @@
         {
             "id": "T28",
             "name": "PR",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T29",
             "name": "positive",
-            "group": 4,
+            "group": 8,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -267,7 +267,7 @@
         {
             "id": "T37",
             "name": "heterogeneity",
-            "group": 2,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -275,7 +275,7 @@
         {
             "id": "T41",
             "name": "heterogeneity",
-            "group": 5,
+            "group": 7,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -283,7 +283,7 @@
         {
             "id": "T38",
             "name": "ER status",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 22
@@ -291,7 +291,7 @@
         {
             "id": "T39",
             "name": "ER status",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 22
@@ -299,7 +299,7 @@
         {
             "id": "T42",
             "name": "ER",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 22
@@ -307,7 +307,7 @@
         {
             "id": "T40",
             "name": "not",
-            "group": 9,
+            "group": 5,
             "type": "Neg",
             "trigger": 0,
             "value": 23
@@ -315,7 +315,7 @@
         {
             "id": "T35",
             "name": "association",
-            "group": 2,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -323,7 +323,7 @@
         {
             "id": "T33",
             "name": "stronger",
-            "group": 7,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -331,7 +331,7 @@
         {
             "id": "T34",
             "name": "lower grade tumors",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 19
@@ -339,7 +339,7 @@
         {
             "id": "T43",
             "name": "tumors grade 1, 2, and 3/4",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 14

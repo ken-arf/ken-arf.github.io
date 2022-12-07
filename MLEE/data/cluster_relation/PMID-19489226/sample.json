@@ -4,289 +4,337 @@
             "id": 0,
             "value": 2,
             "name": "Activation|activation",
-            "group": 7
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 1,
             "value": 2,
             "name": "sterol regulatory element binding protein|sterol regulatory element binding protein",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 2,
             "value": 1,
             "name": "involvement",
-            "group": 1
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 3,
             "value": 2,
             "name": "endothelial cell|endothelial cell",
+            "trigger": 0,
             "group": 6
         },
         {
             "id": 4,
             "value": 7,
             "name": "migration|migration|migration|migration|migration|migration|migration",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 5,
             "value": 11,
             "name": "SREBP|SREBP|SREBP|SREBP|SREBP|SREBP|SREBP|SREBP|SREBP|SREBP|SREBP",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "critical role",
-            "group": 1
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 7,
             "value": 1,
             "name": "Bovine",
-            "group": 4
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 8,
             "value": 1,
             "name": "aortic endothelial cells",
+            "trigger": 0,
             "group": 6
         },
         {
             "id": 9,
             "value": 1,
             "name": "ECs",
+            "trigger": 0,
             "group": 6
         },
         {
             "id": 10,
             "value": 1,
             "name": "cultured",
-            "group": 3
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 11,
             "value": 1,
             "name": "expression",
-            "group": 10
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 12,
             "value": 1,
             "name": "Cdc42",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 13,
             "value": 11,
             "name": "ECs|ECs|ECs|ECs|ECs|ECs|ECs|ECs|ECs|ECs|ECs",
+            "trigger": 0,
             "group": 6
         },
         {
             "id": 14,
             "value": 1,
             "name": "activated",
-            "group": 7
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 15,
             "value": 1,
             "name": "increased",
-            "group": 7
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 16,
             "value": 1,
             "name": "migrating",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 17,
             "value": 1,
             "name": "non-migrating",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 18,
             "value": 1,
             "name": "activation",
-            "group": 7
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 19,
             "value": 1,
             "name": "decreased",
-            "group": 8
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 20,
             "value": 1,
             "name": "migration",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 21,
             "value": 1,
             "name": "slowed",
-            "group": 8
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 22,
             "value": 1,
             "name": "activation",
-            "group": 7
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 23,
             "value": 1,
             "name": "mRNA expression",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 24,
             "value": 1,
             "name": "low density lipoprotein receptor",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 25,
             "value": 1,
             "name": "HMG-CoA reductase",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 26,
             "value": 1,
             "name": "fatty acid synthase",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 27,
             "value": 1,
             "name": "increased",
-            "group": 7
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 28,
             "value": 1,
             "name": "migrating",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 29,
             "value": 1,
             "name": "Migration",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 30,
             "value": 1,
             "name": "induced",
-            "group": 7
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 31,
             "value": 1,
             "name": "activation",
-            "group": 7
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 32,
             "value": 1,
             "name": "inhibited",
-            "group": 8
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 33,
             "value": 2,
             "name": "SREBP-acting protein|SREBP-acting protein",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 34,
             "value": 1,
             "name": "25-hydroxycholesterol",
-            "group": 5
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 35,
             "value": 2,
             "name": "Inhibition|inhibition",
-            "group": 8
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 36,
             "value": 1,
             "name": "led",
-            "group": 7
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 37,
             "value": 1,
             "name": "decreased",
-            "group": 8
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 38,
             "value": 1,
             "name": "Cells",
+            "trigger": 0,
             "group": 6
         },
         {
             "id": 39,
             "value": 1,
             "name": "deficient",
-            "group": 10
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 40,
             "value": 1,
             "name": "S1P",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 41,
             "value": 1,
             "name": "S2P",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 42,
             "value": 1,
             "name": "suppressed",
-            "group": 8
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 43,
             "value": 1,
             "name": "Cdc42",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 44,
             "value": 1,
             "name": "motility",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 45,
             "value": 1,
             "name": "activated",
-            "group": 7
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 46,
             "value": 1,
             "name": "plays a critical role",
-            "group": 1
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 47,
             "value": 1,
             "name": "Targeting",
-            "group": 3
+            "trigger": 1,
+            "group": 5
         }
     ],
     "links": [

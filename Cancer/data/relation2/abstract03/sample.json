@@ -3,7 +3,7 @@
         {
             "id": "T15",
             "name": "breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T16",
             "name": "two risk alleles",
-            "group": 6,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -19,7 +19,7 @@
         {
             "id": "T21",
             "name": "risk",
-            "group": 2,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T17",
             "name": "1p11.2",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -35,7 +35,7 @@
         {
             "id": "T18",
             "name": "14q24.1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -43,7 +43,7 @@
         {
             "id": "T19",
             "name": "RAD51L1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -51,7 +51,7 @@
         {
             "id": "T20",
             "name": "pericentromeric",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -59,7 +59,7 @@
         {
             "id": "T2",
             "name": "1p11.2",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -67,7 +67,7 @@
         {
             "id": "T1",
             "name": "rs11249433",
-            "group": 6,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -75,7 +75,7 @@
         {
             "id": "T3",
             "name": "NOTCH2",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -83,7 +83,7 @@
         {
             "id": "T4",
             "name": "FCGR1B",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -91,7 +91,7 @@
         {
             "id": "T5",
             "name": "stronger",
-            "group": 2,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T14",
             "name": "stronger",
-            "group": 5,
+            "group": 4,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T6",
             "name": "estrogen-receptor-positive tumors",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 19
@@ -123,7 +123,7 @@
         {
             "id": "T12",
             "name": "estrogen-receptor",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -131,7 +131,7 @@
         {
             "id": "T13",
             "name": "positive",
-            "group": 4,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -139,7 +139,7 @@
         {
             "id": "T8",
             "name": "14q24.1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -147,7 +147,7 @@
         {
             "id": "T7",
             "name": "rs999737",
-            "group": 6,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -155,7 +155,7 @@
         {
             "id": "T9",
             "name": "RAD51L1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -163,7 +163,7 @@
         {
             "id": "T10",
             "name": "homologous recombination DNA repair",
-            "group": 1,
+            "group": 2,
             "type": "Patho_physiology",
             "trigger": 1,
             "value": 17

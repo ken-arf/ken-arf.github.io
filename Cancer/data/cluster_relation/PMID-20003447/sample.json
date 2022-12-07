@@ -4,163 +4,190 @@
             "id": 0,
             "value": 2,
             "name": "Nuclear receptor coregulator|Nuclear receptor coregulator",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 1,
             "value": 1,
             "name": "SNP",
-            "group": 2
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 2,
             "value": 1,
             "name": "impact",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 3,
             "value": 2,
             "name": "breast cancer|breast cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 4,
             "value": 1,
             "name": "single nucleotide polymorphisms",
-            "group": 2
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 5,
             "value": 4,
             "name": "SNPs|SNPs|SNPs|SNPs",
-            "group": 2
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 6,
             "value": 5,
             "name": "SRC-1|SRC-3|SRC-3|SRC-1|SRC-3",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 7,
             "value": 4,
             "name": "NCoA1|NCoA3|NCoR1|NCoR2",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 8,
             "value": 1,
             "name": "AIB1",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 9,
             "value": 2,
             "name": "NCoR|NCoR",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 10,
             "value": 2,
             "name": "SMRT|SMRT",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "test",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 12,
             "value": 1,
             "name": "associations",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 13,
             "value": 2,
             "name": "Caucasian Americans|African Americans",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 14,
             "value": 1,
             "name": "BRCA1/2-mutation",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 15,
             "value": 1,
             "name": "negative",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 16,
             "value": 6,
             "name": "rs1804645|rs6094752|rs2230782|rs2076546|rs2229840|rs2230782",
-            "group": 2
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 17,
             "value": 1,
             "name": "74 novel SNPs",
-            "group": 2
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 18,
             "value": 1,
             "name": "30",
-            "group": 2
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 19,
             "value": 1,
             "name": "32",
-            "group": 2
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 20,
             "value": 1,
             "name": "10",
-            "group": 2
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 21,
             "value": 1,
             "name": "2",
-            "group": 2
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 22,
             "value": 1,
             "name": "protective effect",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 23,
             "value": 1,
             "name": "strengthened",
-            "group": 7
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 24,
             "value": 1,
             "name": "No significant",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 25,
             "value": 1,
             "name": "associations",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 26,
             "value": 1,
             "name": "other SNPs genotyped",
-            "group": 2
+            "trigger": 0,
+            "group": 7
         }
     ],
     "links": [

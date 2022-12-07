@@ -1,0 +1,310 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 3,
+            "name": "African American population|global percent African ancestry|African ancestry population",
+            "group": 5
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "associated|associated",
+            "group": 6
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "ER-/PR- breast cancer",
+            "group": 3
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "ER",
+            "group": 5
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "-",
+            "group": 7
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "PR",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "TERT",
+            "group": 5
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "rs10069690|rs704010",
+            "group": 2
+        },
+        {
+            "id": 8,
+            "value": 3,
+            "name": "5p15.33|10q22.3|19p13.11",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "rs8170|rs8170",
+            "group": 2
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "Stronger",
+            "group": 0
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "associations",
+            "group": 6
+        },
+        {
+            "id": 12,
+            "value": 2,
+            "name": "TNBC|TNBC",
+            "group": 3
+        },
+        {
+            "id": 13,
+            "value": 3,
+            "name": "confirmation|confirmation|confirmation",
+            "group": 6
+        },
+        {
+            "id": 14,
+            "value": 2,
+            "name": "independent|independent",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "TERT",
+            "group": 5
+        },
+        {
+            "id": 16,
+            "value": 2,
+            "name": "ER-|ER",
+            "group": 3
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "-",
+            "group": 7
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "SNP",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 15,
+            "value": 1
+        }
+    ]
+}

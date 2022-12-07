@@ -1,0 +1,127 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "TERT",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 4,
+            "name": "rs10069690|rs10069690|rs10069690|rs10069690",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "telomerase reverse transcriptase",
+            "group": 3
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "TERT",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "C>T",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "increased",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "risk",
+            "group": 5
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "breast cancer|breast cancer",
+            "group": 1
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "TERT",
+            "group": 3
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "may",
+            "group": 2
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "risk factor",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 6,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 1
+        }
+    ]
+}

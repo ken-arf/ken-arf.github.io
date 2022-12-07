@@ -3,7 +3,7 @@
         {
             "id": "T2",
             "name": "Genetic variants",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T1",
             "name": "5p12",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -19,7 +19,7 @@
         {
             "id": "T3",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T4",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T5",
             "name": "women Han Chinese",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -43,7 +43,7 @@
         {
             "id": "T6",
             "name": "women of European ancestry",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -51,7 +51,7 @@
         {
             "id": "T7",
             "name": "rs4415084",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -59,7 +59,7 @@
         {
             "id": "T27",
             "name": "rs4415084",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -67,7 +67,7 @@
         {
             "id": "T9",
             "name": "T>C",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -75,7 +75,7 @@
         {
             "id": "T8",
             "name": "rs10941679",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -83,7 +83,7 @@
         {
             "id": "T28",
             "name": "rs10941679",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -91,7 +91,7 @@
         {
             "id": "T10",
             "name": "A>G",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -99,7 +99,7 @@
         {
             "id": "T11",
             "name": "5p12",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -107,7 +107,7 @@
         {
             "id": "T12",
             "name": "associated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T13",
             "name": "breast cance",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -123,7 +123,7 @@
         {
             "id": "T14",
             "name": "investigate",
-            "group": 5,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -131,7 +131,7 @@
         {
             "id": "T16",
             "name": "SNPs",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -139,7 +139,7 @@
         {
             "id": "T17",
             "name": "5p12",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -147,7 +147,7 @@
         {
             "id": "T15",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T18",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T19",
             "name": "Chinese population",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -171,7 +171,7 @@
         {
             "id": "T26",
             "name": "5p12",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -179,7 +179,7 @@
         {
             "id": "T24",
             "name": "two risk SNPs",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -187,7 +187,7 @@
         {
             "id": "T20",
             "name": "neither",
-            "group": 4,
+            "group": 3,
             "type": "Neg",
             "trigger": 0,
             "value": 22
@@ -195,7 +195,7 @@
         {
             "id": "T21",
             "name": "associated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -203,7 +203,7 @@
         {
             "id": "T22",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -211,7 +211,7 @@
         {
             "id": "T23",
             "name": "Chinese population",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -219,7 +219,7 @@
         {
             "id": "T25",
             "name": "fine-mapping SNPs",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 17

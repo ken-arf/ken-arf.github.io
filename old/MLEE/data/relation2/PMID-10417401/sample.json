@@ -1,0 +1,644 @@
+{
+    "nodes": [
+        {
+            "id": "T23",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "coronary",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "angiogenesis",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "dependent",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "vascular endothelial growth factor",
+            "group": 7,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T55",
+            "name": "coronary",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "angiogenesis",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "vascular endothelial growth factor",
+            "group": 7,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T7",
+            "name": "VEGF",
+            "group": 7,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "endothelial cell",
+            "group": 11,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "angiogenesis",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "upregulated",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "heart",
+            "group": 3,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "rats",
+            "group": 9,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "administering",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "alinidine",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T2",
+            "name": "Arterial",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "Left ventricular capillary",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T13",
+            "name": "increased",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "alinidine",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T16",
+            "name": "administration",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "increase",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "increase",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "alinidine",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T18",
+            "name": "treatment",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "Left ventricular",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "alinidine",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T21",
+            "name": "treatment",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "increase",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "capillary",
+            "group": 8,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "VEGF",
+            "group": 7,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "increased",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "declined",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "VEGF",
+            "group": 7,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "alinidine",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T29",
+            "name": "treated",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "rats",
+            "group": 9,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "increased",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "Injection",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "VEGF",
+            "group": 7,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "VEGF-neutralizing antibodies",
+            "group": 7,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T49",
+            "name": "blocked",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "alinidine",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T50",
+            "name": "stimulated",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "angiogenesis",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T37",
+            "name": "bFGF",
+            "group": 7,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T51",
+            "name": "altered",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "alinidine",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T38",
+            "name": "treatment",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "VEGF",
+            "group": 7,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "plays a key role",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T42",
+            "name": "angiogenic",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "VEGF",
+            "group": 7,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "associated",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "angiogenesis",
+            "group": 6,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T11",
+            "target": "T1000",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T13",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T13",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T16",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T29",
+            "target": "T1001",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T31",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T38",
+            "target": "T39",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T23",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T33",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T33",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T35",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T41",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T44",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T46",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T47",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T49",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T49",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T50",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T50",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T51",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T52",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T52",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T53",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T1",
+            "target": "T54",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T4",
+            "target": "T55",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

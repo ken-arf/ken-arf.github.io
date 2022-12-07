@@ -4,157 +4,183 @@
             "id": 0,
             "value": 1,
             "name": "interactions",
-            "group": 2
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 1,
             "value": 2,
             "name": "immunity related genes CD28/B7 pathway|immunological genes in the CD28/B7 pathway",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 2,
             "value": 1,
             "name": "susceptibility",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 3,
             "value": 1,
             "name": "invasive ductal carcinoma breast",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 4,
             "value": 1,
             "name": "five SNPs filtered",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 5,
             "value": 3,
             "name": "rs733618|rs733618|rs733618",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 6,
             "value": 3,
             "name": "rs11889031|rs11889031|rs11889031",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 7,
             "value": 3,
             "name": "rs4553808|rs4675374|rs10754339",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 8,
             "value": 1,
             "name": "multifactor dimensionality reduction",
-            "group": 2
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 9,
             "value": 1,
             "name": "MDR",
-            "group": 2
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 10,
             "value": 1,
             "name": "high risk genotype",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "increasing",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 12,
             "value": 1,
             "name": "risk",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 13,
             "value": 2,
             "name": "breast cancer|breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 14,
             "value": 1,
             "name": "strongest",
-            "group": 7
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 15,
             "value": 1,
             "name": "filtered SNPs",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 16,
             "value": 1,
             "name": "stable",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 17,
             "value": 2,
             "name": "ER(+)|PR(+)",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 18,
             "value": 1,
             "name": "CerbB2(-)",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 19,
             "value": 1,
             "name": "lymph node",
-            "group": 4
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 20,
             "value": 1,
             "name": "best models",
-            "group": 7
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 21,
             "value": 1,
             "name": "and",
-            "group": 2
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 22,
             "value": 1,
             "name": "haplotype TACC",
-            "group": 2
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 23,
             "value": 1,
             "name": "significantly",
-            "group": 7
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 24,
             "value": 1,
             "name": "increased",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 25,
             "value": 1,
             "name": "risk",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         }
     ],
     "links": [

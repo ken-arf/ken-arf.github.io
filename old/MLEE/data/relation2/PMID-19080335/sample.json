@@ -1,0 +1,836 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "transplanted",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "mesenchymal stem cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T1000",
+            "name": "rats",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "heart",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "Mesenchymal stem cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T6",
+            "name": "MSCs",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "transplantation",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "patients",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "MSCs",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "transplanted",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "patients",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "transplanted",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "MSCs",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1003",
+            "name": "rats",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "heart",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "MSCs",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1004",
+            "name": "Sprague-Dawley (SD) rats",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T46",
+            "name": "isolated",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "cultured",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "apoptosis",
+            "group": 2,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "MSCs",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1005",
+            "name": "SD rats",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "injection",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "MSCs",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1006",
+            "name": "rats",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1007",
+            "name": "rats",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "differentiation",
+            "group": 5,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "grafted",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "cardiomyocytes",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "cell",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "transplantation",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "vascular endothelial growth factor",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T18",
+            "name": "VEGF",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "VIII-factor",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T20",
+            "name": "vessel",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T21",
+            "name": "caspase-3",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T23",
+            "name": "cardiomyocyte",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "apoptosis",
+            "group": 2,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "heart",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "apoptosis",
+            "group": 2,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "MSCs",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "MSCs",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "Engrafted",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T28",
+            "name": "MSCs",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "survived",
+            "group": 2,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "proliferated",
+            "group": 13,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "differentiated",
+            "group": 5,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "myocardium-like cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T31",
+            "name": "VEGF",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "expression",
+            "group": 7,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "capillary",
+            "group": 10,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T33",
+            "name": "transplantation",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "MSCs",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "attenuated",
+            "group": 3,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T35",
+            "name": "apoptosis",
+            "group": 2,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "cardiomyocytes",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "effect",
+            "group": 12,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "elevated",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T37",
+            "name": "MSCs",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "heart",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "ventricle",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "ventricle",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "MSCs",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T42",
+            "name": "heart",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "MSCs",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T62",
+            "name": "improved",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "MSCs",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "improve",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "improve",
+            "group": 12,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "heart",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "angiogenesis",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T48",
+            "name": "decreasing",
+            "group": 3,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "cardiomyocyte",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "apoptosis",
+            "group": 2,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "transplanted",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 18
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T7",
+            "target": "T1002",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T9",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T14",
+            "target": "T1005",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T22",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T30",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T35",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T48",
+            "target": "T49",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T48",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T49",
+            "target": "T50",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T46",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T46",
+            "target": "T1004",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T52",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T68",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T54",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T54",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T56",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T57",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T57",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T58",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T59",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T60",
+            "target": "T59",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T62",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T64",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T64",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T64",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T65",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T67",
+            "target": "T66",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T69",
+            "target": "T68",
+            "value": 2,
+            "link_name": "Instrument"
+        }
+    ]
+}

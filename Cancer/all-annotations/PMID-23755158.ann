@@ -1,0 +1,83 @@
+T1	Interaction 10 30	SNP-SNP interactions
+E1	Interaction:T1 
+T5	Cancer 102 115	breast cancer
+T6	Association 116 130	susceptibility
+E2	Association:T6 bc:T5 snp_int:E1
+T7	Spec 0 9	Assessing
+R1	Speculation_marker Arg1:E2 Arg2:T7	
+T8	Entity 10 13	SNP
+T9	Entity 227 257	single nucleotide polymorphism
+R2	Equiv Arg1:T8 Arg2:T9	
+T10	SNP 1233 1240	17 SNPs
+T14	Entity 1489 1504;1538 1558	Caucasian women from Alberta, Canada
+R9	Population_assignment Arg1:T10 Arg2:T14	
+T15	SNP 1612 1621	rs1130409
+T16	SNP 1632 1641	rs2297381
+T17	SNP 1648 1657	rs1799977
+T18	SNP 1667 1675	rs769412
+T19	Entity 1606 1611	APEX1
+T20	Entity 1626 1631	RPAP1
+R10	SNP_coupled_gene Arg1:T15 Arg2:T19	
+R11	SNP_coupled_gene Arg1:T16 Arg2:T20	
+T21	Entity 1643 1647	MLH1
+T22	Entity 1662 1666	MDM2
+R12	SNP_coupled_gene Arg1:T18 Arg2:T22	
+R13	SNP_coupled_gene Arg1:T17 Arg2:T21	
+T23	Interaction 1622 1625	and
+E3	Interaction:T23 Entity:T15 Entity2:T16
+T24	Interaction 1658 1661	and
+E4	Interaction:T24 Entity:T18 Entity2:T17
+T25	Effect_Type 1715 1723	elevated
+T26	Association 1724 1729	risks
+E5	Association:T26 bc:T27 snp_int:E4 snp_int2:E3
+A1	Effect_Type E5 Increase
+T27	Cancer 1734 1747	breast cancer
+R14	Effect_type_marker Arg1:E5 Arg2:T25	
+R15	Member Arg1:T10 Arg2:T15	
+R16	Member Arg1:T10 Arg2:T16	
+R17	Member Arg1:T10 Arg2:T17	
+R18	Member Arg1:T10 Arg2:T18	
+T28	Interaction 1810 1821	interaction
+E6	Interaction:T28 Entity:T29 Entity2:T30 Entity3:T31 Entity4:T32
+T29	SNP 1848 1857	rs4041245
+T30	SNP 1864 1873	rs1799977
+T31	SNP 1880 1888	rs769412
+T32	SNP 1896 1905	rs1799943
+T33	Entity 1843 1847	MBD2
+R19	SNP_coupled_gene Arg1:T29 Arg2:T33	
+R20	Member Arg1:T10 Arg2:T29	
+R21	Member Arg1:T10 Arg2:T32	
+T34	Entity 1859 1863	MLH1
+R22	SNP_coupled_gene Arg1:T30 Arg2:T34	
+T35	Entity 1875 1879	MDM2
+R23	SNP_coupled_gene Arg1:T31 Arg2:T35	
+T36	Entity 1890 1895	BRCA2
+R24	SNP_coupled_gene Arg1:T32 Arg2:T36	
+T37	Entity 2053 2058	BRCA2
+T38	SNP 2059 2068	rs1799943
+R25	SNP_coupled_gene Arg1:T38 Arg2:T37	
+T39	Level 2076 2109	stronger statistical significance
+T40	Association 1990 2010	single-locus effects
+E7	Association:T40 snp_int:T38 bc:T27
+T41	Association 1990 2010	single-locus effects
+E8	Association:T41 snp_int:T42 bc:T27 snp_int2:T15 snp_int3:T16 snp_int4:T17 snp_int5:T18 snp_int6:T29
+A2	Level E8 Low
+T42	Entity 2016 2045	weak statistical significance
+R26	Level_marker Arg1:E7 Arg2:T39	
+A3	Level E7 High
+T43	Neg 2197 2208	independent
+T44	Entity 2212 2227	body mass index
+R27	Negation_marker Arg1:T44 Arg2:T43	
+R28	Risk_Factor Arg1:T29 Arg2:T44	
+R31	Risk_Factor Arg1:T32 Arg2:T44	
+R32	Risk_Factor Arg1:T38 Arg2:T44	
+R33	Risk_Factor Arg1:T15 Arg2:T44	
+R34	Risk_Factor Arg1:T16 Arg2:T44	
+R35	Risk_Factor Arg1:T17 Arg2:T44	
+R36	Risk_Factor Arg1:T18 Arg2:T44	
+R37	Member Arg1:E1 Arg2:E3	
+R38	Member Arg1:E1 Arg2:E4	
+R39	Member Arg1:E1 Arg2:E6	
+R3	Equiv Arg1:T32 Arg2:T38	
+R4	Equiv Arg1:T17 Arg2:T30	
+R5	Equiv Arg1:T31 Arg2:T18	

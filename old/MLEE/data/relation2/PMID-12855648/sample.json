@@ -1,0 +1,1268 @@
+{
+    "nodes": [
+        {
+            "id": "T45",
+            "name": "targeting",
+            "group": 14,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "survivin",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "pathway",
+            "group": 9,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "suppression",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T76",
+            "name": "tumor",
+            "group": 7,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "angiogenesis",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "survivin",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "triggering",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "tumor cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "apoptosis",
+            "group": 3,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "inhibiting",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "tumor",
+            "group": 7,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "growth",
+            "group": 5,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "survivin",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T95",
+            "name": "cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T96",
+            "name": "death",
+            "group": 3,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "survivin",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "Human",
+            "group": 13,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "umbilical vein",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "dermal microvascular endothelial cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T77",
+            "name": "infected",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T79",
+            "name": "adenoviruses",
+            "group": 13,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "survivin",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "pAd-Survivin",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T13",
+            "name": "green fluorescent protein",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T16",
+            "name": "pAd-GFP",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T17",
+            "name": "survivin",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "pAd-T34A",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T20",
+            "name": "effect",
+            "group": 14,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "survivin",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "capillary network",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "endothelial cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "caspase",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "activation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "tumor",
+            "group": 7,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "growth",
+            "group": 5,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "angiogenesis",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "breast cancer xenograft",
+            "group": 7,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T97",
+            "name": "cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T98",
+            "name": "death",
+            "group": 3,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T99",
+            "name": "initiated",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "survivin",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T81",
+            "name": "targeting",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T32",
+            "name": "cytochrome c",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "release",
+            "group": 11,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "mouse",
+            "group": 13,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "embryonic fibroblasts",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T82",
+            "name": "deficient",
+            "group": 4,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "Apaf-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T35",
+            "name": "caspase-9",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T84",
+            "name": "Adenoviral",
+            "group": 13,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T83",
+            "name": "transduction",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "endothelial cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "pAd-Survivin",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T38",
+            "name": "ceramide",
+            "group": 12,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "reduced",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "caspase-3",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T85",
+            "name": "-7",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T40",
+            "name": "generation",
+            "group": 4,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "capillary networks",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "expression",
+            "group": 4,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "pAd-T34A",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T87",
+            "name": "caused",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T86",
+            "name": "apoptosis",
+            "group": 3,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "umbilical vein",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "dermal microvascular endothelial cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T51",
+            "name": "resulted",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "caspase-3",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T100",
+            "name": "Cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T101",
+            "name": "death",
+            "group": 3,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T102",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "survivin",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T88",
+            "name": "targeting",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "release",
+            "group": 11,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "cytochrome c",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "Apaf-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T58",
+            "name": "caspase-9",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T22",
+            "name": "knockout",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "mouse",
+            "group": 13,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "embryonic fibroblasts",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T89",
+            "name": "injected",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1003",
+            "name": "human",
+            "group": 13,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "breast cancer xenografts",
+            "group": 7,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T62",
+            "name": "pAd-T34A",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T61",
+            "name": "inhibited",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "growth",
+            "group": 5,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "tumors",
+            "group": 7,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T90",
+            "name": "triggered",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "tumor cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T91",
+            "name": "apoptosis",
+            "group": 3,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T92",
+            "name": "reduction",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "tumor",
+            "group": 7,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "blood vessels",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "CD31",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "tumor",
+            "group": 7,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "endothelial cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T93",
+            "name": "apoptosis",
+            "group": 3,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T73",
+            "name": "Survivin",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T72",
+            "name": "induction",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T75",
+            "name": "tumor cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T74",
+            "name": "apoptosis",
+            "group": 3,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T94",
+            "name": "suppression",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T78",
+            "name": "angiogenesis",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T39",
+            "target": "T83",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T40",
+            "target": "T85",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T43",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T54",
+            "target": "T55",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T22",
+            "target": "T58",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T61",
+            "target": "T62",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T61",
+            "target": "T63",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T64",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T45",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T48",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T50",
+            "target": "T66",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T77",
+            "target": "T79",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T77",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T77",
+            "target": "T79",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T77",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T81",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T82",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T82",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T83",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T83",
+            "target": "T84",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T40",
+            "target": "T41",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T39",
+            "target": "T83",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T86",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T87",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T87",
+            "target": "T86",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T86",
+            "target": "T49",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T87",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T87",
+            "target": "T86",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T88",
+            "target": "T53",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T22",
+            "target": "T57",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T89",
+            "target": "T60",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T89",
+            "target": "T62",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T90",
+            "target": "T91",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T90",
+            "target": "T62",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T91",
+            "target": "T65",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T92",
+            "target": "T68",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T93",
+            "target": "T71",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T72",
+            "target": "T74",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T74",
+            "target": "T75",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T94",
+            "target": "T78",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T96",
+            "target": "T95",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T98",
+            "target": "T97",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T99",
+            "target": "T81",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T99",
+            "target": "T98",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T101",
+            "target": "T100",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T102",
+            "target": "T101",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T102",
+            "target": "T88",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T3",
+            "target": "T76",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T28",
+            "target": "T29",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Participant"
+        },
+        {
+            "source": "T20",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T20",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T20",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T20",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T20",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T20",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T20",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T20",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T20",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T20",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T10",
+            "target": "T12",
+            "value": 1,
+            "link_name": "frag"
+        },
+        {
+            "source": "T47",
+            "target": "T49",
+            "value": 1,
+            "link_name": "frag"
+        },
+        {
+            "source": "T85",
+            "target": "T41",
+            "value": 1,
+            "link_name": "frag"
+        }
+    ]
+}

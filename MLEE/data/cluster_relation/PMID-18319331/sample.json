@@ -4,403 +4,470 @@
             "id": 0,
             "value": 1,
             "name": "Mitogen-activated protein kinase kinase",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 1,
             "value": 1,
             "name": "signaling",
-            "group": 10
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 2,
             "value": 1,
             "name": "promotes",
-            "group": 17
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 3,
             "value": 2,
             "name": "growth|growth",
-            "group": 9
+            "trigger": 1,
+            "group": 16
         },
         {
             "id": 4,
             "value": 2,
             "name": "vascularization|vascularization",
-            "group": 2
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 5,
             "value": 1,
             "name": "fibrosarcoma",
-            "group": 1
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 6,
             "value": 1,
             "name": "mitogen-activated protein kinase (MAPK) kinase",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 7,
             "value": 1,
             "name": "MKK",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 8,
             "value": 1,
             "name": "pathways",
-            "group": 10
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 9,
             "value": 1,
             "name": "essential",
-            "group": 17
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 10,
             "value": 1,
             "name": "soft-tissue sarcomas",
-            "group": 1
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 11,
             "value": 1,
             "name": "tumors",
-            "group": 1
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 12,
             "value": 1,
             "name": "mesenchymal tissues",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 13,
             "value": 1,
             "name": "HT-1080",
-            "group": 16
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 14,
             "value": 1,
             "name": "NCI",
-            "group": 16
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 15,
             "value": 1,
             "name": "Shac fibrosarcoma-derived cell lines",
-            "group": 16
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 16,
             "value": 1,
             "name": "anthrax",
-            "group": 7
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 17,
             "value": 1,
             "name": "lethal toxin",
-            "group": 3
+            "trigger": 0,
+            "group": 17
         },
         {
             "id": 18,
             "value": 1,
             "name": "LeTx",
-            "group": 3
+            "trigger": 0,
+            "group": 17
         },
         {
             "id": 19,
             "value": 1,
             "name": "inactivates",
-            "group": 4
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 20,
             "value": 1,
             "name": "MKKs",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 21,
             "value": 6,
             "name": "LeTx|LeTx|LeTx|LeTx|LeTx|LeTx",
-            "group": 3
+            "trigger": 0,
+            "group": 17
         },
         {
             "id": 22,
             "value": 1,
             "name": "treatment",
-            "group": 6
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 23,
             "value": 1,
             "name": "reduced",
-            "group": 4
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 24,
             "value": 1,
             "name": "phosphorylated",
+            "trigger": 1,
             "group": 14
         },
         {
             "id": 25,
             "value": 1,
             "name": "extracellular signal-regulated kinase",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 26,
             "value": 1,
             "name": "p38 MAPK",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 27,
             "value": 1,
             "name": "treatments",
-            "group": 6
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 28,
             "value": 1,
             "name": "affected",
-            "group": 13
+            "trigger": 1,
+            "group": 18
         },
         {
             "id": 29,
             "value": 2,
             "name": "cell|cell",
-            "group": 16
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 30,
             "value": 1,
             "name": "proliferation",
-            "group": 18
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 31,
             "value": 1,
             "name": "inhibited",
-            "group": 4
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 32,
             "value": 1,
             "name": "release",
-            "group": 11
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 33,
             "value": 2,
             "name": "angioproliferative|angioproliferative",
-            "group": 2
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 34,
             "value": 1,
             "name": "vascular endothelial growth factor",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 35,
             "value": 1,
             "name": "interleukin-8",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 36,
             "value": 1,
             "name": "basic fibroblast growth factor",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 37,
             "value": 1,
             "name": "cell",
-            "group": 16
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 38,
             "value": 1,
             "name": "malignant fibrous histiocytomas",
-            "group": 1
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 39,
             "value": 1,
             "name": "leiomyosarcomas",
-            "group": 1
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 40,
             "value": 1,
             "name": "liposarcomas",
-            "group": 1
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 41,
             "value": 1,
             "name": "decreased",
-            "group": 4
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 42,
             "value": 1,
             "name": "MAPK",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 43,
             "value": 1,
             "name": "blocked",
-            "group": 4
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 44,
             "value": 1,
             "name": "fibrosarcoma",
-            "group": 1
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 45,
             "value": 1,
             "name": "growth",
-            "group": 9
+            "trigger": 1,
+            "group": 16
         },
         {
             "id": 46,
             "value": 1,
             "name": "Growth",
-            "group": 9
+            "trigger": 1,
+            "group": 16
         },
         {
             "id": 47,
             "value": 1,
             "name": "inhibition",
-            "group": 4
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 48,
             "value": 1,
             "name": "cellular",
-            "group": 16
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 49,
             "value": 1,
             "name": "proliferation",
-            "group": 18
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 50,
             "value": 2,
             "name": "decrease|reduction",
-            "group": 4
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 51,
             "value": 1,
             "name": "tumor",
-            "group": 1
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 52,
             "value": 1,
             "name": "vessel",
-            "group": 12
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 53,
             "value": 1,
             "name": "serum",
-            "group": 0
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 54,
             "value": 1,
             "name": "effects",
-            "group": 13
+            "trigger": 1,
+            "group": 18
         },
         {
             "id": 55,
             "value": 1,
             "name": "tumor",
-            "group": 1
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 56,
             "value": 2,
             "name": "perfusion|perfusion",
-            "group": 15
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 57,
             "value": 1,
             "name": "resulted",
-            "group": 17
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 58,
             "value": 1,
             "name": "reduction",
-            "group": 4
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 59,
             "value": 1,
             "name": "tumor",
-            "group": 1
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 60,
             "value": 1,
             "name": "nontumor tissues",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 61,
             "value": 1,
             "name": "MKK",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 62,
             "value": 1,
             "name": "inhibition",
-            "group": 4
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 63,
             "value": 1,
             "name": "targeting",
-            "group": 13
+            "trigger": 1,
+            "group": 18
         },
         {
             "id": 64,
             "value": 1,
             "name": "neovascularization",
-            "group": 2
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 65,
             "value": 1,
             "name": "fibrosarcomas",
-            "group": 1
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 66,
             "value": 1,
             "name": "proliferative lesions",
-            "group": 1
+            "trigger": 0,
+            "group": 11
         }
     ],
     "links": [

@@ -4,145 +4,169 @@
             "id": 0,
             "value": 9,
             "name": "STX243|STX243|STX243|STX243|STX243|STX243|STX243|STX243|STX243",
+            "trigger": 0,
             "group": 5
         },
         {
             "id": 1,
             "value": 1,
             "name": "angiogenesis",
-            "group": 2
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 2,
             "value": 1,
             "name": "breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 3,
             "value": 5,
             "name": "2-ethyloestradiol-3,17-O,O-bis-sulphamate|2-methoxyoestradiol|2-MeOE2|2-MeOE2-3,17-O,O-bis-sulphamate|2-MeOE2",
+            "trigger": 0,
             "group": 5
         },
         {
             "id": 4,
             "value": 1,
             "name": "angiogenic",
-            "group": 2
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 5,
             "value": 3,
             "name": "STX140|STX140|STX140",
+            "trigger": 0,
             "group": 5
         },
         {
             "id": 6,
             "value": 1,
             "name": "tumour",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 7,
             "value": 1,
             "name": "growth",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 8,
             "value": 1,
             "name": "inhibition",
-            "group": 7
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 9,
             "value": 1,
             "name": "angiogenic",
-            "group": 2
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 10,
             "value": 1,
             "name": "potential",
-            "group": 7
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 11,
             "value": 1,
             "name": "retarding",
-            "group": 7
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 12,
             "value": 1,
             "name": "growth",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 13,
             "value": 2,
             "name": "MDA-MB-231 xenograft tumours|MCF-7 paclitaxel-resistant tumours",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 14,
             "value": 1,
             "name": "treated",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 15,
             "value": 1,
             "name": "tumour",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 16,
             "value": 1,
             "name": "inhibition",
-            "group": 7
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 17,
             "value": 1,
             "name": "active against",
-            "group": 3
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 18,
             "value": 1,
             "name": "paclitaxel",
+            "trigger": 0,
             "group": 5
         },
         {
             "id": 19,
             "value": 1,
             "name": "angiogenesis",
-            "group": 2
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 20,
             "value": 1,
             "name": "restricted",
-            "group": 7
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 21,
             "value": 1,
             "name": "angiogenic",
-            "group": 2
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 22,
             "value": 1,
             "name": "activity",
-            "group": 7
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 23,
             "value": 1,
             "name": "rats",
-            "group": 6
+            "trigger": 0,
+            "group": 7
         }
     ],
     "links": [

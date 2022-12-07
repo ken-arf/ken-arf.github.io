@@ -4,301 +4,351 @@
             "id": 0,
             "value": 4,
             "name": "Genetic variation|Genetic variation|Genetic variation|Genetic variation",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 1,
             "value": 6,
             "name": "IL6|IL6|IL6|IL6|IL6|IL6",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 2,
             "value": 3,
             "name": "IL6R|IL6R|IL6R",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 3,
             "value": 1,
             "name": "TNF",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 4,
             "value": 3,
             "name": "TNFRSF1A|TNFRSF1A|TNFRSF1A",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 5,
             "value": 1,
             "name": "risk",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 6,
             "value": 5,
             "name": "breast cancer|breast cancer|breast cancer|breast cancer|breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 7,
             "value": 1,
             "name": "explored",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 8,
             "value": 2,
             "name": "variation|variation",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 9,
             "value": 2,
             "name": "TNF|TNF",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 10,
             "value": 1,
             "name": "influenced",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 11,
             "value": 1,
             "name": "age",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 12,
             "value": 1,
             "name": "<44 years",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 13,
             "value": 1,
             "name": "45-64 years",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 14,
             "value": 1,
             "name": "65+ years",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 15,
             "value": 1,
             "name": "Age",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 16,
             "value": 1,
             "name": "odds ratios",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 17,
             "value": 1,
             "name": "ORs",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 18,
             "value": 1,
             "name": "evaluate",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 19,
             "value": 1,
             "name": "associated",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 20,
             "value": 4,
             "name": "variants|variants|variants|variants",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 21,
             "value": 2,
             "name": "significantly|significantly",
-            "group": 8
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 22,
             "value": 2,
             "name": "increased|increased",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 23,
             "value": 2,
             "name": "risk|risk",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 24,
             "value": 1,
             "name": "C>T",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 25,
             "value": 1,
             "name": "T alleles",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 26,
             "value": 3,
             "name": "rs2069861|rs2009658|rs767455",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 27,
             "value": 1,
             "name": "oldest age group",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 28,
             "value": 1,
             "name": "no",
-            "group": 5
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 29,
             "value": 2,
             "name": "variants|variants",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 30,
             "value": 2,
             "name": "combined data|combined data",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 31,
             "value": 1,
             "name": "elevated",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 32,
             "value": 1,
             "name": "risks",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 33,
             "value": 1,
             "name": "women",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 34,
             "value": 1,
             "name": "45-64 years old",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 35,
             "value": 1,
             "name": "UTR 5' flanking",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 36,
             "value": 1,
             "name": "LTA",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 37,
             "value": 2,
             "name": "C>G|T>C",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 38,
             "value": 1,
             "name": "G allele",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 39,
             "value": 1,
             "name": "C allele",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 40,
             "value": 1,
             "name": "supports",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 41,
             "value": 1,
             "name": "modest",
-            "group": 8
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 42,
             "value": 1,
             "name": "association",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 43,
             "value": 1,
             "name": "variant",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 44,
             "value": 2,
             "name": "breast cancer|breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 45,
             "value": 1,
             "name": "older",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 46,
             "value": 2,
             "name": "women|women",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 47,
             "value": 1,
             "name": "TNF",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 48,
             "value": 1,
             "name": "variants",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 49,
             "value": 1,
             "name": "middle-aged",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         }
     ],
     "links": [

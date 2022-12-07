@@ -1,0 +1,289 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Genetic variants",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 4,
+            "name": "5p12|5p12|5p12|5p12",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "risk|risk",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 4,
+            "name": "breast cancer|breast cance|breast cancer|breast cancer",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "women Han Chinese",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "women of European ancestry",
+            "group": 3
+        },
+        {
+            "id": 6,
+            "value": 2,
+            "name": "rs4415084|rs4415084",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "T>C",
+            "group": 3
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "rs10941679|rs10941679",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "A>G",
+            "group": 3
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "associated",
+            "group": 4
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "investigate",
+            "group": 2
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "SNPs",
+            "group": 0
+        },
+        {
+            "id": 13,
+            "value": 2,
+            "name": "Chinese population|Chinese population",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "two risk SNPs",
+            "group": 0
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "neither",
+            "group": 5
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "associated",
+            "group": 4
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "fine-mapping SNPs",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 1,
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,430 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "ATM",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T2",
+            "name": "haplotypes",
+            "group": 6,
+            "type": "Interaction",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "risk",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "Jewish women",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T6",
+            "name": "high-risk",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T9",
+            "name": "ATM",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T8",
+            "name": "haplotypes",
+            "group": 6,
+            "type": "Interaction",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "eight SNPs",
+            "group": 4,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T10",
+            "name": "142 kb",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "ethnically diverse non-Ashkenazi Jewish women",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 13
+        },
+        {
+            "id": "T12",
+            "name": "high-risk",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T17",
+            "name": "28 haplotypes",
+            "group": 6,
+            "type": "Interaction",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "rs228589",
+            "group": 4,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T14",
+            "name": "significantly more",
+            "group": 5,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "prevalent",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "one discriminative ATM haplotype",
+            "group": 6,
+            "type": "Interaction",
+            "trigger": 1,
+            "value": 15
+        },
+        {
+            "id": "T19",
+            "name": "significantly more",
+            "group": 5,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "prevalent",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "specific SNP",
+            "group": 4,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T23",
+            "name": "ATM",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T24",
+            "name": "specific haplotype",
+            "group": 6,
+            "type": "Interaction",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "increased",
+            "group": 3,
+            "type": "Effect_Type",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "risk",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "high-risk",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T29",
+            "name": "non-Ashkenazi Jews",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 16
+        }
+    ],
+    "links": [
+        {
+            "source": "T4",
+            "target": "T3",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T4",
+            "target": "T2",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 2,
+            "link_name": "snp_int2"
+        },
+        {
+            "source": "T8",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Entity"
+        },
+        {
+            "source": "T15",
+            "target": "T16",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T15",
+            "target": "T13",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T20",
+            "target": "T21",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T20",
+            "target": "T18",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T24",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Entity"
+        },
+        {
+            "source": "T25",
+            "target": "T27",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T25",
+            "target": "T22",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T25",
+            "target": "T24",
+            "value": 2,
+            "link_name": "snp_int2"
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T2",
+            "target": "T6",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T8",
+            "target": "T2",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T8",
+            "target": "T10",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T8",
+            "target": "T11",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T8",
+            "target": "T12",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T15",
+            "target": "T14",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T7",
+            "target": "T13",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T8",
+            "target": "T17",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T17",
+            "target": "T18",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T20",
+            "target": "T19",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T22",
+            "target": "T13",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T22",
+            "target": "T23",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T25",
+            "target": "T26",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T29",
+            "target": "T11",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T22",
+            "target": "T28",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T24",
+            "target": "T28",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T22",
+            "target": "T29",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T24",
+            "target": "T29",
+            "value": 1,
+            "link_name": "Population_assignment"
+        }
+    ]
+}

@@ -4,91 +4,106 @@
             "id": 0,
             "value": 1,
             "name": "Triple-negative breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 1,
             "value": 3,
             "name": "TN breast cancer|TN breast cancer|TN breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 2,
             "value": 2,
             "name": "Variants|Variants",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 3,
             "value": 2,
             "name": "19p13.1|19p13.1",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 4,
             "value": 1,
             "name": "PTHLH",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 5,
             "value": 1,
             "name": "significant",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 6,
             "value": 1,
             "name": "associations",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 7,
             "value": 1,
             "name": "stage 1 and 2",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 8,
             "value": 1,
             "name": "Associations",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 9,
             "value": 1,
             "name": "TERT",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 10,
             "value": 1,
             "name": "rs10069690",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 11,
             "value": 1,
             "name": "RAD51L1",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 12,
             "value": 3,
             "name": "rs2588809|rs12525163|rs1864112",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 13,
             "value": 1,
             "name": "ESR1",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 14,
             "value": 1,
             "name": "associated",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         }
     ],
     "links": [

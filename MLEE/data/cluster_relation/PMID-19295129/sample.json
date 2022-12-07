@@ -4,283 +4,330 @@
             "id": 0,
             "value": 4,
             "name": "PLCbeta3|PLCbeta3|PLCbeta3|PLCbeta3",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 1,
             "value": 4,
             "name": "VEGF|VEGF|VEGF|VEGF",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 2,
             "value": 1,
             "name": "mediated",
-            "group": 5
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 3,
             "value": 1,
             "name": "vascular",
-            "group": 3
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 4,
             "value": 1,
             "name": "sprouting",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 5,
             "value": 1,
             "name": "Endothelial cell",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 6,
             "value": 1,
             "name": "proliferation",
-            "group": 12
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 7,
             "value": 1,
             "name": "migration",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 8,
             "value": 1,
             "name": "essential",
-            "group": 11
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 9,
             "value": 1,
             "name": "angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 10,
             "value": 1,
             "name": "proliferation",
-            "group": 12
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 11,
             "value": 1,
             "name": "chemotaxis",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 12,
             "value": 1,
             "name": "endothelial cells",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 13,
             "value": 1,
             "name": "driven",
-            "group": 5
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 14,
             "value": 1,
             "name": "vascular endothelial growth factor",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 15,
             "value": 1,
             "name": "VEGF",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 16,
             "value": 1,
             "name": "basic fibroblast growth factor",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 17,
             "value": 1,
             "name": "bFGF",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 18,
             "value": 1,
             "name": "activates",
-            "group": 11
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 19,
             "value": 1,
             "name": "phospholipases",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 20,
             "value": 1,
             "name": "PLCs",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 21,
             "value": 1,
             "name": "PLCgamma1",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 22,
             "value": 1,
             "name": "important",
-            "group": 11
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 23,
             "value": 1,
             "name": "tubulogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 24,
             "value": 1,
             "name": "VEGFR2",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 25,
             "value": 2,
             "name": "induces|induces",
-            "group": 11
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 26,
             "value": 1,
             "name": "phosphorylation",
-            "group": 8
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 27,
             "value": 1,
             "name": "two serine residues",
-            "group": 6
+            "trigger": 0,
+            "group": 14
         },
         {
             "id": 28,
             "value": 1,
             "name": "Knockdown",
-            "group": 7
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 29,
             "value": 1,
             "name": "HUVEC cells",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 30,
             "value": 1,
             "name": "affects",
-            "group": 5
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 31,
             "value": 1,
             "name": "IP3",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 32,
             "value": 1,
             "name": "production",
-            "group": 14
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 33,
             "value": 1,
             "name": "actin",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 34,
             "value": 1,
             "name": "reorganization",
-            "group": 5
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 35,
             "value": 1,
             "name": "migration",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 36,
             "value": 2,
             "name": "proliferation|proliferation",
-            "group": 12
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 37,
             "value": 1,
             "name": "migration",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 38,
             "value": 1,
             "name": "inhibited",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 39,
             "value": 1,
             "name": "enhanced",
-            "group": 11
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 40,
             "value": 1,
             "name": "cell",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 41,
             "value": 1,
             "name": "activate",
-            "group": 11
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 42,
             "value": 1,
             "name": "CDC42",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 43,
             "value": 1,
             "name": "heterotrimeric G-proteins",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 44,
             "value": 1,
             "name": "G-protein",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 45,
             "value": 1,
             "name": "signaling",
-            "group": 1
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 46,
             "value": 1,
             "name": "angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         }
     ],
     "links": [

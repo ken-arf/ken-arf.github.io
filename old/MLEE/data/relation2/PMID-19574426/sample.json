@@ -1,0 +1,964 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Angiogenesis",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "platelet endothelial cell adhesion molecule-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1000",
+            "name": "platelet endothelial cell adhesion molecule-1-null mice",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T19",
+            "name": "null",
+            "group": 4,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "Platelet endothelial cell adhesion molecule (PECAM)-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T6",
+            "name": "endothelial cell",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "migration",
+            "group": 5,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "anti-PECAM-1 antibodies",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T12",
+            "name": "PECAM-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T24",
+            "name": "inhibit",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "angiogenesis",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "PECAM-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1001",
+            "name": "PECAM-1-null mice",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T26",
+            "name": "null",
+            "group": 4,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "involvement",
+            "group": 13,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "PECAM-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "blood vessel",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "formation",
+            "group": 6,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "Vascularization",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "tumor",
+            "group": 7,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "angiogenesis",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "inhibited",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "PECAM-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T1002",
+            "name": "PECAM-1-null mice",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T44",
+            "name": "null",
+            "group": 4,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "bone marrow",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "transplants",
+            "group": 9,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "PECAM-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1003",
+            "name": "PECAM-1-deficient mice",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T47",
+            "name": "deficient",
+            "group": 4,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "impaired",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "angiogenic",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "loss",
+            "group": 5,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "endothelial",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "leukocyte",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T29",
+            "name": "PECAM-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T81",
+            "name": "cell",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T82",
+            "name": "motility",
+            "group": 5,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "PECAM-1-null endothelial cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T31",
+            "name": "PECAM-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T75",
+            "name": "filopodia",
+            "group": 3,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T76",
+            "name": "formation",
+            "group": 6,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T83",
+            "name": "cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T84",
+            "name": "inhibited",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "PECAM-1-null endothelial cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T37",
+            "name": "PECAM-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1004",
+            "name": "human",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T39",
+            "name": "endothelial cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "treated",
+            "group": 9,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "anti-PECAM-1 antibody",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T7",
+            "name": "PECAM-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T9",
+            "name": "PECAM-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T42",
+            "name": "expression",
+            "group": 4,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T43",
+            "name": "PECAM-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T46",
+            "name": "promoted",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T73",
+            "name": "filopodia",
+            "group": 3,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T74",
+            "name": "formation",
+            "group": 6,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "increased",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "expression",
+            "group": 4,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "Cdc42",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T50",
+            "name": "Rho",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "promote",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T78",
+            "name": "formation",
+            "group": 6,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T77",
+            "name": "filopodia",
+            "group": 3,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T71",
+            "name": "developing",
+            "group": 6,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "retinal vasculature",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T72",
+            "name": "long filamentous filopodia",
+            "group": 3,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T56",
+            "name": "endothelial cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "angiogenic",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "sprouts",
+            "group": 11,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "PECAM-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1005",
+            "name": "PECAM-1-null mice",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T55",
+            "name": "null",
+            "group": 4,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "involvement",
+            "group": 13,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "PECAM-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T63",
+            "name": "angiogenesis",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "PECAM-1",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T61",
+            "name": "stimulate",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "endothelial cell",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "motility",
+            "group": 5,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "promoting",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T80",
+            "name": "formation",
+            "group": 6,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T79",
+            "name": "filopodia",
+            "group": 3,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 20
+        }
+    ],
+    "links": [
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T42",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T48",
+            "target": "T49",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T19",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T24",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T24",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T26",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T27",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T32",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T35",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T35",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T44",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T47",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T60",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T60",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T60",
+            "target": "T4",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T34",
+            "target": "T39",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T38",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T38",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T46",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T46",
+            "target": "T74",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T49",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T53",
+            "target": "T78",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T59",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T61",
+            "target": "T68",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T61",
+            "target": "T65",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T65",
+            "target": "T67",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T68",
+            "target": "T64",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T68",
+            "target": "T80",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T70",
+            "target": "T62",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T70",
+            "target": "T63",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T71",
+            "target": "T54",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T74",
+            "target": "T73",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T76",
+            "target": "T75",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T78",
+            "target": "T77",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T80",
+            "target": "T79",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T82",
+            "target": "T81",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T84",
+            "target": "T76",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T1",
+            "target": "T1000",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T18",
+            "target": "T17",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T57",
+            "target": "T58",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T60",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T60",
+            "target": "T28",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T51",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T60",
+            "value": 2,
+            "link_name": "Cause"
+        }
+    ]
+}

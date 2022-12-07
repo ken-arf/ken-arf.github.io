@@ -11,7 +11,7 @@
         {
             "id": "T1",
             "name": "ESR1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -19,7 +19,7 @@
         {
             "id": "T2",
             "name": "FLJ43663",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -27,7 +27,7 @@
         {
             "id": "T4",
             "name": "associated",
-            "group": 2,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T5",
             "name": "breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -43,7 +43,7 @@
         {
             "id": "T6",
             "name": "Han population",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -59,7 +59,7 @@
         {
             "id": "T8",
             "name": "ESR1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -75,7 +75,7 @@
         {
             "id": "T10",
             "name": "FLJ43663",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -83,7 +83,7 @@
         {
             "id": "T11",
             "name": "associated",
-            "group": 2,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T12",
             "name": "breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -99,7 +99,7 @@
         {
             "id": "T13",
             "name": "C",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T15",
             "name": "associated",
-            "group": 2,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -131,7 +131,7 @@
         {
             "id": "T17",
             "name": "breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -139,7 +139,7 @@
         {
             "id": "T18",
             "name": "GG",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T20",
             "name": "protective genotype",
-            "group": 1,
+            "group": 2,
             "type": "Protective_effect",
             "trigger": 1,
             "value": 22
@@ -163,7 +163,7 @@
         {
             "id": "T21",
             "name": "breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23

@@ -1,0 +1,367 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "breast cancer|breast cancer",
+            "group": 2
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "2q35",
+            "group": 5
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "276 SNPs",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "strongly",
+            "group": 8
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "correlated",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 3,
+            "name": "rs4442975|rs4442975|rs4442975",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 2,
+            "name": "G/T|G/A",
+            "group": 5
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "rs6721996",
+            "group": 0
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "causal",
+            "group": 6
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "best functional",
+            "group": 8
+        },
+        {
+            "id": 10,
+            "value": 2,
+            "name": "associated|associated",
+            "group": 6
+        },
+        {
+            "id": 11,
+            "value": 2,
+            "name": "oestrogen receptor positive disease|oestrogen receptor",
+            "group": 2
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "positive",
+            "group": 7
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "ER",
+            "group": 5
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "Europeans",
+            "group": 5
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "t-allel",
+            "group": 5
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "This SNP",
+            "group": 0
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "flanks a transcriptional enhancer",
+            "group": 5
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "interacts",
+            "group": 3
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "promoter of IGFBP5",
+            "group": 5
+        },
+        {
+            "id": 20,
+            "value": 3,
+            "name": "IGFBP5|IGFBP5|IGFBP5",
+            "group": 5
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "insulin-like growth factor-binding protein 5",
+            "group": 5
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "allele-specific gene expression",
+            "group": 3
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "FOXA1",
+            "group": 5
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "binding",
+            "group": 3
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "chromatin",
+            "group": 5
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "looping",
+            "group": 1
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "g-allele",
+            "group": 5
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "increased",
+            "group": 7
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "susceptibility",
+            "group": 6
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "downregulation",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 4,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 27,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 28,
+            "value": 1
+        }
+    ]
+}

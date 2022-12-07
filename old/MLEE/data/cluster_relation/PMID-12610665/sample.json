@@ -1,0 +1,326 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 5,
+            "name": "Arteriogenesis|arteriogenesis|arteriogenesis|arteriogenesis|arteriogenesis",
+            "group": 5
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "development",
+            "group": 11
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "growth",
+            "group": 1
+        },
+        {
+            "id": 3,
+            "value": 6,
+            "name": "collateral arteries|collateral vessels|collateral arteries|collateral vessels|collateral artery|collateral arteries",
+            "group": 4
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "patients",
+            "group": 9
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "arterial obstructions",
+            "group": 3
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "patients",
+            "group": 9
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "formation",
+            "group": 11
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "dependent",
+            "group": 12
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "tissue",
+            "group": 0
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "humans",
+            "group": 9
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "remodeling",
+            "group": 14
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "formation",
+            "group": 11
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "remodeling",
+            "group": 14
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "involves",
+            "group": 7
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "endothelial cell",
+            "group": 10
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "activation",
+            "group": 12
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "basal membrane",
+            "group": 6
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "degradation",
+            "group": 8
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "leukocyte",
+            "group": 10
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "invasion",
+            "group": 2
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "proliferation",
+            "group": 13
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "vascular cells",
+            "group": 10
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "neointima",
+            "group": 0
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "formation",
+            "group": 11
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "changes",
+            "group": 7
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "extracellular matrix",
+            "group": 6
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "form",
+            "group": 11
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "patients",
+            "group": 9
+        }
+    ],
+    "links": [
+        {
+            "source": 17,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 24,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 3,
+            "value": 2
+        }
+    ]
+}

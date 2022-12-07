@@ -3,7 +3,7 @@
         {
             "id": "T1",
             "name": "CYP3A",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -11,7 +11,7 @@
         {
             "id": "T2",
             "name": "variation",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T7",
             "name": "premenopausal",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -27,7 +27,7 @@
         {
             "id": "T6",
             "name": "estrone",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T5",
             "name": "levels",
-            "group": 4,
+            "group": 6,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -43,7 +43,7 @@
         {
             "id": "T4",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T3",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T8",
             "name": "to identify",
-            "group": 8,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -67,7 +67,7 @@
         {
             "id": "T9",
             "name": "variants",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T10",
             "name": "genes sex steroid synthesis or metabolism",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -83,7 +83,7 @@
         {
             "id": "T12",
             "name": "hormone",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T11",
             "name": "levels",
-            "group": 4,
+            "group": 6,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -99,7 +99,7 @@
         {
             "id": "T13",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T14",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T15",
             "name": "premenopausal",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -123,7 +123,7 @@
         {
             "id": "T16",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -131,7 +131,7 @@
         {
             "id": "T20",
             "name": "premenopausal",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -139,7 +139,7 @@
         {
             "id": "T21",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T17",
             "name": "rs10273424",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -155,7 +155,7 @@
         {
             "id": "T18",
             "name": "tested",
-            "group": 8,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T19",
             "name": "association",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -171,7 +171,7 @@
         {
             "id": "T22",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -179,7 +179,7 @@
         {
             "id": "T36",
             "name": "rs10273424",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -187,7 +187,7 @@
         {
             "id": "T37",
             "name": "rs10273424",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -195,7 +195,7 @@
         {
             "id": "T26",
             "name": "50 kb centromeric",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -203,7 +203,7 @@
         {
             "id": "T25",
             "name": "cytochrome P450 3A",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -211,7 +211,7 @@
         {
             "id": "T24",
             "name": "CYP3A",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -219,7 +219,7 @@
         {
             "id": "T27",
             "name": "7q22.1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -227,7 +227,7 @@
         {
             "id": "T40",
             "name": "21.8%",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 17
@@ -235,7 +235,7 @@
         {
             "id": "T29",
             "name": "reduction",
-            "group": 3,
+            "group": 7,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -243,7 +243,7 @@
         {
             "id": "T30",
             "name": "E1G",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -251,7 +251,7 @@
         {
             "id": "T31",
             "name": "levels",
-            "group": 4,
+            "group": 6,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T32",
             "name": "modest",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -267,7 +267,7 @@
         {
             "id": "T33",
             "name": "reduction",
-            "group": 3,
+            "group": 7,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -275,7 +275,7 @@
         {
             "id": "T28",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -283,7 +283,7 @@
         {
             "id": "T34",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -291,7 +291,7 @@
         {
             "id": "T35",
             "name": "breast cancer diagnosed at or before age 50 years",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -299,7 +299,7 @@
         {
             "id": "T38",
             "name": "breast cancer diagnosed after age 50 years",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -307,7 +307,7 @@
         {
             "id": "T39",
             "name": "not",
-            "group": 7,
+            "group": 4,
             "type": "Neg",
             "trigger": 0,
             "value": 23
@@ -315,7 +315,7 @@
         {
             "id": "T23",
             "name": "Genetic variation",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 22
@@ -323,7 +323,7 @@
         {
             "id": "T41",
             "name": "CYP3A",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -331,7 +331,7 @@
         {
             "id": "T44",
             "name": "premenopausal",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -339,7 +339,7 @@
         {
             "id": "T43",
             "name": "E1G",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -347,7 +347,7 @@
         {
             "id": "T42",
             "name": "levels",
-            "group": 4,
+            "group": 6,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -355,7 +355,7 @@
         {
             "id": "T45",
             "name": "associated",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -363,7 +363,7 @@
         {
             "id": "T46",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -371,7 +371,7 @@
         {
             "id": "T47",
             "name": "younger patients",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23

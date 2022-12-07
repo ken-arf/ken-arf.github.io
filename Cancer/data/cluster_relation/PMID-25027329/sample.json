@@ -4,55 +4,64 @@
             "id": 0,
             "value": 2,
             "name": "5p15.33|5p15.33",
-            "group": 0
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 1,
             "value": 1,
             "name": "telomerase reverse transcriptase",
-            "group": 0
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 2,
             "value": 1,
             "name": "TERT",
-            "group": 0
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 3,
             "value": 4,
             "name": "rs7726159|rs2853677|rs2736098|rs10069690",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 4,
             "value": 1,
             "name": "rs13172201",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 5,
             "value": 1,
             "name": "CLPTM1L",
-            "group": 0
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 6,
             "value": 1,
             "name": "rs451360",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 7,
             "value": 1,
             "name": "DNA methylation",
-            "group": 2
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 8,
             "value": 1,
             "name": "risk variants",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         }
     ],
     "links": [

@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Reproductive aging",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "genetic variants",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "risk",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 3,
+            "name": "breast cancer|breast cancer|breast cancer",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "white women of European ancestry",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "value": 3,
+            "name": "age at menarche|age at natural menopause|age at menarche",
+            "group": 3
+        },
+        {
+            "id": 6,
+            "value": 3,
+            "name": "rs1079866|rs7821178|rs2517388",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "associated|associated",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "These associations",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "suggests",
+            "group": 2
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "three genetic variants",
+            "group": 0
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "independent",
+            "group": 5
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "natural menopause",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,474 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "telomere length",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "length",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "TL",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "admixed population",
+            "group": 4
+        },
+        {
+            "id": 4,
+            "value": 3,
+            "name": "US non-Hispanic white women|U.S. Mexican women|U.S. Hispanic women",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "TL-related genes",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "MEN1",
+            "group": 4
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "MRE11A|RECQL5",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "TEP1|TEP1",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "TERC",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 2,
+            "name": "TERF2|TERF2",
+            "group": 4
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "TERT",
+            "group": 4
+        },
+        {
+            "id": 12,
+            "value": 2,
+            "name": "TNKS|TNKS",
+            "group": 4
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "TNKS2",
+            "group": 4
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "Several single nucleotide polymorphisms",
+            "group": 2
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "TL",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "association",
+            "group": 6
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 3
+        },
+        {
+            "id": 18,
+            "value": 8,
+            "name": "rs93886|rs3785074|rs4246742|rs10069690|rs2242652|rs6990300|rs2736118|rs2735940",
+            "group": 2
+        },
+        {
+            "id": 19,
+            "value": 5,
+            "name": "TERT|TERT|TERT|TERT|TERT",
+            "group": 4
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "hormone receptor",
+            "group": 4
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "status of tumors",
+            "group": 0
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "Most notable",
+            "group": 8
+        },
+        {
+            "id": 23,
+            "value": 2,
+            "name": "associations|associations",
+            "group": 6
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "estrogen receptor negative/progesterone receptor positive tumors",
+            "group": 3
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "estrogen receptor",
+            "group": 4
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "negative",
+            "group": 5
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "progesterone receptor",
+            "group": 4
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "positive",
+            "group": 7
+        },
+        {
+            "id": 29,
+            "value": 2,
+            "name": "ER-/PR+ tumors|ER-/PR- tumors",
+            "group": 3
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "ER",
+            "group": 4
+        },
+        {
+            "id": 31,
+            "value": 2,
+            "name": "-|-",
+            "group": 5
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "PR",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 16,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 29,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 31,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 5,
+            "value": 1
+        }
+    ]
+}

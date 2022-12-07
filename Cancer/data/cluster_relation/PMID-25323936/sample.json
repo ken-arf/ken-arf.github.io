@@ -4,162 +4,189 @@
             "id": 0,
             "value": 3,
             "name": "ESR1|ESR1|ESR1",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 1,
             "value": 5,
             "name": "rs2881766|rs2881766|rs2881766|rs2881766|rs2881766",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 2,
             "value": 1,
             "name": "increases",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 3,
             "value": 6,
             "name": "breast cancer|breast cancer|breast cancer|breast cancer|breast cancer|breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 4,
             "value": 10,
             "name": "risk|risk|risk|risk|risk|risk|risk|risk|risk|risk",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 5,
             "value": 3,
             "name": "Korean women|Korean women|Korean women",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 6,
             "value": 1,
             "name": "evaluate",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 7,
             "value": 1,
             "name": "association",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 8,
             "value": 1,
             "name": "polymorphisms",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 9,
             "value": 1,
             "name": "estrogen-metabolizing enzyme genes",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 10,
             "value": 1,
             "name": "estrogen receptor genes",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "age group",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 12,
             "value": 1,
             "name": "three groups",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 13,
             "value": 3,
             "name": "premenopausal under 35 years|premenopausal over 35 years|premenopausal over 35 years",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 14,
             "value": 2,
             "name": "postmenopausal|postmenopausal",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 15,
             "value": 6,
             "name": "luminal A|luminal B|luminal A|luminal B|luminal A|luminal B",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 16,
             "value": 2,
             "name": "HER2-overexpressing|HER2-overexpressing",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 17,
             "value": 1,
             "name": "triple-negative",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 18,
             "value": 1,
             "name": "rs2077647",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 19,
             "value": 3,
             "name": "rs926778|rs926778|rs926778",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 20,
             "value": 1,
             "name": "rs2273206",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 21,
             "value": 6,
             "name": "increased|increased|increased|increased|increased|increased",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 22,
             "value": 3,
             "name": "rs3798377|Rs3798577|rs3798377",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 23,
             "value": 3,
             "name": "decreased|decreased|decreased",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 24,
             "value": 1,
             "name": "all three age groups",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 25,
             "value": 3,
             "name": "triple-negative|triple-negative|triple-negative",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 26,
             "value": 1,
             "name": "except for",
+            "trigger": 0,
             "group": 6
         }
     ],

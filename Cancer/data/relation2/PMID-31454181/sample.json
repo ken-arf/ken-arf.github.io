@@ -3,7 +3,7 @@
         {
             "id": "T1",
             "name": "TERT",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T2",
             "name": "rs10069690",
-            "group": 4,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -19,7 +19,7 @@
         {
             "id": "T6",
             "name": "telomerase reverse transcriptase",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -27,7 +27,7 @@
         {
             "id": "T5",
             "name": "TERT",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T3",
             "name": "rs10069690",
-            "group": 4,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -43,7 +43,7 @@
         {
             "id": "T4",
             "name": "C>T",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -51,7 +51,7 @@
         {
             "id": "T10",
             "name": "rs10069690",
-            "group": 4,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -59,7 +59,7 @@
         {
             "id": "T7",
             "name": "increased",
-            "group": 3,
+            "group": 4,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -67,7 +67,7 @@
         {
             "id": "T8",
             "name": "risk",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T9",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T13",
             "name": "TERT",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T12",
             "name": "rs10069690",
-            "group": 4,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -99,7 +99,7 @@
         {
             "id": "T11",
             "name": "may",
-            "group": 5,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -107,7 +107,7 @@
         {
             "id": "T14",
             "name": "risk factor",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T15",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23

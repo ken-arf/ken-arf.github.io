@@ -1,0 +1,513 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "Risk|Risk",
+            "group": 7
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "estrogen receptor|estrogen receptor",
+            "group": 5
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "positive",
+            "group": 6
+        },
+        {
+            "id": 3,
+            "value": 3,
+            "name": "negative breast cancer estrogen receptor-|breast cancer estrogen receptor-positive|estrogen receptor -positive breast cancer",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "negative",
+            "group": 8
+        },
+        {
+            "id": 5,
+            "value": 3,
+            "name": "2q35|2q35|2q35",
+            "group": 5
+        },
+        {
+            "id": 6,
+            "value": 6,
+            "name": "rs13387042|rs13387042|rs13387042|rs13387042|rs13387042|rs13387042",
+            "group": 2
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "susceptibility|susceptibility",
+            "group": 7
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "ER",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "positive",
+            "group": 6
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "women",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "evidence",
+            "group": 4
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "association",
+            "group": 7
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "white women of European origin",
+            "group": 5
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "not",
+            "group": 8
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "age",
+            "group": 5
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "ethnicity",
+            "group": 5
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "it",
+            "group": 7
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "higher",
+            "group": 0
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "strong family history",
+            "group": 5
+        },
+        {
+            "id": 21,
+            "value": 2,
+            "name": "association|association",
+            "group": 7
+        },
+        {
+            "id": 22,
+            "value": 2,
+            "name": "ER-positive disease|ER-positive",
+            "group": 3
+        },
+        {
+            "id": 23,
+            "value": 2,
+            "name": "ER|ER",
+            "group": 5
+        },
+        {
+            "id": 24,
+            "value": 3,
+            "name": "positive|positive|positive",
+            "group": 6
+        },
+        {
+            "id": 25,
+            "value": 3,
+            "name": "ER-negative disease|PR-negative disease|ER-negative breast cancer",
+            "group": 3
+        },
+        {
+            "id": 26,
+            "value": 3,
+            "name": "negative|negative|negative",
+            "group": 8
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "progesterone receptor positive disease",
+            "group": 3
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "progesterone receptor",
+            "group": 5
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "PR",
+            "group": 5
+        },
+        {
+            "id": 30,
+            "value": 2,
+            "name": "associated|associated",
+            "group": 7
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "European women",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 31,
+            "value": 1
+        },
+        {
+            "source": 30,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 30,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 6,
+            "value": 1
+        }
+    ]
+}

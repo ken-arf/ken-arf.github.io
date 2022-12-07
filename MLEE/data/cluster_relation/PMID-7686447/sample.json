@@ -4,355 +4,414 @@
             "id": 0,
             "value": 1,
             "name": "Heparin",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 1,
             "value": 1,
             "name": "steroid",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 2,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 3,
             "value": 1,
             "name": "tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 4,
             "value": 1,
             "name": "activity",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 5,
             "value": 1,
             "name": "mice",
-            "group": 10
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 6,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 7,
             "value": 2,
             "name": "treatment|treatment",
-            "group": 7
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 8,
             "value": 1,
             "name": "cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 9,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 10,
             "value": 1,
             "name": "blood vessels",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 11,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 12,
             "value": 1,
             "name": "heparin",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 13,
             "value": 1,
             "name": "heparin adipic hydrazide",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 14,
             "value": 1,
             "name": "HAH",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 15,
             "value": 1,
             "name": "angiogenic",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 16,
             "value": 1,
             "name": "steroid",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 17,
             "value": 1,
             "name": "cortisol",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 18,
             "value": 1,
             "name": "heparin",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 19,
             "value": 1,
             "name": "binds",
-            "group": 8
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 20,
             "value": 1,
             "name": "endothelial cells",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 21,
             "value": 1,
             "name": "steroid",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 22,
             "value": 1,
             "name": "vascular endothelial cells",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 23,
             "value": 1,
             "name": "release",
-            "group": 2
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 24,
             "value": 1,
             "name": "cortisol",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 25,
             "value": 7,
             "name": "HAH-cortisol|HAH-cortisol|HAH-cortisol|HAH-cortisol|HAH-cortisol|HAH-cortisol|HAH-cortisol",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 26,
             "value": 1,
             "name": "broke down",
-            "group": 6
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 27,
             "value": 1,
             "name": "Treatment",
-            "group": 7
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 28,
             "value": 2,
             "name": "murine|murine",
-            "group": 10
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 29,
             "value": 2,
             "name": "pulmonary capillary endothelial cells|pulmonary capillary endothelial cells",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 30,
             "value": 2,
             "name": "cortisol|cortisol",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 31,
             "value": 1,
             "name": "inhibited",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 32,
             "value": 1,
             "name": "migration",
-            "group": 2
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 33,
             "value": 2,
             "name": "Lewis lung carcinoma cells|Lewis lung carcinomas",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 34,
             "value": 2,
             "name": "injections|injections",
-            "group": 7
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 35,
             "value": 1,
             "name": "mice",
-            "group": 10
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 36,
             "value": 1,
             "name": "retarded",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 37,
             "value": 2,
             "name": "vascularization|vascularization",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 38,
             "value": 1,
             "name": "abolished",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 39,
             "value": 1,
             "name": "retarded",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 40,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 41,
             "value": 1,
             "name": "mice",
-            "group": 10
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 42,
             "value": 1,
             "name": "treatments",
-            "group": 7
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 43,
             "value": 2,
             "name": "HAH|HAH",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 44,
             "value": 1,
             "name": "cortisol",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 45,
             "value": 1,
             "name": "proliferative",
-            "group": 0
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 46,
             "value": 1,
             "name": "effect",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 47,
             "value": 1,
             "name": "endothelial cells",
-            "group": 11
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 48,
             "value": 1,
             "name": "glucocorticoid",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 49,
             "value": 1,
             "name": "steroid",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 50,
             "value": 1,
             "name": "conjugated",
-            "group": 7
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 51,
             "value": 1,
             "name": "5 beta-pregnane-3 alpha,17 alpha,21-triol-20-one",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 52,
             "value": 1,
             "name": "r",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 53,
             "value": 1,
             "name": "glucocorticoid",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 54,
             "value": 1,
             "name": "mineralocorticoid",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 55,
             "value": 1,
             "name": "HAH-cortisol",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 56,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 57,
             "value": 1,
             "name": "cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 58,
             "value": 1,
             "name": "angiogenic",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         }
     ],
     "links": [

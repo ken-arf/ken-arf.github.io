@@ -4,367 +4,428 @@
             "id": 0,
             "value": 2,
             "name": "tumor|tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 1,
             "value": 2,
             "name": "angiogenesis|angiogenesis",
+            "trigger": 1,
             "group": 3
         },
         {
             "id": 2,
             "value": 1,
             "name": "induced",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 3,
             "value": 1,
             "name": "cotransplantation",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 4,
             "value": 2,
             "name": "cancer|cancer",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 5,
             "value": 3,
             "name": "endothelial cells|endothelial cells|endothelial cells",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 6,
             "value": 2,
             "name": "nude rats|nude rats",
-            "group": 7
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 7,
             "value": 1,
             "name": "mediating",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 8,
             "value": 2,
             "name": "interaction|interaction",
-            "group": 6
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 9,
             "value": 1,
             "name": "cultured",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 10,
             "value": 1,
             "name": "murine",
-            "group": 7
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 11,
             "value": 1,
             "name": "endothelial cell line",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 12,
             "value": 1,
             "name": "F-2",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 13,
             "value": 1,
             "name": "human",
-            "group": 7
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 14,
             "value": 1,
             "name": "cultured",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 15,
             "value": 1,
             "name": "epidermoid cancer cells",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 16,
             "value": 3,
             "name": "A431|A431|A431",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 17,
             "value": 7,
             "name": "A431 cells|A431 cells|A431 cell|A431 tumors|A431 tumors|A431 tumors|A431 tumors",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 18,
             "value": 1,
             "name": "cell",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 19,
             "value": 1,
             "name": "adhesion",
-            "group": 6
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 20,
             "value": 1,
             "name": "endothelial F-2 cells",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 21,
             "value": 1,
             "name": "adhesion",
-            "group": 6
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 22,
             "value": 2,
             "name": "mediated|mediated",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 23,
             "value": 5,
             "name": "sialyl Lewis(x)|sialyl Le(a)|anti-sialyl Le(x)/Le(a)|sialyl Le(x)|anti-Le(x)/Le(a)",
-            "group": 8
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 24,
             "value": 4,
             "name": "Le(x)|Le(a)|Le(x)|Le(a)",
-            "group": 8
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 25,
             "value": 1,
             "name": "cancer cells",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 26,
             "value": 1,
             "name": "E-selectin",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 27,
             "value": 1,
             "name": "expressed",
-            "group": 16
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 28,
             "value": 12,
             "name": "F-2 cells|F-2 cells|F-2 cells|F-2 cells|F-2 cells|F-2 cell|F-2 cells|F-2 cells|F-2 cells|F-2 cells|F-2 cells|F-2 cells",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 29,
             "value": 1,
             "name": "implantation",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 30,
             "value": 2,
             "name": "cancer cells|cancer cell",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 31,
             "value": 5,
             "name": "alpha(3)beta(1)-integrin|anti-beta(1)-integrin antibodies|beta(1)-integrin|anti-beta(1)-integrin antibodies|beta(1)-integrin",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 32,
             "value": 1,
             "name": "cultured",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 33,
             "value": 1,
             "name": "tube",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 34,
             "value": 1,
             "name": "formation",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 35,
             "value": 1,
             "name": "coculture",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 36,
             "value": 1,
             "name": "formation",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 37,
             "value": 1,
             "name": "aggregates",
-            "group": 6
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 38,
             "value": 1,
             "name": "independent",
-            "group": 4
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 39,
             "value": 1,
             "name": "tumors",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 40,
             "value": 1,
             "name": "formed",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 41,
             "value": 1,
             "name": "cotransplanted",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 42,
             "value": 1,
             "name": "back",
-            "group": 9
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 43,
             "value": 1,
             "name": "tumors",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 44,
             "value": 1,
             "name": "supplemented",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 45,
             "value": 1,
             "name": "tubular structures",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 46,
             "value": 1,
             "name": "formed",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 47,
             "value": 1,
             "name": "lumen",
-            "group": 10
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 48,
             "value": 1,
             "name": "rat",
-            "group": 7
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 49,
             "value": 1,
             "name": "blood cells",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 50,
             "value": 1,
             "name": "tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 51,
             "value": 1,
             "name": "formed",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 52,
             "value": 1,
             "name": "grown",
-            "group": 1
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 53,
             "value": 1,
             "name": "co-injection",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 54,
             "value": 1,
             "name": "produced",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 55,
             "value": 1,
             "name": "reduction",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 56,
             "value": 1,
             "name": "raised",
-            "group": 1
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 57,
             "value": 1,
             "name": "tumor cells",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 58,
             "value": 1,
             "name": "tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 59,
             "value": 10,
             "name": "angiomorphogenesis|dependent|mediating|adhesion|cancer cells|endothelial cells|retards|tumor|growth|angiogenesis",
+            "trigger": 1,
             "group": 3
         },
         {
             "id": 60,
             "value": 1,
             "name": "inhibition",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         }
     ],
     "links": [

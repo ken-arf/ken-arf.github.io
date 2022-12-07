@@ -4,163 +4,190 @@
             "id": 0,
             "value": 7,
             "name": "Bevacizumab|Bevacizumab|bevacizumab|bevacizumab|bevacizumab|Bevacizumab|bevacizumab",
-            "group": 4
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 1,
             "value": 5,
             "name": "irinotecan|irinotecan|irinotecan|irinotecan|irinotecan",
-            "group": 4
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 2,
             "value": 1,
             "name": "therapy",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 3,
             "value": 1,
             "name": "glioblastoma multiforme",
-            "group": 0
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 4,
             "value": 1,
             "name": "Endothelial",
-            "group": 7
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 5,
             "value": 1,
             "name": "proliferation",
-            "group": 8
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 6,
             "value": 3,
             "name": "glioma|glioma|glioma",
-            "group": 0
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 7,
             "value": 1,
             "name": "immunoglobulin G1",
-            "group": 9
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 8,
             "value": 1,
             "name": "vascular endothelial growth factor",
-            "group": 9
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 9,
             "value": 1,
             "name": "have activity",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 10,
             "value": 1,
             "name": "gliomas",
-            "group": 0
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "patients",
-            "group": 5
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 12,
             "value": 2,
             "name": "pretreated|pretreated",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 13,
             "value": 1,
             "name": "treated",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 14,
             "value": 1,
             "name": "chemotherapy",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 15,
             "value": 1,
             "name": "radiation",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 16,
             "value": 1,
             "name": "patients",
-            "group": 5
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 17,
             "value": 7,
             "name": "patients|patients|patients|patients|patients|patients|patients",
-            "group": 5
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 18,
             "value": 1,
             "name": "started",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 19,
             "value": 1,
             "name": "received",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 20,
             "value": 1,
             "name": "given",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 21,
             "value": 1,
             "name": "treated",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 22,
             "value": 1,
             "name": "patients",
-            "group": 5
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 23,
             "value": 1,
             "name": "died",
-            "group": 3
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 24,
             "value": 1,
             "name": "discontinued",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 25,
             "value": 1,
             "name": "intracranial",
-            "group": 6
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 26,
             "value": 1,
             "name": "patients",
-            "group": 5
+            "trigger": 0,
+            "group": 9
         }
     ],
     "links": [

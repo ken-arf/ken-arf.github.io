@@ -4,157 +4,183 @@
             "id": 0,
             "value": 1,
             "name": "Building",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 1,
             "value": 3,
             "name": "vasculature|vasculature|vasculature",
-            "group": 3
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 2,
             "value": 1,
             "name": "develops",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 3,
             "value": 1,
             "name": "mesodermal cells",
-            "group": 5
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 4,
             "value": 1,
             "name": "differentiates",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "endothelial cells",
-            "group": 5
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "migrate",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 7,
             "value": 1,
             "name": "cells",
-            "group": 5
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 8,
             "value": 1,
             "name": "coalesce",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 9,
             "value": 1,
             "name": "form",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 10,
             "value": 1,
             "name": "cords",
-            "group": 0
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 11,
             "value": 1,
             "name": "lumenize",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 12,
             "value": 1,
             "name": "ensheathed",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 13,
             "value": 1,
             "name": "pericytes",
-            "group": 5
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 14,
             "value": 1,
             "name": "smooth muscle cells",
-            "group": 5
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 15,
             "value": 1,
             "name": "vascular network",
-            "group": 3
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 16,
             "value": 1,
             "name": "remodeled",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 17,
             "value": 1,
             "name": "mouse",
-            "group": 4
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 18,
             "value": 1,
             "name": "quail",
-            "group": 4
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 19,
             "value": 1,
             "name": "chick",
-            "group": 4
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 20,
             "value": 1,
             "name": "frog",
-            "group": 4
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 21,
             "value": 1,
             "name": "embryonic vasculature",
-            "group": 3
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 22,
             "value": 1,
             "name": "built",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 23,
             "value": 1,
             "name": "zebrafish",
-            "group": 4
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 24,
             "value": 2,
             "name": "blood vessel|blood vessel",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 25,
             "value": 2,
             "name": "development|formation",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         }
     ],
     "links": [

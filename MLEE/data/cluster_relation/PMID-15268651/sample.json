@@ -4,144 +4,168 @@
             "id": 0,
             "value": 8,
             "name": "verteporfin|verteporfin|Verteporfin|verteporfin|verteporfin|verteporfin|verteporfin|verteporfin",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 1,
             "value": 2,
             "name": "treatment|treatment",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 2,
             "value": 3,
             "name": "subfoveal choroidal neovascular membranes|subfoveal choroidal neovascular membranes|choroidal neovascular membranes",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 3,
             "value": 2,
             "name": "macular|macular",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 4,
             "value": 2,
             "name": "degeneration|degeneration",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 5,
             "value": 1,
             "name": "tissue",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 6,
             "value": 1,
             "name": "destruction",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 7,
             "value": 1,
             "name": "angiogenic",
+            "trigger": 1,
             "group": 3
         },
         {
             "id": 8,
             "value": 1,
             "name": "properties",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 9,
             "value": 1,
             "name": "benzoporphyrin",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 10,
             "value": 1,
             "name": "affinity",
-            "group": 6
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 11,
             "value": 1,
             "name": "results",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 12,
             "value": 1,
             "name": "microvascular",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 13,
             "value": 1,
             "name": "damage",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 14,
             "value": 1,
             "name": "thrombus",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 15,
             "value": 1,
             "name": "formation",
+            "trigger": 1,
             "group": 9
         },
         {
             "id": 16,
             "value": 1,
             "name": "vessel",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 17,
             "value": 2,
             "name": "administration|administration",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 18,
             "value": 1,
             "name": "lesion",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 19,
             "value": 1,
             "name": "lesions",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 20,
             "value": 1,
             "name": "Lesion",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 21,
             "value": 1,
             "name": "use",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 22,
             "value": 1,
             "name": "patient",
-            "group": 8
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 23,
             "value": 1,
             "name": "treatment",
+            "trigger": 1,
             "group": 5
         }
     ],

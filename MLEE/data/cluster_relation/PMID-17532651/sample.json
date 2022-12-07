@@ -4,91 +4,106 @@
             "id": 0,
             "value": 2,
             "name": "lower limb|lower limb",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 1,
             "value": 2,
             "name": "patients|patients",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 2,
             "value": 1,
             "name": "phosphodiesterase III",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 3,
             "value": 2,
             "name": "cilostazol|cilostazol",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 4,
             "value": 2,
             "name": "patients|patients",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 5,
             "value": 1,
             "name": "tissue",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 6,
             "value": 1,
             "name": "necrosis",
-            "group": 4
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 7,
             "value": 1,
             "name": "treated",
-            "group": 5
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 8,
             "value": 2,
             "name": "angiogenesis|angiogenesis",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "promote",
-            "group": 1
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 10,
             "value": 1,
             "name": "vessel",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "formation",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 12,
             "value": 1,
             "name": "enhance",
-            "group": 1
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 13,
             "value": 1,
             "name": "collateralisation",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 14,
             "value": 1,
             "name": "randomised trials",
-            "group": 5
+            "trigger": 1,
+            "group": 6
         }
     ],
     "links": [

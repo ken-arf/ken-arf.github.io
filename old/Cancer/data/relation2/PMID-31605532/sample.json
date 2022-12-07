@@ -1,0 +1,418 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "rs4442975",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T8",
+            "name": "rs4442975",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T24",
+            "name": "associated",
+            "group": 5,
+            "type": "Organic_inorganic_molecules_affected",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "greater",
+            "group": 7,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "reduction",
+            "group": 3,
+            "type": "Effect_Type",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "risk",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "risk",
+            "group": 4,
+            "type": "Therapeutic_response",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "ER-positive breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T25",
+            "name": "ER",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "positive",
+            "group": 3,
+            "type": "Effect_Type",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "estrogen-progesterone therapy",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T12",
+            "name": "This finding",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T16",
+            "name": "This finding",
+            "group": 4,
+            "type": "Therapeutic_response",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "interaction",
+            "group": 9,
+            "type": "Interaction",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "rs13387042",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T11",
+            "name": "rs4442975",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T10",
+            "name": "estrogen-progesterone therapy",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T15",
+            "name": "overall disease",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "suggested",
+            "group": 8,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T20",
+            "name": "stronger",
+            "group": 7,
+            "type": "Level",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T21",
+            "name": "associations",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "rs6596100",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T18",
+            "name": "ER-negative breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T22",
+            "name": "increasing parity",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "younger age at first birth",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T5",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T2",
+            "target": "T6",
+            "value": 2,
+            "link_name": "bc2"
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T2",
+            "target": "T5",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T2",
+            "target": "T6",
+            "value": 2,
+            "link_name": "bc2"
+        },
+        {
+            "source": "T2",
+            "target": "T8",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T12",
+            "target": "T15",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T13",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Entity"
+        },
+        {
+            "source": "T13",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Entity2"
+        },
+        {
+            "source": "T14",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T14",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T14",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Theme2"
+        },
+        {
+            "source": "T16",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T16",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T21",
+            "target": "T17",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T21",
+            "target": "T18",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T24",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T2",
+            "target": "T4",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T1",
+            "target": "T7",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T13",
+            "target": "T10",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T15",
+            "target": "T6",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T12",
+            "target": "T3",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T12",
+            "target": "T4",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T16",
+            "target": "T3",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T16",
+            "target": "T4",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T16",
+            "target": "T15",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T21",
+            "target": "T20",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T21",
+            "target": "T19",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T17",
+            "target": "T22",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T17",
+            "target": "T23",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T24",
+            "target": "T26",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        }
+    ]
+}

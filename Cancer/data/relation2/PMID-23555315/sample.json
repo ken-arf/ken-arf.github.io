@@ -3,7 +3,7 @@
         {
             "id": "T28",
             "name": "putative",
-            "group": 7,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T27",
             "name": "functional",
-            "group": 2,
+            "group": 4,
             "type": "Other_effect",
             "trigger": 1,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T1",
             "name": "exonic variants",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 20
@@ -27,7 +27,7 @@
         {
             "id": "T2",
             "name": "relationship",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T3",
             "name": "cancer breast",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 21
@@ -43,7 +43,7 @@
         {
             "id": "T4",
             "name": "multiethnic population",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -51,7 +51,7 @@
         {
             "id": "T5",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T6",
             "name": "strongest",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -67,7 +67,7 @@
         {
             "id": "T7",
             "name": "associations",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T15",
             "name": "SNPs",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T8",
             "name": "LDLRAD1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -99,7 +99,7 @@
         {
             "id": "T9",
             "name": "SLC19A1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -107,7 +107,7 @@
         {
             "id": "T10",
             "name": "FGFBP3",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -115,7 +115,7 @@
         {
             "id": "T11",
             "name": "CASP5",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -123,7 +123,7 @@
         {
             "id": "T12",
             "name": "MMAB",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -131,7 +131,7 @@
         {
             "id": "T13",
             "name": "SLC16A6",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -139,7 +139,7 @@
         {
             "id": "T14",
             "name": "INS-IGF2",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -147,7 +147,7 @@
         {
             "id": "T21",
             "name": "associations",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T17",
             "name": "rs145889899",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -163,7 +163,7 @@
         {
             "id": "T18",
             "name": "LDLRAD1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -171,7 +171,7 @@
         {
             "id": "T19",
             "name": "African Americans",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -179,7 +179,7 @@
         {
             "id": "T22",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 21
@@ -187,7 +187,7 @@
         {
             "id": "T20",
             "name": "statistically significant",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -195,7 +195,7 @@
         {
             "id": "T23",
             "name": "better define",
-            "group": 7,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -203,7 +203,7 @@
         {
             "id": "T24",
             "name": "role",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -211,7 +211,7 @@
         {
             "id": "T25",
             "name": "coding variation",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -219,7 +219,7 @@
         {
             "id": "T26",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23

@@ -4,145 +4,169 @@
             "id": 0,
             "value": 2,
             "name": "Tumour|Tumour",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 1,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 2,
             "value": 3,
             "name": "gliomas|gliomas|gliomas",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 3,
             "value": 1,
             "name": "Angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 4,
             "value": 1,
             "name": "progression",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 5,
             "value": 1,
             "name": "microvascular",
-            "group": 1
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 6,
             "value": 1,
             "name": "proliferation",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 7,
             "value": 1,
             "name": "glioblastoma multiforme",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 8,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "involves",
-            "group": 6
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 10,
             "value": 1,
             "name": "endothelial cell",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 11,
             "value": 1,
             "name": "proliferation",
-            "group": 9
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 12,
             "value": 1,
             "name": "migration",
-            "group": 2
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 13,
             "value": 1,
             "name": "reorganisation",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 14,
             "value": 1,
             "name": "extracellular matrix",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 15,
             "value": 1,
             "name": "tube",
-            "group": 1
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 16,
             "value": 1,
             "name": "formation",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 17,
             "value": 2,
             "name": "angiogenic|angiogenic",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 18,
             "value": 1,
             "name": "Angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 19,
             "value": 1,
             "name": "angiogenic",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 20,
             "value": 2,
             "name": "angiogenic|angiogenic",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 21,
             "value": 2,
             "name": "therapies|therapies",
-            "group": 0
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 22,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 23,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         }
     ],
     "links": [

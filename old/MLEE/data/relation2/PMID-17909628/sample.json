@@ -1,0 +1,564 @@
+{
+    "nodes": [
+        {
+            "id": "T2",
+            "name": "CX3CR1",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T37",
+            "name": "dependent",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "subretinal microglia cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T1",
+            "name": "accumulation",
+            "group": 14,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "associated",
+            "group": 12,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "macular",
+            "group": 9,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "degeneration",
+            "group": 10,
+            "type": "Breakdown",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "role",
+            "group": 12,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "microglial cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "MCs",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "macular",
+            "group": 9,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "degeneration",
+            "group": 10,
+            "type": "Breakdown",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "retinal MCs",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T6",
+            "name": "express",
+            "group": 3,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "CX3C chemokine receptor 1",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T9",
+            "name": "CX3CR1",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T11",
+            "name": "CX3CR1",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T47",
+            "name": "impaired",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "migration",
+            "group": 4,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "humans",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "MCs",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "accumulated",
+            "group": 14,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "subretinal space",
+            "group": 13,
+            "type": "Immaterial_anatomical_entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T35",
+            "name": "retinal",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "degeneration",
+            "group": 10,
+            "type": "Breakdown",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "neovascularization",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T17",
+            "name": "CNV",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "CX3CR1",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T1003",
+            "name": "mice",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "MCs",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "accumulated",
+            "group": 14,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "subretinally",
+            "group": 13,
+            "type": "Immaterial_anatomical_entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T36",
+            "name": "retinal",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "degeneration",
+            "group": 10,
+            "type": "Breakdown",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1004",
+            "name": "mice",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T22",
+            "name": "lipid",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T23",
+            "name": "subretinal MCs",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T24",
+            "name": "drusen",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T1005",
+            "name": "mice",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "CX3CR1",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T41",
+            "name": "dependent",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "MC",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "accumulation",
+            "group": 14,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "associated",
+            "group": 12,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "exacerbation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "CNV",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "CX3CR1",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T42",
+            "name": "dependent",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "accumulation",
+            "group": 14,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "subretinal MCs",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 17
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T6",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T19",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T25",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T31",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T28",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T37",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T37",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T38",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T38",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T39",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T40",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T41",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T41",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T42",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T42",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T43",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T43",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T44",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T44",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T46",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T47",
+            "target": "T46",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

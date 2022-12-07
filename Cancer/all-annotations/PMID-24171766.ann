@@ -1,0 +1,63 @@
+T1	SNP 7 35	low-penetrance risk variants
+A1	SNP_Class T1 Common_variant
+T2	Cancer 52 65	breast cancer
+T3	Entity 69 81	Polish women
+R1	Population_assignment Arg1:T1 Arg2:T3	
+T4	Association 36 46	associated
+E1	Association:T4 snp_int:T1 bc:T2
+T5	SNP 1095 1104	rs2736098
+T6	SNP 1106 1116	rs13281615
+T7	SNP 1118 1127	rs1219648
+T8	SNP 1129 1138	rs2981582
+T11	SNP 1248 1257	rs1219648
+T12	SNP 1286 1295	rs2981582
+T13	Level 1332 1343	significant
+T14	Association 1344 1355	association
+E3	Association:T14 bc:T15 bc2:T16 snp_int:T12 snp_int2:T11
+T15	Cancer 1366 1374;1388 1395	familial cancers
+T16	Cancer 1379 1395	sporadic cancers
+A2	Level E3 High
+R2	Level_marker Arg1:E3 Arg2:T13	
+R3	Population_assignment Arg1:T11 Arg2:T3	
+R4	Population_assignment Arg1:T12 Arg2:T3	
+T9	SNP 1411 1420	rs2736098
+R5	Population_assignment Arg1:T9 Arg2:T3	
+T10	Association 1447 1457	associated
+E2	Association:T10 bc:T17 snp_int:T9
+T17	Cancer 1468 1484	sporadic cancers
+A3	Cancer_Type T17 Non_hereditary
+A4	Cancer_Type T15 Familial
+A5	Cancer_Type T16 Non_hereditary
+T18	SNP 1652 1661	rs2736098
+R6	Population_assignment Arg1:T18 Arg2:T3	
+T19	Association 1694 1698	risk
+E4	Association:T19 snp_int:T18 bc:T21
+T20	Effect_Type 1684 1693	decreased
+R7	Effect_type_marker Arg1:E4 Arg2:T20	
+A6	Effect_Type E4 Decrease
+T21	Cancer 1702 1715	breast cancer
+T22	SNP 1736 1766	four known susceptibility SNPs
+T23	Association 1721 1732	association
+E5	Association:T23 snp_int:T22 bc:T25
+T24	Entity 1781 1802	three individual loci
+R8	SNP_location Arg1:T22 Arg2:T24	
+T25	Cancer 1809 1822	breast cancer
+T26	Entity 1831 1843	Polish women
+R9	Population_assignment Arg1:T22 Arg2:T26	
+R10	Member Arg1:T22 Arg2:T5	
+R11	Member Arg1:T22 Arg2:T6	
+R12	Member Arg1:T22 Arg2:T7	
+R13	Member Arg1:T22 Arg2:T8	
+T27	SNP 1872 1881	rs2736098
+T28	Entity 1912 1929	Polish population
+R14	Population_assignment Arg1:T27 Arg2:T28	
+R15	Member Arg1:T22 Arg2:T27	
+A7	SNP_Class T5 Common_variant
+A8	SNP_Class T6 Common_variant
+A9	SNP_Class T7 Common_variant
+A10	SNP_Class T8 Common_variant
+A11	SNP_Class T11 Common_variant
+A12	SNP_Class T12 Common_variant
+A13	SNP_Class T9 Common_variant
+A14	SNP_Class T18 Common_variant
+A15	SNP_Class T27 Common_variant

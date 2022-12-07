@@ -3,7 +3,7 @@
         {
             "id": "T8",
             "name": "evaluate",
-            "group": 8,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T9",
             "name": "genetic variation",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T10",
             "name": "IL6",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T11",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T12",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -43,7 +43,7 @@
         {
             "id": "T5",
             "name": "non-Hispanic white",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -51,7 +51,7 @@
         {
             "id": "T7",
             "name": "Hispanic/Native American",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -59,7 +59,7 @@
         {
             "id": "T6",
             "name": "women southwestern United States",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -67,7 +67,7 @@
         {
             "id": "T1",
             "name": "Five SNP",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -75,7 +75,7 @@
         {
             "id": "T2",
             "name": "IL6",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T4",
             "name": "IL6",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -99,7 +99,7 @@
         {
             "id": "T13",
             "name": "postmenopausal",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T14",
             "name": "not recently exposed to hormones",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -115,7 +115,7 @@
         {
             "id": "T15",
             "name": "AG/GG",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -123,7 +123,7 @@
         {
             "id": "T16",
             "name": "rs1800797",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -131,7 +131,7 @@
         {
             "id": "T17",
             "name": "-596",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -139,7 +139,7 @@
         {
             "id": "T18",
             "name": "A>G",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -147,7 +147,7 @@
         {
             "id": "T19",
             "name": "GC/CC",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -155,7 +155,7 @@
         {
             "id": "T20",
             "name": "rs1800795",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -163,7 +163,7 @@
         {
             "id": "T21",
             "name": "-174",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -171,7 +171,7 @@
         {
             "id": "T22",
             "name": "G>C",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -179,7 +179,7 @@
         {
             "id": "T23",
             "name": "significantly",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -187,7 +187,7 @@
         {
             "id": "T24",
             "name": "reduced",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -195,7 +195,7 @@
         {
             "id": "T25",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -203,7 +203,7 @@
         {
             "id": "T26",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -211,7 +211,7 @@
         {
             "id": "T34",
             "name": "IL6",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -219,7 +219,7 @@
         {
             "id": "T32",
             "name": "genotype",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -235,7 +235,7 @@
         {
             "id": "T35",
             "name": "significantly",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T39",
             "name": "aspirin",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T31",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -267,7 +267,7 @@
         {
             "id": "T38",
             "name": "greatest",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -283,7 +283,7 @@
         {
             "id": "T36",
             "name": "not recently exposed to hormones",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -291,7 +291,7 @@
         {
             "id": "T27",
             "name": "rs1800796",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -299,7 +299,7 @@
         {
             "id": "T28",
             "name": "-572G>C",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -307,7 +307,7 @@
         {
             "id": "T29",
             "name": "-572",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -315,7 +315,7 @@
         {
             "id": "T30",
             "name": "G>C",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17

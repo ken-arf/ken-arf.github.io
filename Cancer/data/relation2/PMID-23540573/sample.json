@@ -3,7 +3,7 @@
         {
             "id": "T1",
             "name": "Functional variants",
-            "group": 5,
+            "group": 11,
             "type": "SNP",
             "trigger": 0,
             "value": 22
@@ -11,7 +11,7 @@
         {
             "id": "T3",
             "name": "11q13",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -19,7 +19,7 @@
         {
             "id": "T4",
             "name": "risk locus",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T2",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T5",
             "name": "regulate expression through long-range enhancers",
-            "group": 8,
+            "group": 1,
             "type": "Gene_Regulation",
             "trigger": 1,
             "value": 15
@@ -43,7 +43,7 @@
         {
             "id": "T6",
             "name": "cyclin D1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -51,7 +51,7 @@
         {
             "id": "T7",
             "name": "long-range enhancers",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -59,7 +59,7 @@
         {
             "id": "T33",
             "name": "variants three",
-            "group": 5,
+            "group": 11,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -67,7 +67,7 @@
         {
             "id": "T8",
             "name": "European subjects",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -75,7 +75,7 @@
         {
             "id": "T34",
             "name": "independent",
-            "group": 11,
+            "group": 10,
             "type": "Interaction",
             "trigger": 1,
             "value": 22
@@ -83,7 +83,7 @@
         {
             "id": "T35",
             "name": "independent",
-            "group": 10,
+            "group": 5,
             "type": "Neg",
             "trigger": 0,
             "value": 22
@@ -91,7 +91,7 @@
         {
             "id": "T36",
             "name": "association",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -99,7 +99,7 @@
         {
             "id": "T41",
             "name": "association",
-            "group": 4,
+            "group": 7,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T37",
             "name": "estrogen-receptor-positive tumors",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 19
@@ -115,7 +115,7 @@
         {
             "id": "T39",
             "name": "estrogen-receptor",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -123,7 +123,7 @@
         {
             "id": "T40",
             "name": "positive",
-            "group": 3,
+            "group": 8,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -131,7 +131,7 @@
         {
             "id": "T38",
             "name": "11q13",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -139,7 +139,7 @@
         {
             "id": "T13",
             "name": "transcriptional enhancer element",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -147,7 +147,7 @@
         {
             "id": "T9",
             "name": "G allele",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T30",
             "name": "best",
-            "group": 6,
+            "group": 2,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T29",
             "name": "candidate",
-            "group": 9,
+            "group": 4,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -171,7 +171,7 @@
         {
             "id": "T28",
             "name": "causative",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 22
@@ -179,7 +179,7 @@
         {
             "id": "T10",
             "name": "rs554219",
-            "group": 5,
+            "group": 11,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -187,7 +187,7 @@
         {
             "id": "T11",
             "name": "increases",
-            "group": 3,
+            "group": 8,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -195,7 +195,7 @@
         {
             "id": "T12",
             "name": "risk",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -203,7 +203,7 @@
         {
             "id": "T14",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -211,7 +211,7 @@
         {
             "id": "T16",
             "name": "reduces",
-            "group": 3,
+            "group": 8,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 22
@@ -219,7 +219,7 @@
         {
             "id": "T15",
             "name": "binding",
-            "group": 8,
+            "group": 1,
             "type": "Gene_Regulation",
             "trigger": 1,
             "value": 23
@@ -227,7 +227,7 @@
         {
             "id": "T17",
             "name": "ELK4 transcription factor",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -235,7 +235,7 @@
         {
             "id": "T18",
             "name": "luciferase",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -243,7 +243,7 @@
         {
             "id": "T19",
             "name": "activity",
-            "group": 4,
+            "group": 7,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T20",
             "name": "may",
-            "group": 9,
+            "group": 4,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T22",
             "name": "low",
-            "group": 3,
+            "group": 8,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 22
@@ -267,7 +267,7 @@
         {
             "id": "T23",
             "name": "cyclin D1 protein",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -275,7 +275,7 @@
         {
             "id": "T21",
             "name": "levels",
-            "group": 4,
+            "group": 7,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -283,7 +283,7 @@
         {
             "id": "T24",
             "name": "tumors",
-            "group": 7,
+            "group": 9,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 22
@@ -291,7 +291,7 @@
         {
             "id": "T25",
             "name": "tumors",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 22
@@ -299,7 +299,7 @@
         {
             "id": "T27",
             "name": "candidate",
-            "group": 9,
+            "group": 4,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -307,7 +307,7 @@
         {
             "id": "T31",
             "name": "candidate",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -315,7 +315,7 @@
         {
             "id": "T26",
             "name": "rs78540526",
-            "group": 5,
+            "group": 11,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -323,7 +323,7 @@
         {
             "id": "T32",
             "name": "same enhancer element",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -331,7 +331,7 @@
         {
             "id": "T43",
             "name": "association",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -339,7 +339,7 @@
         {
             "id": "T42",
             "name": "rs75915166",
-            "group": 5,
+            "group": 11,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -347,7 +347,7 @@
         {
             "id": "T44",
             "name": "creates binding site",
-            "group": 8,
+            "group": 1,
             "type": "Gene_Regulation",
             "trigger": 1,
             "value": 19
@@ -355,7 +355,7 @@
         {
             "id": "T45",
             "name": "GATA3",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -363,7 +363,7 @@
         {
             "id": "T46",
             "name": "within a silencer element",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -371,7 +371,7 @@
         {
             "id": "T49",
             "name": "enhancer",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -379,7 +379,7 @@
         {
             "id": "T50",
             "name": "silencer",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -387,7 +387,7 @@
         {
             "id": "T47",
             "name": "interact",
-            "group": 8,
+            "group": 1,
             "type": "Gene_Regulation",
             "trigger": 1,
             "value": 22
@@ -395,7 +395,7 @@
         {
             "id": "T48",
             "name": "CCND1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19

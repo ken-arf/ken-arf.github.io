@@ -1,0 +1,88 @@
+T1	SNP 442 450	variants
+T2	Entity 455 464;478 485	menstrual factors
+T3	Entity 465 485	reproductive factors
+R1	Risk_Factor Arg1:T1 Arg2:T2	
+R2	Risk_Factor Arg1:T1 Arg2:T3	
+T4	Association 427 441	susceptibility
+E1	Association:T4 bc:T6 snp_int:T1
+T5	Spec 382 390	examined
+R3	Speculation_marker Arg1:E1 Arg2:T5	
+T6	Cancer 413 426	breast cancer
+T7	Entity 581 586	women
+T8	Entity 680 697	three U.S. states
+T9	SNP 814 861	13 previously identified breast cancer variants
+T10	Other_effect 716 728	associations
+E2	Other_effect:T10 Theme:T11 Theme2:T12 Theme3:T13 Agent:T9
+T11	Entity 737 752	age at menarche
+T12	Entity 754 778	age at natural menopause
+T13	Entity 787 808	reproductive lifespan
+T14	Spec 702 711	evaluated
+R7	Speculation_marker Arg1:E2 Arg2:T14	
+R8	Population_assignment Arg1:T9 Arg2:T8	
+R9	Population_assignment Arg1:T9 Arg2:T7	
+R10	Population_assignment Arg1:T1 Arg2:T7	
+R11	Population_assignment Arg1:T1 Arg2:T8	
+T17	Neg 1156 1159	nor
+T19	SNP 1171 1182	13 variants
+T20	Entity 1228 1243	age at menarche
+T21	Entity 1247 1268	reproductive lifespan
+T15	Interaction 1194 1206	individually
+E3	Interaction:T15 Entity:T19
+T16	Neg 1194 1206	individually
+R12	Negation_marker Arg1:E3 Arg2:T16	
+T18	Entity 1348 1364	minor allele (A)
+T22	SNP 1368 1378	rs17468277
+T23	Entity 1380 1385	CASP8
+R17	SNP_coupled_gene Arg1:T22 Arg2:T23	
+R18	SNP_allele Arg1:T22 Arg2:T18	
+T25	Other_effect 1212 1222	associated
+E4	Other_effect:T25 Theme:T20 Theme2:T21 Agent:E3 Agent2:E11
+T26	Effect_Type 1419 1427	decrease
+T27	Other_effect 1419 1427	decrease
+E5	Other_effect:T27 Agent:T22 Theme:T29
+A1	Effect_Type E5 Decrease
+R23	Effect_type_marker Arg1:E5 Arg2:T26	
+R13	Negation_marker Arg1:E4 Arg2:T17	
+T29	Entity 1431 1444	menopause age
+T24	Entity 1459 1471	minor allele
+T30	SNP 1479 1489	rs10941679
+T31	Entity 1491 1495	5p12
+R4	SNP_location Arg1:T30 Arg2:T31	
+R5	SNP_allele Arg1:T30 Arg2:T24	
+T32	Effect_Type 1529 1537	increase
+T33	Entity 1541 1565	age at natural menopause
+T34	Other_effect 1529 1537	increase
+E6	Other_effect:T34 Agent:T30 Theme:T33
+A2	Effect_Type E6 Increase
+R6	Effect_type_marker Arg1:E6 Arg2:T32	
+T35	SNP 1691 1709	evaluated variants
+T36	Spec 1739 1742	may
+T37	Other_effect 1743 1773	work through separate pathways
+E7	Other_effect:T37 Agent:T35 Theme:T38
+R14	Speculation_marker Arg1:E7 Arg2:T36	
+T38	Entity 1787 1800	breast cancer
+R15	Member Arg1:T35 Arg2:T30	
+R16	Member Arg1:T35 Arg2:T22	
+R19	Equiv Arg1:T35 Arg2:T19	
+T39	Entity 1714 1738	reproductive experiences
+R20	Risk_Factor Arg1:T35 Arg2:T39	
+T40	Association 1777 1786	influence
+E8	Association:T40 bc:T41 snp_int:T35
+T41	Cancer 1787 1800	breast cancer
+T42	Entity 587 596	age 20-74
+R21	Risk_Factor Arg1:T1 Arg2:T42	
+T43	Entity 1070 1079	age 43-86
+R22	Risk_Factor Arg1:T1 Arg2:T43	
+T44	Interaction 902 915	genetic score
+E9	Interaction:T44 Entity:T47
+T45	Interaction 931 953	sum of at-risk alleles
+E10	Interaction:T45 
+R24	Equiv Arg1:E9 Arg2:E10	
+T47	SNP 965 976	13 variants
+R26	Equiv Arg1:T47 Arg2:T9	
+R27	Member Arg1:T1 Arg2:T9	
+T46	Interaction 1142 1155	genetic score
+E11	Interaction:T46 
+R25	Equiv Arg1:E11 Arg2:E9	
+T48	Entity 1473 1474	G
+R28	Equiv Arg1:T24 Arg2:T48	

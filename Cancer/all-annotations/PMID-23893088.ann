@@ -1,0 +1,32 @@
+T1	Association 1097 1109	associations
+E1	Association:T1 bc:T16 snp_int:T2 snp_int2:T3 snp_int3:T4 snp_int4:T5 snp_int5:T6 snp_int6:T7 snp_int7:T8
+T2	SNP 1118 1128	rs13387042
+T3	SNP 1137 1146	rs4973768
+T4	SNP 1157 1167	rs10941679
+T5	SNP 1176 1185	rs2981582
+T6	SNP 1195 1204	rs3817198
+T7	SNP 1213 1222	rs3803662
+T8	SNP 1235 1244	rs6504950
+T9	Entity 1130 1134	2q35
+T10	Entity 1148 1154	SLC4A7
+T11	Entity 1169 1173	5p12
+T12	Entity 1187 1192	FGFR2
+T13	Entity 1206 1210	LSP1
+T14	Entity 1224 1228	TOX3
+T15	Entity 1246 1252	STXBP4
+T16	Cancer 1259 1272	breast cancer
+R1	SNP_location Arg1:T2 Arg2:T9	
+R2	SNP_coupled_gene Arg1:T3 Arg2:T10	
+R3	SNP_location Arg1:T4 Arg2:T11	
+R4	SNP_coupled_gene Arg1:T5 Arg2:T12	
+R5	SNP_coupled_gene Arg1:T6 Arg2:T13	
+R6	SNP_coupled_gene Arg1:T7 Arg2:T14	
+R7	SNP_coupled_gene Arg1:T8 Arg2:T15	
+T17	Entity 1274 1279;616 618	Women US
+R8	Population_assignment Arg1:T2 Arg2:T17	
+R9	Population_assignment Arg1:T3 Arg2:T17	
+R10	Population_assignment Arg1:T4 Arg2:T17	
+R11	Population_assignment Arg1:T5 Arg2:T17	
+R12	Population_assignment Arg1:T6 Arg2:T17	
+R13	Population_assignment Arg1:T7 Arg2:T17	
+R14	Population_assignment Arg1:T8 Arg2:T17	

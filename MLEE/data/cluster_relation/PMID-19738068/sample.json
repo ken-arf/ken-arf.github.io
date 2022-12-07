@@ -4,319 +4,372 @@
             "id": 0,
             "value": 1,
             "name": "Glioma tumor stem-like cells",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 1,
             "value": 2,
             "name": "promote|promote",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 2,
             "value": 4,
             "name": "tumor|tumor|tumor|tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 3,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 4,
             "value": 1,
             "name": "vasculogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 5,
             "value": 3,
             "name": "vascular endothelial growth factor|vascular endothelial growth factor|vascular endothelial growth factor",
-            "group": 12
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 6,
             "value": 3,
             "name": "stromal-derived factor 1|stromal-derived factor 1|stromal-derived factor 1",
-            "group": 12
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 7,
             "value": 1,
             "name": "Cancer stem cells",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 8,
             "value": 1,
             "name": "CSC",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 9,
             "value": 2,
             "name": "tumor|tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 10,
             "value": 2,
             "name": "progression|progression",
-            "group": 9
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 11,
             "value": 1,
             "name": "proliferative",
-            "group": 11
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 12,
             "value": 3,
             "name": "CSC|CSC|CSC",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 13,
             "value": 1,
             "name": "support",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 14,
             "value": 1,
             "name": "promoting",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 15,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 16,
             "value": 2,
             "name": "contribute|contribute",
-            "group": 7
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 17,
             "value": 1,
             "name": "vascular",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 18,
             "value": 1,
             "name": "development",
-            "group": 9
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 19,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 20,
             "value": 1,
             "name": "C6 glioma cell line",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 21,
             "value": 1,
             "name": "CSC",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 22,
             "value": 7,
             "name": "CSC-low tumors|CSC-high tumors|CSC-high C6 cell cultures|CSC-low cultures|CSC-high cultures|CSC-high cultures|CSC-low cultures",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 23,
             "value": 2,
             "name": "increased|increased",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 24,
             "value": 2,
             "name": "microvessel|microvessel",
-            "group": 1
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 25,
             "value": 1,
             "name": "blood",
-            "group": 2
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 26,
             "value": 2,
             "name": "induced|induced",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 27,
             "value": 1,
             "name": "mobilization",
-            "group": 3
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 28,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 29,
             "value": 1,
             "name": "recruitment",
-            "group": 3
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 30,
             "value": 2,
             "name": "bone marrow|bone marrow",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 31,
             "value": 1,
             "name": "endothelial progenitor cells",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 32,
             "value": 1,
             "name": "EPC",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 33,
             "value": 1,
             "name": "endothelial cell",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 34,
             "value": 1,
             "name": "proliferation",
-            "group": 11
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 35,
             "value": 1,
             "name": "tubule",
-            "group": 1
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 36,
             "value": 1,
             "name": "organization",
-            "group": 9
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 37,
             "value": 3,
             "name": "tumors|tumors|tumors",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 38,
             "value": 1,
             "name": "expressed",
-            "group": 13
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 39,
             "value": 1,
             "name": "angiogenic",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 40,
             "value": 1,
             "name": "blocked",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 41,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 42,
             "value": 1,
             "name": "EPC",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 43,
             "value": 1,
             "name": "mobilization/recruitment",
-            "group": 3
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 44,
             "value": 1,
             "name": "stimulation",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 45,
             "value": 1,
             "name": "endothelial cell",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 46,
             "value": 1,
             "name": "reduced",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 47,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 48,
             "value": 1,
             "name": "promoting",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 49,
             "value": 1,
             "name": "endothelial cell",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 50,
             "value": 1,
             "name": "angiogenic",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 51,
             "value": 1,
             "name": "EPC",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 52,
             "value": 2,
             "name": "dependent|dependent",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         }
     ],
     "links": [

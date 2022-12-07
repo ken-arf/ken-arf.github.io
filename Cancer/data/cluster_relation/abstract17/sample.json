@@ -4,163 +4,190 @@
             "id": 0,
             "value": 2,
             "name": "5p12|5p12",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 1,
             "value": 3,
             "name": "rs10941679|rs10941679|rs10941679",
-            "group": 3
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 2,
             "value": 2,
             "name": "associated|associated",
-            "group": 8
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 3,
             "value": 1,
             "name": "breast cancer",
-            "group": 4
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 4,
             "value": 1,
             "name": "estrogen receptor",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 5,
             "value": 2,
             "name": "estrogen receptor (ER)-positive disease|progesterone receptor (PR)-positive disease",
-            "group": 4
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 6,
             "value": 1,
             "name": "ER",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 7,
             "value": 2,
             "name": "positive|positive",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 8,
             "value": 1,
             "name": "ductal carcinoma in situ",
-            "group": 4
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 9,
             "value": 1,
             "name": "white Europeans",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 10,
             "value": 2,
             "name": "per-allele OR|per-allele OR",
-            "group": 8
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 11,
             "value": 1,
             "name": "invasive breast cancer",
-            "group": 4
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 12,
             "value": 2,
             "name": "invasive|invasive",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 13,
             "value": 2,
             "name": "DCIS|D",
-            "group": 4
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 14,
             "value": 1,
             "name": "Asian women",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 15,
             "value": 1,
             "name": "estimated OR",
-            "group": 8
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 16,
             "value": 3,
             "name": "invasive|invasive|invasive disease",
-            "group": 1
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 17,
             "value": 1,
             "name": "suggested",
-            "group": 5
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 18,
             "value": 3,
             "name": "association|association|association",
-            "group": 8
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 19,
             "value": 1,
             "name": "progesterone receptor",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 20,
             "value": 1,
             "name": "PR",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 21,
             "value": 2,
             "name": "heterogeneity|heterogeneity",
-            "group": 8
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 22,
             "value": 3,
             "name": "ER status|ER status|ER",
-            "group": 4
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 23,
             "value": 1,
             "name": "not",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 24,
             "value": 1,
             "name": "stronger",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 25,
             "value": 1,
             "name": "lower grade tumors",
-            "group": 4
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 26,
             "value": 1,
             "name": "tumors grade 1, 2, and 3/4",
-            "group": 4
+            "trigger": 0,
+            "group": 8
         }
     ],
     "links": [

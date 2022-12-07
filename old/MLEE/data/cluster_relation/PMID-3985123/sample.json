@@ -1,0 +1,250 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "Mast cells|Mast cells",
+            "group": 7
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "tumors",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "enhancement",
+            "group": 8
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "proliferation",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "peritoneal leukocytes",
+            "group": 7
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "enhance",
+            "group": 8
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "proliferation",
+            "group": 1
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "tumors",
+            "group": 3
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "mast cell",
+            "group": 7
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "host cell",
+            "group": 7
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "mast cell",
+            "group": 7
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "granules",
+            "group": 2
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "heparin",
+            "group": 6
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "granules",
+            "group": 2
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "enhance",
+            "group": 8
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "fibroblast",
+            "group": 7
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "proliferation",
+            "group": 9
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "mast-cell",
+            "group": 7
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "mediated",
+            "group": 5
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "role",
+            "group": 5
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "mast cells",
+            "group": 7
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 4
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "connective tissue",
+            "group": 0
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "proliferation",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 18,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 28,
+            "value": 2
+        }
+    ]
+}

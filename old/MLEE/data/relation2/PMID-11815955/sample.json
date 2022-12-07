@@ -1,0 +1,294 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "plasma endostatin",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T2",
+            "name": "Endostatin",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T3",
+            "name": "collagen XVIII",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T4",
+            "name": "angiogenesis",
+            "group": 3,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "endostatin",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "treating",
+            "group": 1,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "solid tumors",
+            "group": 2,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "plasma endostatin",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T10",
+            "name": "PE",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "enzyme linked immunoassay",
+            "group": 1,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T1000",
+            "name": "patients",
+            "group": 5,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "patients",
+            "group": 5,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "PE",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "PE",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "patients",
+            "group": 5,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1003",
+            "name": "patients",
+            "group": 5,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "PE",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "PE",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1004",
+            "name": "patient",
+            "group": 5,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "PE",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1005",
+            "name": "patients",
+            "group": 5,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "PE",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "PE",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1006",
+            "name": "patients",
+            "group": 5,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "PE",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "survived",
+            "group": 0,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1007",
+            "name": "patients",
+            "group": 5,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "PE",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "PE",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1008",
+            "name": "patients",
+            "group": 5,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "PE",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "PE",
+            "group": 4,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T23",
+            "name": "tumor",
+            "group": 2,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 22
+        }
+    ],
+    "links": [
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T5",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T24",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T25",
+            "target": "T1006",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

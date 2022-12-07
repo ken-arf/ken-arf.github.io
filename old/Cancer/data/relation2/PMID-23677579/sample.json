@@ -1,0 +1,292 @@
+{
+    "nodes": [
+        {
+            "id": "T3",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "risk",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "variant",
+            "group": 3,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "10q25",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T5",
+            "name": "East Asian women",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T14",
+            "name": "association",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "replicated",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "rs1419026",
+            "group": 3,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T7",
+            "name": "6q14",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T8",
+            "name": "rs941827",
+            "group": 3,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T9",
+            "name": "10q25",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T11",
+            "name": "association",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "rs941827",
+            "group": 3,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T12",
+            "name": "highly statistically significant",
+            "group": 4,
+            "type": "Level",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T16",
+            "name": "new variant",
+            "group": 3,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T17",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "risk",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "10q25",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T20",
+            "name": "East Asian women",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        }
+    ],
+    "links": [
+        {
+            "source": "T4",
+            "target": "T3",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T4",
+            "target": "T1",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T11",
+            "target": "T10",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T11",
+            "target": "T15",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T13",
+            "target": "T6",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T13",
+            "target": "T8",
+            "value": 2,
+            "link_name": "snp_int2"
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T18",
+            "target": "T17",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T18",
+            "target": "T16",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T1",
+            "target": "T5",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T8",
+            "target": "T9",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T10",
+            "target": "T8",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T16",
+            "target": "T19",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T16",
+            "target": "T20",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T16",
+            "target": "T10",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T6",
+            "target": "T20",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T1",
+            "target": "T10",
+            "value": 1,
+            "link_name": "Equiv"
+        }
+    ]
+}

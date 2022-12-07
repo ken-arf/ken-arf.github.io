@@ -4,313 +4,365 @@
             "id": 0,
             "value": 1,
             "name": "inhibition",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 1,
             "value": 6,
             "name": "ovarian cancer|ovarian cancer|ovarian cancer|ovarian cancers|ovarian cancer|ovarian cancer",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 2,
             "value": 1,
             "name": "growth",
-            "group": 2
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 3,
             "value": 1,
             "name": "survival",
-            "group": 7
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 4,
             "value": 1,
             "name": "transfection",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 5,
             "value": 9,
             "name": "hPNAS-4|hPNAS-4|hPNAS-4|hPNAS-4|hPNAS-4|hPNAS-4|hPNAS-4|hPNAS-4|hPNAS-4",
-            "group": 13
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 6,
             "value": 1,
             "name": "mouse",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 7,
             "value": 1,
             "name": "transfected",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 8,
             "value": 1,
             "name": "ovarian cancer cells",
-            "group": 10
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 9,
             "value": 1,
             "name": "administered",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 10,
             "value": 1,
             "name": "nude mice",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 11,
             "value": 1,
             "name": "effect",
-            "group": 5
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 12,
             "value": 1,
             "name": "Ovarian cancer SKOV3 cells",
-            "group": 10
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 13,
             "value": 1,
             "name": "transfected",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 14,
             "value": 1,
             "name": "cell",
-            "group": 10
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 15,
             "value": 1,
             "name": "proliferation",
-            "group": 1
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 16,
             "value": 1,
             "name": "apoptosis",
-            "group": 7
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 17,
             "value": 1,
             "name": "Nude mice",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 18,
             "value": 1,
             "name": "treated",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 19,
             "value": 1,
             "name": "liposome",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 20,
             "value": 1,
             "name": "Tumor",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 21,
             "value": 1,
             "name": "growth",
-            "group": 2
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 22,
             "value": 1,
             "name": "microvessel",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 23,
             "value": 1,
             "name": "angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 24,
             "value": 1,
             "name": "inhibition",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 25,
             "value": 1,
             "name": "proliferation",
-            "group": 1
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 26,
             "value": 1,
             "name": "induction",
-            "group": 11
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 27,
             "value": 1,
             "name": "apoptosis",
-            "group": 7
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 28,
             "value": 1,
             "name": "SKOV3 cells",
-            "group": 10
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 29,
             "value": 1,
             "name": "transfected",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 30,
             "value": 1,
             "name": "treated",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 31,
             "value": 1,
             "name": "tumor cells",
-            "group": 10
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 32,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 33,
             "value": 1,
             "name": "growth",
-            "group": 2
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 34,
             "value": 1,
             "name": "decreased",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 35,
             "value": 1,
             "name": "survival",
-            "group": 7
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 36,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 37,
             "value": 1,
             "name": "mice",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 38,
             "value": 1,
             "name": "prolonged",
-            "group": 11
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 39,
             "value": 1,
             "name": "Increased",
-            "group": 11
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 40,
             "value": 1,
             "name": "apoptosis",
-            "group": 7
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 41,
             "value": 2,
             "name": "tumor cells|tumor tissue",
-            "group": 10
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 42,
             "value": 1,
             "name": "decreased",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 43,
             "value": 1,
             "name": "angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 44,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 45,
             "value": 1,
             "name": "effects",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 46,
             "value": 1,
             "name": "induction",
-            "group": 11
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 47,
             "value": 1,
             "name": "apoptosis",
-            "group": 7
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 48,
             "value": 1,
             "name": "inhibition",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 49,
             "value": 1,
             "name": "angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 50,
             "value": 1,
             "name": "gene therapy",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 51,
             "value": 1,
             "name": "human",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         }
     ],
     "links": [

@@ -1,0 +1,150 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 3,
+            "name": "bone marrow stem cell|bone marrow-derived stem cells|bone marrow stem cells",
+            "group": 5
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "peripheral blood endothelial progenitor cell",
+            "group": 5
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "therapy",
+            "group": 3
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "patients|patients",
+            "group": 4
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "limb",
+            "group": 7
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "blood",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "legs",
+            "group": 7
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "patients",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "limb",
+            "group": 7
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "endothelial progenitor cells",
+            "group": 5
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "development",
+            "group": 6
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "blood vessels",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "neoangiogenesis",
+            "group": 2
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "neovascularization",
+            "group": 2
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "angiogenic",
+            "group": 2
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "patients",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "patients",
+            "group": 4
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "treated",
+            "group": 3
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "angiogenic",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 2
+        }
+    ]
+}

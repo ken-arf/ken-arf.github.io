@@ -4,295 +4,344 @@
             "id": 0,
             "value": 1,
             "name": "coagulation factor VIIa",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 1,
             "value": 1,
             "name": "Binding",
-            "group": 6
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 2,
             "value": 1,
             "name": "factor VIIa",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 3,
             "value": 1,
             "name": "FVIIa",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 4,
             "value": 1,
             "name": "tissue factor",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "TF",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 6,
             "value": 1,
             "name": "induce",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 7,
             "value": 1,
             "name": "TF",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 8,
             "value": 1,
             "name": "mediated",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 9,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 10,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 11,
             "value": 1,
             "name": "metastasis",
-            "group": 1
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 12,
             "value": 8,
             "name": "FVIIa|FVIIa|FVIIa|FVIIa|FVIIa|FVIIa|FVIIa|FVIIa",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 13,
             "value": 1,
             "name": "Serum",
-            "group": 2
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 14,
             "value": 1,
             "name": "induced",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 15,
             "value": 1,
             "name": "apoptosis",
-            "group": 7
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 16,
             "value": 1,
             "name": "BHK(+TF) cells",
-            "group": 9
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 17,
             "value": 1,
             "name": "nuclei",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 18,
             "value": 1,
             "name": "chromatin",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 19,
             "value": 1,
             "name": "activation",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 20,
             "value": 2,
             "name": "caspase 3|caspase 3",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 21,
             "value": 1,
             "name": "cells",
-            "group": 9
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 22,
             "value": 1,
             "name": "TdT",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 23,
             "value": 1,
             "name": "dUTP",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 24,
             "value": 1,
             "name": "attenuated",
-            "group": 11
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 25,
             "value": 1,
             "name": "activation",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 26,
             "value": 1,
             "name": "TF",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 27,
             "value": 1,
             "name": "factor Xa",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 28,
             "value": 1,
             "name": "thrombin",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 29,
             "value": 1,
             "name": "induced",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 30,
             "value": 2,
             "name": "cell|cell",
-            "group": 9
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 31,
             "value": 2,
             "name": "survival|survival",
-            "group": 7
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 32,
             "value": 1,
             "name": "activation",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 33,
             "value": 2,
             "name": "Akt|Akt",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 34,
             "value": 2,
             "name": "PI3-kinase|PI3-kinase",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 35,
             "value": 1,
             "name": "LY294002",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 36,
             "value": 1,
             "name": "Blocking",
-            "group": 11
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 37,
             "value": 1,
             "name": "activation",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 38,
             "value": 2,
             "name": "p44/42 mitogen-activated protein kinase|p44/42 MAPK",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 39,
             "value": 1,
             "name": "MAPK",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 40,
             "value": 1,
             "name": "mitogen-induced extracellular kinase",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 41,
             "value": 1,
             "name": "MEK",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 42,
             "value": 1,
             "name": "U0126",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 43,
             "value": 1,
             "name": "impaired",
-            "group": 11
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 44,
             "value": 1,
             "name": "promote",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 45,
             "value": 1,
             "name": "binding",
-            "group": 6
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 46,
             "value": 1,
             "name": "TF",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 47,
             "value": 1,
             "name": "activation",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 48,
             "value": 2,
             "name": "pathway|pathway",
-            "group": 0
+            "trigger": 1,
+            "group": 9
         }
     ],
     "links": [

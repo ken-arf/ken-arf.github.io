@@ -4,313 +4,365 @@
             "id": 0,
             "value": 1,
             "name": "Angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 1,
             "value": 1,
             "name": "initiation",
-            "group": 15
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 2,
             "value": 2,
             "name": "control|control",
-            "group": 7
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 3,
             "value": 1,
             "name": "rabbit",
-            "group": 10
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 4,
             "value": 1,
             "name": "cornea",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 5,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 6,
             "value": 1,
             "name": "capillary",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 7,
             "value": 1,
             "name": "involves",
-            "group": 7
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 8,
             "value": 1,
             "name": "lysis",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 9,
             "value": 1,
             "name": "basement membrane",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 10,
             "value": 1,
             "name": "venule",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "migration",
-            "group": 2
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 12,
             "value": 4,
             "name": "capillary endothelial cells|capillary endothelial cells|capillary endothelial cells|capillary endothelial cells",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 13,
             "value": 2,
             "name": "angiogenic|angiogenic",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 14,
             "value": 1,
             "name": "lumen",
-            "group": 12
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 15,
             "value": 1,
             "name": "formation",
-            "group": 14
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 16,
             "value": 1,
             "name": "development",
-            "group": 14
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 17,
             "value": 1,
             "name": "branches",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 18,
             "value": 1,
             "name": "anastomosis",
-            "group": 14
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 19,
             "value": 1,
             "name": "tube",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 20,
             "value": 1,
             "name": "angiogenic",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 21,
             "value": 1,
             "name": "solid tumors",
-            "group": 8
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 22,
             "value": 1,
             "name": "non-neoplastic cells",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 23,
             "value": 1,
             "name": "activated",
-            "group": 15
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 24,
             "value": 1,
             "name": "macrophages",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 25,
             "value": 1,
             "name": "lymphocytes",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 26,
             "value": 1,
             "name": "adipocytes",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 27,
             "value": 1,
             "name": "normal tissues",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 28,
             "value": 1,
             "name": "stimulate",
-            "group": 15
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 29,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 30,
             "value": 1,
             "name": "cell",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 31,
             "value": 1,
             "name": "angiogenic",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 32,
             "value": 1,
             "name": "stimulation",
-            "group": 15
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 33,
             "value": 1,
             "name": "clone",
-            "group": 9
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 34,
             "value": 1,
             "name": "culture",
-            "group": 9
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 35,
             "value": 2,
             "name": "capillary|capillary",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 36,
             "value": 2,
             "name": "growth|growth",
-            "group": 1
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 37,
             "value": 3,
             "name": "mast cell|mast cell|mast cells",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 38,
             "value": 1,
             "name": "helper cell",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 39,
             "value": 1,
             "name": "speeding up",
-            "group": 15
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 40,
             "value": 1,
             "name": "migration",
-            "group": 2
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 41,
             "value": 1,
             "name": "heparin",
-            "group": 11
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 42,
             "value": 1,
             "name": "effect",
-            "group": 7
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 43,
             "value": 1,
             "name": "prepare",
-            "group": 14
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 44,
             "value": 1,
             "name": "matrix",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 45,
             "value": 1,
             "name": "release",
-            "group": 2
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 46,
             "value": 1,
             "name": "heparin",
-            "group": 11
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 47,
             "value": 1,
             "name": "capillary sprouts",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 48,
             "value": 1,
             "name": "move",
-            "group": 2
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 49,
             "value": 1,
             "name": "angiogenic",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 50,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 51,
             "value": 1,
             "name": "initiation",
-            "group": 15
+            "trigger": 1,
+            "group": 13
         }
     ],
     "links": [

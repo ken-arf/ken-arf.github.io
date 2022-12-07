@@ -1,0 +1,40 @@
+T1	SNP 30 34	SNPs
+T2	Association 19 29	associated
+E1	Association:T2 snp_int:T1 bc:T3
+T3	Cancer 0 13	Breast cancer
+T4	Organic_inorganic_molecules_affected 35 43;48 56	modulate affinity
+E2	Organic_inorganic_molecules_affected:T4 Agent:T1 Theme:T7
+T5	Gene_Regulation 90 105	gene expression
+E3	Gene_Regulation:T5 Theme:T6 Agent:T1
+T6	Entity 74 79	FOXA1
+T7	Entity 60 69	chromatin
+T8	SNP 708 712	SNPs
+T9	Association 697 707	associated
+E4	Association:T9 snp_int:T8 bc:T10
+T10	Cancer 678 691	breast cancer
+T12	Entity 733 742;746 751	cistromes FOXA1
+T13	Entity 733 742;756 760	cistromes ESR1
+T15	SNP 885 900;921 925	the majority of SNPs
+T16	Organic_inorganic_molecules_affected 926 934;939 947	modulate affinity
+E5	Organic_inorganic_molecules_affected:T16 Theme:T17 Agent:T15
+T17	Entity 951 960	chromatin
+T18	Gene_Regulation 1023 1054	allele-specific gene expression
+E6	Gene_Regulation:T18 Agent:T15 Theme2:T20
+T20	Entity 965 970;974 1000	FOXA1 distal regulatory elements
+T19	SNP 1098 1107	rs4784227
+T21	Entity 1119 1123	TOX3
+T22	Entity 1140 1147	16q12.1
+R3	SNP_location Arg1:T19 Arg2:T22	
+T23	Gene_Regulation 1084 1090	effect
+E7	Gene_Regulation:T23 Agent:T19 Theme:T21
+R2	SNP_location Arg1:T8 Arg2:T13	
+R4	SNP_location Arg1:T8 Arg2:T12	
+T14	Entity 782 817	histone H3 lysine 4 monomethylation
+T24	Entity 819 826	H3K4me1
+R6	Member Arg1:T24 Arg2:T14	
+R5	SNP_location Arg1:T8 Arg2:T14	
+T11	Entity 845 870	cell type-specific manner
+R7	Risk_Factor Arg1:T8 Arg2:T11	
+T25	Entity 833 839;855 870	cancer specific manner
+R8	Risk_Factor Arg1:T8 Arg2:T25	
+R1	Equiv Arg1:T15 Arg2:T8	

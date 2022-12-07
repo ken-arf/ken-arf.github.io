@@ -1,0 +1,143 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "peritumoral brain edema|peritumoral brain edema",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 5,
+            "name": "activity|activity|activity|activity|activity",
+            "group": 2
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "VX2 rabbit brain tumor",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "rabbit",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "Meclofenamate",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "indomethacin",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 4,
+            "name": "edema|edema|edema|edema",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "non steroidal anti-inflammatory drugs",
+            "group": 1
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "NSAID's",
+            "group": 1
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "17 hydroxyprogesterone",
+            "group": 1
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "epicortisol",
+            "group": 1
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "glucocorticoid",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "mineralocorticoid",
+            "group": 1
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "glucocorticoids",
+            "group": 1
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "brain edema",
+            "group": 0
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "NSAID",
+            "group": 1
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "steroid compounds",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 2
+        }
+    ]
+}

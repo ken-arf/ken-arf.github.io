@@ -4,115 +4,134 @@
             "id": 0,
             "value": 3,
             "name": "African American population|global percent African ancestry|African ancestry population",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 1,
             "value": 2,
             "name": "associated|associated",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 2,
             "value": 1,
             "name": "ER-/PR- breast cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 3,
             "value": 1,
             "name": "ER",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 4,
             "value": 1,
             "name": "-",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 5,
             "value": 1,
             "name": "PR",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 6,
             "value": 1,
             "name": "TERT",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 7,
             "value": 2,
             "name": "rs10069690|rs704010",
-            "group": 2
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 8,
             "value": 3,
             "name": "5p15.33|10q22.3|19p13.11",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 9,
             "value": 2,
             "name": "rs8170|rs8170",
-            "group": 2
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 10,
             "value": 1,
             "name": "Stronger",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 11,
             "value": 1,
             "name": "associations",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 12,
             "value": 2,
             "name": "TNBC|TNBC",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 13,
             "value": 3,
             "name": "confirmation|confirmation|confirmation",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 14,
             "value": 2,
             "name": "independent|independent",
-            "group": 4
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 15,
             "value": 1,
             "name": "TERT",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 16,
             "value": 2,
             "name": "ER-|ER",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 17,
             "value": 1,
             "name": "-",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 18,
             "value": 1,
             "name": "SNP",
-            "group": 2
+            "trigger": 0,
+            "group": 6
         }
     ],
     "links": [

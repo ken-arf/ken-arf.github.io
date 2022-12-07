@@ -4,325 +4,379 @@
             "id": 0,
             "value": 2,
             "name": "adenovirus|adenovirus",
-            "group": 10
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 1,
             "value": 2,
             "name": "mediated|mediated",
-            "group": 12
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 2,
             "value": 9,
             "name": "endostatin|endostatin|endostatin|endostatin|endostatin|endostatin|endostatin|Endostatin|endostatin",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 3,
             "value": 2,
             "name": "gene transfer|gene transfer",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 4,
             "value": 2,
             "name": "transplanted|transplanted",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 5,
             "value": 2,
             "name": "lung carcinoma|lung cancer",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 6,
             "value": 2,
             "name": "mice|mice",
-            "group": 10
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 7,
             "value": 1,
             "name": "effect",
-            "group": 7
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 8,
             "value": 1,
             "name": "Transplant",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 9,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 10,
             "value": 1,
             "name": "subcutaneous inoculation",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 11,
             "value": 1,
             "name": "Lewis lung cancer (LLC) cells",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 12,
             "value": 1,
             "name": "mice",
-            "group": 10
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 13,
             "value": 1,
             "name": "mice",
-            "group": 10
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 14,
             "value": 2,
             "name": "intratumoral injection|intratumoral injection",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 15,
             "value": 3,
             "name": "Ad-mEndostatin|Ad-mEndostatin|Ad-mEndostatin",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 16,
             "value": 1,
             "name": "expression",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 17,
             "value": 1,
             "name": "serum",
-            "group": 2
+            "trigger": 0,
+            "group": 14
         },
         {
             "id": 18,
             "value": 1,
             "name": "inhibition",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 19,
             "value": 2,
             "name": "tumor|tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 20,
             "value": 3,
             "name": "growth|growth|growth",
-            "group": 1
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 21,
             "value": 2,
             "name": "microvessel|microvessel",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 22,
             "value": 4,
             "name": "CD31|CD105|CD10|CD31",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 23,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 24,
             "value": 1,
             "name": "apoptosis",
-            "group": 9
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 25,
             "value": 1,
             "name": "inhibited",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 26,
             "value": 2,
             "name": "metastasis|metastasis",
-            "group": 3
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 27,
             "value": 1,
             "name": "prolonged",
-            "group": 12
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 28,
             "value": 1,
             "name": "survival",
-            "group": 9
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 29,
             "value": 1,
             "name": "mice",
-            "group": 10
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 30,
             "value": 1,
             "name": "expression",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 31,
             "value": 1,
             "name": "mEndostatin",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 32,
             "value": 1,
             "name": "tumor tissue",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 33,
             "value": 1,
             "name": "injection",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 34,
             "value": 1,
             "name": "mouse",
-            "group": 10
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 35,
             "value": 1,
             "name": "expression",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 36,
             "value": 1,
             "name": "absence",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 37,
             "value": 1,
             "name": "administration",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 38,
             "value": 1,
             "name": "expression",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 39,
             "value": 1,
             "name": "diminished",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 40,
             "value": 1,
             "name": "decreased",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 41,
             "value": 1,
             "name": "apoptotic",
-            "group": 9
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 42,
             "value": 1,
             "name": "tumor cells",
-            "group": 11
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 43,
             "value": 1,
             "name": "gene therapy",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 44,
             "value": 1,
             "name": "mediated",
-            "group": 12
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 45,
             "value": 1,
             "name": "induces",
-            "group": 12
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 46,
             "value": 1,
             "name": "expression",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 47,
             "value": 1,
             "name": "inhibits",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 48,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 49,
             "value": 1,
             "name": "action",
-            "group": 7
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 50,
             "value": 1,
             "name": "tumor neovasculature",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 51,
             "value": 1,
             "name": "inhibition",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 52,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 53,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         }
     ],
     "links": [

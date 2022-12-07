@@ -4,49 +4,57 @@
             "id": 0,
             "value": 1,
             "name": "treatment",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 1,
             "value": 2,
             "name": "hormone-refractory prostate cancer|Hormone-refractory prostate cancer",
-            "group": 0
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 2,
             "value": 5,
             "name": "HRPC|HRPC|HRPC|HRPC|HRPC",
-            "group": 0
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 3,
             "value": 1,
             "name": "prostate",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 4,
             "value": 1,
             "name": "carcinogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 5,
             "value": 1,
             "name": "cell",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 6,
             "value": 1,
             "name": "angiogenesis",
-            "group": 1
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 7,
             "value": 1,
             "name": "telomerase",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         }
     ],
     "links": [

@@ -4,91 +4,106 @@
             "id": 0,
             "value": 4,
             "name": "Flt-1|Flt-1|Flk-1|Flt-1",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 1,
             "value": 1,
             "name": "VEGFR-1",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 2,
             "value": 4,
             "name": "angiogenic|angiogenic|angiogenic|angiogenic",
-            "group": 1
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 3,
             "value": 2,
             "name": "inhibitor|inhibitor",
-            "group": 6
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 4,
             "value": 1,
             "name": "Vascular endothelial growth factor",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 5,
             "value": 1,
             "name": "VEGF",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "stimulator",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 7,
             "value": 1,
             "name": "functions",
-            "group": 2
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 8,
             "value": 1,
             "name": "chick",
-            "group": 4
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 9,
             "value": 1,
             "name": "chorioallantoic membrane",
-            "group": 0
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 10,
             "value": 3,
             "name": "VEGF|VEGF|VEGF",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 11,
             "value": 1,
             "name": "binding",
-            "group": 3
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 12,
             "value": 1,
             "name": "inhibiting",
-            "group": 6
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 13,
             "value": 1,
             "name": "VEGF",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 14,
             "value": 1,
             "name": "binding",
-            "group": 3
+            "trigger": 1,
+            "group": 4
         }
     ],
     "links": [

@@ -1,0 +1,109 @@
+T1	Entity 0 5	BRCA2
+T3	SNP 149 159	rs11571833
+T4	SNP 137 147	p.Lys3326*
+T5	SNP 126 135	c.9976A>T
+T6	Association 44 48	Risk
+E1	Association:T6 bc:T7 snp_int:T8
+T7	Cancer 52 58;82 88	Breast Cancer
+T2	Entity 29 35	K3326X
+T8	SNP 0 35	BRCA2 Polymorphic Stop Codon K3326X
+R1	SNP_coupled_gene Arg1:T8 Arg2:T1	
+R2	SNP_allele Arg1:T8 Arg2:T2	
+T9	Entity 95 101	K3326X
+T10	Entity 120 125	BRCA2
+R3	SNP_coupled_gene Arg1:T5 Arg2:T10	
+R4	SNP_allele Arg1:T5 Arg2:T9	
+R5	Equiv Arg1:T5 Arg2:T4	
+R6	Equiv Arg1:T4 Arg2:T3	
+T11	Association 214 219	risks
+E2	Association:T11 bc:T14 snp_int:T3
+T12	Level 198 203	small
+T13	Effect_Type 204 213	increased
+R7	Effect_type_marker Arg1:E2 Arg2:T13	
+R8	Level_marker Arg1:E2 Arg2:T12	
+T14	Cancer 223 236	breast cancer
+A1	Effect_Type E2 Increase
+A2	Level E2 Low
+T15	Spec 378 395	scant information
+T16	Other_effect 406 412	effect
+E3	Other_effect:T16 Agent:T17 Theme:T19
+T17	SNP 416 422	K3326X
+T18	Entity 416 422	K3326X
+R9	SNP_allele Arg1:T17 Arg2:T18	
+R10	Speculation_marker Arg1:E3 Arg2:T15	
+T19	Entity 432 455	hormone-related cancers
+T20	SNP 95 109	K3326X variant
+R11	Equiv Arg1:T20 Arg2:T5	
+R12	Equiv Arg1:T17 Arg2:T20	
+T21	Spec 606 614	estimate
+T22	SNP 672 686	K3326X variant
+T23	Association 699 707	relation
+E4	Association:T23 bc:T24 snp_int:T22
+R13	Speculation_marker Arg1:E4 Arg2:T21	
+T24	Cancer 711 717;741 747	breast cancer
+T25	Spec 882 890	examined
+T26	Association 895 907	associations
+E5	Association:T26 snp_int:T27 bc:T28
+T27	SNP 911 917	K3326X
+R14	Equiv Arg1:T27 Arg2:T17	
+R15	Speculation_marker Arg1:E5 Arg2:T25	
+T28	Cancer 923 929;942 948	breast cancer
+T29	Entity 966 988	BRCA1 variant carriers
+R16	Risk_Factor Arg1:T27 Arg2:T29	
+T30	SNP 1032 1046	K3326X variant
+T31	Entity 1032 1038	K3326X
+R17	SNP_allele Arg1:T30 Arg2:T31	
+T32	Association 1051 1061	associated
+E6	Association:T32 bc:T33 snp_int:T30
+T33	Cancer 1067 1073;1150 1156	breast cancer
+T34	Level 1234 1242	stronger
+T35	Association 1216 1228	associations
+E7	Association:T35 snp_int:T31 bc:T36
+A3	Level E7 High
+R18	Level_marker Arg1:E7 Arg2:T34	
+T36	Cancer 1277 1317	estrogen receptor-negative breast cancer
+A4	Cancer_Type T36 ER-
+T37	Organic_inorganic_molecules_affected 1216 1228	associations
+E8	Organic_inorganic_molecules_affected:T37 Agent:T30 Theme:T38
+T38	Entity 1277 1294	estrogen receptor
+T39	Neg 1295 1303	negative
+R19	Negation_marker Arg1:E8 Arg2:T39	
+T40	Entity 1442 1465	BRCA1 mutation carriers
+T43	SNP 1532 1546	K3326X variant
+T44	Entity 1532 1538	K3326X
+R21	SNP_allele Arg1:T43 Arg2:T44	
+T45	Neg 1624 1626	no
+T46	Association 1627 1638	association
+E10	Association:T46 snp_int:T43 bc:T47
+T47	Cancer 1644 1657	breast cancer
+R22	Negation_marker Arg1:E10 Arg2:T45	
+R23	Risk_Factor Arg1:T43 Arg2:T40	
+T52	SNP 1746 1760	K3326X variant
+T53	Entity 1746 1752	K3326X
+R25	SNP_allele Arg1:T52 Arg2:T53	
+T54	Spec 1728 1736	evidence
+T55	Association 1764 1774	associated
+E12	Association:T55 bc:T56 snp_int:T52
+T56	Cancer 1799 1805;1818 1825	breast cancers
+T58	Neg 1826 1837	independent
+T59	Entity 1841 1875	other pathogenic variants in BRCA2
+R26	Negation_marker Arg1:T59 Arg2:T58	
+R27	Risk_Factor Arg1:T52 Arg2:T59	
+R28	Speculation_marker Arg1:E12 Arg2:T54	
+T61	Organic_inorganic_molecules_affected 18 28	Stop Codon
+E14	Organic_inorganic_molecules_affected:T61 Agent:T5 Theme:T62 Theme2:T64
+T62	Entity 137 146	p.Lys3326
+T63	Entity 133 135	>T
+R30	Nucleotide_substitution Arg1:T4 Arg2:T63	
+T64	Entity 29 34	K3326
+T65	Entity 911 917	K3326X
+R31	SNP_allele Arg1:T27 Arg2:T65	
+A5	SNP_Type T20 Nonsense
+A6	SNP_Type T3 Nonsense
+A7	SNP_Type T17 Nonsense
+A8	SNP_Type T27 Nonsense
+A9	SNP_Type T43 Nonsense
+A10	SNP_Type T52 Nonsense
+A11	SNP_Type T30 Nonsense
+A12	SNP_Type T22 Nonsense
+A13	SNP_Type T8 Nonsense

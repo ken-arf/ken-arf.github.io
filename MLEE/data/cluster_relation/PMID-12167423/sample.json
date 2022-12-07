@@ -4,175 +4,204 @@
             "id": 0,
             "value": 5,
             "name": "angiogenic|angiogenic|angiogenic|angiogenic|angiogenic",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 1,
             "value": 1,
             "name": "human",
-            "group": 4
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 2,
             "value": 1,
             "name": "oral squamous cell carcinoma cells",
-            "group": 5
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 3,
             "value": 6,
             "name": "oral cancer cells|oral cancer cells|oral cancer cells|oral cancer cells|oral cancer cells|oral cancer cells",
-            "group": 5
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 4,
             "value": 1,
             "name": "Stimulatory effects",
-            "group": 6
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 5,
             "value": 1,
             "name": "proliferation",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "migration",
-            "group": 1
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 7,
             "value": 1,
             "name": "human umbilical vein endothelial cells",
-            "group": 5
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 8,
             "value": 1,
             "name": "HUVEC",
-            "group": 5
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 9,
             "value": 1,
             "name": "normal oral keratinocytes",
-            "group": 5
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 10,
             "value": 1,
             "name": "NOK",
-            "group": 5
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 11,
             "value": 1,
             "name": "vascular endothelial growth factors",
-            "group": 8
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 12,
             "value": 1,
             "name": "VEGF",
-            "group": 8
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 13,
             "value": 1,
             "name": "NOK",
-            "group": 5
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 14,
             "value": 1,
             "name": "Attenuation",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 15,
             "value": 1,
             "name": "angiogenic",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 16,
             "value": 1,
             "name": "neutralizing VEGF antibodies",
-            "group": 8
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 17,
             "value": 2,
             "name": "VEGF|VEGF",
-            "group": 8
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 18,
             "value": 1,
             "name": "play a key role",
-            "group": 3
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 19,
             "value": 1,
             "name": "p53",
-            "group": 8
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 20,
             "value": 1,
             "name": "murine double mutant 2",
-            "group": 8
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 21,
             "value": 2,
             "name": "Mdm2|Mdm2",
-            "group": 8
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 22,
             "value": 1,
             "name": "p53",
-            "group": 8
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 23,
             "value": 1,
             "name": "p53",
-            "group": 8
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 24,
             "value": 1,
             "name": "function loss",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 25,
             "value": 1,
             "name": "overexpression",
-            "group": 9
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 26,
             "value": 1,
             "name": "mediated",
-            "group": 3
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 27,
             "value": 1,
             "name": "VEGF",
-            "group": 8
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 28,
             "value": 1,
             "name": "p53",
-            "group": 8
+            "trigger": 0,
+            "group": 5
         }
     ],
     "links": [

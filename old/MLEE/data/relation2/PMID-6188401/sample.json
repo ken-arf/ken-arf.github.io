@@ -1,0 +1,716 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "Angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "initiation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "control",
+            "group": 13,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "rabbit",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "cornea",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T32",
+            "name": "growth",
+            "group": 4,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "capillary",
+            "group": 9,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "involves",
+            "group": 13,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "lysis",
+            "group": 11,
+            "type": "Breakdown",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "basement membrane",
+            "group": 2,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "venule",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "migration",
+            "group": 5,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "capillary endothelial cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T12",
+            "name": "angiogenic",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "lumen",
+            "group": 14,
+            "type": "Immaterial_anatomical_entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "formation",
+            "group": 6,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "development",
+            "group": 6,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "branches",
+            "group": 9,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "anastomosis",
+            "group": 6,
+            "type": "Development",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "tube",
+            "group": 9,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "angiogenic",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "solid tumors",
+            "group": 8,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "non-neoplastic cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "activated",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "macrophages",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "lymphocytes",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "adipocytes",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T5",
+            "name": "normal tissues",
+            "group": 9,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "stimulate",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T29",
+            "name": "angiogenic",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "angiogenic",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "stimulation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T61",
+            "name": "clone",
+            "group": 10,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T31",
+            "name": "capillary endothelial cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T62",
+            "name": "culture",
+            "group": 10,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "capillary",
+            "group": 9,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "growth",
+            "group": 4,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T35",
+            "name": "mast cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "helper cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "capillary endothelial cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T66",
+            "name": "speeding up",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T65",
+            "name": "migration",
+            "group": 5,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "heparin",
+            "group": 3,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "mast cell",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "effect",
+            "group": 13,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "capillary endothelial cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T44",
+            "name": "mast cells",
+            "group": 15,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "prepare",
+            "group": 6,
+            "type": "Development",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T45",
+            "name": "matrix",
+            "group": 2,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T69",
+            "name": "release",
+            "group": 5,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "heparin",
+            "group": 3,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T48",
+            "name": "capillary sprouts",
+            "group": 9,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T70",
+            "name": "move",
+            "group": 5,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "angiogenic",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "initiation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "control",
+            "group": 13,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "capillary",
+            "group": 9,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "growth",
+            "group": 4,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T23",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T71",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T71",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T11",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T20",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T32",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T38",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T39",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T43",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T49",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T57",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T57",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T57",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T57",
+            "target": "T39",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T57",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T57",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T57",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T57",
+            "target": "T49",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T57",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T57",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T59",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T59",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T60",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T61",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T62",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T65",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T65",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T67",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T68",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T69",
+            "target": "T46",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T69",
+            "target": "T44",
+            "value": 2,
+            "link_name": "FromLoc"
+        },
+        {
+            "source": "T70",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T71",
+            "target": "T56",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T17",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T50",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

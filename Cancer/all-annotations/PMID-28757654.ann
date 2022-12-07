@@ -1,0 +1,13 @@
+T1	SNP 1736 1746	rs10069690
+T2	Spec 1747 1757	Prediction
+T3	Association 1747 1757	Prediction
+E1	Association:T3 snp_int:T1 bc:T4
+R1	Speculation_marker Arg1:E1 Arg2:T2	
+T4	Cancer 1761 1790	triple-negative breast cancer
+A1	Cancer_Type T4 TNBC_and_or_Basal_like
+T5	Entity 1890 1906	age at diagnosis
+T6	Entity 1911 1914	BMI
+R2	Risk_Factor Arg1:T1 Arg2:T6	
+R3	Risk_Factor Arg1:T1 Arg2:T5	
+T7	Entity 1154 1159	women
+R4	Population_assignment Arg1:T1 Arg2:T7	

@@ -4,85 +4,99 @@
             "id": 0,
             "value": 1,
             "name": "chromosomes",
+            "trigger": 0,
             "group": 0
         },
         {
             "id": 1,
             "value": 1,
             "name": "chromosome",
+            "trigger": 0,
             "group": 0
         },
         {
             "id": 2,
             "value": 1,
             "name": "vascular cell",
-            "group": 6
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 3,
             "value": 1,
             "name": "human",
-            "group": 5
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 4,
             "value": 1,
             "name": "atherosclerotic lesions",
-            "group": 1
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 5,
             "value": 1,
             "name": "vascular",
+            "trigger": 0,
             "group": 2
         },
         {
             "id": 6,
             "value": 1,
             "name": "dysfunction",
+            "trigger": 1,
             "group": 3
         },
         {
             "id": 7,
             "value": 1,
             "name": "prevented",
-            "group": 8
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 8,
             "value": 1,
             "name": "activation",
-            "group": 7
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 9,
             "value": 1,
             "name": "telomerase",
-            "group": 9
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 10,
             "value": 1,
             "name": "Mice",
-            "group": 5
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 11,
             "value": 1,
             "name": "neovascularization",
+            "trigger": 1,
             "group": 4
         },
         {
             "id": 12,
             "value": 1,
             "name": "leukocytes",
-            "group": 6
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 13,
             "value": 1,
             "name": "patients",
-            "group": 5
+            "trigger": 0,
+            "group": 9
         }
     ],
     "links": [

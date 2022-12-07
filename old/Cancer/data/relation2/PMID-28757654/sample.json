@@ -1,0 +1,98 @@
+{
+    "nodes": [
+        {
+            "id": "T7",
+            "name": "women",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "rs10069690",
+            "group": 3,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T2",
+            "name": "Prediction",
+            "group": 4,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "Prediction",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "triple-negative breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T5",
+            "name": "age at diagnosis",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T6",
+            "name": "BMI",
+            "group": 2,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T1",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T3",
+            "target": "T2",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T1",
+            "target": "T6",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T1",
+            "target": "T5",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T1",
+            "target": "T7",
+            "value": 1,
+            "link_name": "Population_assignment"
+        }
+    ]
+}

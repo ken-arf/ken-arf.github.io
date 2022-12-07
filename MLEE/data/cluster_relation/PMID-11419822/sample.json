@@ -4,289 +4,337 @@
             "id": 0,
             "value": 3,
             "name": "Coexpression|coexpression|coexpression",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 1,
             "value": 2,
             "name": "vascular endothelial growth factor|vascular endothelial growth factor",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 2,
             "value": 8,
             "name": "p53|p53|p53|p53|p53|p53|p53|p53",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 3,
             "value": 2,
             "name": "squamous cell carcinoma|esophageal squamous cell carcinoma",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 4,
             "value": 1,
             "name": "esophagus",
-            "group": 11
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "p53",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 6,
             "value": 2,
             "name": "plays a role|plays a key role",
-            "group": 6
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 7,
             "value": 2,
             "name": "tumor|tumor",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 8,
             "value": 2,
             "name": "angiogenesis|angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "VEGF",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 10,
             "value": 1,
             "name": "expression",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 11,
             "value": 1,
             "name": "participates",
-            "group": 6
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 12,
             "value": 3,
             "name": "angiogenesis|angiogenesis|angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 13,
             "value": 7,
             "name": "VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 14,
             "value": 1,
             "name": "significance",
-            "group": 6
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 15,
             "value": 1,
             "name": "SCC",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 16,
             "value": 1,
             "name": "Tissues samples",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 17,
             "value": 1,
             "name": "taken",
+            "trigger": 1,
             "group": 7
         },
         {
             "id": 18,
             "value": 1,
             "name": "patients",
-            "group": 8
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 19,
             "value": 2,
             "name": "esophageal SCC|esophageal SCC",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 20,
             "value": 1,
             "name": "surgery",
+            "trigger": 1,
             "group": 7
         },
         {
             "id": 21,
             "value": 1,
             "name": "expression",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 22,
             "value": 1,
             "name": "SCC",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 23,
             "value": 1,
             "name": "Microvessel",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 24,
             "value": 1,
             "name": "microvessels",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 25,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 26,
             "value": 1,
             "name": "Factor VIII-related antigen",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 27,
             "value": 4,
             "name": "Ki-67|Ki-67|Ki-67|Ki-67",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 28,
             "value": 2,
             "name": "terminal deoxynucleotidyl transferase|deoxyuridine triphosphate biotin",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 29,
             "value": 2,
             "name": "expression|expression",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 30,
             "value": 1,
             "name": "patients",
-            "group": 8
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 31,
             "value": 1,
             "name": "coexpressed",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 32,
             "value": 1,
             "name": "venous",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 33,
             "value": 1,
             "name": "invasion",
-            "group": 2
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 34,
             "value": 1,
             "name": "p53",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 35,
             "value": 1,
             "name": "expression",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 36,
             "value": 4,
             "name": "SCC|SCC|SCC|SCC",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 37,
             "value": 5,
             "name": "coexpression|coexpression|coexpression|coexpression|coexpression",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 38,
             "value": 1,
             "name": "p53",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 39,
             "value": 1,
             "name": "expression",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 40,
             "value": 1,
             "name": "patients",
-            "group": 8
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 41,
             "value": 1,
             "name": "patients",
-            "group": 8
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 42,
             "value": 1,
             "name": "p53",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 43,
             "value": 1,
             "name": "expression",
+            "trigger": 1,
             "group": 0
         },
         {
             "id": 44,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 45,
             "value": 1,
             "name": "metastasis",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 46,
             "value": 1,
             "name": "p53",
-            "group": 10
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 47,
             "value": 1,
             "name": "play an important role",
-            "group": 6
+            "trigger": 1,
+            "group": 10
         }
     ],
     "links": [

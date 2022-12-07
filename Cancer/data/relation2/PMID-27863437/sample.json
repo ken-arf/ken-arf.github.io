@@ -3,7 +3,7 @@
         {
             "id": "T2",
             "name": "13 tag single nucleotide polymorphisms",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -11,7 +11,7 @@
         {
             "id": "T1",
             "name": "tag single nucleotide polymorphisms",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -19,7 +19,7 @@
         {
             "id": "T31",
             "name": "tSNPs",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 20
@@ -27,7 +27,7 @@
         {
             "id": "T3",
             "name": "investigate",
-            "group": 7,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T4",
             "name": "associated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -43,7 +43,7 @@
         {
             "id": "T5",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T6",
             "name": "Chinese Han",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -59,7 +59,7 @@
         {
             "id": "T32",
             "name": "six of the 13 SNPs",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -67,7 +67,7 @@
         {
             "id": "T13",
             "name": "associated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T14",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T7",
             "name": "rs4973768",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -91,7 +91,7 @@
         {
             "id": "T8",
             "name": "rs981782",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -99,7 +99,7 @@
         {
             "id": "T9",
             "name": "rs1432679",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -107,7 +107,7 @@
         {
             "id": "T10",
             "name": "rs10759243",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -115,7 +115,7 @@
         {
             "id": "T11",
             "name": "rs10822013",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -123,7 +123,7 @@
         {
             "id": "T12",
             "name": "rs704010",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -131,7 +131,7 @@
         {
             "id": "T15",
             "name": "rs981782",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -139,7 +139,7 @@
         {
             "id": "T16",
             "name": "rs10759243",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -147,7 +147,7 @@
         {
             "id": "T17",
             "name": "rs704010",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -155,7 +155,7 @@
         {
             "id": "T18",
             "name": "correlated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T22",
             "name": "correlated",
-            "group": 4,
+            "group": 5,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -171,7 +171,7 @@
         {
             "id": "T19",
             "name": "ER+ breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 18
@@ -179,7 +179,7 @@
         {
             "id": "T21",
             "name": "ER",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -187,7 +187,7 @@
         {
             "id": "T20",
             "name": "+",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -195,7 +195,7 @@
         {
             "id": "T23",
             "name": "rs4973768",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -203,7 +203,7 @@
         {
             "id": "T24",
             "name": "rs1432679",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -211,7 +211,7 @@
         {
             "id": "T25",
             "name": "rs10822013",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -219,7 +219,7 @@
         {
             "id": "T26",
             "name": "correlated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -227,7 +227,7 @@
         {
             "id": "T27",
             "name": "correlated",
-            "group": 4,
+            "group": 5,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -235,7 +235,7 @@
         {
             "id": "T28",
             "name": "ER",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -243,7 +243,7 @@
         {
             "id": "T30",
             "name": "ER- breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 18
@@ -251,7 +251,7 @@
         {
             "id": "T29",
             "name": "-",
-            "group": 6,
+            "group": 3,
             "type": "Neg",
             "trigger": 0,
             "value": 23

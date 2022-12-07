@@ -4,301 +4,351 @@
             "id": 0,
             "value": 1,
             "name": "Modulation",
-            "group": 4
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 1,
             "value": 1,
             "name": "angiogenesis",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 2,
             "value": 2,
             "name": "progelatinase a|progelatinase A",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 3,
             "value": 1,
             "name": "thrombin receptor",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 4,
             "value": 1,
             "name": "angiogenic",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 5,
             "value": 1,
             "name": "thrombin",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 6,
             "value": 1,
             "name": "mediated",
-            "group": 4
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 7,
             "value": 1,
             "name": "activation",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 8,
             "value": 1,
             "name": "thrombin receptor",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 9,
             "value": 1,
             "name": "effects",
-            "group": 4
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 10,
             "value": 3,
             "name": "SFLLR|SFLLR|SFLLR",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 11,
             "value": 2,
             "name": "activated|activated",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 12,
             "value": 1,
             "name": "thrombin receptor",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 13,
             "value": 1,
             "name": "thrombin receptor",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 14,
             "value": 3,
             "name": "angiogenesis|angiogenesis|angiogenesis",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 15,
             "value": 1,
             "name": "chick",
-            "group": 5
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 16,
             "value": 1,
             "name": "chorioallantoic membrane",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 17,
             "value": 1,
             "name": "CAM",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 18,
             "value": 1,
             "name": "tripeptide FPR",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 19,
             "value": 1,
             "name": "1,4-disubstituted piperazine derivatives",
-            "group": 6
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 20,
             "value": 1,
             "name": "pentapeptide SFLLR",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 21,
             "value": 1,
             "name": "thrombin",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 22,
             "value": 1,
             "name": "stimulation",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 23,
             "value": 1,
             "name": "CAM",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 24,
             "value": 2,
             "name": "FPR|FPR",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 25,
             "value": 2,
             "name": "piperazine derivatives|piperazine derivatives",
-            "group": 6
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 26,
             "value": 1,
             "name": "suppression",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 27,
             "value": 1,
             "name": "thrombin",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 28,
             "value": 2,
             "name": "antagonized|antagonised",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 29,
             "value": 1,
             "name": "angiogenic",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 30,
             "value": 1,
             "name": "Thrombin",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 31,
             "value": 1,
             "name": "activated",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 32,
             "value": 3,
             "name": "MMP-2|MMP-2|MMP-2",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 33,
             "value": 1,
             "name": "human umbilical cord endothelial cells",
-            "group": 7
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 34,
             "value": 1,
             "name": "HUVECs",
-            "group": 7
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 35,
             "value": 1,
             "name": "angiogenesis",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 36,
             "value": 1,
             "name": "leading",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 37,
             "value": 1,
             "name": "dissolution",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 38,
             "value": 1,
             "name": "basement membrane collagen",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 39,
             "value": 1,
             "name": "migration",
-            "group": 0
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 40,
             "value": 1,
             "name": "activated",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 41,
             "value": 1,
             "name": "endothelial cells",
-            "group": 7
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 42,
             "value": 1,
             "name": "inhibited",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 43,
             "value": 1,
             "name": "activation",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 44,
             "value": 1,
             "name": "effects",
-            "group": 4
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 45,
             "value": 1,
             "name": "thrombin",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 46,
             "value": 1,
             "name": "activation",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 47,
             "value": 1,
             "name": "thrombin receptor",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 48,
             "value": 1,
             "name": "modulators",
-            "group": 4
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 49,
             "value": 1,
             "name": "angiogenesis",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         }
     ],
     "links": [

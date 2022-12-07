@@ -4,103 +4,120 @@
             "id": 0,
             "value": 1,
             "name": "Tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 1,
             "value": 1,
             "name": "cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 2,
             "value": 1,
             "name": "metastasis",
-            "group": 1
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 3,
             "value": 1,
             "name": "Cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 4,
             "value": 1,
             "name": "cells",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "grow",
-            "group": 0
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "invade",
-            "group": 1
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 7,
             "value": 1,
             "name": "metastasize",
-            "group": 1
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 8,
             "value": 1,
             "name": "cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 9,
             "value": 1,
             "name": "host cells",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 10,
             "value": 1,
             "name": "cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "control",
-            "group": 3
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 12,
             "value": 1,
             "name": "prevention",
-            "group": 6
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 13,
             "value": 1,
             "name": "host",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 14,
             "value": 1,
             "name": "tumor cell",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 15,
             "value": 1,
             "name": "interactions",
-            "group": 4
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 16,
             "value": 1,
             "name": "tumor cells",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         }
     ],
     "links": [

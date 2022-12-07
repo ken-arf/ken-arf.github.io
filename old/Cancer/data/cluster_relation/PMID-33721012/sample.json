@@ -1,0 +1,295 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 2,
+            "name": "rs527616|rs527616",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 3,
+            "name": "lncRNA AQP4-AS1|lncRNA AQP4-AS1|lncRNA AQP4-AS1",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "susceptibility",
+            "group": 5
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 3,
+            "name": "southern Brazilian population|Brazilian population|southern Brazilian population",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "BC",
+            "group": 3
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "women",
+            "group": 4
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "tumorigenesis",
+            "group": 0
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "long non-coding RNAs",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "lncRNAs",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "differential expression",
+            "group": 2
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "C>G",
+            "group": 4
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "BC",
+            "group": 3
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "frequency",
+            "group": 5
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "CG heterozygotes",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "above the expected",
+            "group": 7
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "age at BC diagnosis",
+            "group": 4
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "risk genotype",
+            "group": 4
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "older age group",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "CG genotype",
+            "group": 1
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "increased",
+            "group": 6
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "susceptibility",
+            "group": 5
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "This SNP",
+            "group": 1
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "differential expression",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 3,
+            "value": 1
+        }
+    ]
+}

@@ -4,288 +4,336 @@
             "id": 0,
             "value": 6,
             "name": "pericyte|pericyte|pericyte|pericyte|pericyte|pericytes",
+            "trigger": 0,
             "group": 11
         },
         {
             "id": 1,
             "value": 5,
             "name": "recruitment|recruitment|recruitment|recruitment|recruitment",
-            "group": 2
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 2,
             "value": 3,
             "name": "tumour|tumour|tumour",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 3,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 4,
             "value": 1,
             "name": "metalloproteinases",
-            "group": 16
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 5,
             "value": 1,
             "name": "Pericytes",
+            "trigger": 0,
             "group": 11
         },
         {
             "id": 6,
             "value": 1,
             "name": "tumour blood vessels",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 7,
             "value": 1,
             "name": "critical",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 8,
             "value": 1,
             "name": "development",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 9,
             "value": 1,
             "name": "vascular network",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 10,
             "value": 1,
             "name": "Targeting",
-            "group": 9
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 11,
             "value": 1,
             "name": "tumour pericytes",
+            "trigger": 0,
             "group": 11
         },
         {
             "id": 12,
             "value": 1,
             "name": "angiogenic",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 13,
             "value": 1,
             "name": "therapy",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 14,
             "value": 1,
             "name": "tumour",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 15,
             "value": 1,
             "name": "contribution",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 16,
             "value": 1,
             "name": "platelet-derived growth factor B",
-            "group": 16
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 17,
             "value": 1,
             "name": "sphingosine 1-phosphate",
-            "group": 16
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 18,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 19,
             "value": 1,
             "name": "angiopoietin 1",
-            "group": 16
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 20,
             "value": 1,
             "name": "tumour",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 21,
             "value": 1,
             "name": "Transforming growth factor-beta1",
-            "group": 16
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 22,
             "value": 1,
             "name": "enhances",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 23,
             "value": 1,
             "name": "vascularization",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 24,
             "value": 1,
             "name": "microvessel",
-            "group": 0
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 25,
             "value": 1,
             "name": "maturation",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 26,
             "value": 1,
             "name": "participation",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 27,
             "value": 1,
             "name": "matrix metalloproteinases",
-            "group": 16
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 28,
             "value": 3,
             "name": "MMP|MMPs|MMPs",
-            "group": 16
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 29,
             "value": 1,
             "name": "tumour pericyte",
+            "trigger": 0,
             "group": 11
         },
         {
             "id": 30,
             "value": 1,
             "name": "effect",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 31,
             "value": 1,
             "name": "development",
+            "trigger": 1,
             "group": 12
         },
         {
             "id": 32,
             "value": 1,
             "name": "microvasculature",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 33,
             "value": 1,
             "name": "vascular",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 34,
             "value": 1,
             "name": "remodelling",
-            "group": 15
+            "trigger": 1,
+            "group": 16
         },
         {
             "id": 35,
             "value": 1,
             "name": "contribute",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 36,
             "value": 1,
             "name": "promotion",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 37,
             "value": 1,
             "name": "invasion",
-            "group": 2
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 38,
             "value": 1,
             "name": "extracellular matrix",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 39,
             "value": 1,
             "name": "degradation",
-            "group": 8
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 40,
             "value": 1,
             "name": "stimulation",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 41,
             "value": 1,
             "name": "proliferation",
-            "group": 1
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 42,
             "value": 2,
             "name": "ECM|ECM",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 43,
             "value": 1,
             "name": "activation",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 44,
             "value": 1,
             "name": "bound",
-            "group": 10
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 45,
             "value": 2,
             "name": "angiogenic|angiogenic",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 46,
             "value": 1,
             "name": "recruitment",
-            "group": 2
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 47,
             "value": 1,
             "name": "bone marrow-derived stem cells",
+            "trigger": 0,
             "group": 11
         }
     ],

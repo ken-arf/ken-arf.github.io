@@ -1,0 +1,312 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "angiogenesis",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "non-small cell lung cancer",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T3",
+            "name": "Tumour",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T4",
+            "name": "angiogenesis",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "tumour",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "growth",
+            "group": 3,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "metastasis",
+            "group": 2,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "microvessel",
+            "group": 7,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "non-small cell lung cancer",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T10",
+            "name": "non-small cell lung carcinomas",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T11",
+            "name": "CD31",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "eye",
+            "group": 1,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "eye",
+            "group": 1,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T14",
+            "name": "Ki67",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "EGFR",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T18",
+            "name": "p53",
+            "group": 8,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "expression",
+            "group": 6,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T19",
+            "name": "Tumours",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "patients",
+            "group": 10,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T20",
+            "name": "angiogenesis",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "lymph node",
+            "group": 0,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "patients",
+            "group": 10,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "angiogenesis",
+            "group": 5,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "non-small cell lung cancer",
+            "group": 4,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T25",
+            "name": "cancer cell",
+            "group": 11,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "migration",
+            "group": 2,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "lymph nodes",
+            "group": 0,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "chemotherapy",
+            "group": 9,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "radiotherapy",
+            "group": 9,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "patients",
+            "group": 10,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T5",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T15",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T15",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T24",
+            "target": "T26",
+            "value": 2,
+            "link_name": "ToLoc"
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T4",
+            "target": "T3",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T22",
+            "target": "T23",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T17",
+            "target": "T1002",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T1002",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

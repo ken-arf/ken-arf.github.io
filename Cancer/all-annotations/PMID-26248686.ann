@@ -1,0 +1,149 @@
+T1	SNP 16 32	genetic variants
+T2	Entity 37 41	male
+R1	Population_assignment Arg1:T1 Arg2:T2	
+T3	Cancer 42 55	breast cancer
+T4	Association 56 60	risk
+E1	Association:T4 bc:T3 snp_int:T1
+T5	Entity 64 71	8q24.21
+T6	Entity 73 79	9p21.3
+T7	Entity 81 88	11q13.3
+T8	Entity 93 100	14q24.1
+T9	Entity 138 143	Italy
+R2	Population_assignment Arg1:T1 Arg2:T9	
+R3	SNP_location Arg1:T1 Arg2:T5	
+R4	SNP_location Arg1:T1 Arg2:T6	
+R5	SNP_location Arg1:T1 Arg2:T7	
+R6	SNP_location Arg1:T1 Arg2:T8	
+T10	Spec 157 165	evidence
+T11	SNP 188 204	genetic variants
+A1	SNP_Class T11 Common_variant
+T12	Association 209 219	contribute
+E2	Association:T12 bc:T13 snp_int:T11
+T13	Cancer 245 258	breast cancer
+A2	Cancer_Type T13 Hereditary
+T14	Cancer 260 262	BC
+R7	Equiv Arg1:T14 Arg2:T13	
+A3	Cancer_Type T14 Hereditary
+R8	Speculation_marker Arg1:E2 Arg2:T10	
+T15	Spec 454 457	may
+T16	SNP 304 335	single nucleotide polymorphisms
+T17	SNP 337 341	SNPs
+R9	Equiv Arg1:T17 Arg2:T16	
+T18	Entity 355 362	8q24.21
+R10	SNP_location Arg1:T17 Arg2:T18	
+T19	Association 458 467	influence
+E3	Association:T19 bc:T20 snp_int:T16
+T20	Cancer 480 482	BC
+T21	Entity 486 489	men
+R11	Speculation_marker Arg1:E3 Arg2:T15	
+R12	Population_assignment Arg1:T16 Arg2:T21	
+T22	Entity 409 427	BC-associated loci
+R13	SNP_location Arg1:T17 Arg2:T22	
+T23	Level 975 986	significant
+T24	Association 987 998	association
+E4	Association:T24 bc:T25 snp_int:T33
+R14	Level_marker Arg1:E4 Arg2:T23	
+T25	Cancer 1005 1007	BC
+A4	Level E4 High
+T26	SNP 1028 1037	rs1562430
+T27	SNP 1052 1060	rs445114
+T28	SNP 1103 1112	rs1011970
+T29	SNP 1131 1139	rs614367
+T30	SNP 1162 1171	rs1314913
+T31	Entity 1172 1179	14q24.1
+R15	SNP_location Arg1:T30 Arg2:T31	
+T32	Entity 1087 1094	8q24.21
+R16	SNP_location Arg1:T26 Arg2:T32	
+R17	SNP_location Arg1:T27 Arg2:T32	
+T33	SNP 1017 1026	five SNPs
+R18	Member Arg1:T33 Arg2:T26	
+R19	Member Arg1:T33 Arg2:T27	
+R20	Member Arg1:T33 Arg2:T28	
+R21	Member Arg1:T33 Arg2:T29	
+R22	Member Arg1:T33 Arg2:T30	
+T34	Entity 1113 1119	9p21.3
+R23	SNP_location Arg1:T28 Arg2:T34	
+T35	Entity 1140 1147	11q13.3
+R24	SNP_location Arg1:T29 Arg2:T35	
+R25	Population_assignment Arg1:T33 Arg2:T42	
+T36	Entity 622 629	Italian
+R26	Population_assignment Arg1:T33 Arg2:T36	
+T37	SNP 1445 1454	rs1011970
+T38	Entity 1455 1461	9p21.3
+R27	SNP_location Arg1:T37 Arg2:T38	
+T39	Association 1430 1441	Association
+E5	Association:T39 snp_int:T37 bc:T41
+T40	Entity 1462 1475	risk genotype
+R28	Genotype Arg1:T37 Arg2:T40	
+T41	Cancer 1481 1486;1487 1489	HER2+ BC
+A5	Cancer_Type T41 HER2+
+T42	Entity 765 769	male
+R29	Population_assignment Arg1:T37 Arg2:T42	
+R30	Population_assignment Arg1:T37 Arg2:T36	
+T43	SNP 1227 1235	rs614367
+T44	Entity 1236 1243	11q13.3
+R31	SNP_location Arg1:T43 Arg2:T44	
+R32	Equiv Arg1:T43 Arg2:T29	
+T45	Association 1192 1203;1211 1223	Differences distribution
+E6	Association:T45 snp_int:T43 bc:T46
+T46	Cancer 1267 1285;1291 1297	oestrogen receptor status
+A6	Cancer_Type T46 Molec_Status_other
+T47	SNP 1316 1325	rs1011970
+T48	Entity 1326 1332	9p21.3
+R33	SNP_location Arg1:T47 Arg2:T48	
+T49	Entity 1356 1396	human epidermal growth factor receptor 2
+T50	Entity 1398 1402	HER2
+R34	Equiv Arg1:T50 Arg2:T49	
+T51	Cancer 1398 1402;1404 1410	HER2 status
+A7	Cancer_Type T51 Molec_Status_other
+T52	Association 1192 1203;1211 1223	Differences distribution
+E7	Association:T52 snp_int:T47 bc:T51
+R35	Equiv Arg1:T47 Arg2:T28	
+T53	SNP 1532 1541	rs1314913
+T54	Entity 1542 1549	14q24.1
+R36	SNP_location Arg1:T53 Arg2:T54	
+T55	Association 1584 1588	risk
+E8	Association:T55 snp_int:T53 bc:T57
+A8	Effect_Type E8 Increase
+T56	Effect_Type 1570 1579	increased
+R37	Effect_type_marker Arg1:E8 Arg2:T56	
+T57	Cancer 1581 1583	BC
+T58	Entity 1615 1619	male
+R38	Population_assignment Arg1:T53 Arg2:T58	
+R39	Population_assignment Arg1:T53 Arg2:T36	
+T59	Entity 1620 1625;1628 1636	BRCA1 mutation
+T60	Entity 1620 1624;1626 1636	BRCA 2 mutation
+R40	Risk_Factor Arg1:T53 Arg2:T60	
+R41	Risk_Factor Arg1:T53 Arg2:T59	
+T61	SNP 1793 1802	rs1562430
+T62	Entity 1803 1810	8q24.21
+R42	SNP_location Arg1:T61 Arg2:T62	
+T63	SNP 1815 1824	rs1314913
+T64	Entity 1825 1832	14q24.1
+R43	SNP_location Arg1:T63 Arg2:T64	
+T65	Level 1833 1841	strongly
+T66	Association 1842 1851	influence
+E9	Association:T66 snp_int:T63 snp_int2:T61 bc:T67
+A9	Level E9 High
+R44	Level_marker Arg1:E9 Arg2:T65	
+T67	Cancer 1852 1854	BC
+T68	Entity 1863 1866	men
+R45	Population_assignment Arg1:T63 Arg2:T68	
+R46	Population_assignment Arg1:T61 Arg2:T68	
+R47	Equiv Arg1:T61 Arg2:T26	
+R48	Equiv Arg1:T63 Arg2:T30	
+T69	Spec 1871 1880	suggested
+T70	SNP 1894 1903	rs1314913
+T71	Entity 1904 1911	14q24.1
+R49	SNP_location Arg1:T70 Arg2:T71	
+T72	Spec 1912 1915	may
+R50	Equiv Arg1:T70 Arg2:T53	
+T73	Association 1925 1938	risk modifier
+E10	Association:T73 snp_int:T70 bc:T57
+T74	Entity 1948 1952	male
+R51	Population_assignment Arg1:T70 Arg2:T74	
+R52	Speculation_marker Arg1:E10 Arg2:T72	
+T75	Entity 1953 1958;1961 1969	BRCA1 mutation
+T76	Entity 1953 1957;1959 1969	BRCA 2 mutation
+R53	Risk_Factor Arg1:T70 Arg2:T76	
+R54	Risk_Factor Arg1:T70 Arg2:T75	

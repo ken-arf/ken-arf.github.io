@@ -3,7 +3,7 @@
         {
             "id": "T1",
             "name": "interactions",
-            "group": 7,
+            "group": 6,
             "type": "Interaction",
             "trigger": 1,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T2",
             "name": "immunity related genes CD28/B7 pathway",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -19,7 +19,7 @@
         {
             "id": "T3",
             "name": "susceptibility",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T4",
             "name": "invasive ductal carcinoma breast",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 20
@@ -35,7 +35,7 @@
         {
             "id": "T10",
             "name": "immunological genes in the CD28/B7 pathway",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -43,7 +43,7 @@
         {
             "id": "T35",
             "name": "five SNPs filtered",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -51,7 +51,7 @@
         {
             "id": "T5",
             "name": "rs733618",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -59,7 +59,7 @@
         {
             "id": "T6",
             "name": "rs11889031",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -67,7 +67,7 @@
         {
             "id": "T7",
             "name": "rs4553808",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -75,7 +75,7 @@
         {
             "id": "T8",
             "name": "rs4675374",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -83,7 +83,7 @@
         {
             "id": "T9",
             "name": "rs10754339",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -91,7 +91,7 @@
         {
             "id": "T13",
             "name": "multifactor dimensionality reduction",
-            "group": 7,
+            "group": 6,
             "type": "Interaction",
             "trigger": 1,
             "value": 19
@@ -99,7 +99,7 @@
         {
             "id": "T14",
             "name": "MDR",
-            "group": 7,
+            "group": 6,
             "type": "Interaction",
             "trigger": 1,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T11",
             "name": "rs733618",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -115,7 +115,7 @@
         {
             "id": "T12",
             "name": "rs11889031",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -123,7 +123,7 @@
         {
             "id": "T15",
             "name": "high risk genotype",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -131,7 +131,7 @@
         {
             "id": "T16",
             "name": "increasing",
-            "group": 3,
+            "group": 4,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -139,7 +139,7 @@
         {
             "id": "T17",
             "name": "risk",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T18",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T19",
             "name": "strongest",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T29",
             "name": "filtered SNPs",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -171,7 +171,7 @@
         {
             "id": "T24",
             "name": "stable",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 22
@@ -179,7 +179,7 @@
         {
             "id": "T25",
             "name": "ER(+)",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 18
@@ -187,7 +187,7 @@
         {
             "id": "T26",
             "name": "PR(+)",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 17
@@ -195,7 +195,7 @@
         {
             "id": "T27",
             "name": "CerbB2(-)",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 16
@@ -203,7 +203,7 @@
         {
             "id": "T28",
             "name": "lymph node",
-            "group": 6,
+            "group": 5,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 23
@@ -211,7 +211,7 @@
         {
             "id": "T23",
             "name": "best models",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -219,7 +219,7 @@
         {
             "id": "T21",
             "name": "rs733618",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -227,7 +227,7 @@
         {
             "id": "T20",
             "name": "and",
-            "group": 7,
+            "group": 6,
             "type": "Interaction",
             "trigger": 1,
             "value": 23
@@ -235,7 +235,7 @@
         {
             "id": "T22",
             "name": "rs11889031",
-            "group": 4,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -243,7 +243,7 @@
         {
             "id": "T30",
             "name": "haplotype TACC",
-            "group": 7,
+            "group": 6,
             "type": "Interaction",
             "trigger": 1,
             "value": 19
@@ -251,7 +251,7 @@
         {
             "id": "T31",
             "name": "significantly",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T32",
             "name": "increased",
-            "group": 3,
+            "group": 4,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -267,7 +267,7 @@
         {
             "id": "T33",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -275,7 +275,7 @@
         {
             "id": "T34",
             "name": "risk",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23

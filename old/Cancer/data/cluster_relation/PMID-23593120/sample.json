@@ -1,0 +1,565 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Evaluating",
+            "group": 2
+        },
+        {
+            "id": 1,
+            "value": 3,
+            "name": "breast cancer|breast cancer|breast cancer",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "risk",
+            "group": 5
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "variants",
+            "group": 0
+        },
+        {
+            "id": 4,
+            "value": 2,
+            "name": "African-American women|African-American women",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "index SNPs|Seven SNPs",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "statistically significant",
+            "group": 7
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "risk|risk",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 9,
+            "name": "rs10069690|rs999737|rs13387042|rs1219648|rs17817449|rs13329835|rs1011970|rs941764|rs17529111",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "5p15",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "TERT",
+            "group": 4
+        },
+        {
+            "id": 11,
+            "value": 8,
+            "name": "14q24|2q35|10q26|16q12|16q23|2q33|2q14|14q32",
+            "group": 4
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "RAD51L1",
+            "group": 4
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "TNP1",
+            "group": 4
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "FGFR2",
+            "group": 4
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "rs8170",
+            "group": 0
+        },
+        {
+            "id": 16,
+            "value": 2,
+            "name": "19p13|19p13",
+            "group": 4
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "BABAM1",
+            "group": 4
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "FTO",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "DYL2",
+            "group": 4
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "marginally significant",
+            "group": 7
+        },
+        {
+            "id": 21,
+            "value": 2,
+            "name": "association|association",
+            "group": 5
+        },
+        {
+            "id": 22,
+            "value": 2,
+            "name": "three additional SNPs|Three additional SNPs",
+            "group": 0
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "rs1045485",
+            "group": 0
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "CASP8",
+            "group": 4
+        },
+        {
+            "id": 25,
+            "value": 2,
+            "name": "rs4849887|rs4808801",
+            "group": 0
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "INHBB",
+            "group": 4
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "ELL",
+            "group": 4
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "9p21",
+            "group": 4
+        },
+        {
+            "id": 29,
+            "value": 2,
+            "name": "CDKN2A|CDKN 2B",
+            "group": 4
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "CCDC88C",
+            "group": 4
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "6q14",
+            "group": 4
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "FAM46A",
+            "group": 4
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "significant",
+            "group": 7
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "breast cancer subtype",
+            "group": 1
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "elevated",
+            "group": 6
+        },
+        {
+            "id": 36,
+            "value": 1,
+            "name": "increasing number",
+            "group": 6
+        },
+        {
+            "id": 37,
+            "value": 1,
+            "name": "risk variants",
+            "group": 3
+        },
+        {
+            "id": 38,
+            "value": 1,
+            "name": "AAs",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 37,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 37,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 37,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 37,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 34,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 38,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 35,
+            "value": 1
+        },
+        {
+            "source": 37,
+            "target": 36,
+            "value": 1
+        },
+        {
+            "source": 37,
+            "target": 38,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 25,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 25,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 25,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 25,
+            "target": 27,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 30,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 31,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 32,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 33,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 5,
+            "value": 1
+        }
+    ]
+}

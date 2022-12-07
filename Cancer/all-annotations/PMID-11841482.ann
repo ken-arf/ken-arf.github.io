@@ -1,0 +1,148 @@
+T1	SNP 0 13	Polymorphisms
+T2	Entity 17 42	tumour necrosis factors A
+T3	Entity 17 40;47 48	tumour necrosis factors B
+T4	Cancer 52 65	breast cancer
+T5	Association 49 51	in
+E1	Association:T5 bc:T4 snp_int:T1
+R1	SNP_coupled_gene Arg1:T1 Arg2:T3	
+R2	SNP_coupled_gene Arg1:T1 Arg2:T2	
+T6	Spec 71 78	assayed
+T7	SNP 83 123	germline single nucleotide polymorphisms
+R3	Equiv Arg1:T7 Arg2:T1	
+T8	Entity 138 142	TNFB
+T9	Entity 147 151	TNFA
+T10	Cancer 175 188	breast cancer
+T11	Association 158 169	in patients
+E2	Association:T11 snp_int:T7 bc:T10
+R4	Speculation_marker Arg1:E2 Arg2:T6	
+R5	SNP_coupled_gene Arg1:T7 Arg2:T8	
+R6	SNP_coupled_gene Arg1:T7 Arg2:T9	
+R7	Equiv Arg1:T8 Arg2:T3	
+R8	Equiv Arg1:T9 Arg2:T2	
+T12	SNP 92 123	single nucleotide polymorphisms
+T13	SNP 125 129	SNPs
+R9	Equiv Arg1:T13 Arg2:T12	
+T14	Entity 216 228	first intron
+T15	Entity 238 241	G/A
+T16	Entity 250 255;308 323	-1031 promoter region
+T17	Entity 257 260	T/C
+T18	Entity 263 267;308 323	-863 promoter region
+T19	Entity 269 272	C/A
+T20	Entity 275 279;308 323	-857 promoter region
+T21	Entity 281 284	C/T
+T22	Entity 290 294;308 323	-308 promoter region
+T23	Entity 296 299	G/A
+R11	Member Arg1:T8 Arg2:T14	
+R10	Nucleotide_substitution Arg1:T7 Arg2:T15	
+R12	Nucleotide_substitution Arg1:T7 Arg2:T17	
+R13	Nucleotide_substitution Arg1:T7 Arg2:T19	
+R14	Nucleotide_substitution Arg1:T7 Arg2:T21	
+R15	Nucleotide_substitution Arg1:T7 Arg2:T23	
+R16	Member Arg1:T9 Arg2:T16	
+R17	Member Arg1:T9 Arg2:T18	
+R18	Member Arg1:T9 Arg2:T20	
+R19	Member Arg1:T9 Arg2:T22	
+T24	Cancer 635 648	Breast cancer
+T25	Neg 653 656	not
+T26	Association 657 667	associated
+E3	Association:T26 bc:T24 snp_int:T27
+R20	Negation_marker Arg1:E3 Arg2:T25	
+T27	SNP 673 677	SNPs
+T28	Entity 685 699	TNFA promoters
+R21	SNP_coupled_gene Arg1:T27 Arg2:T28	
+R22	Member Arg1:T28 Arg2:T16	
+R23	Member Arg1:T28 Arg2:T18	
+R24	Member Arg1:T28 Arg2:T20	
+R25	Member Arg1:T28 Arg2:T22	
+R26	Nucleotide_substitution Arg1:T27 Arg2:T23	
+R27	Nucleotide_substitution Arg1:T27 Arg2:T19	
+R28	Nucleotide_substitution Arg1:T27 Arg2:T17	
+R29	Nucleotide_substitution Arg1:T27 Arg2:T21	
+T29	Entity 430 454	TNFB*G/TNFB*G homozygote
+T30	SNP 83 123	germline single nucleotide polymorphisms
+R30	Genotype Arg1:T30 Arg2:T29	
+T31	Entity 430 434	TNFB
+R31	SNP_coupled_gene Arg1:T30 Arg2:T31	
+T32	Association 486 497	predominant
+E4	Association:T32 bc:T33 snp_int:T30
+T33	Cancer 501 509	patients
+T34	Cancer 365 387	breast cancer patients
+R32	Equiv Arg1:T33 Arg2:T34	
+T35	Entity 521 545	TNFB*A/TNFB*A homozygote
+T36	Level 550 554	less
+T37	Association 555 563	frequent
+E5	Association:T37 bc:T38 snp_int:T40
+T38	Cancer 567 575	patients
+R33	Equiv Arg1:T38 Arg2:T34	
+R34	Level_marker Arg1:E5 Arg2:T36	
+A1	Level E5 Low
+T39	Entity 521 525	TNFB
+T40	SNP 83 123	germline single nucleotide polymorphisms
+R35	SNP_coupled_gene Arg1:T40 Arg2:T39	
+R36	Genotype Arg1:T40 Arg2:T35	
+T41	Entity 714 718	TNFB
+T42	SNP 719 722	SNP
+R37	SNP_coupled_gene Arg1:T42 Arg2:T41	
+T43	Entity 1015 1019	TNFB
+T44	SNP 1020 1023	SNP
+R38	SNP_coupled_gene Arg1:T44 Arg2:T43	
+T45	Entity 1024 1037	TNFB*G/TNFB*G
+R39	Genotype Arg1:T44 Arg2:T45	
+T46	Effect_Type 1055 1064	increased
+T47	Association 1065 1069	risk
+E6	Association:T47 snp_int:T44 bc:T48
+A2	Effect_Type E6 Increase
+R40	Effect_type_marker Arg1:E6 Arg2:T46	
+T48	Cancer 1074 1087	breast cancer
+T49	Entity 1100 1113	TNFB*A/TNFB*A
+T50	Association 1119 1129	resistance
+E7	Association:T50 bc:T52 snp_int:T53
+T51	Neg 1119 1129	resistance
+R41	Negation_marker Arg1:E7 Arg2:T51	
+T52	Cancer 1133 1146	breast cancer
+T53	SNP 1020 1023	SNP
+R42	SNP_coupled_gene Arg1:T53 Arg2:T43	
+R43	Genotype Arg1:T53 Arg2:T49	
+T54	Entity 1208 1214	TNFB*G
+R44	SNP_allele Arg1:T44 Arg2:T54	
+T55	Entity 1100 1106	TNFB*A
+R45	SNP_allele Arg1:T53 Arg2:T60	
+T56	Spec 1191 1198	suggest
+T57	Patho_physiology 1245 1258	tumorigenesis
+E8	Patho_physiology:T57 Agent:T44
+T58	Cell_types_tissues_affected 1262 1272	activation
+E9	Cell_types_tissues_affected:T58 Theme:T59 Agent:T44
+T59	Entity 1276 1296	dormant tumour cells
+R46	Speculation_marker Arg1:E8 Arg2:T56	
+R47	Speculation_marker Arg1:E9 Arg2:T56	
+T60	Entity 1306 1312	TNFB*A
+T61	Patho_physiology 1374 1387	tumorigenesis
+E10	Patho_physiology:T61 Agent:T53
+T62	Effect_Type 1360 1370	inhibition
+R48	Negation_marker Arg1:E10 Arg2:T62	
+A3	Effect_Type E10 Decrease
+R49	Speculation_marker Arg1:E10 Arg2:T56	
+T63	SNP 871 874	SNP
+T64	Entity 878 882	TNFA
+R50	SNP_coupled_gene Arg1:T63 Arg2:T64	
+T65	Patho_physiology 828 837	pathology
+E11	Patho_physiology:T65 Theme:T66 Agent:T63
+T66	Entity 844 857	tumour stages
+T67	Level 802 824	substantial difference
+A4	Level E11 High
+R51	Level_marker Arg1:E11 Arg2:T67	
+R52	SNP_location Arg1:T63 Arg2:T20	
+R53	Nucleotide_substitution Arg1:T63 Arg2:T21	
+T68	Neg 723 729	failed
+T69	Patho_physiology 752 781	clinicopathological parameter
+E12	Patho_physiology:T69 Agent:T42 Theme:T71
+R54	Negation_marker Arg1:E12 Arg2:T68	
+T71	Cancer 785 798	breast cancer
+R55	SNP_location Arg1:T42 Arg2:T14	
+R56	Nucleotide_substitution Arg1:T42 Arg2:T15	
+T70	Patho_physiology 955 970	antitumorigenic
+E13	Patho_physiology:T70 
+R57	Equiv Arg1:E10 Arg2:E13	
+T72	Patho_physiology 939 950	tumorigenic
+E14	Patho_physiology:T72 
+R58	Equiv Arg1:E8 Arg2:E14	

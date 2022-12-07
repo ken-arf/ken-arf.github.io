@@ -4,85 +4,99 @@
             "id": 0,
             "value": 3,
             "name": "Percent dense volume|absolute dense volume|absolute dense volume",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 1,
             "value": 2,
             "name": "rs10995190|rs9485372",
-            "group": 0
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 2,
             "value": 1,
             "name": "ZNF365",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 3,
             "value": 1,
             "name": "TAB2",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 4,
             "value": 1,
             "name": "rs9383938",
-            "group": 0
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 5,
             "value": 2,
             "name": "ESR1|ESR1",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 6,
             "value": 2,
             "name": "rs2046210|rs6001930",
-            "group": 0
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 7,
             "value": 1,
             "name": "MLK1",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 8,
             "value": 1,
             "name": "rs17356907",
-            "group": 0
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 9,
             "value": 1,
             "name": "NTN4",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 10,
             "value": 1,
             "name": "non",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 11,
             "value": 1,
             "name": "dense volume",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 12,
             "value": 1,
             "name": "estimates weaker",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 13,
             "value": 1,
             "name": "breast tissues",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         }
     ],
     "links": [

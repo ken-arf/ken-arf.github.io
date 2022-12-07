@@ -1,0 +1,539 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "single nucleotide polymorphisms",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 3,
+            "name": "adiponectin|adiponectin gene|adiponectin gene",
+            "group": 6
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "adiponectin|adiponectin",
+            "group": 6
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "levels|levels",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "cardio-metabolic risk",
+            "group": 0
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "patients cancer",
+            "group": 6
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "aims study",
+            "group": 5
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "polymorphisms",
+            "group": 1
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "potential",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "associations|associations",
+            "group": 7
+        },
+        {
+            "id": 10,
+            "value": 2,
+            "name": "breast cancer|prostate cancer",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "colon cancer",
+            "group": 6
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "other adipokines",
+            "group": 6
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "adipokines",
+            "group": 6
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "Three single nucleotide polymorphisms",
+            "group": 1
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "rs182052",
+            "group": 1
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "G -A",
+            "group": 6
+        },
+        {
+            "id": 17,
+            "value": 4,
+            "name": "rs1501299|rs1501299|rs1501299|rs1501299",
+            "group": 1
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "276",
+            "group": 6
+        },
+        {
+            "id": 19,
+            "value": 2,
+            "name": "G > T|T > G",
+            "group": 6
+        },
+        {
+            "id": 20,
+            "value": 3,
+            "name": "rs224176|rs224176|rs224176",
+            "group": 1
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "45",
+            "group": 6
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "GG",
+            "group": 6
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "significantly",
+            "group": 8
+        },
+        {
+            "id": 24,
+            "value": 4,
+            "name": "associated|associated|associated|associated",
+            "group": 7
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "higher significantly",
+            "group": 8
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "levels",
+            "group": 2
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "adiponectin",
+            "group": 6
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "breast cancers",
+            "group": 3
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "colon cancers",
+            "group": 6
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "GT",
+            "group": 6
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "significantly",
+            "group": 8
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "colon cancer",
+            "group": 6
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 3
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "adiponectin",
+            "group": 6
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "may be",
+            "group": 5
+        },
+        {
+            "id": 36,
+            "value": 1,
+            "name": "predisposing factors",
+            "group": 7
+        },
+        {
+            "id": 37,
+            "value": 1,
+            "name": "cancers",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 29,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 36,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 36,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 36,
+            "target": 37,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 30,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 31,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 34,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 34,
+            "value": 1
+        },
+        {
+            "source": 36,
+            "target": 35,
+            "value": 1
+        },
+        {
+            "source": 37,
+            "target": 33,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 14,
+            "value": 1
+        }
+    ]
+}

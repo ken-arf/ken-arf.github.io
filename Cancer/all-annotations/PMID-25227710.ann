@@ -1,0 +1,104 @@
+T1	SNP 244 246;268 299	41 single nucleotide polymorphisms
+T2	Association 247 259	associations
+E1	Association:T2 snp_int:T1 bc:T3
+T3	Cancer 319 332	breast cancer
+T4	Cancer 334 336	BC
+R1	Equiv Arg1:T4 Arg2:T3	
+T5	Spec 347 359	investigated
+T6	SNP 383 396	these 41 SNPs
+T7	SNP 409 417	six SNPs
+T8	Association 418 428	associated
+E2	Association:T8 bc:T9 snp_int:T7
+T9	Cancer 434 451;457 468	estrogen receptor negative BC
+T10	Entity 434 451	estrogen receptor
+T11	Entity 453 455	ER
+R3	Equiv Arg1:T11 Arg2:T10	
+T12	Entity 490 519	13 environmental risk factors
+R4	Risk_Factor Arg1:T7 Arg2:T12	
+T13	Association 372 379	effects
+E3	Association:T13 snp_int:T6 bc:T3
+R5	Equiv Arg1:E3 Arg2:E1	
+R2	Speculation_marker Arg1:E3 Arg2:T5	
+R6	Risk_Factor Arg1:T6 Arg2:T12	
+R7	Speculation_marker Arg1:E2 Arg2:T5	
+A1	Cancer_Type T9 ER-
+T14	Organic_inorganic_molecules_affected 418 428	associated
+E4	Organic_inorganic_molecules_affected:T14 Agent:T7 Theme:T10
+T15	Neg 457 465	negative
+R8	Negation_marker Arg1:E4 Arg2:T15	
+T16	SNP 1091 1100	rs6828523
+T17	Association 1105 1115	associated
+E5	Association:T17 snp_int:T16 bc:T19
+T18	Effect_Type 1121 1130	increased
+T19	Cancer 1131 1145	ER-negative BC
+A2	Cancer_Type T19 ER-
+R9	Effect_type_marker Arg1:E5 Arg2:T18	
+A3	Effect_Type E5 Increase
+T20	Entity 1154 1159	women
+R10	Population_assignment Arg1:T16 Arg2:T20	
+T21	Entity 1160 1167	≥170 cm
+R11	Risk_Factor Arg1:T16 Arg2:T21	
+T22	Effect_Type 1196 1205	inversely
+T23	Association 1206 1216	associated
+E6	Association:T23 bc:T24 snp_int:T25
+A4	Effect_Type E6 Decrease
+T24	Cancer 1222 1236	ER-negative BC
+A5	Cancer_Type T24 ER-
+R12	Effect_type_marker Arg1:E6 Arg2:T22	
+T25	SNP 1091 1100	rs6828523
+T26	Entity 1245 1250	women
+R13	Population_assignment Arg1:T25 Arg2:T26	
+T27	Entity 1251 1258	<160 cm
+R14	Risk_Factor Arg1:T25 Arg2:T27	
+T28	Effect_Type 1309 1316	inverse
+T29	Association 1317 1328	association
+E7	Association:T29 snp_int:T30 bc:T31
+A6	Effect_Type E7 Decrease
+R15	Effect_type_marker Arg1:E7 Arg2:T28	
+T30	SNP 1337 1346	rs4808801
+T31	Cancer 1359 1361	BC
+T32	Organic_inorganic_molecules_affected 1105 1115	associated
+E8	Organic_inorganic_molecules_affected:T32 Theme:T34 Agent:T16
+T33	Neg 1134 1142	negative
+T34	Entity 1131 1133	ER
+R16	Negation_marker Arg1:E8 Arg2:T33	
+T35	Level 1371 1379	stronger
+T36	Association 1317 1328	association
+E9	Association:T36 snp_int:T38 bc:T31
+A7	Level E9 High
+R17	Level_marker Arg1:E9 Arg2:T35	
+T37	Entity 1384 1389	women
+R18	Population_assignment Arg1:T30 Arg2:T37	
+T38	SNP 1337 1346	rs4808801
+R19	Effect_type_marker Arg1:E9 Arg2:T28	
+A8	Effect_Type E9 Decrease
+R20	Population_assignment Arg1:T38 Arg2:T37	
+T39	Entity 1402 1426	four or more pregnancies
+R21	Risk_Factor Arg1:T38 Arg2:T39	
+T40	Neg 1463 1469	absent
+T41	Entity 1473 1478	women
+T42	Association 1317 1328	association
+E10	Association:T42 bc:T31 snp_int:T43
+R22	Negation_marker Arg1:E10 Arg2:T40	
+R23	Effect_type_marker Arg1:E10 Arg2:T28	
+A9	Effect_Type E10 Decrease
+T43	SNP 1337 1346	rs4808801
+R24	Population_assignment Arg1:T43 Arg2:T41	
+T44	Entity 1415 1426;1496 1499	pregnancies one
+R25	Risk_Factor Arg1:T43 Arg2:T44	
+T45	SNP 1549 1559	rs11242675
+T46	Effect_Type 1564 1573	inversely
+T47	Association 1574 1584	associated
+E11	Association:T47 bc:T48 snp_int:T45
+A10	Effect_Type E11 Decrease
+R26	Effect_type_marker Arg1:E11 Arg2:T46	
+T48	Cancer 1598 1600	BC
+T49	Entity 1609 1629	never/former smokers
+R27	Risk_Factor Arg1:T45 Arg2:T49	
+T50	Neg 1666 1668	no
+T51	Association 1669 1680	association
+E12	Association:T51 bc:T48 snp_int:T53
+R28	Negation_marker Arg1:E12 Arg2:T50	
+T52	Entity 1697 1711	current smoker
+T53	SNP 1549 1559	rs11242675
+R29	Risk_Factor Arg1:T53 Arg2:T52	

@@ -1,0 +1,58 @@
+T1	SNP 486 496	rs78378222
+T2	SNP 506 516	rs10069690
+T3	SNP 526 535	rs1800057
+T4	SNP 540 549	rs1801516
+T5	SNP 562 571	rs7907606
+T6	Entity 575 580	OBFC1
+T7	Entity 500 504	TP53
+T8	Entity 520 524	TERT
+T9	Entity 553 556	ATM
+R1	SNP_coupled_gene Arg1:T1 Arg2:T7	
+R2	SNP_coupled_gene Arg1:T2 Arg2:T8	
+R3	SNP_coupled_gene Arg1:T4 Arg2:T9	
+R4	SNP_coupled_gene Arg1:T3 Arg2:T9	
+R5	SNP_coupled_gene Arg1:T5 Arg2:T6	
+T10	Cancer 682 695	breast cancer
+T15	Entity 730 735	GREB1
+T16	Entity 738 745	20p12.3
+T17	Entity 747 751	MCM8
+T18	Entity 758 764	6q26.2
+T19	Entity 766 771	SYNE1
+T20	Entity 772 776	ESR1
+T11	SNP 586 598	four signals
+T12	Entity 700 707	1q36.12
+T13	Entity 722 728	2p25.1
+T14	Association 614 630	established risk
+E1	Association:T14 bc:T10 snp_int:T11
+T21	Entity 709 714	CDC42
+T22	Entity 715 719	WNT4
+R6	SNP_location Arg1:T11 Arg2:T12	
+R7	SNP_location Arg1:T11 Arg2:T21	
+R8	SNP_location Arg1:T11 Arg2:T22	
+R9	SNP_location Arg1:T11 Arg2:T13	
+R10	SNP_location Arg1:T11 Arg2:T15	
+R11	SNP_location Arg1:T11 Arg2:T16	
+R12	SNP_location Arg1:T11 Arg2:T17	
+R13	SNP_coupled_gene Arg1:T11 Arg2:T18	
+R14	SNP_location Arg1:T11 Arg2:T19	
+R15	SNP_location Arg1:T11 Arg2:T20	
+T23	Patho_physiology 664 677	endometriosis
+E2	Patho_physiology:T23 Agent:T11
+A1	SNP_Type T1 Non-Coding
+A2	SNP_Type T2 Non-Coding
+A3	SNP_Type T3 Non-Coding
+A4	SNP_Type T4 Non-Coding
+A5	SNP_Type T5 Non-Coding
+A6	Cancer_Type T10 Horm+ve_other
+T24	SNP 952 976	non-coding risk variants
+T25	Other_effect 977 983	affect
+E3	Other_effect:T25 Theme:T26 Agent:T24
+T26	Entity 1010 1014	ESR1
+T27	SNP 393 406	Five variants
+R16	Member Arg1:T27 Arg2:T1	
+R17	Member Arg1:T27 Arg2:T2	
+R18	Member Arg1:T27 Arg2:T3	
+R19	Member Arg1:T27 Arg2:T4	
+R20	Member Arg1:T27 Arg2:T5	
+R21	Member Arg1:T24 Arg2:T27	
+R22	Member Arg1:T24 Arg2:T11	

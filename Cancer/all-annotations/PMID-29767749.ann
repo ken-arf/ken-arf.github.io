@@ -1,0 +1,89 @@
+T1	SNP 243 253	rs11571833
+T2	Association 341 352	modest risk
+E1	Association:T2 bc:T3 snp_int:T1
+T3	Cancer 356 362;374 380	breast cancer
+T4	Entity 21 26	K3326
+T5	Entity 15 20	BRCA2
+R1	SNP_coupled_gene Arg1:T1 Arg2:T5	
+T6	Organic_inorganic_molecules_affected 215 233	stop-gain mutation
+E2	Organic_inorganic_molecules_affected:T6 Theme:T7 Agent:T1
+T7	Entity 235 240	K3326
+T8	Cancer 159 195	hereditary breast and ovarian cancer
+T14	Cancer 595 613	BRCA2-related HBOC
+A1	Cancer_Type T14 Hereditary
+T11	Association 976 986	associated
+E3	Association:T11 bc:T12 snp_int:T13
+T12	Cancer 963 969	cancer
+R4	Equiv Arg1:T12 Arg2:T3	
+T13	SNP 992 998	K3326*
+T15	Entity 992 997	K3326
+T16	Entity 1388 1393	K3326
+T17	SNP 1388 1394	K3326*
+T18	Neg 1407 1410	not
+T19	Entity 1431 1436	BRCA2
+T20	Gene_Regulation 1437 1448	transcripts
+E4	Gene_Regulation:T20 Theme:T19 Agent:T17
+R8	Negation_marker Arg1:E4 Arg2:T18	
+R9	SNP_coupled_gene Arg1:T17 Arg2:T19	
+T21	SNP 1322 1328	K3326*
+T22	Entity 1322 1327	K3326
+T23	Entity 1307 1317	homozygous
+R11	Genotype Arg1:T21 Arg2:T23	
+T24	Other_effect 1329 1342	reach old age
+E5	Other_effect:T24 Agent:T21
+T25	Other_effect 1347 1360	have children
+E6	Other_effect:T25 Agent:T21
+T26	Gene_Regulation 1468 1477	expressed
+E7	Gene_Regulation:T26 Agent:T17 Theme:T16
+T27	SNP 1522 1528	K3326*
+T29	Association 1529 1539	associates
+E8	Association:T29 bc:T30 snp_int:T27
+T30	Cancer 1555 1562	cancers
+T31	Entity 1573 1616	strong environmental genotoxic risk factors
+R13	Risk_Factor Arg1:T27 Arg2:T31	
+T32	SNP 1636 1642	K3326*
+T33	Organic_inorganic_molecules_affected 1689 1693	made
+E9	Organic_inorganic_molecules_affected:T33 Theme:T35 Agent:T32
+T34	Spec 1682 1685	may
+R15	Speculation_marker Arg1:E9 Arg2:T34	
+T35	Entity 1666 1681	variant protein
+T36	Patho_physiology 1711 1721	DNA repair
+E10	Patho_physiology:T36 Agent:T32
+T37	Patho_physiology 1748 1774	hormone-responsive tissues
+E11	Patho_physiology:T37 Agent:T32
+T38	Spec 1779 1782	may
+T39	Level 1786 1800	less efficient
+T40	Patho_physiology 1804 1814	responding
+E12	Patho_physiology:T40 Theme:T41 Agent:T32
+T41	Entity 1818 1834	genotoxic stress
+R16	Speculation_marker Arg1:E12 Arg2:T38	
+R17	Level_marker Arg1:E12 Arg2:T39	
+A2	Level E12 Low
+A3	Cancer_Type T8 Hereditary
+R3	Equiv Arg1:T14 Arg2:T8	
+T9	SNP 21 26	K3326
+R14	SNP_coupled_gene Arg1:T9 Arg2:T5	
+A4	SNP_Type T9 Nonsense
+A5	SNP_Type T1 Nonsense
+T10	SNP 235 241	K3326*
+R5	Equiv Arg1:T1 Arg2:T10	
+A6	SNP_Type T32 Nonsense
+A7	SNP_Type T27 Nonsense
+A8	SNP_Type T17 Nonsense
+A9	SNP_Type T21 Nonsense
+A10	SNP_Type T13 Nonsense
+T28	Organic_inorganic_molecules_affected 21 27	K3326*
+E13	Organic_inorganic_molecules_affected:T28 Theme:T4 Agent:T9
+A11	SNP_Type T10 Nonsense
+T42	Organic_inorganic_molecules_affected 992 998	K3326*
+E14	Organic_inorganic_molecules_affected:T42 Theme:T15 Agent:T13
+T43	Organic_inorganic_molecules_affected 1322 1328	K3326*
+E15	Organic_inorganic_molecules_affected:T43 Agent:T21 Theme:T22
+T44	Organic_inorganic_molecules_affected 1388 1394	K3326*
+E16	Organic_inorganic_molecules_affected:T44 Theme:T16 Agent:T17
+T45	Organic_inorganic_molecules_affected 1522 1528	K3326*
+E17	Organic_inorganic_molecules_affected:T45 Agent:T27 Theme:T46
+T46	Entity 1522 1527	K3326
+T47	Organic_inorganic_molecules_affected 1636 1642	K3326*
+E18	Organic_inorganic_molecules_affected:T47 Theme:T48 Agent:T32
+T48	Entity 1636 1641	K3326

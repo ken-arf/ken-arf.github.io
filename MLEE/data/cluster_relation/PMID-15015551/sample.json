@@ -4,132 +4,154 @@
             "id": 0,
             "value": 1,
             "name": "Morphogenesis",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 1,
             "value": 1,
             "name": "embryonic CNS vessels",
+            "trigger": 0,
             "group": 0
         },
         {
             "id": 2,
             "value": 1,
             "name": "blood vessel",
+            "trigger": 0,
             "group": 0
         },
         {
             "id": 3,
             "value": 1,
             "name": "formation",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 4,
             "value": 1,
             "name": "central nervous system",
-            "group": 4
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 5,
             "value": 1,
             "name": "CNS",
-            "group": 4
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 6,
             "value": 1,
             "name": "brain",
-            "group": 10
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 7,
             "value": 1,
             "name": "spinal cord",
-            "group": 10
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 8,
             "value": 1,
             "name": "avian",
-            "group": 5
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 9,
             "value": 1,
             "name": "embryos",
-            "group": 9
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 10,
             "value": 1,
             "name": "cell",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 11,
             "value": 1,
             "name": "proliferation",
-            "group": 8
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 12,
             "value": 1,
             "name": "interactions",
-            "group": 3
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 13,
             "value": 1,
             "name": "endothelial cells",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 14,
             "value": 1,
             "name": "pericytes",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 15,
             "value": 1,
             "name": "smooth muscle cells",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 16,
             "value": 1,
             "name": "macrophages",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 17,
             "value": 1,
             "name": "control",
-            "group": 2
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 18,
             "value": 1,
             "name": "CNS",
-            "group": 4
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 19,
             "value": 1,
             "name": "angiogenesis",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 20,
             "value": 1,
             "name": "assembly",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 21,
             "value": 1,
             "name": "vasculature",
+            "trigger": 0,
             "group": 0
         }
     ],

@@ -4,49 +4,57 @@
             "id": 0,
             "value": 1,
             "name": "fluorescein",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 1,
             "value": 1,
             "name": "angiography",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 2,
             "value": 2,
             "name": "persons|persons",
-            "group": 5
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 3,
             "value": 1,
             "name": "capillary",
-            "group": 0
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 4,
             "value": 1,
             "name": "cotton",
-            "group": 5
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 5,
             "value": 1,
             "name": "retinal vessels",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 6,
             "value": 1,
             "name": "induce",
-            "group": 6
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 7,
             "value": 1,
             "name": "neovascular response",
-            "group": 2
+            "trigger": 1,
+            "group": 1
         }
     ],
     "links": [

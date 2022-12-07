@@ -4,253 +4,295 @@
             "id": 0,
             "value": 1,
             "name": "angiogenic",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 1,
             "value": 1,
             "name": "tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 2,
             "value": 1,
             "name": "effects",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 3,
             "value": 1,
             "name": "protein kinase Cbeta",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 4,
             "value": 1,
             "name": "human",
-            "group": 7
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 5,
             "value": 1,
             "name": "breast cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "ovarian cancer xenografts",
-            "group": 2
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 7,
             "value": 1,
             "name": "cell",
-            "group": 9
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 8,
             "value": 1,
             "name": "culture",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 9,
             "value": 11,
             "name": "317615 2HCl|317615 x 2HCl|317615 2HCl|317615 x 2HCl|317615 x 2HCI|317615 x 2HCl|317615 x 2HCl|317615 x 2HCl|317615 x 2HCl|317615 x 2HCl|317615 x 2HCl",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 10,
             "value": 1,
             "name": "inhibitor",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 11,
             "value": 1,
             "name": "VEGF",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 12,
             "value": 1,
             "name": "stimulated",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 13,
             "value": 1,
             "name": "HUVEC",
-            "group": 9
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 14,
             "value": 1,
             "name": "proliferation",
-            "group": 0
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 15,
             "value": 1,
             "name": "effective against",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 16,
             "value": 6,
             "name": "MX-1 breast cancer cells|MX-1 cells|MX-1 tumors|MX-1 tumors|MX-1 xenograft|MX-1 tumor",
-            "group": 9
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 17,
             "value": 7,
             "name": "SKOV-3 ovarian carcinoma cells|SKOV-3 cells|SKOV-3 tumors|SKOV-3 tumors|SKOV-3 xenografts|SKOV-3|SKOV-3 tumor",
-            "group": 9
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 18,
             "value": 2,
             "name": "Exposure|Exposure",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 19,
             "value": 2,
             "name": "paclitaxel|paclitaxel",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 20,
             "value": 6,
             "name": "carboplatin|carboplatin|carboplatin|carboplatin|carboplatin|carboplatin",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 21,
             "value": 3,
             "name": "resulted|resulted|resulted",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 22,
             "value": 2,
             "name": "cell|cell",
-            "group": 9
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 23,
             "value": 1,
             "name": "survival",
-            "group": 6
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 24,
             "value": 1,
             "name": "survivals",
-            "group": 6
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 25,
             "value": 1,
             "name": "paclitaxel",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 26,
             "value": 3,
             "name": "Administration|Administration|Administration",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 27,
             "value": 1,
             "name": "nude mice",
-            "group": 7
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 28,
             "value": 1,
             "name": "decreased",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 29,
             "value": 1,
             "name": "intratumoral vessels",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 30,
             "value": 1,
             "name": "CD31",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 31,
             "value": 1,
             "name": "CD105",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 32,
             "value": 1,
             "name": "tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 33,
             "value": 1,
             "name": "against",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 34,
             "value": 2,
             "name": "increased|increased",
+            "trigger": 1,
             "group": 10
         },
         {
             "id": 35,
             "value": 3,
             "name": "tumor|tumor|tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 36,
             "value": 3,
             "name": "growth|growth|growth",
-            "group": 1
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 37,
             "value": 3,
             "name": "delay|delay|delay",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 38,
             "value": 1,
             "name": "paclitaxel",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 39,
             "value": 1,
             "name": "Treatment",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 40,
             "value": 1,
             "name": "paclitaxel",
-            "group": 8
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 41,
             "value": 1,
             "name": "angiogenic",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         }
     ],
     "links": [

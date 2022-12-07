@@ -4,193 +4,225 @@
             "id": 0,
             "value": 1,
             "name": "angiogenic",
-            "group": 6
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 1,
             "value": 1,
             "name": "bone marrow",
-            "group": 5
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 2,
             "value": 1,
             "name": "transplantation",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 3,
             "value": 1,
             "name": "blood",
-            "group": 2
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 4,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 5,
             "value": 1,
             "name": "endothelialization",
-            "group": 6
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 6,
             "value": 1,
             "name": "endothelial cells",
-            "group": 10
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 7,
             "value": 1,
             "name": "induce",
-            "group": 12
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 8,
             "value": 2,
             "name": "capillary|capillary",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 9,
             "value": 2,
             "name": "growth|growth",
-            "group": 1
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 10,
             "value": 1,
             "name": "transplanting",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 11,
             "value": 1,
             "name": "bone marrow cells",
-            "group": 10
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 12,
             "value": 1,
             "name": "create",
-            "group": 11
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 13,
             "value": 1,
             "name": "blood cells",
-            "group": 10
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 14,
             "value": 1,
             "name": "resulting",
-            "group": 12
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 15,
             "value": 1,
             "name": "inducement",
-            "group": 12
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 16,
             "value": 1,
             "name": "marrow cells",
-            "group": 10
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 17,
             "value": 1,
             "name": "infiltrated",
-            "group": 3
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 18,
             "value": 1,
             "name": "implanted",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 19,
             "value": 1,
             "name": "abdominal aortic",
-            "group": 5
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 20,
             "value": 1,
             "name": "dogs",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 21,
             "value": 1,
             "name": "Marrow cells",
-            "group": 10
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 22,
             "value": 1,
             "name": "survived",
-            "group": 8
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 23,
             "value": 1,
             "name": "basic fibroblast growth factor",
-            "group": 13
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 24,
             "value": 1,
             "name": "bFGF",
-            "group": 13
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 25,
             "value": 1,
             "name": "endothelialization",
-            "group": 6
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 26,
             "value": 1,
             "name": "bone marrow",
-            "group": 5
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 27,
             "value": 1,
             "name": "Endothelialization",
-            "group": 6
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 28,
             "value": 1,
             "name": "endothelial cell",
-            "group": 10
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 29,
             "value": 1,
             "name": "thrombus",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 30,
             "value": 1,
             "name": "Bone marrow",
-            "group": 5
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 31,
             "value": 1,
             "name": "angiogenicity",
-            "group": 6
+            "trigger": 1,
+            "group": 1
         }
     ],
     "links": [

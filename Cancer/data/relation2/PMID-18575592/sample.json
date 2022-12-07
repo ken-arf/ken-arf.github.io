@@ -3,7 +3,7 @@
         {
             "id": "T7",
             "name": "Germline mutation",
-            "group": 5,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T1",
             "name": "RNASEL",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -19,7 +19,7 @@
         {
             "id": "T8",
             "name": "predicts",
-            "group": 6,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T9",
             "name": "increased",
-            "group": 4,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T10",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -43,7 +43,7 @@
         {
             "id": "T11",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T2",
             "name": "Ribonuclease L",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -59,7 +59,7 @@
         {
             "id": "T4",
             "name": "5'UTR",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -67,7 +67,7 @@
         {
             "id": "T3",
             "name": "rs3738579",
-            "group": 5,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -75,7 +75,7 @@
         {
             "id": "T12",
             "name": "increased",
-            "group": 4,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 18
@@ -83,7 +83,7 @@
         {
             "id": "T13",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 18
@@ -91,7 +91,7 @@
         {
             "id": "T15",
             "name": "protective effect",
-            "group": 2,
+            "group": 3,
             "type": "Other_effect",
             "trigger": 1,
             "value": 18
@@ -99,7 +99,7 @@
         {
             "id": "T5",
             "name": "RNASEL",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -107,7 +107,7 @@
         {
             "id": "T14",
             "name": "rs3738579",
-            "group": 5,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -115,7 +115,7 @@
         {
             "id": "T6",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 18

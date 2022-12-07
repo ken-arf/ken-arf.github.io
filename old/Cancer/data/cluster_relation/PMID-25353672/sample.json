@@ -1,0 +1,293 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "1q12-q21",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "Mammographic density",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "Caucasian women",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "45 to 68 years|40 to 70 years old",
+            "group": 4
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "breast",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "women",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "Australian Twin",
+            "group": 4
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "Spanish",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "Evidence",
+            "group": 1
+        },
+        {
+            "id": 9,
+            "value": 4,
+            "name": "MD|MD|MD|MD",
+            "group": 3
+        },
+        {
+            "id": 10,
+            "value": 4,
+            "name": "rs11205277|rs11205277|rs11205277|rs11205303",
+            "group": 0
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "marginal",
+            "group": 5
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "this SNP",
+            "group": 0
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "absolute dense area",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "evidence",
+            "group": 1
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "SNPs",
+            "group": 0
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "high linkage disequilibrium",
+            "group": 2
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "MTMR11",
+            "group": 4
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "rs67807996",
+            "group": 0
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "OTUD7B",
+            "group": 4
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "evidence",
+            "group": 1
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "common genetic variations",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 1
+        }
+    ]
+}

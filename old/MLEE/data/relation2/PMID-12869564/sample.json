@@ -1,0 +1,740 @@
+{
+    "nodes": [
+        {
+            "id": "T56",
+            "name": "organ",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1",
+            "name": "vascularization",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "lipoplex",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T3",
+            "name": "serum",
+            "group": 2,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "murine",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "lipofection",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T34",
+            "name": "administration",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "lipoplexes",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T1001",
+            "name": "mice",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "lungs",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "entrapment",
+            "group": 7,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T7",
+            "name": "lipoplexes",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T8",
+            "name": "lung vascular tree",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T51",
+            "name": "lipofection",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T27",
+            "name": "organs",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "enhanced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "increasing",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "vascularization",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "mouse",
+            "group": 12,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "tissue",
+            "group": 10,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "angiogenesis",
+            "group": 8,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "liver",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "Tail vein",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "injection",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "N-(1-(2,3-dioleoyloxy)propyl)-N,N,N-trimethylammonium chloride (DOTAP)/cholesterol lipoplexes",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 13
+        },
+        {
+            "id": "T43",
+            "name": "resulted",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "increased",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "lipoplex",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T18",
+            "name": "entrapment",
+            "group": 7,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T20",
+            "name": "liver",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "boost",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T9",
+            "name": "luciferase",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T46",
+            "name": "expression",
+            "group": 9,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "lipoplex",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T47",
+            "name": "delivery",
+            "group": 7,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "sufficient",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "organ",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "lipofection",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T48",
+            "name": "injected",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "lipoplexes",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T49",
+            "name": "migrated",
+            "group": 7,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T23",
+            "name": "lungs",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "serum",
+            "group": 2,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "lung",
+            "group": 4,
+            "type": "Organ",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "lipofection",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T26",
+            "name": "DOTAP",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T28",
+            "name": "lipoplex",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T29",
+            "name": "serum",
+            "group": 2,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "lipid",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T30",
+            "name": "lipoplexes",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T31",
+            "name": "lipoplexes",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T32",
+            "name": "cholesterol",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "aggregate",
+            "group": 3,
+            "type": "Binding",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "aggregation",
+            "group": 3,
+            "type": "Binding",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "lung cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "lipoplexes",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T54",
+            "name": "lipofection",
+            "group": 6,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 19
+        },
+        {
+            "id": "T36",
+            "name": "serum",
+            "group": 2,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "cholesterol-based lipoplexes",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T38",
+            "name": "Dioleoyl phosphatidylethanolamine-based lipoplexes",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 14
+        },
+        {
+            "id": "T39",
+            "name": "serum",
+            "group": 2,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "lipoplex",
+            "group": 5,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T41",
+            "name": "serum",
+            "group": 2,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "tissue",
+            "group": 10,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T6",
+            "target": "T8",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T15",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T15",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T18",
+            "target": "T20",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T17",
+            "target": "T1000",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T17",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T34",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T34",
+            "target": "T1001",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T42",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T43",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T43",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T44",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T45",
+            "target": "T46",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T45",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T46",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T47",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T48",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T49",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T49",
+            "target": "T23",
+            "value": 2,
+            "link_name": "ToLoc"
+        },
+        {
+            "source": "T50",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T50",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T52",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T52",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T54",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T54",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T51",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T58",
+            "target": "T57",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T59",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T59",
+            "target": "T58",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T1",
+            "target": "T56",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 2,
+            "link_name": "AtLoc"
+        }
+    ]
+}

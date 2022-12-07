@@ -1,0 +1,357 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 4,
+            "name": "celecoxib|celecoxib|celecoxib|celecoxib",
+            "group": 5
+        },
+        {
+            "id": 1,
+            "value": 3,
+            "name": "cyclophosphamide|cyclophosphamide|cyclophosphamide",
+            "group": 5
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "therapy",
+            "group": 3
+        },
+        {
+            "id": 3,
+            "value": 3,
+            "name": "patients|patients|patients",
+            "group": 6
+        },
+        {
+            "id": 4,
+            "value": 4,
+            "name": "non-Hodgkin's lymphoma|non-Hodgkin's lymphoma|non-Hodgkin's lymphoma|non-Hodgkin's lymphoma",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "Angiogenesis",
+            "group": 2
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "increased",
+            "group": 8
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "cyclooxygenase-2",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "inhibition",
+            "group": 9
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "chemotherapy",
+            "group": 3
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 2
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "Patients",
+            "group": 6
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "B-cell lymphoma",
+            "group": 1
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "pretreated",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "stem cell",
+            "group": 7
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "transplant",
+            "group": 3
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "skin",
+            "group": 11
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "gastrointestinal",
+            "group": 4
+        },
+        {
+            "id": 18,
+            "value": 2,
+            "name": "patients|patients",
+            "group": 6
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "deep vein thromboses",
+            "group": 1
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "pretreated",
+            "group": 3
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "treatment",
+            "group": 3
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "therapy",
+            "group": 3
+        },
+        {
+            "id": 23,
+            "value": 2,
+            "name": "endothelial cells|endothelial cells",
+            "group": 7
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "plasma",
+            "group": 0
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "vascular endothelial growth factor",
+            "group": 10
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "decline",
+            "group": 9
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "patients",
+            "group": 6
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "increase",
+            "group": 8
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "targeted",
+            "group": 9
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "angiogenic",
+            "group": 2
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "pretreated",
+            "group": 3
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "decline",
+            "group": 9
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "inhibiting",
+            "group": 9
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 2
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "patient",
+            "group": 6
+        }
+    ],
+    "links": [
+        {
+            "source": 8,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 33,
+            "target": 34,
+            "value": 2
+        },
+        {
+            "source": 33,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 33,
+            "target": 34,
+            "value": 2
+        },
+        {
+            "source": 33,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 4,
+            "value": 2
+        }
+    ]
+}

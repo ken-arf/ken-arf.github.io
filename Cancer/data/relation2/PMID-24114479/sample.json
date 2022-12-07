@@ -3,7 +3,7 @@
         {
             "id": "T20",
             "name": "Selenium",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T2",
             "name": "single-nucleotide polymorphisms",
-            "group": 5,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -19,7 +19,7 @@
         {
             "id": "T1",
             "name": "SNP",
-            "group": 5,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T3",
             "name": "selenoprotein genes",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -35,7 +35,7 @@
         {
             "id": "T4",
             "name": "evidence",
-            "group": 6,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -43,7 +43,7 @@
         {
             "id": "T5",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T6",
             "name": "breast cancers",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T7",
             "name": "small number of SNPs",
-            "group": 5,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -67,7 +67,7 @@
         {
             "id": "T8",
             "name": "glutathione peroxidases 1 and 4",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -75,7 +75,7 @@
         {
             "id": "T9",
             "name": "selenoprotein P",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -83,7 +83,7 @@
         {
             "id": "T10",
             "name": "selenoprotein S",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -91,7 +91,7 @@
         {
             "id": "T11",
             "name": "15-kDa selenoprotein",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -99,7 +99,7 @@
         {
             "id": "T12",
             "name": "functional consequences",
-            "group": 2,
+            "group": 3,
             "type": "Other_effect",
             "trigger": 1,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T18",
             "name": "suggest",
-            "group": 6,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -115,7 +115,7 @@
         {
             "id": "T13",
             "name": "variant",
-            "group": 5,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -123,7 +123,7 @@
         {
             "id": "T14",
             "name": "codon 198",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -131,7 +131,7 @@
         {
             "id": "T15",
             "name": "glutathione peroxidase 1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -139,7 +139,7 @@
         {
             "id": "T21",
             "name": "influences",
-            "group": 4,
+            "group": 5,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T19",
             "name": "Se",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T16",
             "name": "associated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T17",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23

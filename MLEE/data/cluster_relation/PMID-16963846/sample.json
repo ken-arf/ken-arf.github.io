@@ -4,121 +4,141 @@
             "id": 0,
             "value": 3,
             "name": "Photodynamic therapy|photodynamic therapy|Photodynamic Therapy",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 1,
             "value": 4,
             "name": "verteporfin|verteporfin|Verteporfin|verteporfin",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 2,
             "value": 2,
             "name": "neovascularization|neovascularization",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 3,
             "value": 1,
             "name": "CNV",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 4,
             "value": 1,
             "name": "patients",
-            "group": 4
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 5,
             "value": 1,
             "name": "eyes",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 6,
             "value": 3,
             "name": "PDT|PDT|PDT",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 7,
             "value": 1,
             "name": "fundus",
+            "trigger": 0,
             "group": 0
         },
         {
             "id": 8,
             "value": 1,
             "name": "fluorescein",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 9,
             "value": 1,
             "name": "angiography",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 10,
             "value": 1,
             "name": "Patients",
-            "group": 4
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 11,
             "value": 1,
             "name": "treatment",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 12,
             "value": 1,
             "name": "patients",
-            "group": 4
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 13,
             "value": 1,
             "name": "patients",
-            "group": 4
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 14,
             "value": 2,
             "name": "eyes|eyes",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 15,
             "value": 1,
             "name": "CNV",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 16,
             "value": 1,
             "name": "patients",
-            "group": 4
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 17,
             "value": 1,
             "name": "CNV",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 18,
             "value": 1,
             "name": "patients",
-            "group": 4
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 19,
             "value": 1,
             "name": "eyes",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         }
     ],
     "links": [

@@ -4,349 +4,407 @@
             "id": 0,
             "value": 2,
             "name": "Neurotrophin p75 receptor|p75 receptor of neurotrophins",
-            "group": 16
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 1,
             "value": 8,
             "name": "p75NTR|p75(NTR)|p75(NTR)|p75(NTR)|p75(NTR)|p75(NTR)|p75(NTR)|p75(NTR)",
-            "group": 16
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 2,
             "value": 1,
             "name": "promotes",
+            "trigger": 1,
             "group": 14
         },
         {
             "id": 3,
             "value": 1,
             "name": "endothelial cell",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 4,
             "value": 1,
             "name": "apoptosis",
-            "group": 7
+            "trigger": 1,
+            "group": 17
         },
         {
             "id": 5,
             "value": 1,
             "name": "inhibits",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 6,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 7,
             "value": 1,
             "name": "impaired",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 8,
             "value": 3,
             "name": "neovascularization|neovascularization|neovascularization",
-            "group": 6
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "limb muscles",
-            "group": 17
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 10,
             "value": 1,
             "name": "impairs",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 11,
             "value": 1,
             "name": "endothelial",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 12,
             "value": 1,
             "name": "endothelial cells",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 13,
             "value": 1,
             "name": "ECs",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 14,
             "value": 1,
             "name": "expressed",
-            "group": 0
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 15,
             "value": 1,
             "name": "capillary ECs",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 16,
             "value": 1,
             "name": "mice",
-            "group": 9
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 17,
             "value": 1,
             "name": "induced",
+            "trigger": 1,
             "group": 14
         },
         {
             "id": 18,
             "value": 1,
             "name": "expression",
-            "group": 0
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 19,
             "value": 2,
             "name": "impairs|impairs",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 20,
             "value": 1,
             "name": "survival",
-            "group": 7
+            "trigger": 1,
+            "group": 17
         },
         {
             "id": 21,
             "value": 1,
             "name": "proliferation",
-            "group": 2
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 22,
             "value": 1,
             "name": "migration",
-            "group": 4
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 23,
             "value": 1,
             "name": "adhesion",
-            "group": 8
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 24,
             "value": 1,
             "name": "cultured",
-            "group": 10
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 25,
             "value": 1,
             "name": "ECs",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 26,
             "value": 1,
             "name": "endothelial progenitor cells",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 27,
             "value": 1,
             "name": "EPCs",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 28,
             "value": 1,
             "name": "inhibits",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 29,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 30,
             "value": 1,
             "name": "delivery",
-            "group": 4
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 31,
             "value": 2,
             "name": "blood|blood",
-            "group": 5
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 32,
             "value": 1,
             "name": "mouse",
-            "group": 9
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 33,
             "value": 1,
             "name": "limb",
-            "group": 11
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 34,
             "value": 1,
             "name": "EC",
-            "group": 13
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 35,
             "value": 1,
             "name": "survival",
-            "group": 7
+            "trigger": 1,
+            "group": 17
         },
         {
             "id": 36,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 37,
             "value": 1,
             "name": "depresses",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 38,
             "value": 1,
             "name": "VEGF-A",
-            "group": 16
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 39,
             "value": 1,
             "name": "Akt",
-            "group": 16
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 40,
             "value": 1,
             "name": "eNOS",
-            "group": 16
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 41,
             "value": 1,
             "name": "NO",
+            "trigger": 0,
             "group": 12
         },
         {
             "id": 42,
             "value": 1,
             "name": "pathway",
-            "group": 3
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 43,
             "value": 1,
             "name": "reduces",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 44,
             "value": 1,
             "name": "ITGB1",
-            "group": 16
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 45,
             "value": 1,
             "name": "beta (1) integrin",
-            "group": 16
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 46,
             "value": 1,
             "name": "BIRC5",
-            "group": 16
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 47,
             "value": 1,
             "name": "survivin",
-            "group": 16
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 48,
             "value": 1,
             "name": "PTTG1",
-            "group": 16
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 49,
             "value": 1,
             "name": "securin",
-            "group": 16
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 50,
             "value": 1,
             "name": "VEZF1",
-            "group": 16
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 51,
             "value": 1,
             "name": "mice",
-            "group": 9
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 52,
             "value": 1,
             "name": "neovascularization",
-            "group": 6
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 53,
             "value": 1,
             "name": "angiogenic",
-            "group": 6
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 54,
             "value": 1,
             "name": "action",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 55,
             "value": 1,
             "name": "inhibition",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 56,
             "value": 1,
             "name": "induced",
+            "trigger": 1,
             "group": 14
         },
         {
             "id": 57,
             "value": 1,
             "name": "microvascular",
-            "group": 1
+            "trigger": 0,
+            "group": 9
         }
     ],
     "links": [

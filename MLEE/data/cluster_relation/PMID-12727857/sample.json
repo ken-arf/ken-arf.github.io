@@ -4,438 +4,511 @@
             "id": 0,
             "value": 1,
             "name": "Tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 1,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 2,
             "value": 1,
             "name": "modulates",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 3,
             "value": 5,
             "name": "leukocyte|leukocyte|leukocyte|leukocyte|leukocyte",
+            "trigger": 0,
             "group": 12
         },
         {
             "id": 4,
             "value": 6,
             "name": "vessel wall|vessel wall|vessel wall|vessel wall|vessel wall|vessel wall",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 5,
             "value": 6,
             "name": "interactions|interactions|interactions|interactions|interactions|interactions",
-            "group": 8
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 6,
             "value": 1,
             "name": "reducing",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 7,
             "value": 1,
             "name": "endothelial adhesion molecule",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 8,
             "value": 1,
             "name": "expression",
-            "group": 16
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 9,
             "value": 1,
             "name": "expression",
-            "group": 16
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 10,
             "value": 1,
             "name": "endothelial cell (EC) adhesion molecules",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 11,
             "value": 1,
             "name": "involved",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 12,
             "value": 1,
             "name": "regulation",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 13,
             "value": 2,
             "name": "tumor|tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 14,
             "value": 2,
             "name": "tumor necrosis factor alpha|tumor necrosis factor alpha",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 15,
             "value": 1,
             "name": "stimulated",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 16,
             "value": 2,
             "name": "ear skin microvessels|ear microvessels",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 17,
             "value": 1,
             "name": "nude mice",
-            "group": 10
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 18,
             "value": 1,
             "name": "human",
-            "group": 10
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 19,
             "value": 1,
             "name": "LS174T colon carcinomas",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 20,
             "value": 2,
             "name": "C57Bl/6 mice|C57Bl/6 mice",
-            "group": 10
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 21,
             "value": 1,
             "name": "murine",
-            "group": 10
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 22,
             "value": 1,
             "name": "B16F10 melanomas",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 23,
             "value": 1,
             "name": "Leukocyte",
+            "trigger": 0,
             "group": 12
         },
         {
             "id": 24,
             "value": 1,
             "name": "tumors",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 25,
             "value": 2,
             "name": "growing|growing",
-            "group": 2
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 26,
             "value": 1,
             "name": "ear",
-            "group": 1
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 27,
             "value": 3,
             "name": "mice|mice|mice",
-            "group": 10
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 28,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 29,
             "value": 1,
             "name": "flank",
-            "group": 9
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 30,
             "value": 1,
             "name": "Tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 31,
             "value": 1,
             "name": "mice",
-            "group": 10
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 32,
             "value": 1,
             "name": "ear",
-            "group": 1
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 33,
             "value": 1,
             "name": "ear",
-            "group": 1
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 34,
             "value": 2,
             "name": "leukocyte|leukocyte",
+            "trigger": 0,
             "group": 12
         },
         {
             "id": 35,
             "value": 2,
             "name": "adhesion|adhesion",
-            "group": 8
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 36,
             "value": 1,
             "name": "diminished",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 37,
             "value": 1,
             "name": "vessels",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 38,
             "value": 1,
             "name": "ear tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 39,
             "value": 1,
             "name": "mouse",
-            "group": 10
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 40,
             "value": 1,
             "name": "reduction",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 41,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 42,
             "value": 1,
             "name": "ear venules",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 43,
             "value": 1,
             "name": "flank tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 44,
             "value": 1,
             "name": "reduced",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 45,
             "value": 1,
             "name": "Leukocyte",
+            "trigger": 0,
             "group": 12
         },
         {
             "id": 46,
             "value": 1,
             "name": "nude mice",
-            "group": 10
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 47,
             "value": 1,
             "name": "Treatment",
-            "group": 11
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 48,
             "value": 1,
             "name": "ear tumor",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 49,
             "value": 1,
             "name": "humanized antivascular endothelial growth factor antibody",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 50,
             "value": 1,
             "name": "endothelial growth factor",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 51,
             "value": 1,
             "name": "prevented",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 52,
             "value": 1,
             "name": "down-regulation",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 53,
             "value": 1,
             "name": "tumor vessels",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 54,
             "value": 1,
             "name": "nontreated",
-            "group": 11
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 55,
             "value": 1,
             "name": "activated",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 56,
             "value": 1,
             "name": "cell",
+            "trigger": 0,
             "group": 12
         },
         {
             "id": 57,
             "value": 1,
             "name": "tumor ECs",
+            "trigger": 0,
             "group": 12
         },
         {
             "id": 58,
             "value": 1,
             "name": "suppressed",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 59,
             "value": 3,
             "name": "intercellular adhesion molecule 1|intercellular adhesion molecule 1|vascular cell adhesion molecule 1",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 60,
             "value": 2,
             "name": "ECs|ECs",
+            "trigger": 0,
             "group": 12
         },
         {
             "id": 61,
             "value": 1,
             "name": "mouse",
-            "group": 10
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 62,
             "value": 1,
             "name": "tissues",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 63,
             "value": 1,
             "name": "b.END5 cells",
+            "trigger": 0,
             "group": 12
         },
         {
             "id": 64,
             "value": 1,
             "name": "induced",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 65,
             "value": 1,
             "name": "up-regulation",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 66,
             "value": 1,
             "name": "reduced",
-            "group": 14
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 67,
             "value": 1,
             "name": "preincubated",
-            "group": 11
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 68,
             "value": 1,
             "name": "basic fibroblast growth factor",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 69,
             "value": 1,
             "name": "vascular endothelial growth factor",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 70,
             "value": 1,
             "name": "immune effector cells",
+            "trigger": 0,
             "group": 12
         },
         {
             "id": 71,
             "value": 1,
             "name": "enter",
-            "group": 3
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 72,
             "value": 1,
             "name": "tumor tissue",
+            "trigger": 0,
             "group": 4
         }
     ],

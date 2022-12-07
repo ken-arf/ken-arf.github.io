@@ -1,0 +1,480 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "more than 70 common variants",
+            "group": 4,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T2",
+            "name": "associated",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "non-protein-coding regions",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T5",
+            "name": "gene deserts",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T36",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "2q35",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T31",
+            "name": "putative",
+            "group": 8,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "regulatory elements",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "regulatory",
+            "group": 6,
+            "type": "Gene_Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "Target protein-coding genes",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T22",
+            "name": "IGFBP5",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "KLF4",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T24",
+            "name": "NSMCE2",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T25",
+            "name": "MYC",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T26",
+            "name": "target lncRNAs",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T27",
+            "name": "DIRC3",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T28",
+            "name": "PVT1",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T29",
+            "name": "CCDC26",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T12",
+            "name": "one gene desert",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T10",
+            "name": "rs12613955",
+            "group": 4,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T11",
+            "name": "rs4442975",
+            "group": 4,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T32",
+            "name": "highly",
+            "group": 5,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "correlated",
+            "group": 7,
+            "type": "Interaction",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "published risk variant",
+            "group": 4,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T37",
+            "name": "published risk",
+            "group": 1,
+            "type": "Association",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T30",
+            "name": "within the bait end of an interaction peak",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T13",
+            "name": "rs4442975",
+            "group": 4,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T14",
+            "name": "binding of",
+            "group": 6,
+            "type": "Gene_Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T15",
+            "name": "FOXA1",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T16",
+            "name": "putative",
+            "group": 8,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "functional variant",
+            "group": 2,
+            "type": "Other_effect",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "functional variant",
+            "group": 4,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T14",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T17",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T33",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Entity"
+        },
+        {
+            "source": "T33",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Entity2"
+        },
+        {
+            "source": "T33",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Entity3"
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Entity4"
+        },
+        {
+            "source": "T35",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T35",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Agent2"
+        },
+        {
+            "source": "T35",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Agent3"
+        },
+        {
+            "source": "T37",
+            "target": "T36",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T37",
+            "target": "T33",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T1",
+            "target": "T4",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T1",
+            "target": "T5",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T10",
+            "target": "T12",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T17",
+            "target": "T16",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T18",
+            "target": "T16",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T13",
+            "target": "T18",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T26",
+            "target": "T27",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T26",
+            "target": "T28",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T26",
+            "target": "T29",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T21",
+            "target": "T23",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T21",
+            "target": "T24",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T21",
+            "target": "T25",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T10",
+            "target": "T30",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T11",
+            "target": "T30",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T19",
+            "target": "T31",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T35",
+            "target": "T31",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T10",
+            "target": "T38",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T11",
+            "target": "T38",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T13",
+            "target": "T11",
+            "value": 1,
+            "link_name": "Equiv"
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "genetic variants",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "associated",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 4,
+            "name": "breast cancer|breast cancer|breast cancer|breast cancer",
+            "group": 1
+        },
+        {
+            "id": 3,
+            "value": 3,
+            "name": "Korean women|Korean women|Korean women",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "we sought to confirm",
+            "group": 2
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "association",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "known variants",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "evaluate",
+            "group": 2
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "associations",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "single nucleotide polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "SNP",
+            "group": 0
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "intrinsic subtypes breast cancer",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 4,
+            "name": "five SNPs|All five SNPs|all 5 SNPs|five SNPs",
+            "group": 0
+        },
+        {
+            "id": 13,
+            "value": 4,
+            "name": "rs2046210|rs2046210|rs2046210|rs2046210",
+            "group": 0
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "6q25.1",
+            "group": 3
+        },
+        {
+            "id": 15,
+            "value": 7,
+            "name": "rs2981582|rs889312|rs3803662|rs2981582|rs889312|rs3803662|rs3803662",
+            "group": 0
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "FGFR2",
+            "group": 3
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "MAP3K1",
+            "group": 3
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "TOX3",
+            "group": 3
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "TNRC9",
+            "group": 3
+        },
+        {
+            "id": 20,
+            "value": 2,
+            "name": "rs4973768|rs4973768",
+            "group": 0
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "SLC4A7",
+            "group": 3
+        },
+        {
+            "id": 22,
+            "value": 2,
+            "name": "significantly|significantly",
+            "group": 5
+        },
+        {
+            "id": 23,
+            "value": 2,
+            "name": "associated|associated",
+            "group": 4
+        },
+        {
+            "id": 24,
+            "value": 2,
+            "name": "dominant models|recessive models",
+            "group": 3
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "additive models",
+            "group": 3
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "ORs per risk allele",
+            "group": 4
+        },
+        {
+            "id": 27,
+            "value": 2,
+            "name": "associated|associated",
+            "group": 4
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "Luminal A",
+            "group": 1
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "linked",
+            "group": 4
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "ER(-)HER2(+) subtype",
+            "group": 1
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "triple-negative subtype",
+            "group": 1
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "Associations heterogeneous",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 31,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 32,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 1
+        }
+    ]
+}

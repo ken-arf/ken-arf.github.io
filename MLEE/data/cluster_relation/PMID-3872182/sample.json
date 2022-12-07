@@ -4,163 +4,190 @@
             "id": 0,
             "value": 1,
             "name": "epidermal growth factor",
-            "group": 13
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 1,
             "value": 1,
             "name": "stimulation",
+            "trigger": 1,
             "group": 11
         },
         {
             "id": 2,
             "value": 3,
             "name": "capillary endothelial cell|retinal capillary endothelial cells|capillary endothelial cells",
-            "group": 10
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 3,
             "value": 1,
             "name": "migration",
-            "group": 1
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 4,
             "value": 1,
             "name": "matrix",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 5,
             "value": 1,
             "name": "dependent",
+            "trigger": 1,
             "group": 11
         },
         {
             "id": 6,
             "value": 1,
             "name": "proliferation",
-            "group": 12
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 7,
             "value": 1,
             "name": "proliferative",
-            "group": 12
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 8,
             "value": 1,
             "name": "response",
-            "group": 5
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 9,
             "value": 1,
             "name": "bovine",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 10,
             "value": 5,
             "name": "EGF|EGF|EGF|EGF|EGF",
-            "group": 13
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 11,
             "value": 1,
             "name": "dependent",
+            "trigger": 1,
             "group": 11
         },
         {
             "id": 12,
             "value": 1,
             "name": "attaching",
-            "group": 6
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 13,
             "value": 1,
             "name": "cells",
-            "group": 10
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 14,
             "value": 1,
             "name": "matrix",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 15,
             "value": 1,
             "name": "fibronectin",
-            "group": 13
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 16,
             "value": 1,
             "name": "Bovine",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 17,
             "value": 1,
             "name": "stimulated",
+            "trigger": 1,
             "group": 11
         },
         {
             "id": 18,
             "value": 1,
             "name": "migrate",
-            "group": 1
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 19,
             "value": 1,
             "name": "exposed",
+            "trigger": 1,
             "group": 7
         },
         {
             "id": 20,
             "value": 1,
             "name": "angiogenic",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 21,
             "value": 1,
             "name": "Capillary cell",
-            "group": 10
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 22,
             "value": 1,
             "name": "migration",
-            "group": 1
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 23,
             "value": 1,
             "name": "proliferation",
-            "group": 12
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 24,
             "value": 1,
             "name": "inactivation",
-            "group": 0
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 25,
             "value": 2,
             "name": "cleavage|cleavage",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 26,
             "value": 1,
             "name": "CNBr",
-            "group": 9
+            "trigger": 0,
+            "group": 10
         }
     ],
     "links": [

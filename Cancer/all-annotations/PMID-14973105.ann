@@ -1,0 +1,127 @@
+T1	SNP 13 26	polymorphisms
+T2	Entity 0 7	HSD17B1
+T3	Association 31 35	risk
+E1	Association:T3 snp_int:T1 bc:T4
+T4	Cancer 55 68	breast cancer
+R1	SNP_coupled_gene Arg1:T1 Arg2:T2	
+T5	Spec 230 242	hypothesized
+T6	SNP 248 266	genetic variations
+T7	Entity 270 277	HSD17B1
+R2	SNP_coupled_gene Arg1:T6 Arg2:T7	
+T8	Organic_inorganic_molecules_affected 287 292;313 319	alter levels
+E2	Organic_inorganic_molecules_affected:T8 Theme:T9 Agent:T6
+T9	Entity 293 312	endogenous estrogen
+T10	Association 331 340	influence
+E3	Association:T10 snp_int:T6 bc:T11
+T11	Cancer 357 370	breast cancer
+R3	Speculation_marker Arg1:E3 Arg2:T5	
+T12	Spec 442 450	assessed
+T14	SNP 498 502	SNPs
+T15	SNP 465 496	single nucleotide polymorphisms
+R4	Equiv Arg1:T14 Arg2:T15	
+T16	SNP 404 417	polymorphisms
+T17	Entity 425 432	HSD17B1
+R5	SNP_coupled_gene Arg1:T16 Arg2:T17	
+T13	Interaction 520 530	haplotypes
+E4	Interaction:T13 
+T18	Association 537 547	associated
+E5	Association:T18 snp_int:E4 snp_int2:T16 bc:T19
+T19	Cancer 569 582	breast cancer
+R6	SNP_coupled_gene Arg1:E4 Arg2:T17	
+R7	Speculation_marker Arg1:E5 Arg2:T12	
+T20	Spec 597 605	assessed
+T21	Entity 616 635	priori risk factors
+T22	Association 649 661	associations
+E6	Association:T22 bc:T24 snp_int:T25
+R8	Speculation_marker Arg1:E6 Arg2:T20	
+T23	Entity 670 677	HSD17B1
+T24	Cancer 691 697	cancer
+T25	SNP 404 417	polymorphisms
+R9	SNP_coupled_gene Arg1:T25 Arg2:T23	
+R10	Risk_Factor Arg1:T25 Arg2:T21	
+T26	Spec 708 715	whether
+T27	Organic_inorganic_molecules_affected 755 761;771 777	plasma levels
+E7	Organic_inorganic_molecules_affected:T27 Theme:T28 Agent:T25
+T28	Entity 762 770	estrogen
+R11	Speculation_marker Arg1:E7 Arg2:T26	
+T29	Entity 799 804	women
+R12	Population_assignment Arg1:T25 Arg2:T29	
+T30	Entity 784 798	postmenopausal
+T31	Neg 805 808	not
+T32	Entity 815 842	hormone replacement therapy
+R13	Negation_marker Arg1:T32 Arg2:T31	
+R14	Member Arg1:T21 Arg2:T30	
+R15	Member Arg1:T21 Arg2:T32	
+T33	Entity 890 895	women
+R16	Population_assignment Arg1:T16 Arg2:T33	
+R17	Population_assignment Arg1:T6 Arg2:T33	
+T34	SNP 844 852	Ten SNPs
+R18	Equiv Arg1:T34 Arg2:T16	
+R19	Equiv Arg1:T34 Arg2:T6	
+T35	SNP 1177 1185	+1004C/T
+A1	SNP_Class T35 tSNP
+T36	SNP 1190 1198	+1322C/A
+A2	SNP_Class T36 tSNP
+T37	SNP 1234 1242	+1954A/G
+R20	Population_assignment Arg1:T35 Arg2:T33	
+R21	Population_assignment Arg1:T36 Arg2:T33	
+R22	Population_assignment Arg1:T37 Arg2:T33	
+T38	Entity 856 863	HSD17B1
+R23	SNP_coupled_gene Arg1:T35 Arg2:T38	
+R24	SNP_coupled_gene Arg1:T36 Arg2:T38	
+R25	SNP_coupled_gene Arg1:T37 Arg2:T38	
+T39	Entity 1177 1182	+1004
+R26	SNP_location Arg1:T35 Arg2:T39	
+T40	Entity 1190 1195	+1322
+R27	SNP_location Arg1:T36 Arg2:T40	
+T41	Entity 1182 1185	C/T
+T42	Entity 1195 1198	C/A
+T43	Entity 1234 1239	+1954
+T44	Entity 1239 1242	A/G
+T45	SNP 1244 1253	Ser312Gly
+R28	Nucleotide_substitution Arg1:T35 Arg2:T41	
+R29	Nucleotide_substitution Arg1:T36 Arg2:T42	
+R30	SNP_location Arg1:T37 Arg2:T43	
+R31	Nucleotide_substitution Arg1:T37 Arg2:T44	
+A3	SNP_Type T35 Missense
+T46	Neg 1439 1441	no
+T47	Association 1450 1461	association
+E8	Association:T47 snp_int:T35 snp_int2:T36 snp_int3:T37 bc:T48
+R32	Negation_marker Arg1:E8 Arg2:T46	
+T48	Cancer 1524 1537	breast cancer
+T49	SNP 1548 1556	+1954A/A
+T50	Entity 1548 1553	+1954
+T51	Entity 1553 1556	A/A
+R33	Genotype Arg1:T49 Arg2:T51	
+R34	SNP_location Arg1:T49 Arg2:T50	
+R35	SNP_coupled_gene Arg1:T49 Arg2:T38	
+T52	Effect_Type 1586 1592	higher
+T54	Organic_inorganic_molecules_affected 1603 1609	levels
+E10	Organic_inorganic_molecules_affected:T54 Agent:T49 Theme:T53
+T53	Entity 1593 1602	estradiol
+R36	Effect_type_marker Arg1:E10 Arg2:T52	
+A4	Effect_Type E10 Increase
+T55	Entity 1613 1617	lean
+R37	Risk_Factor Arg1:T49 Arg2:T55	
+T56	Entity 1618 1623	women
+R38	Population_assignment Arg1:T49 Arg2:T56	
+T57	Association 1639 1650	interaction
+E9	Association:T57 bc:T63
+T58	Spec 1746 1755	suggested
+R39	Speculation_marker Arg1:E9 Arg2:T58	
+T59	Entity 1702 1716	postmenopausal
+T60	SNP 1663 1668	+1954
+T61	Entity 1683 1698	body mass index
+R40	Risk_Factor Arg1:T60 Arg2:T61	
+R41	Risk_Factor Arg1:T60 Arg2:T59	
+R42	SNP_coupled_gene Arg1:T60 Arg2:T38	
+T62	Entity 1663 1668	+1954
+R43	SNP_location Arg1:T60 Arg2:T62	
+R44	Population_assignment Arg1:T60 Arg2:T56	
+R45	Genotype Arg1:T60 Arg2:T51	
+T63	Cancer 1717 1730	breast cancer
+R46	Equiv Arg1:T37 Arg2:T45	
+T64	Organic_inorganic_molecules_affected 1244 1253	Ser312Gly
+E11	Organic_inorganic_molecules_affected:T64 Agent:T45 Theme:T65
+T65	Entity 1244 1250	Ser312
+A5	SNP_Type T37 Missense

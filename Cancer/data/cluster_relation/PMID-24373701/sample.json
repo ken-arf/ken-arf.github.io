@@ -4,205 +4,239 @@
             "id": 0,
             "value": 2,
             "name": "examined|evaluated",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 1,
             "value": 1,
             "name": "breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 2,
             "value": 1,
             "name": "susceptibility",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 3,
             "value": 1,
             "name": "variants",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 4,
             "value": 1,
             "name": "menstrual factors",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 5,
             "value": 1,
             "name": "reproductive factors",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 6,
             "value": 1,
             "name": "women",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 7,
             "value": 2,
             "name": "age 20-74|age 43-86",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 8,
             "value": 1,
             "name": "three U.S. states",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "associations",
-            "group": 2
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 10,
             "value": 4,
             "name": "age at menarche|age at natural menopause|age at menarche|age at natural menopause",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 11,
             "value": 2,
             "name": "reproductive lifespan|reproductive lifespan",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 12,
             "value": 1,
             "name": "13 previously identified breast cancer variants",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 13,
             "value": 1,
             "name": "genetic score",
-            "group": 4
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 14,
             "value": 1,
             "name": "sum of at-risk alleles",
-            "group": 4
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 15,
             "value": 2,
             "name": "13 variants|13 variants",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 16,
             "value": 1,
             "name": "genetic score",
-            "group": 4
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 17,
             "value": 1,
             "name": "nor",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 18,
             "value": 2,
             "name": "individually|individually",
-            "group": 4
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 19,
             "value": 1,
             "name": "associated",
-            "group": 2
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 20,
             "value": 1,
             "name": "minor allele (A)",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 21,
             "value": 2,
             "name": "rs17468277|rs10941679",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 22,
             "value": 2,
             "name": "CASP8|5p12",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 23,
             "value": 2,
             "name": "decrease|decrease",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 24,
             "value": 1,
             "name": "menopause age",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 25,
             "value": 1,
             "name": "minor allele",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 26,
             "value": 1,
             "name": "G",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 27,
             "value": 2,
             "name": "increase|increase",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 28,
             "value": 1,
             "name": "evaluated variants",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 29,
             "value": 1,
             "name": "reproductive experiences",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 30,
             "value": 1,
             "name": "may",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 31,
             "value": 1,
             "name": "work through separate pathways",
-            "group": 2
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 32,
             "value": 1,
             "name": "influence",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 33,
             "value": 2,
             "name": "breast cancer|breast cancer",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         }
     ],
     "links": [

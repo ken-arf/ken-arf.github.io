@@ -1,0 +1,359 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "common variant",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "TERT-CLPTM1L|TERT-CLPTM1L",
+            "group": 5
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "associated|associated",
+            "group": 6
+        },
+        {
+            "id": 3,
+            "value": 3,
+            "name": "estrogen receptor-negative breast cancer|ER-negative breast cancer|ER-negative breast cancer",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "estrogen receptor",
+            "group": 5
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "negative|negative",
+            "group": 7
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "In search of",
+            "group": 4
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "common risk alleles",
+            "group": 1
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "for",
+            "group": 6
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "women of African ancestry|women of European ancestry",
+            "group": 5
+        },
+        {
+            "id": 10,
+            "value": 3,
+            "name": "risk variant|risk|risk",
+            "group": 1
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "ER",
+            "group": 5
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "5p15",
+            "group": 5
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "rs10069690",
+            "group": 1
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "variant",
+            "group": 1
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "significantly",
+            "group": 0
+        },
+        {
+            "id": 16,
+            "value": 2,
+            "name": "associated|associated",
+            "group": 6
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "triple-negative breast cancer",
+            "group": 3
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "ER-negative, progesterone receptor (PR)-negative and human epidermal growth factor-2 (HER2)-negative",
+            "group": 3
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "ER",
+            "group": 5
+        },
+        {
+            "id": 20,
+            "value": 3,
+            "name": "negative|negative|negative",
+            "group": 7
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "progesterone receptor",
+            "group": 5
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "PR",
+            "group": 5
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "human epidermal growth factor-2",
+            "group": 5
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "HER2",
+            "group": 5
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "younger",
+            "group": 5
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "women",
+            "group": 5
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "<50 years of age",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 20,
+            "value": 1
+        }
+    ]
+}

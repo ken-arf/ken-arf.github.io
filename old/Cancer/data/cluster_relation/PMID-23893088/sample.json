@@ -1,0 +1,188 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "associations",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 4,
+            "name": "rs13387042|rs4973768|rs10941679|rs2981582",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "2q35|5p12",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "SLC4A7",
+            "group": 0
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "FGFR2",
+            "group": 0
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "rs3817198|rs3803662",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "LSP1",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "TOX3",
+            "group": 0
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "rs6504950",
+            "group": 1
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "STXBP4",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 2
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "Women US",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "value": 1
+        }
+    ]
+}

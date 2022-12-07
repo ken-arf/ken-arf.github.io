@@ -1,0 +1,1148 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "HER-2/neu",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T2",
+            "name": "Ile655Val",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T3",
+            "name": "Ile655Val",
+            "group": 5,
+            "type": "Organic_inorganic_molecules_affected",
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T4",
+            "name": "Ile655",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T5",
+            "name": "risk",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "Genetic alterations",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T7",
+            "name": "proto-oncogene human epidermal growth factor receptor",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T8",
+            "name": "malignant transformation",
+            "group": 1,
+            "type": "Patho_physiology",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T9",
+            "name": "metastasis",
+            "group": 1,
+            "type": "Patho_physiology",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "codon 655 isoleucine to valine",
+            "group": 5,
+            "type": "Organic_inorganic_molecules_affected",
+            "trigger": 1,
+            "value": 15
+        },
+        {
+            "id": "T12",
+            "name": "codon 655 isoleucine to valine",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T13",
+            "name": "coding",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "risk",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "inconsistent",
+            "group": 10,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "investigated",
+            "group": 10,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T18",
+            "name": "association",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "HER-2/neu",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T20",
+            "name": "Ile655Val",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T21",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "Sudanese population",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "joint effects",
+            "group": 9,
+            "type": "Interaction",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "HER-2/neu",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T25",
+            "name": "variants",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "ESR1",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T27",
+            "name": "C325G",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T31",
+            "name": "C325G",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T28",
+            "name": "tested",
+            "group": 10,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "association",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "HER-2/neu",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T34",
+            "name": "Ile655Val",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T32",
+            "name": "rs1136200",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T41",
+            "name": "rs1136200",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T42",
+            "name": "rs1136200",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T35",
+            "name": "Ile/Ile",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T36",
+            "name": "Ile/Val",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T37",
+            "name": "borderline significantly",
+            "group": 7,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "higher",
+            "group": 4,
+            "type": "Effect_Type",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "risk",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "age",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "age",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "menopausal",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "menopausal",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "no",
+            "group": 8,
+            "type": "Neg",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "significantly higher",
+            "group": 7,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "risk",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T75",
+            "name": "homozygous",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "ESR1",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T52",
+            "name": "325",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "CC",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T76",
+            "name": "heterozygous",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "HER-2/neu",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T55",
+            "name": "655 Ile/Val",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T56",
+            "name": "HER-2/neu",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T57",
+            "name": "Ile655Val",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T72",
+            "name": "Ile655Val",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T68",
+            "name": "risk",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "borderline significant",
+            "group": 7,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "heterozygous",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T73",
+            "name": "higher",
+            "group": 7,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T74",
+            "name": "risk",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "significant",
+            "group": 7,
+            "type": "Level",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T59",
+            "name": "interaction",
+            "group": 9,
+            "type": "Interaction",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T60",
+            "name": "ESR1",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T61",
+            "name": "325C",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T62",
+            "name": "HER-2/neu",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T63",
+            "name": "Ile655Val",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T64",
+            "name": "may",
+            "group": 10,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T65",
+            "name": "higher",
+            "group": 7,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "risk",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T3",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T5",
+            "target": "T2",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T8",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T9",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T14",
+            "target": "T12",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T18",
+            "target": "T20",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T18",
+            "target": "T21",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T23",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Entity"
+        },
+        {
+            "source": "T23",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Entity2"
+        },
+        {
+            "source": "T29",
+            "target": "T30",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T29",
+            "target": "T23",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T39",
+            "target": "T42",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T39",
+            "target": "T41",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T49",
+            "target": "T50",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T49",
+            "target": "T52",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T49",
+            "target": "T55",
+            "value": 2,
+            "link_name": "snp_int2"
+        },
+        {
+            "source": "T59",
+            "target": "T61",
+            "value": 2,
+            "link_name": "Entity"
+        },
+        {
+            "source": "T59",
+            "target": "T63",
+            "value": 2,
+            "link_name": "Entity2"
+        },
+        {
+            "source": "T66",
+            "target": "T67",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T66",
+            "target": "T59",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T68",
+            "target": "T69",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T68",
+            "target": "T57",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T74",
+            "target": "T69",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T74",
+            "target": "T72",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T1",
+            "target": "T7",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T10",
+            "target": "T2",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T10",
+            "target": "T7",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T3",
+            "target": "T11",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T12",
+            "target": "T2",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T12",
+            "target": "T13",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T14",
+            "target": "T16",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T18",
+            "target": "T17",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T20",
+            "target": "T19",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T20",
+            "target": "T22",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T25",
+            "target": "T24",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T27",
+            "target": "T26",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T29",
+            "target": "T28",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T27",
+            "target": "T31",
+            "value": 1,
+            "link_name": "Nucleotide_substitution"
+        },
+        {
+            "source": "T25",
+            "target": "T12",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T34",
+            "target": "T33",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T34",
+            "target": "T32",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T34",
+            "target": "T20",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T39",
+            "target": "T38",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T39",
+            "target": "T37",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T42",
+            "target": "T36",
+            "value": 1,
+            "link_name": "Genotype"
+        },
+        {
+            "source": "T42",
+            "target": "T33",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T41",
+            "target": "T33",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T42",
+            "target": "T22",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T41",
+            "target": "T22",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T41",
+            "target": "T35",
+            "value": 1,
+            "link_name": "Genotype"
+        },
+        {
+            "source": "T47",
+            "target": "T45",
+            "value": 1,
+            "link_name": "Negation_marker"
+        },
+        {
+            "source": "T46",
+            "target": "T45",
+            "value": 1,
+            "link_name": "Negation_marker"
+        },
+        {
+            "source": "T42",
+            "target": "T46",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T42",
+            "target": "T44",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T41",
+            "target": "T43",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T41",
+            "target": "T47",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T42",
+            "target": "T43",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T42",
+            "target": "T47",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T41",
+            "target": "T44",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T41",
+            "target": "T46",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T49",
+            "target": "T48",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T52",
+            "target": "T53",
+            "value": 1,
+            "link_name": "Genotype"
+        },
+        {
+            "source": "T52",
+            "target": "T51",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T55",
+            "target": "T54",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T59",
+            "target": "T58",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T61",
+            "target": "T60",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T63",
+            "target": "T62",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T59",
+            "target": "T64",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T66",
+            "target": "T65",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T66",
+            "target": "T64",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T61",
+            "target": "T27",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T59",
+            "target": "T22",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T57",
+            "target": "T56",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T68",
+            "target": "T70",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T72",
+            "target": "T71",
+            "value": 1,
+            "link_name": "Genotype"
+        },
+        {
+            "source": "T72",
+            "target": "T56",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T74",
+            "target": "T73",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T55",
+            "target": "T22",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T52",
+            "target": "T75",
+            "value": 1,
+            "link_name": "Genotype"
+        },
+        {
+            "source": "T55",
+            "target": "T76",
+            "value": 1,
+            "link_name": "Genotype"
+        },
+        {
+            "source": "T72",
+            "target": "T22",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T57",
+            "target": "T22",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T52",
+            "target": "T22",
+            "value": 1,
+            "link_name": "Population_assignment"
+        }
+    ]
+}

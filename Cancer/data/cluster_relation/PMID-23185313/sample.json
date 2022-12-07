@@ -4,241 +4,281 @@
             "id": 0,
             "value": 1,
             "name": "Association",
-            "group": 7
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 1,
             "value": 2,
             "name": "germline variation|germline variation",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 2,
             "value": 5,
             "name": "CCNE1|CCNE1|CCNE1|CCNE1|CCNE1",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 3,
             "value": 4,
             "name": "CDK2|CDK2|CDK2|CDK2",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 4,
             "value": 2,
             "name": "breast cancer|breast cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 5,
             "value": 2,
             "name": "progression|progression",
-            "group": 3
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 6,
             "value": 2,
             "name": "survival|survival",
-            "group": 3
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 7,
             "value": 3,
             "name": "Chinese Han women|Chinese Han population|Chinese Han women",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 8,
             "value": 1,
             "name": "explore",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 9,
             "value": 1,
             "name": "single nucleotide polymorphisms",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 10,
             "value": 2,
             "name": "SNPs|SNPs",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 11,
             "value": 4,
             "name": "BC|BC|BC|BC",
-            "group": 2
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 12,
             "value": 1,
             "name": "risk",
-            "group": 7
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 13,
             "value": 2,
             "name": "6 haplotype-tagging SNPs|haplotype-tagging SNPs",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 14,
             "value": 1,
             "name": "htSNPs",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 15,
             "value": 1,
             "name": "2 htSNPs",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 16,
             "value": 1,
             "name": "haplotype",
-            "group": 5
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 17,
             "value": 1,
             "name": "blocks",
-            "group": 5
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 18,
             "value": 2,
             "name": "minor allele homozygotes|minor-allele homozygote",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 19,
             "value": 1,
             "name": "associated",
-            "group": 7
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 20,
             "value": 7,
             "name": "rs3218035|rs3218035|rs3218038|rs3218038|rs3218042|rs3218042|rs3218038",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 21,
             "value": 1,
             "name": "dose-dependent manner",
-            "group": 5
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 22,
             "value": 1,
             "name": "increasing",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 23,
             "value": 1,
             "name": "risk",
-            "group": 7
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 24,
             "value": 2,
             "name": "5-SNP haplotype CCGTC|3 at-risk SNPs",
-            "group": 5
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 25,
             "value": 1,
             "name": "none",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 26,
             "value": 1,
             "name": "minor alleles",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 27,
             "value": 1,
             "name": "favorable",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 28,
             "value": 2,
             "name": "survival|survival",
-            "group": 3
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 29,
             "value": 1,
             "name": "worse",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 30,
             "value": 1,
             "name": "patients with aggressive tumours",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 31,
             "value": 1,
             "name": "tumour size>2 cm",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 32,
             "value": 1,
             "name": "positive lymph node metastasis",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 33,
             "value": 1,
             "name": "no significant",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 34,
             "value": 1,
             "name": "association",
-            "group": 7
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 35,
             "value": 1,
             "name": "genetic variants",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 36,
             "value": 1,
             "name": "may",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 37,
             "value": 1,
             "name": "contribute",
-            "group": 7
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 38,
             "value": 1,
             "name": "survival",
-            "group": 3
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 39,
             "value": 1,
             "name": "Chinese Han population",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         }
     ],
     "links": [

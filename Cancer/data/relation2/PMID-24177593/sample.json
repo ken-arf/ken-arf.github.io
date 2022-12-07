@@ -3,7 +3,7 @@
         {
             "id": "T36",
             "name": "white women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -11,7 +11,7 @@
         {
             "id": "T37",
             "name": "African-American women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -19,7 +19,7 @@
         {
             "id": "T1",
             "name": "Several SNPs",
-            "group": 3,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -27,7 +27,7 @@
         {
             "id": "T12",
             "name": "Several SNPs",
-            "group": 3,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -35,7 +35,7 @@
         {
             "id": "T2",
             "name": "TNRC9/TOX3",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -43,7 +43,7 @@
         {
             "id": "T3",
             "name": "associated",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T4",
             "name": "luminal A",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T5",
             "name": "ER/PR+, HER2-",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 16
@@ -67,7 +67,7 @@
         {
             "id": "T6",
             "name": "basal-like breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 18
@@ -75,7 +75,7 @@
         {
             "id": "T7",
             "name": "ER-, PR-, HER2-, HER1, or CK 5/6+",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 14
@@ -83,7 +83,7 @@
         {
             "id": "T8",
             "name": "rs3104746",
-            "group": 3,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -91,7 +91,7 @@
         {
             "id": "T9",
             "name": "associated",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -99,7 +99,7 @@
         {
             "id": "T11",
             "name": "SNPs",
-            "group": 3,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T23",
             "name": "SNPs",
-            "group": 3,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T24",
             "name": "SNPs",
-            "group": 3,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -123,7 +123,7 @@
         {
             "id": "T10",
             "name": "FGFR2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -131,7 +131,7 @@
         {
             "id": "T13",
             "name": "associated",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -139,7 +139,7 @@
         {
             "id": "T21",
             "name": "associated",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T22",
             "name": "associated",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T14",
             "name": "luminal A",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T15",
             "name": "luminal B",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -171,7 +171,7 @@
         {
             "id": "T16",
             "name": "ER/PR+, HER2+",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 16
@@ -179,7 +179,7 @@
         {
             "id": "T17",
             "name": "HER2+/ER-",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 16
@@ -187,7 +187,7 @@
         {
             "id": "T18",
             "name": "none",
-            "group": 4,
+            "group": 2,
             "type": "Neg",
             "trigger": 0,
             "value": 23
@@ -195,7 +195,7 @@
         {
             "id": "T19",
             "name": "associated",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -203,7 +203,7 @@
         {
             "id": "T20",
             "name": "basal-like disease",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 19
@@ -211,7 +211,7 @@
         {
             "id": "T25",
             "name": "subtype",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -219,7 +219,7 @@
         {
             "id": "T26",
             "name": "effects",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 22
@@ -227,7 +227,7 @@
         {
             "id": "T27",
             "name": "SNPs",
-            "group": 3,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -235,7 +235,7 @@
         {
             "id": "T28",
             "name": "2q35",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -243,7 +243,7 @@
         {
             "id": "T29",
             "name": "4p",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T30",
             "name": "TLR1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -259,7 +259,7 @@
         {
             "id": "T31",
             "name": "MAP3K1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -267,7 +267,7 @@
         {
             "id": "T32",
             "name": "ESR1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -275,7 +275,7 @@
         {
             "id": "T33",
             "name": "CDKN2A/B",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -283,7 +283,7 @@
         {
             "id": "T34",
             "name": "ANKRD16",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -291,7 +291,7 @@
         {
             "id": "T35",
             "name": "ZM1Z1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18

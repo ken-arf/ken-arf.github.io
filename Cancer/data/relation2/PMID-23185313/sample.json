@@ -3,7 +3,7 @@
         {
             "id": "T5",
             "name": "Association",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T1",
             "name": "germline variation",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T7",
             "name": "germline variation",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T2",
             "name": "CCNE1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -35,7 +35,7 @@
         {
             "id": "T3",
             "name": "CDK2",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -43,7 +43,7 @@
         {
             "id": "T4",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T20",
             "name": "progression",
-            "group": 2,
+            "group": 4,
             "type": "Other_effect",
             "trigger": 1,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T21",
             "name": "survival",
-            "group": 2,
+            "group": 4,
             "type": "Other_effect",
             "trigger": 1,
             "value": 23
@@ -67,7 +67,7 @@
         {
             "id": "T6",
             "name": "Chinese Han women",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -75,7 +75,7 @@
         {
             "id": "T19",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T8",
             "name": "explore",
-            "group": 9,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T9",
             "name": "single nucleotide polymorphisms",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 21
@@ -99,7 +99,7 @@
         {
             "id": "T10",
             "name": "SNPs",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T16",
             "name": "SNPs",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T11",
             "name": "CDK2",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -123,7 +123,7 @@
         {
             "id": "T12",
             "name": "CCNE1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -131,7 +131,7 @@
         {
             "id": "T14",
             "name": "BC",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -139,7 +139,7 @@
         {
             "id": "T13",
             "name": "risk",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T17",
             "name": "progression",
-            "group": 2,
+            "group": 4,
             "type": "Other_effect",
             "trigger": 1,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T18",
             "name": "survival",
-            "group": 2,
+            "group": 4,
             "type": "Other_effect",
             "trigger": 1,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T15",
             "name": "Chinese Han population",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -171,7 +171,7 @@
         {
             "id": "T25",
             "name": "6 haplotype-tagging SNPs",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -179,7 +179,7 @@
         {
             "id": "T23",
             "name": "haplotype-tagging SNPs",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -187,7 +187,7 @@
         {
             "id": "T22",
             "name": "htSNPs",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 20
@@ -195,7 +195,7 @@
         {
             "id": "T26",
             "name": "CCNE1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -203,7 +203,7 @@
         {
             "id": "T24",
             "name": "2 htSNPs",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -211,7 +211,7 @@
         {
             "id": "T27",
             "name": "CDK2",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -219,7 +219,7 @@
         {
             "id": "T28",
             "name": "Chinese Han women",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -243,7 +243,7 @@
         {
             "id": "T36",
             "name": "CCNE1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -251,7 +251,7 @@
         {
             "id": "T35",
             "name": "minor allele homozygotes",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -259,7 +259,7 @@
         {
             "id": "T32",
             "name": "associated",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -267,7 +267,7 @@
         {
             "id": "T37",
             "name": "BC",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -275,7 +275,7 @@
         {
             "id": "T31",
             "name": "rs3218035",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -283,7 +283,7 @@
         {
             "id": "T47",
             "name": "rs3218035",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -291,7 +291,7 @@
         {
             "id": "T33",
             "name": "rs3218038",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -299,7 +299,7 @@
         {
             "id": "T48",
             "name": "rs3218038",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -307,7 +307,7 @@
         {
             "id": "T34",
             "name": "rs3218042",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -315,7 +315,7 @@
         {
             "id": "T49",
             "name": "rs3218042",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -331,7 +331,7 @@
         {
             "id": "T39",
             "name": "increasing",
-            "group": 4,
+            "group": 7,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -339,7 +339,7 @@
         {
             "id": "T40",
             "name": "BC",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -347,7 +347,7 @@
         {
             "id": "T41",
             "name": "risk",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -363,7 +363,7 @@
         {
             "id": "T43",
             "name": "none",
-            "group": 7,
+            "group": 5,
             "type": "Neg",
             "trigger": 0,
             "value": 22
@@ -371,7 +371,7 @@
         {
             "id": "T44",
             "name": "minor alleles",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -379,7 +379,7 @@
         {
             "id": "T45",
             "name": "3 at-risk SNPs",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -387,7 +387,7 @@
         {
             "id": "T52",
             "name": "favorable",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -395,7 +395,7 @@
         {
             "id": "T46",
             "name": "survival",
-            "group": 2,
+            "group": 4,
             "type": "Other_effect",
             "trigger": 1,
             "value": 23
@@ -403,7 +403,7 @@
         {
             "id": "T51",
             "name": "minor-allele homozygote",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -411,7 +411,7 @@
         {
             "id": "T50",
             "name": "rs3218038",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -419,7 +419,7 @@
         {
             "id": "T53",
             "name": "worse",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -427,7 +427,7 @@
         {
             "id": "T54",
             "name": "survival",
-            "group": 2,
+            "group": 4,
             "type": "Other_effect",
             "trigger": 1,
             "value": 23
@@ -435,7 +435,7 @@
         {
             "id": "T55",
             "name": "patients with aggressive tumours",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -443,7 +443,7 @@
         {
             "id": "T56",
             "name": "tumour size>2 cm",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -451,7 +451,7 @@
         {
             "id": "T60",
             "name": "positive lymph node metastasis",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -459,7 +459,7 @@
         {
             "id": "T61",
             "name": "CDK2",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -467,7 +467,7 @@
         {
             "id": "T62",
             "name": "no significant",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -475,7 +475,7 @@
         {
             "id": "T63",
             "name": "association",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -483,7 +483,7 @@
         {
             "id": "T59",
             "name": "genetic variants",
-            "group": 5,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -491,7 +491,7 @@
         {
             "id": "T57",
             "name": "CCNE1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -499,7 +499,7 @@
         {
             "id": "T64",
             "name": "may",
-            "group": 9,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -507,7 +507,7 @@
         {
             "id": "T65",
             "name": "contribute",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -515,7 +515,7 @@
         {
             "id": "T66",
             "name": "BC",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -523,7 +523,7 @@
         {
             "id": "T67",
             "name": "survival",
-            "group": 2,
+            "group": 4,
             "type": "Other_effect",
             "trigger": 1,
             "value": 18
@@ -531,7 +531,7 @@
         {
             "id": "T58",
             "name": "Chinese Han population",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16

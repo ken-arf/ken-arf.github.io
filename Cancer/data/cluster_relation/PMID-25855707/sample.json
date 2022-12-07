@@ -4,85 +4,99 @@
             "id": 0,
             "value": 1,
             "name": "tested",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 1,
             "value": 1,
             "name": "pair-wise multiplicative interactions",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 2,
             "value": 1,
             "name": "77-SNP",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 3,
             "value": 1,
             "name": "polygenic risk score",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 4,
             "value": 1,
             "name": "PRS",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 5,
             "value": 1,
             "name": "for",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 7,
             "value": 1,
             "name": "estrogen receptor status",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 8,
             "value": 1,
             "name": "estrogen receptor",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "ER",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 10,
             "value": 1,
             "name": "Absolute risks",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 11,
             "value": 1,
             "name": "Women",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 12,
             "value": 2,
             "name": "ER-positive|ER-negative",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 13,
             "value": 2,
             "name": "with family history of breast cancer|without a family history of breast cancer",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         }
     ],
     "links": [

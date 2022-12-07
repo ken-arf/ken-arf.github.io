@@ -1,0 +1,148 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Germline mutation",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "RNASEL",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "predicts",
+            "group": 3
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "increased",
+            "group": 5
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "risk",
+            "group": 6
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "Ribonuclease L",
+            "group": 4
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "5'UTR",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "rs3738579|rs3738579",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 3,
+            "name": "increased|risk|protective effect",
+            "group": 5
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "RNASEL",
+            "group": 4
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 4,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "value": 1
+        }
+    ]
+}

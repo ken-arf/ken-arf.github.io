@@ -1,0 +1,365 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Effects",
+            "group": 7
+        },
+        {
+            "id": 1,
+            "value": 3,
+            "name": "doxycycline|doxycycline|doxycycline",
+            "group": 9
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "growth",
+            "group": 13
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "migration",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "breast carcinoma cells",
+            "group": 11
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "death",
+            "group": 8
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "cancer",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "human",
+            "group": 10
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "metalloproteinases",
+            "group": 15
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "MPs",
+            "group": 15
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "Increased",
+            "group": 12
+        },
+        {
+            "id": 11,
+            "value": 2,
+            "name": "MP|MP",
+            "group": 15
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "cancers",
+            "group": 3
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 3
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "MPs",
+            "group": 15
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "play a role",
+            "group": 7
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 5
+        },
+        {
+            "id": 18,
+            "value": 2,
+            "name": "Tetracyclines|tetracyclines",
+            "group": 9
+        },
+        {
+            "id": 19,
+            "value": 2,
+            "name": "suppress|suppress",
+            "group": 0
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "tissues",
+            "group": 1
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "gingiva",
+            "group": 4
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "bone",
+            "group": 1
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "cartilage",
+            "group": 1
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "MPs",
+            "group": 15
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "tetracycline",
+            "group": 9
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "inhibits",
+            "group": 0
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "migration",
+            "group": 2
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "human",
+            "group": 10
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "MDA-MB-435 breast adenocarcinoma cells",
+            "group": 11
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "reconstituted",
+            "group": 14
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "basement membrane",
+            "group": 6
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "tumor",
+            "group": 3
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "invasion",
+            "group": 2
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "basement membranes",
+            "group": 6
+        },
+        {
+            "id": 36,
+            "value": 1,
+            "name": "diminishes",
+            "group": 0
+        },
+        {
+            "id": 37,
+            "value": 1,
+            "name": "proliferation",
+            "group": 13
+        },
+        {
+            "id": 38,
+            "value": 1,
+            "name": "breast cancer cell line",
+            "group": 11
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 34,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 36,
+            "target": 37,
+            "value": 2
+        },
+        {
+            "source": 36,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 37,
+            "target": 38,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 2
+        }
+    ]
+}

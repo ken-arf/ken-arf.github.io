@@ -1,0 +1,1198 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "exposure",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "disrupts",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "VEGF receptor",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T3",
+            "name": "cell signaling",
+            "group": 10,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "endothelial cells",
+            "group": 17,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "angiogenesis",
+            "group": 9,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "regulated",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "vascular endothelial growth factor (VEGF) receptors",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T9",
+            "name": "ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "blood",
+            "group": 3,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "alcohol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "impairs",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T12",
+            "name": "angiogenesis",
+            "group": 9,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "murine",
+            "group": 14,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T100",
+            "name": "wounds",
+            "group": 8,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "VEGF",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "effects",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "endothelial cell",
+            "group": 17,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "signaling",
+            "group": 10,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "influences",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "angiogenesis",
+            "group": 9,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T101",
+            "name": "wounds",
+            "group": 8,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "angiogenesis",
+            "group": 9,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "exposure",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "effects",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "VEGF",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T72",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "capillary network",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T73",
+            "name": "formation",
+            "group": 12,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "Ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T74",
+            "name": "exposure",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T76",
+            "name": "resulted",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T75",
+            "name": "reduced",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "VEGF",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T78",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "cord",
+            "group": 13,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T77",
+            "name": "formation",
+            "group": 12,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "collagen",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T79",
+            "name": "reduced",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "capillary network",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T80",
+            "name": "exposure",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T34",
+            "name": "decreased",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "expression",
+            "group": 5,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "VEGF receptor-2",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T39",
+            "name": "VEGF receptor-2",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T38",
+            "name": "phosphorylation",
+            "group": 4,
+            "type": "Phosphorylation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "Inhibition",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T81",
+            "name": "metabolism",
+            "group": 16,
+            "type": "Metabolism",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "4-methylpyrazole",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T84",
+            "name": "abrogated",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T82",
+            "name": "effect",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "endothelial cell cord",
+            "group": 13,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T83",
+            "name": "formation",
+            "group": 12,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "mice",
+            "group": 14,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T85",
+            "name": "treated",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "t-butanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T49",
+            "name": "alcohol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T86",
+            "name": "metabolized",
+            "group": 16,
+            "type": "Metabolism",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T87",
+            "name": "metabolized",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "alcohol dehydrogenase",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T88",
+            "name": "metabolism",
+            "group": 16,
+            "type": "Metabolism",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T92",
+            "name": "important",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T89",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T91",
+            "name": "changes",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "endothelial cell",
+            "group": 17,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T90",
+            "name": "responsiveness",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "VEGF",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T93",
+            "name": "exposure",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T94",
+            "name": "decreased",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "angiogenesis",
+            "group": 9,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T102",
+            "name": "wounds",
+            "group": 8,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "endothelial cells",
+            "group": 17,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "diminished",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T64",
+            "name": "hypoxia-inducible factor-1alpha",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T65",
+            "name": "ethanol",
+            "group": 6,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T95",
+            "name": "exposure",
+            "group": 7,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T96",
+            "name": "impairs",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "angiogenesis",
+            "group": 9,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T97",
+            "name": "mediated",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T98",
+            "name": "changes",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "endothelial cell",
+            "group": 17,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T99",
+            "name": "responsiveness",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "VEGF",
+            "group": 11,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T2",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T80",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T34",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T34",
+            "target": "T80",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T34",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T36",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T38",
+            "target": "T39",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T40",
+            "target": "T81",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T40",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T63",
+            "target": "T64",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T62",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T26",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T31",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T31",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T47",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T47",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T52",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T52",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T58",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T58",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T66",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T71",
+            "target": "T66",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T71",
+            "target": "T73",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T72",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T72",
+            "target": "T73",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T73",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T74",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T75",
+            "target": "T77",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T76",
+            "target": "T74",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T76",
+            "target": "T75",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T77",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T78",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T78",
+            "target": "T77",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T79",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T76",
+            "target": "T74",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T76",
+            "target": "T79",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T80",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T81",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T82",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T82",
+            "target": "T83",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T83",
+            "target": "T46",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T84",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T84",
+            "target": "T82",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T85",
+            "target": "T1001",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T85",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T86",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T87",
+            "target": "T50",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T87",
+            "target": "T86",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T88",
+            "target": "T51",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T89",
+            "target": "T53",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T89",
+            "target": "T91",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T90",
+            "target": "T56",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T90",
+            "target": "T55",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T91",
+            "target": "T90",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T92",
+            "target": "T88",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T92",
+            "target": "T91",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T93",
+            "target": "T57",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T94",
+            "target": "T93",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T94",
+            "target": "T59",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T95",
+            "target": "T65",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T96",
+            "target": "T95",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T96",
+            "target": "T67",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T97",
+            "target": "T98",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T97",
+            "target": "T96",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T98",
+            "target": "T99",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T99",
+            "target": "T69",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T99",
+            "target": "T70",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T12",
+            "target": "T100",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T19",
+            "target": "T101",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T59",
+            "target": "T102",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T3",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Participant"
+        }
+    ]
+}

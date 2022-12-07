@@ -1,0 +1,1558 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "M-CSF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T16",
+            "name": "signals",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "MAPK",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "ERK",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "pathway",
+            "group": 11,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "Sp1",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "induce",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "production",
+            "group": 6,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T9",
+            "name": "angiogenesis",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "M-CSF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T18",
+            "name": "recruits",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "mononuclear phagocytes",
+            "group": 17,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T77",
+            "name": "regulate",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "angiogenesis",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T79",
+            "name": "metastases",
+            "group": 7,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T14",
+            "name": "tumors",
+            "group": 9,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T15",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "activator",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "angiogenesis",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T90",
+            "name": "promotes",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "endothelial cell",
+            "group": 17,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "proliferation",
+            "group": 16,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T23",
+            "name": "blood vessel",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T93",
+            "name": "formation",
+            "group": 8,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "M-CSF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T94",
+            "name": "induces",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T95",
+            "name": "expression",
+            "group": 6,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 14,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "monocytes",
+            "group": 17,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "M-CSF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T96",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "production",
+            "group": 6,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T97",
+            "name": "promoter",
+            "group": 2,
+            "type": "DNA_domain_or_region",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T98",
+            "name": "linked",
+            "group": 13,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T31",
+            "name": "luciferase",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "reducing",
+            "group": 3,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T34",
+            "name": "HIF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T33",
+            "name": "binding",
+            "group": 5,
+            "type": "Binding",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T35",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T99",
+            "name": "promoter",
+            "group": 2,
+            "type": "DNA_domain_or_region",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T101",
+            "name": "effect",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T37",
+            "name": "luciferase",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T36",
+            "name": "production",
+            "group": 6,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T100",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "M-CSF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T38",
+            "name": "stimulation",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "M-CSF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T102",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T103",
+            "name": "induced",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "MAPK",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T44",
+            "name": "ERK",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "signaling pathway",
+            "group": 11,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "Sp1",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "inhibition",
+            "group": 3,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "ERK",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T50",
+            "name": "Sp1",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "suppressed",
+            "group": 3,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T52",
+            "name": "M-CSF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T51",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "M-CSF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T55",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T48",
+            "name": "nuclear",
+            "group": 4,
+            "type": "Cellular_component",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "localization",
+            "group": 7,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "Sp1",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T104",
+            "name": "blocked",
+            "group": 3,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "ERK",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T58",
+            "name": "inhibition",
+            "group": 3,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "mutating",
+            "group": 13,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "Sp1",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T106",
+            "name": "binding sites",
+            "group": 2,
+            "type": "DNA_domain_or_region",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T105",
+            "name": "promoter",
+            "group": 2,
+            "type": "DNA_domain_or_region",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "inhibiting",
+            "group": 3,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "ERK",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T65",
+            "name": "decreased",
+            "group": 3,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T107",
+            "name": "promoter",
+            "group": 2,
+            "type": "DNA_domain_or_region",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "M-CSF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T108",
+            "name": "treated",
+            "group": 13,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "human",
+            "group": 14,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "monocytes",
+            "group": 17,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T70",
+            "name": "M-CSF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T109",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "production",
+            "group": 6,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T72",
+            "name": "angiogenesis",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T111",
+            "name": "ability",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T73",
+            "name": "M-CSF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T110",
+            "name": "recruit",
+            "group": 7,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T74",
+            "name": "mononuclear phagocytes",
+            "group": 17,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T75",
+            "name": "increase",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T76",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T112",
+            "name": "enhance",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T78",
+            "name": "angiogenesis",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T80",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "VEGF antibody",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T113",
+            "name": "abolished",
+            "group": 3,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T82",
+            "name": "M-CSF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T114",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T83",
+            "name": "blood vessel",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T115",
+            "name": "formation",
+            "group": 8,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T84",
+            "name": "ERK",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T85",
+            "name": "Sp1",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T116",
+            "name": "dependent",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T87",
+            "name": "M-CSF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T117",
+            "name": "induced",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T88",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T86",
+            "name": "production",
+            "group": 6,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T89",
+            "name": "M-CSF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T118",
+            "name": "induce",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T119",
+            "name": "induce",
+            "group": 15,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T91",
+            "name": "angiogenesis",
+            "group": 10,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T92",
+            "name": "VEGF",
+            "group": 12,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T20",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T29",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T32",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T33",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T33",
+            "target": "T99",
+            "value": 2,
+            "link_name": "Site"
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Theme2"
+        },
+        {
+            "source": "T36",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T38",
+            "target": "T39",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T46",
+            "target": "T53",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T46",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T47",
+            "target": "T49",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T51",
+            "target": "T53",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T54",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T55",
+            "target": "T56",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T56",
+            "target": "T57",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T56",
+            "target": "T48",
+            "value": 2,
+            "link_name": "ToLoc"
+        },
+        {
+            "source": "T58",
+            "target": "T59",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T60",
+            "target": "T106",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T64",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T65",
+            "target": "T107",
+            "value": 2,
+            "link_name": "Site"
+        },
+        {
+            "source": "T65",
+            "target": "T66",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T65",
+            "target": "T63",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T69",
+            "target": "T71",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T75",
+            "target": "T76",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T75",
+            "target": "T73",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T86",
+            "target": "T88",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T12",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T12",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T16",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T16",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T12",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T12",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T18",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T18",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T77",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T77",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T79",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T77",
+            "target": "T79",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T77",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T90",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T90",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T93",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T94",
+            "target": "T95",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T94",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T95",
+            "target": "T25",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T96",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T96",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T98",
+            "target": "T97",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T98",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T100",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T100",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T101",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T101",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T102",
+            "target": "T41",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T102",
+            "target": "T103",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T103",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T103",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T47",
+            "target": "T50",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T46",
+            "target": "T53",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T46",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T104",
+            "target": "T58",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T104",
+            "target": "T56",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T108",
+            "target": "T67",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T108",
+            "target": "T68",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T90",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T90",
+            "target": "T93",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T65",
+            "target": "T107",
+            "value": 2,
+            "link_name": "Site"
+        },
+        {
+            "source": "T65",
+            "target": "T66",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T65",
+            "target": "T60",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T109",
+            "target": "T70",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T109",
+            "target": "T69",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T110",
+            "target": "T74",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T111",
+            "target": "T73",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T111",
+            "target": "T110",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T112",
+            "target": "T78",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T112",
+            "target": "T73",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T113",
+            "target": "T115",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T113",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T114",
+            "target": "T115",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T114",
+            "target": "T82",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T115",
+            "target": "T83",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T116",
+            "target": "T86",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T116",
+            "target": "T85",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T117",
+            "target": "T87",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T117",
+            "target": "T86",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T116",
+            "target": "T86",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T116",
+            "target": "T84",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T118",
+            "target": "T91",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T118",
+            "target": "T119",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T119",
+            "target": "T89",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T119",
+            "target": "T92",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Participant"
+        },
+        {
+            "source": "T2",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Participant2"
+        },
+        {
+            "source": "T42",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Participant"
+        },
+        {
+            "source": "T42",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Participant2"
+        },
+        {
+            "source": "T19",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T19",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

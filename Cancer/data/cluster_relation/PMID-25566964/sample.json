@@ -4,235 +4,274 @@
             "id": 0,
             "value": 1,
             "name": "Polymorphisms",
-            "group": 0
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 1,
             "value": 7,
             "name": "MTHFR|MTHFR|MTHFR|MTHFR|MTHFR|MTHFR|MTHFR",
-            "group": 6
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 2,
             "value": 2,
             "name": "associated|associated",
-            "group": 9
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 3,
             "value": 7,
             "name": "breast cancer|breast cancer|breast cancer|breast cancer|breast cancer|breast cancer|breast cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 4,
             "value": 1,
             "name": "prognosis",
-            "group": 3
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 5,
             "value": 1,
             "name": "Chinese population",
-            "group": 6
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "Methylenetetrahydrofolate reductase",
-            "group": 6
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 7,
             "value": 1,
             "name": "examine",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 8,
             "value": 1,
             "name": "single nucleotide polymorphisms",
-            "group": 0
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 9,
             "value": 1,
             "name": "SNP",
-            "group": 0
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 10,
             "value": 1,
             "name": "survival",
-            "group": 7
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 11,
             "value": 2,
             "name": "serum folate|serum folate",
-            "group": 6
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 12,
             "value": 1,
             "name": "levels",
-            "group": 1
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 13,
             "value": 1,
             "name": "nine tagging SNPs",
-            "group": 0
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 14,
             "value": 2,
             "name": "TT|TT",
-            "group": 6
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 15,
             "value": 2,
             "name": "rs1801133|rs1801133",
-            "group": 0
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 16,
             "value": 3,
             "name": "significant|significant|significant",
-            "group": 11
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 17,
             "value": 1,
             "name": "increased",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 18,
             "value": 5,
             "name": "risk|risk|risk|risk|risk",
-            "group": 9
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 19,
             "value": 1,
             "name": "CC",
-            "group": 6
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 20,
             "value": 1,
             "name": "CC",
-            "group": 6
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 21,
             "value": 4,
             "name": "rs9651118|rs9651118|rs9651118|rs9651118",
-            "group": 0
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 22,
             "value": 2,
             "name": "reduced|reduced",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 23,
             "value": 1,
             "name": "CACCAA haplotypes",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 24,
             "value": 1,
             "name": "AGTCAC haplotypes",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 25,
             "value": 2,
             "name": "rs12121543|rs13306553",
-            "group": 0
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 26,
             "value": 2,
             "name": "rs1801133|rs1801131",
-            "group": 0
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 27,
             "value": 1,
             "name": "rs4846048",
-            "group": 0
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 28,
             "value": 1,
             "name": "CATTAA haplotype",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 29,
             "value": 1,
             "name": "CC",
-            "group": 6
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 30,
             "value": 1,
             "name": "significantly",
-            "group": 11
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 31,
             "value": 1,
             "name": "survival",
-            "group": 7
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 32,
             "value": 1,
             "name": "none",
-            "group": 8
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 33,
             "value": 1,
             "name": "SNPs",
-            "group": 0
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 34,
             "value": 1,
             "name": "associated level",
-            "group": 1
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 35,
             "value": 1,
             "name": "variants",
-            "group": 0
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 36,
             "value": 1,
             "name": "may influence",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 37,
             "value": 1,
             "name": "risk",
-            "group": 9
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 38,
             "value": 1,
             "name": "prognosis",
-            "group": 3
+            "trigger": 1,
+            "group": 8
         }
     ],
     "links": [

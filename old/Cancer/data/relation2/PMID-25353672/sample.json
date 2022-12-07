@@ -1,0 +1,424 @@
+{
+    "nodes": [
+        {
+            "id": "T27",
+            "name": "1q12-q21",
+            "group": 0,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T1",
+            "name": "Mammographic density",
+            "group": 0,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T4",
+            "name": "Caucasian women",
+            "group": 0,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T5",
+            "name": "45 to 68 years",
+            "group": 0,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T9",
+            "name": "breast",
+            "group": 0,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "women",
+            "group": 0,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "40 to 70 years old",
+            "group": 0,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T8",
+            "name": "Australian Twin",
+            "group": 0,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T11",
+            "name": "Spanish",
+            "group": 0,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T12",
+            "name": "Evidence",
+            "group": 5,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "MD",
+            "group": 3,
+            "type": "Cell_types_tissues_affected",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "MD",
+            "group": 0,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "rs11205277",
+            "group": 1,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T15",
+            "name": "rs11205277",
+            "group": 1,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T16",
+            "name": "marginal",
+            "group": 2,
+            "type": "Level",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T14",
+            "name": "this SNP",
+            "group": 1,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T17",
+            "name": "absolute dense area",
+            "group": 3,
+            "type": "Cell_types_tissues_affected",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T28",
+            "name": "evidence",
+            "group": 5,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "MD",
+            "group": 3,
+            "type": "Cell_types_tissues_affected",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "SNPs",
+            "group": 1,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "high linkage disequilibrium",
+            "group": 4,
+            "type": "Interaction",
+            "trigger": 1,
+            "value": 18
+        },
+        {
+            "id": "T19",
+            "name": "rs11205277",
+            "group": 1,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T20",
+            "name": "rs11205303",
+            "group": 1,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T23",
+            "name": "MTMR11",
+            "group": 0,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T24",
+            "name": "rs67807996",
+            "group": 1,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T25",
+            "name": "OTUD7B",
+            "group": 0,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T3",
+            "name": "evidence",
+            "group": 5,
+            "type": "Spec",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "common genetic variations",
+            "group": 1,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T26",
+            "name": "MD",
+            "group": 3,
+            "type": "Cell_types_tissues_affected",
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T13",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T13",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T17",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T17",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T21",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Entity"
+        },
+        {
+            "source": "T21",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Entity2"
+        },
+        {
+            "source": "T21",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Entity3"
+        },
+        {
+            "source": "T21",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Entity4"
+        },
+        {
+            "source": "T29",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T29",
+            "target": "T9",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T26",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T13",
+            "target": "T12",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T10",
+            "target": "T4",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T10",
+            "target": "T5",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T14",
+            "target": "T15",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T14",
+            "target": "T7",
+            "value": 1,
+            "link_name": "Risk_Factor"
+        },
+        {
+            "source": "T14",
+            "target": "T6",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T14",
+            "target": "T8",
+            "value": 1,
+            "link_name": "Population_assignment"
+        },
+        {
+            "source": "T17",
+            "target": "T16",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T20",
+            "target": "T23",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T24",
+            "target": "T25",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T29",
+            "target": "T28",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 1,
+            "link_name": "Equiv"
+        },
+        {
+            "source": "T26",
+            "target": "T3",
+            "value": 1,
+            "link_name": "Speculation_marker"
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T18",
+            "target": "T20",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T18",
+            "target": "T24",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T10",
+            "target": "T27",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T15",
+            "target": "T27",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T19",
+            "target": "T27",
+            "value": 1,
+            "link_name": "SNP_location"
+        }
+    ]
+}

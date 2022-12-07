@@ -4,168 +4,196 @@
             "id": 0,
             "value": 4,
             "name": "angiogenesis|angiogenesis|angiogenesis|angiogenesis",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 1,
             "value": 2,
             "name": "vascularized|vascularized",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 2,
             "value": 4,
             "name": "autogenous bone graft|autogenous bone graft|autogenous bone grafts|autogenous bone graft",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 3,
             "value": 4,
             "name": "vascular bundle|vascular bundle|vascular bundle|Vascular bundle",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 4,
             "value": 3,
             "name": "implantation|implantation|implantation",
+            "trigger": 1,
             "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "effect",
-            "group": 3
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 6,
             "value": 1,
             "name": "New Zealand white rabbits",
-            "group": 5
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 7,
             "value": 1,
             "name": "bilateral radial bones",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 8,
             "value": 1,
             "name": "rabbit",
-            "group": 5
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 9,
             "value": 1,
             "name": "removed",
+            "trigger": 1,
             "group": 4
         },
         {
             "id": 10,
             "value": 1,
             "name": "bone grafts",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 11,
             "value": 1,
             "name": "periostea",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 12,
             "value": 1,
             "name": "peeled off",
+            "trigger": 1,
             "group": 4
         },
         {
             "id": 13,
             "value": 1,
             "name": "external maxillary artery bundle",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 14,
             "value": 1,
             "name": "marrow cavity",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 15,
             "value": 1,
             "name": "bone",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 16,
             "value": 1,
             "name": "implantation",
+            "trigger": 1,
             "group": 4
         },
         {
             "id": 17,
             "value": 1,
             "name": "bone",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 18,
             "value": 1,
             "name": "placed",
+            "trigger": 1,
             "group": 4
         },
         {
             "id": 19,
             "value": 1,
             "name": "masseter muscle",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 20,
             "value": 1,
             "name": "rabbits",
-            "group": 5
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 21,
             "value": 1,
             "name": "sacrificed",
+            "trigger": 1,
             "group": 4
         },
         {
             "id": 22,
             "value": 1,
             "name": "CD34",
-            "group": 8
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 23,
             "value": 1,
             "name": "Microvessel",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 24,
             "value": 1,
             "name": "bone grafts",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 25,
             "value": 1,
             "name": "revascularization",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 26,
             "value": 1,
             "name": "angiogenesis",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 27,
             "value": 1,
             "name": "improved",
+            "trigger": 1,
             "group": 7
         }
     ],

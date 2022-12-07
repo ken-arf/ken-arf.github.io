@@ -1,0 +1,203 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 3,
+            "name": "tumour microvasculature|tumour microvasculature|tumour microvasculature",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "tumour",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 5,
+            "name": "angiogenic|angiogenic|angiogenic|angiogenic|angiogenic",
+            "group": 3
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "treatment",
+            "group": 4
+        },
+        {
+            "id": 4,
+            "value": 3,
+            "name": "rats|rats|rats",
+            "group": 5
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "tumours",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "induced",
+            "group": 8
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "subcutaneous injection",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "colon carcinoma cells|mammary adenocarcinoma cells",
+            "group": 7
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "implanted",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "tumours",
+            "group": 1
+        },
+        {
+            "id": 11,
+            "value": 2,
+            "name": "B22956/1|B22956/1",
+            "group": 6
+        },
+        {
+            "id": 12,
+            "value": 2,
+            "name": "Gd-DTPA37-albumin|Gd-DTPA-albumin",
+            "group": 6
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "treatment",
+            "group": 4
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "tamoxifen",
+            "group": 6
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "SU6668",
+            "group": 6
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "mammary carcinoma",
+            "group": 1
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "vascular",
+            "group": 2
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "treated",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "colon carcinoma",
+            "group": 1
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "tissue",
+            "group": 0
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "tumour",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 6,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 2
+        }
+    ]
+}

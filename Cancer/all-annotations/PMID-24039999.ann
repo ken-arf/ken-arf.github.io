@@ -1,0 +1,109 @@
+T2	Association 118 129	association
+E1	Association:T2 snp_int:T4 bc:T5
+T3	Entity 155 159	5p12
+T4	SNP 138 151	polymorphisms
+R1	SNP_location Arg1:T4 Arg2:T3	
+T5	Cancer 164 177	breast cancer
+T6	Cancer 179 181	BC
+R2	Equiv Arg1:T6 Arg2:T5	
+T7	Spec 315 328	contradictory
+R3	Speculation_marker Arg1:E1 Arg2:T7	
+T1	SNP 463 473	rs10941679
+T8	SNP 478 487	rs4415084
+T9	Entity 492 496	5p12
+R4	SNP_location Arg1:T1 Arg2:T9	
+R5	SNP_location Arg1:T8 Arg2:T9	
+T10	SNP 1050 1060	rs10941679
+T11	SNP 1065 1074	rs4415084
+T15	Association 936 938	OR
+E2	Association:T15 snp_int:T10 snp_int2:T11 bc:T5
+T16	Level 1102 1113	Significant
+T17	Level 1196 1210	no significant
+T18	Association 1211 1223	associations
+E3	Association:T18 snp_int:T23 snp_int2:T24
+A1	Level E3 Low
+T19	Association 1114 1121	results
+E4	Association:T19 snp_int:T25 snp_int2:T26
+A2	Level E4 High
+R8	Level_marker Arg1:E4 Arg2:T16	
+R9	Level_marker Arg1:E3 Arg2:T17	
+T20	Entity 1136 1142	Asians
+T21	Entity 1147 1157	Caucasians
+T22	Entity 1241 1267	Africans/African-Americans
+T23	SNP 1050 1060	rs10941679
+T24	SNP 1065 1074	rs4415084
+T25	SNP 1050 1060	rs10941679
+T26	SNP 1065 1074	rs4415084
+R10	Population_assignment Arg1:T25 Arg2:T20	
+R11	Population_assignment Arg1:T25 Arg2:T21	
+R12	Population_assignment Arg1:T26 Arg2:T20	
+R13	Population_assignment Arg1:T26 Arg2:T21	
+R14	Population_assignment Arg1:T23 Arg2:T22	
+R15	Population_assignment Arg1:T24 Arg2:T22	
+T27	Entity 1310 1318	dominant
+T28	Entity 1322 1346	recessive genetic models
+T29	SNP 1374 1383	rs4415084
+T30	SNP 1388 1398	rs10941679
+T31	Level 1409 1422	significantly
+T32	Effect_Type 1423 1430	greater
+T33	Association 1431 1436	risks
+E5	Association:T33 snp_int:T30 snp_int2:T29 bc:T34
+A3	Effect_Type E5 Increase
+A4	Level E5 High
+T34	Cancer 1440 1465	ER-positive breast cancer
+A5	Cancer_Type T34 ER+
+T35	Cancer 1474 1492	ER-negative tumors
+A6	Cancer_Type T35 ER-
+R16	Effect_type_marker Arg1:E5 Arg2:T32	
+R17	Level_marker Arg1:E5 Arg2:T31	
+E6	Association:T33 bc:T35 snp_int2:T29 snp_int:T30
+T36	Entity 1440 1442	ER
+T37	Effect_Type 1443 1451	positive
+T38	Entity 1474 1476	ER
+T39	Neg 1477 1485	negative
+T40	Organic_inorganic_molecules_affected 1431 1436	risks
+E7	Organic_inorganic_molecules_affected:T40 Theme:T36 Agent:T30 Agent2:T29
+A7	Effect_Type E7 Increase
+A8	Level E7 High
+R18	Effect_type_marker Arg1:E7 Arg2:T32	
+R19	Level_marker Arg1:E7 Arg2:T31	
+R20	Effect_type_marker Arg1:E7 Arg2:T37	
+E8	Organic_inorganic_molecules_affected:T40 Agent:T30 Agent2:T29 Theme:T38
+R21	Negation_marker Arg1:E8 Arg2:T39	
+T41	SNP 1525 1535	rs10941679
+T42	Entity 1536 1544	G allele
+R22	SNP_allele Arg1:T41 Arg2:T42	
+T43	SNP 1549 1558	rs4415084
+T44	Entity 1559 1567	T allele
+R23	SNP_allele Arg1:T43 Arg2:T44	
+T45	Spec 1568 1576	might be
+T46	Association 1577 1592	risk-conferring
+E9	Association:T46 snp_int:T43 snp_int2:T41 bc:T47
+R24	Speculation_marker Arg1:E9 Arg2:T45	
+T47	Cancer 1624 1637	breast cancer
+T48	Entity 1653 1663	Caucasians
+T49	Entity 1668 1679	East-Asians
+R25	Population_assignment Arg1:T41 Arg2:T48	
+R26	Population_assignment Arg1:T41 Arg2:T49	
+R27	Population_assignment Arg1:T43 Arg2:T48	
+R28	Population_assignment Arg1:T43 Arg2:T49	
+R29	Genotype Arg1:T23 Arg2:T27	
+R30	Genotype Arg1:T10 Arg2:T27	
+R31	Genotype Arg1:T25 Arg2:T27	
+R32	Genotype Arg1:T24 Arg2:T27	
+R33	Genotype Arg1:T11 Arg2:T27	
+R34	Genotype Arg1:T26 Arg2:T27	
+R35	Genotype Arg1:T23 Arg2:T28	
+R36	Genotype Arg1:T10 Arg2:T28	
+R37	Genotype Arg1:T25 Arg2:T28	
+R38	Genotype Arg1:T24 Arg2:T28	
+R39	Genotype Arg1:T11 Arg2:T28	
+R40	Genotype Arg1:T26 Arg2:T28	
+T50	Association 0 11	Association
+E10	Association:T50 snp_int:T53 bc:T54
+T51	Spec 75 83	evidence
+R41	Speculation_marker Arg1:E10 Arg2:T51	
+T52	Entity 20 24	5p12
+T53	SNP 25 40	genomic markers
+R42	SNP_location Arg1:T53 Arg2:T52	
+T54	Cancer 45 58	breast cancer

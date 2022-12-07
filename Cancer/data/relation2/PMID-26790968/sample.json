@@ -3,7 +3,7 @@
         {
             "id": "T2",
             "name": "Polymorphic Variants",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T1",
             "name": "Oxidative Stress",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T6",
             "name": "and",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T3",
             "name": "Acute Toxicity",
-            "group": 3,
+            "group": 4,
             "type": "Therapeutic_response",
             "trigger": 1,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T5",
             "name": "Breast Cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -43,7 +43,7 @@
         {
             "id": "T4",
             "name": "Radiotherapy",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T8",
             "name": "Reactive oxygen species",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -59,7 +59,7 @@
         {
             "id": "T12",
             "name": "radiation therapy",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -67,7 +67,7 @@
         {
             "id": "T10",
             "name": "Genetic variation",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T7",
             "name": "genes ROS metabolism",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -83,7 +83,7 @@
         {
             "id": "T9",
             "name": "ROS",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T11",
             "name": "may",
-            "group": 6,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -99,7 +99,7 @@
         {
             "id": "T13",
             "name": "RT",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T14",
             "name": "adverse effects",
-            "group": 3,
+            "group": 4,
             "type": "Therapeutic_response",
             "trigger": 1,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T15",
             "name": "potential",
-            "group": 6,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -123,7 +123,7 @@
         {
             "id": "T16",
             "name": "association",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -131,7 +131,7 @@
         {
             "id": "T17",
             "name": "single nucleotide polymorphism",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 21
@@ -139,7 +139,7 @@
         {
             "id": "T18",
             "name": "SNP",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T20",
             "name": "radiotherapy",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T21",
             "name": "injury",
-            "group": 3,
+            "group": 4,
             "type": "Therapeutic_response",
             "trigger": 1,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T19",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -171,7 +171,7 @@
         {
             "id": "T24",
             "name": "significant association",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -179,7 +179,7 @@
         {
             "id": "T22",
             "name": "NOS3",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -187,7 +187,7 @@
         {
             "id": "T23",
             "name": "G894T",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -195,7 +195,7 @@
         {
             "id": "T25",
             "name": "grade \u2265 2 acute radiation skin toxicity",
-            "group": 3,
+            "group": 4,
             "type": "Therapeutic_response",
             "trigger": 1,
             "value": 17
@@ -203,7 +203,7 @@
         {
             "id": "T26",
             "name": "neo-adjuvant chemotherapy",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19

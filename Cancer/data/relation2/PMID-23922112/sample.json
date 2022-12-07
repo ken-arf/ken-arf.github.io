@@ -3,7 +3,7 @@
         {
             "id": "T10",
             "name": "Post-diagnosis weight gain",
-            "group": 1,
+            "group": 2,
             "type": "Patho_physiology",
             "trigger": 1,
             "value": 18
@@ -11,7 +11,7 @@
         {
             "id": "T11",
             "name": "associated",
-            "group": 2,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T12",
             "name": "cancer recurrence",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -67,7 +67,7 @@
         {
             "id": "T4",
             "name": "fat mass and obesity-associated protein",
-            "group": 4,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -75,7 +75,7 @@
         {
             "id": "T5",
             "name": "FTO",
-            "group": 4,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T7",
             "name": "ADIPOQ",
-            "group": 4,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -91,7 +91,7 @@
         {
             "id": "T8",
             "name": "ADIPOR1",
-            "group": 4,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19

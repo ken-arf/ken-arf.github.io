@@ -1,0 +1,160 @@
+T1	Association 99 103	risk
+E1	Association:T1 snp_int:T3 snp_int2:T13 snp_int3:T14 snp_int4:T15 snp_int5:T16 snp_int6:T17 snp_int7:T18 bc:T2
+T2	Cancer 108 121	breast cancer
+T3	SNP 0 17	Genetic variation
+T4	Entity 45 50	ADRB2
+T5	Entity 52 57	ADRB3
+T6	Entity 59 63	GHRL
+T7	Entity 65 72	HSD11B1
+T8	Entity 74 78	IRS1
+T9	Entity 80 84	IRS2
+T10	Entity 90 94	SHC1
+T11	Entity 431 436	women
+T12	Entity 416 430	postmenopausal
+T13	SNP 0 17	Genetic variation
+T14	SNP 0 17	Genetic variation
+T15	SNP 0 17	Genetic variation
+T16	SNP 0 17	Genetic variation
+T17	SNP 0 17	Genetic variation
+T18	SNP 0 17	Genetic variation
+R1	SNP_coupled_gene Arg1:T18 Arg2:T4	
+R2	SNP_coupled_gene Arg1:T17 Arg2:T5	
+R3	SNP_coupled_gene Arg1:T16 Arg2:T6	
+R4	SNP_coupled_gene Arg1:T15 Arg2:T7	
+R5	SNP_coupled_gene Arg1:T14 Arg2:T8	
+R6	SNP_coupled_gene Arg1:T13 Arg2:T9	
+R7	SNP_coupled_gene Arg1:T3 Arg2:T10	
+R8	Risk_Factor Arg1:T3 Arg2:T12	
+R9	Population_assignment Arg1:T3 Arg2:T11	
+R10	Risk_Factor Arg1:T13 Arg2:T12	
+R11	Population_assignment Arg1:T13 Arg2:T11	
+R12	Risk_Factor Arg1:T14 Arg2:T12	
+R13	Population_assignment Arg1:T14 Arg2:T11	
+R14	Risk_Factor Arg1:T15 Arg2:T12	
+R15	Population_assignment Arg1:T15 Arg2:T11	
+R16	Risk_Factor Arg1:T16 Arg2:T12	
+R17	Population_assignment Arg1:T16 Arg2:T11	
+R18	Risk_Factor Arg1:T17 Arg2:T12	
+R19	Population_assignment Arg1:T17 Arg2:T11	
+R20	Risk_Factor Arg1:T18 Arg2:T12	
+R21	Population_assignment Arg1:T18 Arg2:T11	
+A1	SNP_Class T18 tSNP
+A2	SNP_Class T17 tSNP
+A3	SNP_Class T16 tSNP
+A4	SNP_Class T15 tSNP
+A5	SNP_Class T14 tSNP
+A6	SNP_Class T13 tSNP
+A7	SNP_Class T3 tSNP
+T20	SNP 1210 1220	rs11807619
+T21	SNP 1233 1241	rs932335
+T22	Entity 1166 1173	HSD11B1
+R29	SNP_coupled_gene Arg1:T20 Arg2:T22	
+R30	SNP_coupled_gene Arg1:T21 Arg2:T22	
+T23	Association 1179 1189	associated
+E2	Association:T23 snp_int:T20 snp_int2:T21
+T24	Cancer 1195 1208	breast cancer
+R22	Member Arg1:T15 Arg2:T20	
+R23	Member Arg1:T15 Arg2:T21	
+T19	Level 1285 1291	highly
+T25	Interaction 1292 1302	correlated
+E3	Interaction:T25 Entity:T27 Entity2:T26
+R24	Level_marker Arg1:E3 Arg2:T19	
+A8	Level E3 High
+T26	SNP 1256 1266	rs11807619
+T27	SNP 1271 1279	rs932335
+T28	Interaction 1338 1347	haplotype
+E4	Interaction:T28 
+R25	Equiv Arg1:E3 Arg2:E4	
+T29	Entity 1389 1397	C allele
+T30	SNP 1380 1388	rs932335
+R26	SNP_allele Arg1:T30 Arg2:T29	
+T31	Interaction 1354 1364	haplotypes
+E5	Interaction:T31 Entity:T26 Entity2:T30
+R27	Member Arg1:E4 Arg2:E5	
+T32	Association 1403 1413	associated
+E6	Association:T32 bc:T33 snp_int:E5
+T33	Cancer 1419 1432	breast cancer
+T34	SNP 1438 1446	rs932335
+T35	Entity 1447 1455	C allele
+R28	SNP_allele Arg1:T34 Arg2:T35	
+T36	Association 1503 1507	risk
+E7	Association:T36 bc:T38 snp_int:T34
+T37	Effect_Type 1493 1502	increased
+T38	Cancer 1512 1525	breast cancer
+R31	Effect_type_marker Arg1:E7 Arg2:T37	
+T39	Level 1485 1492	twofold
+R32	Level_marker Arg1:E7 Arg2:T39	
+T40	Entity 1628 1632	IRS2
+T41	SNP 1603 1623	Three of the 11 SNPs
+R34	SNP_location Arg1:T41 Arg2:T40	
+R33	Member Arg1:T13 Arg2:T41	
+T42	Association 1638 1648	associated
+E8	Association:T42 bc:T43 snp_int:T41
+T43	Cancer 1654 1667	breast cancer
+T44	SNP 1669 1678	rs4773082
+T45	SNP 1691 1700	rs2289046
+T46	SNP 1713 1721	rs754204
+R35	Member Arg1:T41 Arg2:T44	
+R36	Member Arg1:T41 Arg2:T45	
+R37	Member Arg1:T41 Arg2:T46	
+R38	SNP_coupled_gene Arg1:E3 Arg2:T22	
+T47	Interaction 1795 1804	haplotype
+E9	Interaction:T47 Entity:T49 Entity2:T44 Entity3:T46
+T48	Entity 1823 1831	G allele
+T49	SNP 1835 1844	rs2289046
+R39	SNP_allele Arg1:T49 Arg2:T48	
+R40	SNP_coupled_gene Arg1:E9 Arg2:T40	
+T50	Association 1849 1859	associated
+E10	Association:T50 bc:T51 snp_int:E9
+T51	Cancer 1865 1878	breast cancer
+T53	SNP 2075 2085	other SNPs
+T54	Neg 2063 2067	None
+T55	Association 2116 2126	associated
+E11	Association:T55 bc:T56 snp_int:T53
+T56	Cancer 2132 2145	breast cancer
+R42	Negation_marker Arg1:E11 Arg2:T54	
+T58	Entity 2023 2028	adult
+A9	SNP_Class T41 tSNP
+A10	SNP_Class T20 tSNP
+A11	SNP_Class T21 tSNP
+T52	Patho_physiology 2029 2040	weight gain
+E12	Patho_physiology:T52 Agent:T59 Agent2:T60 Agent3:T61
+T57	Entity 1956 1960	IRS2
+T59	SNP 1961 1970	rs2289046
+T60	SNP 1972 1980	rs754204
+T61	SNP 1986 1996	rs12584136
+T62	Cancer 2050 2061	among cases
+R41	SNP_coupled_gene Arg1:T59 Arg2:T57	
+R44	SNP_coupled_gene Arg1:T60 Arg2:T57	
+R45	SNP_coupled_gene Arg1:T61 Arg2:T57	
+R43	Population_assignment Arg1:T59 Arg2:T58	
+R46	Population_assignment Arg1:T60 Arg2:T58	
+R47	Population_assignment Arg1:T61 Arg2:T58	
+R48	Risk_Factor Arg1:T59 Arg2:T62	
+R49	Risk_Factor Arg1:T60 Arg2:T62	
+R50	Risk_Factor Arg1:T61 Arg2:T62	
+T63	Patho_physiology 2149 2158	adiposity
+E13	Patho_physiology:T63 Agent:T53
+R51	Member Arg1:T3 Arg2:T53	
+R52	Member Arg1:T14 Arg2:T53	
+R53	Member Arg1:T16 Arg2:T53	
+R54	Member Arg1:T17 Arg2:T53	
+R55	Member Arg1:T18 Arg2:T53	
+R56	Negation_marker Arg1:E13 Arg2:T54	
+T64	SNP 2186 2204	these tagging SNPs
+R57	Member Arg1:T64 Arg2:T41	
+R58	Member Arg1:T64 Arg2:T20	
+R59	Member Arg1:T64 Arg2:T21	
+R60	Member Arg1:T64 Arg2:E9	
+R61	Member Arg1:T64 Arg2:E5	
+T65	Spec 2173 2180	suggest
+T66	Cancer 2285 2298	breast cancer
+T67	Association 2310 2322	associations
+E14	Association:T67 bc:T66
+R62	Speculation_marker Arg1:E14 Arg2:T65	
+T68	Entity 2351 2360	adiposity
+T69	Neg 2336 2347	independent
+R63	Negation_marker Arg1:T68 Arg2:T69	
+T70	Spec 2327 2335	probably
+R64	Speculation_marker Arg1:T68 Arg2:T70	
+R65	Risk_Factor Arg1:T64 Arg2:T68	

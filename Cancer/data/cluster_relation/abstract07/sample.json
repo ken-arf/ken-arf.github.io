@@ -4,55 +4,64 @@
             "id": 0,
             "value": 1,
             "name": "Chinese women",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 1,
             "value": 8,
             "name": "rs2046210|rs1219648|rs3817198|rs8051542|rs3803662|rs889312|rs10941679|rs13281615",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 2,
             "value": 1,
             "name": "associated",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 3,
             "value": 2,
             "name": "breast cancer|breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 4,
             "value": 1,
             "name": "association",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 5,
             "value": 2,
             "name": "genetic risk score|genetic risk score",
-            "group": 2
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 6,
             "value": 1,
             "name": "women",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 7,
             "value": 1,
             "name": "waist-to-hip ratio",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 8,
             "value": 1,
             "name": "benign breast disease",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         }
     ],
     "links": [

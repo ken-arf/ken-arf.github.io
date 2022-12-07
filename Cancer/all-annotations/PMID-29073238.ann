@@ -1,0 +1,85 @@
+T1	SNP 954 963	rs7759938
+T2	Entity 967 973	LIN28B
+T3	Entity 978 980	AM
+T4	SNP 985 995	rs16991615
+T5	Entity 999 1003	MCM8
+T6	Entity 1008 1011	ANM
+R1	SNP_coupled_gene Arg1:T4 Arg2:T5	
+R2	SNP_coupled_gene Arg1:T1 Arg2:T2	
+R3	Risk_Factor Arg1:T1 Arg2:T3	
+R4	Risk_Factor Arg1:T4 Arg2:T6	
+T7	Entity 934 936	EA
+R5	Population_assignment Arg1:T1 Arg2:T7	
+T9	Entity 1028 1030	AA
+T10	SNP 1052 1061	rs2947411
+T11	Entity 1065 1071	TMEM18
+R6	SNP_coupled_gene Arg1:T10 Arg2:T11	
+R7	Population_assignment Arg1:T10 Arg2:T9	
+T12	Entity 1077 1079	AM
+R8	Risk_Factor Arg1:T10 Arg2:T12	
+T13	Entity 189 204	age at menarche
+T14	Entity 206 208	AM
+R9	Equiv Arg1:T14 Arg2:T13	
+T15	Entity 214 238	age at natural menopause
+T16	Entity 240 243	ANM
+R10	Equiv Arg1:T16 Arg2:T15	
+T17	Entity 148 177	Reproductive aging phenotypes
+R11	Member Arg1:T17 Arg2:T13	
+R12	Member Arg1:T17 Arg2:T15	
+T8	Entity 520 537	European-American
+T19	Entity 553 569	African-American
+T21	SNP 1207 1215	rs466639
+T22	Entity 1219 1223	RXRG
+R15	SNP_coupled_gene Arg1:T21 Arg2:T22	
+R13	Equiv Arg1:T7 Arg2:T8	
+R14	Equiv Arg1:T9 Arg2:T19	
+T18	Neg 1291 1295	None
+T23	Association 1311 1321	associated
+E1	Association:T23 bc:T24 snp_int:E2
+T20	Interaction 1303 1306	PRS
+E2	Interaction:T20 
+T24	Cancer 1327 1340	breast cancer
+R16	Negation_marker Arg1:E1 Arg2:T18	
+T25	Association 58 62	risk
+E3	Association:T25 bc:T26 snp_int:T29
+T26	Cancer 44 57	breast cancer
+T27	Entity 105 110;66 82	women African American
+T28	Entity 87 110	European American women
+T29	SNP 8 18	variations
+T30	Entity 20 38	reproductive aging
+R17	Equiv Arg1:T30 Arg2:T17	
+R18	Risk_Factor Arg1:T29 Arg2:T30	
+R19	Population_assignment Arg1:T29 Arg2:T27	
+R20	Population_assignment Arg1:T29 Arg2:T28	
+T31	Interaction 822 842	polygenic risk score
+E4	Interaction:T31 Entity:T29
+T32	Interaction 844 847	PRS
+E5	Interaction:T32 
+R21	Equiv Arg1:E5 Arg2:E4	
+T33	Association 782 786	risk
+E6	Association:T33 bc:T34 snp_int:E4
+T34	Cancer 768 781	Breast cancer
+T35	Spec 796 804	examined
+R22	Speculation_marker Arg1:E6 Arg2:T35	
+R23	Member Arg1:T29 Arg2:T1	
+R24	Member Arg1:T29 Arg2:T4	
+R25	Member Arg1:T29 Arg2:T10	
+T36	Entity 1273 1275	AA
+T37	Entity 1280 1282	EA
+R26	Population_assignment Arg1:T21 Arg2:T36	
+R27	Population_assignment Arg1:T21 Arg2:T37	
+R28	Member Arg1:T29 Arg2:T21	
+R29	Equiv Arg1:E2 Arg2:E4	
+T38	Spec 141 146	Study
+R30	Speculation_marker Arg1:E3 Arg2:T38	
+T39	Patho_physiology 1254 1264	phenotypes
+E7	Patho_physiology:T39 Agent:T21 Theme:T41 Theme2:T40
+T40	Entity 1151 1155	TRLS
+T41	Entity 1160 1164	NRLS
+T42	Level 1184 1195	significant
+A1	Level E7 High
+R31	Level_marker Arg1:E7 Arg2:T42	
+T43	Entity 718 723;732 753	total reproductive lifespan
+T44	Entity 728 753	net reproductive lifespan
+R32	Equiv Arg1:T40 Arg2:T43	
+R33	Equiv Arg1:T41 Arg2:T44	

@@ -1,0 +1,1320 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "EPOX",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "inhibits",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "angiogenesis",
+            "group": 18,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "degradation",
+            "group": 7,
+            "type": "Catabolism",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "Mcl-1",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T9",
+            "name": "through",
+            "group": 5,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "ERK",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "inactivation",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "angiogenic",
+            "group": 18,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T99",
+            "name": "therapy",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "controlling",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "growth",
+            "group": 1,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "metastasis",
+            "group": 16,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "tumors",
+            "group": 13,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "xanthone derivatives",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T92",
+            "name": "cancer",
+            "group": 13,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T93",
+            "name": "activity",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "angiogenic",
+            "group": 18,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T101",
+            "name": "mechanism",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "3,6-di(2,3-epoxypropoxy)xanthone",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T16",
+            "name": "EPOX",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "Mcl-1",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T73",
+            "name": "targeting",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T18",
+            "name": "angiogenic",
+            "group": 18,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T100",
+            "name": "activity",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T19",
+            "name": "EPOX",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T95",
+            "name": "cell",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T96",
+            "name": "cell",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 24
+        },
+        {
+            "id": "T20",
+            "name": "tube",
+            "group": 3,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T77",
+            "name": "formation",
+            "group": 17,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T79",
+            "name": "effect",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T21",
+            "name": "EPOX",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "endothelial signaling pathway",
+            "group": 2,
+            "type": "Pathway",
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T23",
+            "name": "glutathione",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "monochlorobimane",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T25",
+            "name": "glutathione",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "EPOX",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T81",
+            "name": "induced",
+            "group": 5,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "endothelial cell",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "apoptosis",
+            "group": 6,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T82",
+            "name": "association",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T84",
+            "name": "dependent",
+            "group": 5,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "Mcl-1",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T31",
+            "name": "degradation",
+            "group": 7,
+            "type": "Catabolism",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "Down-regulation",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T34",
+            "name": "Mcl-1",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T83",
+            "name": "resulted",
+            "group": 5,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "increase",
+            "group": 5,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "Mcl-1",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T85",
+            "name": "free",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T37",
+            "name": "Bim",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T38",
+            "name": "activation",
+            "group": 5,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "Bax",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "glutathione",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "depletion",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "extracellular signal-regulated kinase",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T44",
+            "name": "ERK",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "inactivation",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "EPOX",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T98",
+            "name": "treated",
+            "group": 12,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T97",
+            "name": "cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T48",
+            "name": "Glutathione",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T47",
+            "name": "supplementation",
+            "group": 12,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 21
+        },
+        {
+            "id": "T46",
+            "name": "reversed",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T49",
+            "name": "inhibitory effects",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "EPOX",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "ERK",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "increases",
+            "group": 5,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T53",
+            "name": "phosphorylation",
+            "group": 15,
+            "type": "Phosphorylation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T54",
+            "name": "Mcl-1",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T86",
+            "name": "T(163",
+            "group": 8,
+            "type": "Protein_domain_or_region",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T56",
+            "name": "Overexpression",
+            "group": 9,
+            "type": "Gene_expression",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T57",
+            "name": "mitogen-activated protein/ERK kinase",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T58",
+            "name": "MEK",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "reversed",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T89",
+            "name": "effect",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "EPOX",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "Mcl-1",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T87",
+            "name": "dephosphorylation",
+            "group": 20,
+            "type": "Dephosphorylation",
+            "trigger": 1,
+            "value": 20
+        },
+        {
+            "id": "T88",
+            "name": "ubiquitination",
+            "group": 4,
+            "type": "Ubiquitination",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T60",
+            "name": "degradation",
+            "group": 7,
+            "type": "Catabolism",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T62",
+            "name": "ERK",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T63",
+            "name": "regulation",
+            "group": 10,
+            "type": "Regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T64",
+            "name": "Mcl-1",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T65",
+            "name": "EPOX",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T90",
+            "name": "induces",
+            "group": 5,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "glutathione",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "depletion",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "ERK",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "inactivation",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T71",
+            "name": "Mcl-1",
+            "group": 19,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T70",
+            "name": "degradation",
+            "group": 7,
+            "type": "Catabolism",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T72",
+            "name": "endothelial cells",
+            "group": 14,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T91",
+            "name": "leads",
+            "group": 5,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T74",
+            "name": "inhibition",
+            "group": 11,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T75",
+            "name": "angiogenesis",
+            "group": 18,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T76",
+            "name": "EPOX",
+            "group": 0,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T78",
+            "name": "angiogenic",
+            "group": 18,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T80",
+            "name": "angiogenesis",
+            "group": 18,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T6",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T10",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T11",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T28",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T31",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T33",
+            "target": "T34",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T35",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T38",
+            "target": "T39",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T40",
+            "target": "T41",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T42",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T46",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T46",
+            "target": "T49",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T47",
+            "target": "T48",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T49",
+            "target": "T50",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T49",
+            "target": "T51",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T52",
+            "target": "T51",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T52",
+            "target": "T53",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T53",
+            "target": "T86",
+            "value": 2,
+            "link_name": "Site"
+        },
+        {
+            "source": "T53",
+            "target": "T54",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T56",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T55",
+            "target": "T89",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T56",
+            "target": "T57",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T60",
+            "target": "T61",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T64",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T62",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T66",
+            "target": "T67",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T68",
+            "target": "T69",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T70",
+            "target": "T71",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T74",
+            "target": "T75",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T2",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T2",
+            "target": "T3",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T9",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T9",
+            "target": "T4",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T99",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T27",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T27",
+            "target": "T99",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T73",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T73",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T77",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T79",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T79",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T81",
+            "target": "T28",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T81",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T82",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T82",
+            "target": "T81",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T84",
+            "target": "T31",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T83",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T83",
+            "target": "T35",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T85",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T85",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T83",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T83",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T87",
+            "target": "T61",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T88",
+            "target": "T61",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T89",
+            "target": "T59",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T89",
+            "target": "T87",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T89",
+            "target": "T59",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T89",
+            "target": "T88",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T89",
+            "target": "T59",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T89",
+            "target": "T60",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T56",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T55",
+            "target": "T89",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T56",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T55",
+            "target": "T89",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T90",
+            "target": "T65",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T90",
+            "target": "T66",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T90",
+            "target": "T65",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T90",
+            "target": "T68",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T90",
+            "target": "T65",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T90",
+            "target": "T70",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T91",
+            "target": "T74",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T91",
+            "target": "T90",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T91",
+            "target": "T74",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T91",
+            "target": "T90",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T91",
+            "target": "T74",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T91",
+            "target": "T90",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T93",
+            "target": "T92",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T93",
+            "target": "T13",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T98",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T98",
+            "target": "T97",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T99",
+            "target": "T8",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T100",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T100",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T101",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T101",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

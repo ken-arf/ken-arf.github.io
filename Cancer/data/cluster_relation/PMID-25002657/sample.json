@@ -4,277 +4,323 @@
             "id": 0,
             "value": 1,
             "name": "Breast cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 1,
             "value": 2,
             "name": "susceptibility|susceptibility",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 2,
             "value": 2,
             "name": "variants|variants",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 3,
             "value": 1,
             "name": "mammographic density",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 4,
             "value": 1,
             "name": "postmenopausal",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 5,
             "value": 1,
             "name": "women norwegian",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 6,
             "value": 1,
             "name": "hypothesized",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 7,
             "value": 1,
             "name": "breast cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 8,
             "value": 3,
             "name": "MD|MD|MD",
-            "group": 1
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "may",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 10,
             "value": 1,
             "name": "nongenetic factors",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "determine",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 12,
             "value": 1,
             "name": "each SNP",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 13,
             "value": 1,
             "name": "evaluated",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 14,
             "value": 1,
             "name": "associations",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 15,
             "value": 2,
             "name": "17 SNPs|17 SNPs",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 16,
             "value": 1,
             "name": "breast cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 17,
             "value": 1,
             "name": "non-genetic factors",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 18,
             "value": 4,
             "name": "6q25.1|6q25.1|6q25.1|9q31.2",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 19,
             "value": 2,
             "name": "rs9383938|rs9383938",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 20,
             "value": 1,
             "name": "TXNRD2",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 21,
             "value": 3,
             "name": "rs8141691|rs3734805|rs4415084",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 22,
             "value": 1,
             "name": "statistically significantly",
-            "group": 8
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 23,
             "value": 2,
             "name": "percent MD|percent MD",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 24,
             "value": 1,
             "name": "effect",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 25,
             "value": 2,
             "name": "breast cancer|breast cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 26,
             "value": 1,
             "name": "parous",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 27,
             "value": 1,
             "name": "nulliparous",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 28,
             "value": 1,
             "name": "women",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 29,
             "value": 1,
             "name": "rs865686",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 30,
             "value": 1,
             "name": "MRPS30",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 31,
             "value": 1,
             "name": "FGF10",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 32,
             "value": 1,
             "name": "BMI",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 33,
             "value": 1,
             "name": "no",
-            "group": 6
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 34,
             "value": 1,
             "name": "evidence",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 35,
             "value": 1,
             "name": "effect modification",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 36,
             "value": 1,
             "name": "estrogen therapy",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 37,
             "value": 1,
             "name": "progestin therapy",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 38,
             "value": 1,
             "name": "alcohol consumption",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 39,
             "value": 1,
             "name": "evidence",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 40,
             "value": 1,
             "name": "genetic risk factors",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 41,
             "value": 1,
             "name": "MD",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 42,
             "value": 1,
             "name": "and",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 43,
             "value": 1,
             "name": "possible",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 44,
             "value": 1,
             "name": "genetic",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 45,
             "value": 1,
             "name": "environmental interactions",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         }
     ],
     "links": [

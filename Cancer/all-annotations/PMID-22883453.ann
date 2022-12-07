@@ -1,0 +1,328 @@
+T1	Entity 56 62	BARD 1
+T2	SNP 21 52	single nucleotide polymorphisms
+R1	SNP_coupled_gene Arg1:T2 Arg2:T1	
+T3	Association 72 86	susceptibility
+E1	Association:T3 snp_int:T2 bc:T4
+T4	Cancer 90 115	early-onset breast cancer
+A1	Cancer_Type T4 Other
+T5	Entity 119 142	Uygur women in Xinjiang
+R2	Population_assignment Arg1:T2 Arg2:T5	
+T6	SNP 218 222	SNPs
+R3	Equiv Arg1:T6 Arg2:T2	
+T7	Entity 227 232	BARD1
+R4	Equiv Arg1:T6 Arg2:T7	
+R5	Equiv Arg1:T7 Arg2:T1	
+T8	Spec 149 160	investigate
+T9	Association 242 256	susceptibility
+E2	Association:T9 bc:T10 snp_int:T6
+T10	Cancer 260 285	early-onset breast cancer
+A2	Cancer_Type T10 Other
+T11	Entity 289 312	Uygur women in Xinjiang
+R6	Population_assignment Arg1:T6 Arg2:T11	
+R7	Speculation_marker Arg1:E2 Arg2:T8	
+T12	SNP 376 384	Pro24Ser
+T13	SNP 392 401	Arg378Ser
+T14	SNP 412 421	Val507Met
+T15	Entity 386 389	C/T
+T16	Entity 403 406	G/C
+T17	Entity 423 426	G/A
+R8	Nucleotide_substitution Arg1:T14 Arg2:T17	
+R9	Nucleotide_substitution Arg1:T13 Arg2:T16	
+R10	Nucleotide_substitution Arg1:T12 Arg2:T15	
+T18	Entity 431 436	BARD1
+R11	SNP_coupled_gene Arg1:T14 Arg2:T18	
+R12	SNP_coupled_gene Arg1:T13 Arg2:T18	
+R13	Genotype Arg1:T12 Arg2:T18	
+T19	Entity 560 571	Uygur women
+T20	Entity 573 583	≤ 40 years
+R14	Population_assignment Arg1:T12 Arg2:T19	
+R15	Population_assignment Arg1:T13 Arg2:T19	
+R16	Population_assignment Arg1:T14 Arg2:T19	
+R17	Risk_Factor Arg1:T12 Arg2:T20	
+R18	Risk_Factor Arg1:T13 Arg2:T20	
+R19	Risk_Factor Arg1:T14 Arg2:T20	
+T21	Association 691 695	risk
+E3	Association:T21 snp_int:T22 bc:T24
+T22	SNP 668 672	SNPs
+T23	Entity 676 681	BARD1
+R20	SNP_coupled_gene Arg1:T22 Arg2:T23	
+R21	Member Arg1:T22 Arg2:T12	
+R22	Member Arg1:T22 Arg2:T13	
+R23	Member Arg1:T22 Arg2:T14	
+T24	Cancer 699 724	early-onset breast cancer
+T25	Entity 728 739	Uygur women
+R24	Population_assignment Arg1:T22 Arg2:T25	
+T26	Spec 744 752	analyzed
+R25	Speculation_marker Arg1:E3 Arg2:T26	
+T27	Organic_inorganic_molecules_affected 376 384	Pro24Ser
+E4	Organic_inorganic_molecules_affected:T27 Agent:T12 Theme:T30
+T28	Organic_inorganic_molecules_affected 392 401	Arg378Ser
+E5	Organic_inorganic_molecules_affected:T28 Theme:T31 Agent:T13
+T29	Organic_inorganic_molecules_affected 412 421	Val507Met
+E6	Organic_inorganic_molecules_affected:T29 Theme:T32 Agent:T14
+T30	Entity 376 381	Pro24
+T31	Entity 392 398	Arg378
+T32	Entity 412 418	Val507
+T33	SNP 1006 1014	Pro24Ser
+T34	Entity 1016 1019	C/T
+T35	SNP 1022 1031	Arg378Ser
+T36	Entity 1033 1036	G/C
+T37	SNP 1042 1051	Val507Met
+T38	Entity 1053 1056	G/A
+T39	Entity 1061 1066	BARD1
+R26	Nucleotide_substitution Arg1:T33 Arg2:T34	
+R27	Nucleotide_substitution Arg1:T35 Arg2:T36	
+R28	Nucleotide_substitution Arg1:T37 Arg2:T38	
+R29	SNP_coupled_gene Arg1:T12 Arg2:T18	
+T40	Organic_inorganic_molecules_affected 1006 1014	Pro24Ser
+E7	Organic_inorganic_molecules_affected:T40 Agent:T33 Theme:T41
+T41	Entity 1006 1011	Pro24
+T42	Organic_inorganic_molecules_affected 1022 1031	Arg378Ser
+E8	Organic_inorganic_molecules_affected:T42 Agent:T35 Theme:T43
+T43	Entity 1022 1028	Arg378
+T44	Organic_inorganic_molecules_affected 1042 1051	Val507Met
+E9	Organic_inorganic_molecules_affected:T44 Agent:T37 Theme:T45
+T45	Entity 1042 1048	Val507
+R30	SNP_coupled_gene Arg1:T37 Arg2:T39	
+R31	SNP_coupled_gene Arg1:T35 Arg2:T39	
+R32	SNP_coupled_gene Arg1:T33 Arg2:T39	
+R33	Equiv Arg1:T12 Arg2:T33	
+R34	Equiv Arg1:T13 Arg2:T35	
+R35	Equiv Arg1:T14 Arg2:T37	
+T46	Entity 1207 1209	CC
+T47	SNP 1198 1206	Pro24Ser
+R36	Genotype Arg1:T47 Arg2:T46	
+T48	Level 1223 1228	lower
+T49	Association 1229 1238	incidence
+E10	Association:T49 snp_int:T47 bc:T50 snp_int2:E13 snp_int3:T119 snp_int4:T120
+R37	Level_marker Arg1:E10 Arg2:T48	
+T50	Cancer 1242 1267	early-onset breast cancer
+A3	Cancer_Type T50 Other
+T51	Entity 1271 1282	Uygur women
+R38	Population_assignment Arg1:T47 Arg2:T51	
+T55	SNP 1427 1435	Arg378Se
+T56	Entity 1437 1439	CC
+R40	Genotype Arg1:T55 Arg2:T56	
+T58	Interaction 1476 1479	and
+E13	Interaction:T58 Entity:T117 Entity2:T55
+T59	Interaction 1581 1600	synergistic effects
+E14	Interaction:T59 Entity:T62
+T60	Association 1608 1612	risk
+E15	Association:T60 bc:T61 snp_int:E14
+T61	Cancer 1616 1629	breast cancer
+T62	SNP 1550 1569	three polymorphisms
+E16	Association:T49 bc:T50
+A4	Level E10 Low
+R41	Member Arg1:T62 Arg2:T33	
+R42	Member Arg1:T62 Arg2:T35	
+R43	Member Arg1:T62 Arg2:T37	
+T63	SNP 2156 2164	Pro24Ser
+T64	Entity 2165 2168	C/T
+T65	SNP 2171 2180	Arg378Ser
+T66	Entity 2182 2185	G/C
+T67	SNP 2191 2200	Val507Met
+T68	Entity 2202 2205	G/A
+T69	Entity 2210 2215	BARD1
+T70	Association 2265 2269	risk
+E17	Association:T70 snp_int:T76 bc:T74
+T71	Level 2241 2254	significantly
+T72	Effect_Type 2255 2264	decreased
+T74	Cancer 2273 2298	early-onset breast cancer
+T75	Entity 2302 2325	Uygur women in Xinjiang
+T76	SNP 2148 2152	SNPs
+R44	Member Arg1:T76 Arg2:T63	
+R45	Member Arg1:T76 Arg2:T65	
+R46	Member Arg1:T76 Arg2:T67	
+R47	SNP_coupled_gene Arg1:T76 Arg2:T69	
+R48	Nucleotide_substitution Arg1:T63 Arg2:T64	
+R49	Nucleotide_substitution Arg1:T65 Arg2:T66	
+R50	Nucleotide_substitution Arg1:T67 Arg2:T68	
+R51	Level_marker Arg1:E17 Arg2:T71	
+R52	Effect_type_marker Arg1:E17 Arg2:T72	
+A5	Effect_Type E17 Decrease
+A6	Level E17 High
+R53	Population_assignment Arg1:T76 Arg2:T75	
+T73	Entity 2327 2348	Early age at menarche
+T77	Entity 2362 2386	family history of cancer
+T78	Effect_Type 2391 2398	enhance
+T79	Association 2403 2420	protective effect
+E18	Association:T79 bc:T74 snp_int:T80
+R54	Effect_type_marker Arg1:E18 Arg2:T78	
+A7	Effect_Type E18 Increase
+T80	SNP 2148 2152	SNPs
+T81	Entity 2424 2437	mutant allele
+R55	SNP_allele Arg1:T80 Arg2:T81	
+R56	Member Arg1:T80 Arg2:T63	
+R57	Member Arg1:T80 Arg2:T65	
+R58	Member Arg1:T80 Arg2:T67	
+R59	Population_assignment Arg1:T80 Arg2:T75	
+R60	Risk_Factor Arg1:T80 Arg2:T77	
+R61	Risk_Factor Arg1:T80 Arg2:T73	
+R62	SNP_coupled_gene Arg1:T80 Arg2:T69	
+T86	Entity 1700 1702	GC
+T87	Entity 1710 1712	GA
+T89	Effect_Type 1732 1737	lower
+T90	Association 1738 1747	incidence
+E22	Association:T90 bc:T92 snp_int:E11 snp_int2:E20 snp_int3:E19 snp_int4:E12 snp_int5:E21 snp_int6:E25 snp_int7:E26 snp_int8:E27 snp_int9:E28 snp_int10:E29 snp_int11:E30 snp_int12:E31
+A8	Effect_Type E22 Decrease
+R63	Effect_type_marker Arg1:E22 Arg2:T89	
+T91	Level 1726 1731	52.1%
+R64	Level_marker Arg1:E22 Arg2:T91	
+A9	Level E22 High
+T92	Cancer 1751 1775	early-onset breast cance
+T93	Entity 1780 1791	Uygur women
+T94	Association 1868 1885	protective effect
+E23	Association:T94 bc:T61 snp_int:T98 snp_int2:T102 snp_int3:T108 snp_int4:T109
+T95	Entity 1898 1899	T
+T96	Entity 1918 1920	CT
+T97	Entity 1921 1923	TT
+T98	SNP 1928 1936	Pro24Ser
+R66	Genotype Arg1:T98 Arg2:T96	
+R67	SNP_allele Arg1:T98 Arg2:T95	
+T99	Entity 1950 1951	C
+T100	Entity 1970 1972	GC
+T101	Entity 1973 1975	CC
+T102	SNP 1980 1989	Arg378Ser
+R69	Genotype Arg1:T102 Arg2:T100	
+R70	SNP_allele Arg1:T102 Arg2:T99	
+R71	Population_assignment Arg1:T102 Arg2:T103	
+R72	Population_assignment Arg1:T98 Arg2:T103	
+T103	Entity 2011 2019	subjects
+R73	Equiv Arg1:T103 Arg2:T93	
+T104	Entity 2025 2046	early age at menarche
+T105	Neg 2051 2059	negative
+T106	Entity 2060 2084	family history of cancer
+R74	Negation_marker Arg1:T106 Arg2:T105	
+R75	Risk_Factor Arg1:T102 Arg2:T104	
+R76	Risk_Factor Arg1:T102 Arg2:T106	
+R77	Risk_Factor Arg1:T98 Arg2:T106	
+R78	Risk_Factor Arg1:T98 Arg2:T104	
+T107	Neg 2353 2361	negative
+R79	Negation_marker Arg1:T77 Arg2:T107	
+T108	SNP 1928 1936	Pro24Ser
+R65	Genotype Arg1:T108 Arg2:T97	
+R80	SNP_allele Arg1:T108 Arg2:T95	
+R81	Population_assignment Arg1:T108 Arg2:T103	
+R82	Risk_Factor Arg1:T108 Arg2:T104	
+R83	Risk_Factor Arg1:T108 Arg2:T106	
+T109	SNP 1980 1989	Arg378Ser
+R68	Genotype Arg1:T109 Arg2:T101	
+R84	SNP_allele Arg1:T109 Arg2:T99	
+R85	Population_assignment Arg1:T109 Arg2:T103	
+R86	Risk_Factor Arg1:T109 Arg2:T104	
+R87	Risk_Factor Arg1:T109 Arg2:T106	
+T110	Entity 2094 2112	older menarche age
+T111	Association 2118 2135	protective effect
+E24	Association:T111 bc:T61 snp_int:T113 snp_int2:T114 snp_int3:T115 snp_int4:T116
+T112	Level 2140 2146	weaker
+R88	Level_marker Arg1:E24 Arg2:T112	
+A10	Level E24 Low
+T113	SNP 1928 1936	Pro24Ser
+T114	SNP 1928 1936	Pro24Ser
+R89	Risk_Factor Arg1:T113 Arg2:T110	
+R90	Risk_Factor Arg1:T114 Arg2:T110	
+R91	SNP_allele Arg1:T113 Arg2:T95	
+R92	SNP_allele Arg1:T114 Arg2:T95	
+R93	Genotype Arg1:T114 Arg2:T96	
+R94	Genotype Arg1:T113 Arg2:T97	
+R95	Population_assignment Arg1:T113 Arg2:T103	
+R96	Population_assignment Arg1:T114 Arg2:T103	
+T115	SNP 1980 1989	Arg378Ser
+T116	SNP 1980 1989	Arg378Ser
+R97	SNP_allele Arg1:T115 Arg2:T99	
+R98	SNP_allele Arg1:T116 Arg2:T99	
+R99	Genotype Arg1:T116 Arg2:T100	
+R100	Genotype Arg1:T115 Arg2:T101	
+R101	Population_assignment Arg1:T115 Arg2:T103	
+R102	Population_assignment Arg1:T116 Arg2:T103	
+R103	Risk_Factor Arg1:T115 Arg2:T110	
+R104	Risk_Factor Arg1:T116 Arg2:T110	
+R105	Equiv Arg1:T22 Arg2:T6	
+R106	Member Arg1:T33 Arg2:T47	
+R108	Member Arg1:T35 Arg2:T55	
+T117	SNP 1480 1489	Val507Met
+T118	Entity 1490 1492	AA
+R109	Genotype Arg1:T117 Arg2:T118	
+R110	Member Arg1:T37 Arg2:T117	
+T54	Entity 1381 1383	CT
+T57	Entity 1384 1386	TT
+T119	SNP 1309 1317	Pro24Ser
+T120	SNP 1309 1317	Pro24Ser
+R111	Genotype Arg1:T119 Arg2:T54	
+R112	Genotype Arg1:T120 Arg2:T57	
+R113	Population_assignment Arg1:T119 Arg2:T51	
+R114	Population_assignment Arg1:T120 Arg2:T51	
+R116	Member Arg1:T33 Arg2:T119	
+R117	Member Arg1:T33 Arg2:T120	
+T121	Interaction 1656 1668	interactions
+E11	Interaction:T121 Entity:T119 Entity2:T82
+T82	SNP 1648 1651	SNP
+T122	SNP 1652 1655	SNP
+R118	Genotype Arg1:T82 Arg2:T86	
+R119	Genotype Arg1:T122 Arg2:T87	
+R120	Member Arg1:T35 Arg2:T82	
+R121	Member Arg1:T37 Arg2:T122	
+T83	Interaction 1656 1668	interactions
+E12	Interaction:T83 Entity:T119 Entity2:T117
+T84	Interaction 1656 1668	interactions
+E19	Interaction:T84 Entity:T119 Entity2:T122
+T85	Interaction 1656 1668	interactions
+E20	Interaction:T85 Entity:T119 Entity2:T55
+T88	Interaction 1656 1668	interactions
+E21	Interaction:T88 Entity:T120 Entity2:T82
+T123	Interaction 1656 1668	interactions
+E25	Interaction:T123 Entity:T120 Entity2:T55
+T124	Interaction 1656 1668	interactions
+E26	Interaction:T124 Entity:T120 Entity2:T122
+T125	Interaction 1656 1668	interactions
+E27	Interaction:T125 Entity:T120 Entity2:T117
+T52	Interaction 1656 1668	interactions
+E28	Interaction:T52 Entity:T82 Entity2:T122
+T53	Interaction 1656 1668	interactions
+E29	Interaction:T53 Entity:T82 Entity2:T117
+T126	Interaction 1656 1668	interactions
+E30	Interaction:T126 Entity:T55 Entity2:T122
+T127	Interaction 1656 1668	interactions
+E31	Interaction:T127 Entity:T55 Entity2:T117
+R39	Risk_Factor Arg1:T80 Arg2:T20	
+R107	Risk_Factor Arg1:T76 Arg2:T20	
+T128	Organic_inorganic_molecules_affected 1198 1206	Pro24Ser
+E32	Organic_inorganic_molecules_affected:T128 Agent:T47 Theme:T129
+T129	Entity 1198 1203	Pro24
+T130	Organic_inorganic_molecules_affected 1309 1317	Pro24Ser
+E33	Organic_inorganic_molecules_affected:T130 Agent:T119 Agent2:T120 Theme:T131
+T131	Entity 1309 1314	Pro24
+T132	Organic_inorganic_molecules_affected 1427 1436	Arg378Ser
+E34	Organic_inorganic_molecules_affected:T132 Theme:T133 Agent:T55
+T133	Entity 1427 1433	Arg378
+T134	Organic_inorganic_molecules_affected 1480 1489	Val507Met
+E35	Organic_inorganic_molecules_affected:T134 Theme:T135 Agent:T117
+T135	Entity 1480 1486	Val507
+T136	Organic_inorganic_molecules_affected 1928 1936	Pro24Ser
+E36	Organic_inorganic_molecules_affected:T136 Theme:T138 Agent:T114 Agent2:T113 Agent3:T98 Agent4:T108
+T137	Organic_inorganic_molecules_affected 1980 1989	Arg378Ser
+E37	Organic_inorganic_molecules_affected:T137 Theme:T139 Agent:T116 Agent2:T115 Agent3:T109 Agent4:T102
+T138	Entity 1928 1933	Pro24
+T139	Entity 1980 1986	Arg378
+A11	SNP_Type T12 Missense
+A12	SNP_Type T13 Missense
+A13	SNP_Type T14 Missense
+A14	SNP_Type T33 Missense
+A15	SNP_Type T35 Missense
+A16	SNP_Type T37 Missense
+A17	SNP_Type T47 Missense
+A18	SNP_Type T120 Missense
+A19	SNP_Type T119 Missense
+A20	SNP_Type T55 Missense
+A21	SNP_Type T117 Missense
+A22	SNP_Type T114 Missense
+A23	SNP_Type T113 Missense
+A24	SNP_Type T98 Missense
+A25	SNP_Type T108 Missense
+A26	SNP_Type T116 Missense
+A27	SNP_Type T115 Missense
+A28	SNP_Type T102 Missense
+A29	SNP_Type T109 Missense
+A30	SNP_Type T63 Missense
+A31	SNP_Type T65 Missense
+A32	SNP_Type T67 Missense

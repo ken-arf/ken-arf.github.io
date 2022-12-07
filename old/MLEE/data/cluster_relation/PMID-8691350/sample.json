@@ -1,0 +1,223 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 6
+        },
+        {
+            "id": 1,
+            "value": 4,
+            "name": "non-small cell lung cancer|non-small cell lung cancer|non-small cell lung carcinomas|non-small cell lung cancer",
+            "group": 4
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "Tumour",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 6
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "tumour",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "growth",
+            "group": 2
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "metastasis",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "microvessel",
+            "group": 1
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "CD31",
+            "group": 10
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "eye",
+            "group": 11
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "eye",
+            "group": 11
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "Ki67",
+            "group": 10
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "EGFR",
+            "group": 10
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "p53",
+            "group": 10
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "expression",
+            "group": 0
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "Tumours",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "patients",
+            "group": 8
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 6
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "lymph node",
+            "group": 5
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "patients",
+            "group": 8
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 6
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "cancer cell",
+            "group": 9
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "migration",
+            "group": 3
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "lymph nodes",
+            "group": 5
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "chemotherapy",
+            "group": 7
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "radiotherapy",
+            "group": 7
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "patients",
+            "group": 8
+        }
+    ],
+    "links": [
+        {
+            "source": 6,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 26,
+            "value": 2
+        }
+    ]
+}

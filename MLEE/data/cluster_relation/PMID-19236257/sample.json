@@ -4,157 +4,183 @@
             "id": 0,
             "value": 4,
             "name": "Aflibercept|aflibercept|Aflibercept|aflibercept",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 1,
             "value": 1,
             "name": "AVE0005",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 2,
             "value": 1,
             "name": "inhibiting",
-            "group": 7
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 3,
             "value": 1,
             "name": "tumour",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 4,
             "value": 1,
             "name": "angiogenesis",
-            "group": 2
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 5,
             "value": 1,
             "name": "vascular endothelial growth factors",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "Aberrant",
-            "group": 3
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 7,
             "value": 1,
             "name": "angiogenesis",
-            "group": 2
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 8,
             "value": 1,
             "name": "cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "mediated",
-            "group": 3
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 10,
             "value": 1,
             "name": "angiogenic",
-            "group": 2
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 11,
             "value": 4,
             "name": "VEGF|VEGF|VEGF|VEGF",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 12,
             "value": 2,
             "name": "pathway|pathway",
-            "group": 0
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 13,
             "value": 1,
             "name": "angiogenic",
-            "group": 2
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 14,
             "value": 1,
             "name": "Inhibition",
-            "group": 7
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 15,
             "value": 2,
             "name": "cancer|cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 16,
             "value": 1,
             "name": "patients",
-            "group": 6
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 17,
             "value": 1,
             "name": "inhibit",
-            "group": 7
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 18,
             "value": 1,
             "name": "antibodies to VEGF",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 19,
             "value": 1,
             "name": "antibodies to the extracellular domain of VEGFR-1",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 20,
             "value": 5,
             "name": "VEGFR-1|VEGFR-2|VEGFR-2|VEGFR-1|VEGFR-2",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 21,
             "value": 1,
             "name": "tyrosine kinase inhibitors",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 22,
             "value": 1,
             "name": "VEGFRs",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 23,
             "value": 1,
             "name": "Fc fragment",
-            "group": 4
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 24,
             "value": 1,
             "name": "IgG1",
-            "group": 8
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 25,
             "value": 1,
             "name": "patients",
-            "group": 6
+            "trigger": 0,
+            "group": 7
         }
     ],
     "links": [

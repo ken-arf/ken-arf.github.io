@@ -1,0 +1,57 @@
+T1	SNP 0 16	Genetic variants
+T2	Entity 20 36	epigenetic genes
+R1	SNP_location Arg1:T1 Arg2:T2	
+T3	Association 55 59	risk
+E1	Association:T3 bc:T4 snp_int:T1
+T4	Cancer 41 54	breast cancer
+A1	SNP_Class T1 Common_variant
+T5	Spec 808 821	some evidence
+T6	Association 826 837	association
+E2	Association:T6 snp_int:T7 bc:T4
+T7	SNP 842 849	six SNP
+A2	SNP_Class T7 Common_variant
+R2	Speculation_marker Arg1:E2 Arg2:T5	
+T8	SNP 859 866	c31721t
+R3	Member Arg1:T7 Arg2:T8	
+T9	SNP 893 901	c99243 t
+R4	Member Arg1:T7 Arg2:T9	
+T10	SNP 924 932	t105413c
+R5	Member Arg1:T7 Arg2:T10	
+T11	SNP 961 968	g-9441a
+R6	Member Arg1:T7 Arg2:T11	
+T12	SNP 990 997	g41451t
+R7	Member Arg1:T7 Arg2:T12	
+T13	SNP 1026 1031	S237S
+R8	Member Arg1:T7 Arg2:T13	
+T14	Entity 1020 1025	EHMT2
+R9	SNP_coupled_gene Arg1:T13 Arg2:T14	
+T15	Entity 852 858	DNMT3b
+R10	SNP_coupled_gene Arg1:T8 Arg2:T15	
+T16	Entity 887 892	PRDM2
+R11	SNP_coupled_gene Arg1:T9 Arg2:T16	
+R12	SNP_coupled_gene Arg1:T10 Arg2:T16	
+T17	Entity 955 960	EHMT1
+R13	SNP_coupled_gene Arg1:T11 Arg2:T17	
+R14	SNP_coupled_gene Arg1:T12 Arg2:T17	
+R15	Member Arg1:T1 Arg2:T7	
+T18	Level 1054 1070	most significant
+T19	Association 1071 1077	result
+E3	Association:T19 snp_int:T21 bc:T4
+T20	Entity 1086 1092	DNMT3b
+T21	SNP 1093 1100	c31721t
+A3	SNP_Class T21 Common_variant
+R16	SNP_coupled_gene Arg1:T21 Arg2:T20	
+R17	Level_marker Arg1:E3 Arg2:T18	
+A4	Level E3 High
+R18	Speculation_marker Arg1:E3 Arg2:T5	
+T22	Other_effect 1813 1835	functional consequence
+E4	Other_effect:T22 Agent:T27
+T23	Spec 1789 1797	possible
+R19	Speculation_marker Arg1:E4 Arg2:T23	
+T24	Gene_Regulation 1633 1647	trimethylation
+E5	Gene_Regulation:T24 Theme:T25 Agent:T9 Agent2:T10 Agent3:T13 Agent4:T11 Agent5:T12
+T25	Entity 1651 1675	K9 and K27 of histone H3
+T26	Entity 1876 1902	histone methyltransferases
+T27	SNP 1850 1872	these genetic variants
+R20	SNP_coupled_gene Arg1:T27 Arg2:T26	
+A5	SNP_Type T13 Synonymous

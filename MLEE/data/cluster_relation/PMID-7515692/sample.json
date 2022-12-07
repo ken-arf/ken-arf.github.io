@@ -4,103 +4,120 @@
             "id": 0,
             "value": 1,
             "name": "interactions",
+            "trigger": 1,
             "group": 6
         },
         {
             "id": 1,
             "value": 2,
             "name": "extracellular matrix components|extracellular matrix components",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 2,
             "value": 1,
             "name": "angiogenesis",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 3,
             "value": 1,
             "name": "tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 4,
             "value": 1,
             "name": "angiogenesis",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 5,
             "value": 1,
             "name": "interaction",
+            "trigger": 1,
             "group": 6
         },
         {
             "id": 6,
             "value": 1,
             "name": "mediating",
-            "group": 5
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 7,
             "value": 2,
             "name": "cellular|cellular",
-            "group": 7
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 8,
             "value": 1,
             "name": "adhesion",
+            "trigger": 1,
             "group": 6
         },
         {
             "id": 9,
             "value": 2,
             "name": "matrix|matrix dissolution",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 10,
             "value": 1,
             "name": "motility",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 11,
             "value": 1,
             "name": "metastasis",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 12,
             "value": 1,
             "name": "cancer cells",
-            "group": 7
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 13,
             "value": 1,
             "name": "neovascularization",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 14,
             "value": 1,
             "name": "tumors",
-            "group": 2
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 15,
             "value": 1,
             "name": "tumor",
-            "group": 2
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 16,
             "value": 1,
             "name": "angiogenesis",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         }
     ],
     "links": [

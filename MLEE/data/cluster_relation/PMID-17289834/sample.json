@@ -4,319 +4,372 @@
             "id": 0,
             "value": 2,
             "name": "Hyperforin|Hyperforin",
-            "group": 7
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 1,
             "value": 1,
             "name": "blocks",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 2,
             "value": 1,
             "name": "neutrophil",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 3,
             "value": 1,
             "name": "activation",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 4,
             "value": 2,
             "name": "matrix metalloproteinase-9|gelatinase matrix metalloproteinase-9",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "motility",
-            "group": 3
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 6,
             "value": 1,
             "name": "recruitment",
-            "group": 3
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 7,
             "value": 1,
             "name": "triggered",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 8,
             "value": 1,
             "name": "angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "lung",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 10,
             "value": 1,
             "name": "Hyp",
-            "group": 7
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 11,
             "value": 1,
             "name": "John's wort",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 12,
             "value": 1,
             "name": "Hypericum perforatum",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 13,
             "value": 1,
             "name": "lymphocyte",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 14,
             "value": 1,
             "name": "tumor cell",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 15,
             "value": 1,
             "name": "proliferation",
-            "group": 2
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 16,
             "value": 1,
             "name": "matrix proteinases",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 17,
             "value": 1,
             "name": "inhibiting",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 18,
             "value": 1,
             "name": "leukocyte elastase",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 19,
             "value": 1,
             "name": "LE",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 20,
             "value": 5,
             "name": "Hyp|Hyp|Hyp|Hyp|Hyp",
-            "group": 7
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 21,
             "value": 1,
             "name": "effective",
-            "group": 5
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 22,
             "value": 1,
             "name": "polymorphonuclear neutrophil (PMN) leukocyte",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 23,
             "value": 1,
             "name": "recruitment",
-            "group": 3
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 24,
             "value": 1,
             "name": "tissue",
-            "group": 1
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 25,
             "value": 1,
             "name": "human",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 26,
             "value": 3,
             "name": "PMN|PMN|PMN",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 27,
             "value": 1,
             "name": "dicyclohexylammonium salt",
-            "group": 7
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 28,
             "value": 1,
             "name": "inhibit",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 29,
             "value": 1,
             "name": "chemotaxis",
-            "group": 3
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 30,
             "value": 1,
             "name": "chemoinvasion",
-            "group": 3
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 31,
             "value": 1,
             "name": "reduced",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 32,
             "value": 1,
             "name": "expression",
-            "group": 0
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 33,
             "value": 1,
             "name": "CD11b",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 34,
             "value": 1,
             "name": "formyl-Met-Leu-Phe",
-            "group": 7
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 35,
             "value": 1,
             "name": "stimulated",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 36,
             "value": 1,
             "name": "neutrophils",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 37,
             "value": 1,
             "name": "block",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 38,
             "value": 1,
             "name": "LE",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 39,
             "value": 1,
             "name": "triggered",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 40,
             "value": 1,
             "name": "activation",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 41,
             "value": 1,
             "name": "triggered",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 42,
             "value": 1,
             "name": "angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 43,
             "value": 1,
             "name": "blocked",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 44,
             "value": 1,
             "name": "injection",
-            "group": 6
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 45,
             "value": 1,
             "name": "administration",
-            "group": 6
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 46,
             "value": 1,
             "name": "interleukin-8",
-            "group": 12
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 47,
             "value": 1,
             "name": "induced",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 48,
             "value": 1,
             "name": "murine",
-            "group": 8
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 49,
             "value": 1,
             "name": "treatment",
-            "group": 6
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 50,
             "value": 1,
             "name": "reduces",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 51,
             "value": 1,
             "name": "recruitment",
-            "group": 3
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 52,
             "value": 1,
             "name": "bleomycin",
-            "group": 7
+            "trigger": 0,
+            "group": 10
         }
     ],
     "links": [

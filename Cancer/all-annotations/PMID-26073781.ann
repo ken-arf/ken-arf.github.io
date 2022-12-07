@@ -1,0 +1,115 @@
+T1	SNP 0 13	Polymorphisms
+T2	Entity 28 36	Enhancer
+R1	SNP_location Arg1:T1 Arg2:T2	
+T3	Entity 44 51	10q21.2
+R2	SNP_location Arg1:T1 Arg2:T3	
+T4	Gene_Regulation 77 85;92 102	Regulate Expression
+E1	Gene_Regulation:T4 Theme:T5 Agent:T1
+T5	Entity 86 91	NRBF2
+T6	SNP 152 156	SNPs
+T7	Entity 162 168	ZNF365
+T8	Entity 172 179	10q21.2
+R3	SNP_location Arg1:T6 Arg2:T7	
+R4	SNP_location Arg1:T6 Arg2:T8	
+T9	Association 189 199	associated
+E2	Association:T9 bc:T10 snp_int:T6
+T10	Cancer 210 223	breast cancer
+T11	Cell_types_tissues_affected 233 253	mammographic density
+E3	Cell_types_tissues_affected:T11 Agent:T6 Theme:T27
+T12	SNP 660 670	rs10995201
+T13	Level 625 638	most strongly
+T14	Association 644 654	associated
+E4	Association:T14 snp_int:T12 bc:T17 bc2:T20
+A1	Level E4 High
+R5	Level_marker Arg1:E4 Arg2:T13	
+T15	Entity 674 680	iCHAV1
+T16	Spec 689 703	clear evidence
+R7	Speculation_marker Arg1:E4 Arg2:T16	
+T17	Cancer 729 746;752 760	estrogen receptor positive
+A2	Cancer_Type T17 ER+
+T18	Entity 748 750	ER
+T19	Entity 729 746	estrogen receptor
+R8	Equiv Arg1:T18 Arg2:T19	
+T20	Cancer 789 800	ER-negative
+A3	Cancer_Type T20 ER-
+T21	Neg 792 800	negative
+T22	Organic_inorganic_molecules_affected 707 718	association
+E5	Organic_inorganic_molecules_affected:T22 Agent:T12 Theme:T23
+E6	Organic_inorganic_molecules_affected:T22 Agent:T12 Theme:T19
+T23	Entity 789 791	ER
+T24	Effect_Type 752 760	positive
+A4	Effect_Type E6 Increase
+R9	Negation_marker Arg1:E5 Arg2:T21	
+T25	Level 855 868	most strongly
+T26	Cell_types_tissues_affected 885 913	percent mammographic density
+E7	Cell_types_tissues_affected:T26 Agent:T12 Theme:T27
+A5	Level E7 High
+R10	Level_marker Arg1:E7 Arg2:T25	
+T27	Entity 210 216	breast
+T28	SNP 928 931	SNP
+T29	Entity 933 952	chr10: 64,258,684:D
+T31	SNP 976 985	rs7922449
+T32	Association 997 1007	associated
+E8	Association:T32 snp_int:T31 snp_int2:T28 bc:T33 bc2:T34
+T33	Cancer 1013 1024;1141 1148	ER-positive disease
+A6	Cancer_Type T33 ER+
+T34	Cancer 1079 1090;1141 1148	ER-negative disease
+A7	Cancer_Type T34 ER-
+T35	Organic_inorganic_molecules_affected 997 1007	associated
+E9	Organic_inorganic_molecules_affected:T35 Agent:T28 Agent2:T31 Theme:T37
+E10	Organic_inorganic_molecules_affected:T35 Agent:T28 Agent2:T31 Theme:T36
+T36	Entity 1013 1015	ER
+T37	Entity 1079 1081	ER
+T38	Effect_Type 1016 1024	positive
+T39	Neg 1082 1090	negative
+R13	Effect_type_marker Arg1:E10 Arg2:T38	
+A8	Effect_Type E10 Increase
+R14	Negation_marker Arg1:E9 Arg2:T39	
+T40	SNP 1180 1186	iCHAV4
+T41	Entity 1196 1205	5' of ADO
+R15	SNP_location Arg1:T40 Arg2:T41	
+T42	Association 1207 1217	associated
+E11	Association:T42 bc:T43 snp_int:T40
+T43	Cancer 1228 1253	ER-positive breast cancer
+A9	Cancer_Type T43 ER+
+T44	Spec 1160 1175	weaker evidence
+R16	Speculation_marker Arg1:E11 Arg2:T44	
+T45	Entity 1228 1230	ER
+T46	Effect_Type 1231 1239	positive
+T47	Organic_inorganic_molecules_affected 1207 1217	associated
+E12	Organic_inorganic_molecules_affected:T47 Agent:T40 Theme:T45
+R18	Effect_type_marker Arg1:E12 Arg2:T46	
+A10	Effect_Type E12 Increase
+T48	SNP 1428 1434	iCHAV2
+T49	Gene_Regulation 1435 1444	interacts
+E13	Gene_Regulation:T49 Agent:T48 Theme:T50 Theme2:T51
+T50	Entity 1454 1460;1495 1504	ZNF365 promoters
+T51	Entity 1465 1470;1495 1504	NRBF2 promoters
+T52	Cell_types_tissues_affected 1508 1514;1529 1552	normal breast epithelial cells
+E14	Cell_types_tissues_affected:T52 Agent:T48
+T53	Cell_types_tissues_affected 1519 1552	cancerous breast epithelial cells
+E15	Cell_types_tissues_affected:T53 Agent:T48
+T55	Gene_Regulation 1698 1707	silencing
+E16	Gene_Regulation:T55 Theme:T56 Agent:E18
+T56	Entity 1715 1729	NRBF2 promoter
+T57	Association 1682 1692	associated
+E17	Association:T57 bc:T58 snp_int:E18
+T58	Cancer 1772 1785	breast cancer
+R6	SNP_location Arg1:T12 Arg2:T15	
+T30	Entity 958 964	iCHAV3
+R12	SNP_location Arg1:T31 Arg2:T30	
+A11	SNP_Class T31 Index_lead_SNP
+R11	SNP_location Arg1:T28 Arg2:T29	
+T59	Entity 915 921	iCHAV2
+R17	SNP_location Arg1:T28 Arg2:T59	
+A12	SNP_Class T28 Index_lead_SNP
+T60	Entity 1180 1186	iCHAV4
+R19	SNP_location Arg1:T40 Arg2:T60	
+T61	Entity 1428 1434	iCHAV2
+R20	SNP_location Arg1:T48 Arg2:T61	
+T62	Interaction 1661 1670	haplotype
+E18	Interaction:T62 
+T63	Entity 1674 1680	iCHAV2
+R21	SNP_location Arg1:E18 Arg2:T63	
+T54	Spec 19 27	Putative
+R22	Speculation_marker Arg1:T2 Arg2:T54	

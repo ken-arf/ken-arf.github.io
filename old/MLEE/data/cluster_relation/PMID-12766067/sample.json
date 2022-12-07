@@ -1,0 +1,258 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 5,
+            "name": "fluconazole|fluconazole|fluconazole|fluconazole|Fluconazole",
+            "group": 5
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "corticosteroid",
+            "group": 5
+        },
+        {
+            "id": 2,
+            "value": 3,
+            "name": "treatment|treatment|treatment",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "Candida albicans|Candida albicans",
+            "group": 6
+        },
+        {
+            "id": 4,
+            "value": 2,
+            "name": "corticosteroids|corticosteroids",
+            "group": 5
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "treated",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "Corneas",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "rabbits",
+            "group": 6
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "yeast",
+            "group": 6
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "cells",
+            "group": 7
+        },
+        {
+            "id": 10,
+            "value": 4,
+            "name": "C. albicans|C. albicans|C. albicans|C. albicans",
+            "group": 6
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "treated",
+            "group": 4
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "therapy",
+            "group": 4
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "corticosteroid",
+            "group": 5
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "prednisolone",
+            "group": 5
+        },
+        {
+            "id": 15,
+            "value": 2,
+            "name": "corneal|corneal",
+            "group": 1
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "infiltration",
+            "group": 0
+        },
+        {
+            "id": 17,
+            "value": 4,
+            "name": "corneal|corneal|corneal|corneal",
+            "group": 1
+        },
+        {
+            "id": 18,
+            "value": 3,
+            "name": "neovascularization|neovascularization|neovascularization",
+            "group": 2
+        },
+        {
+            "id": 19,
+            "value": 2,
+            "name": "treated|treated",
+            "group": 4
+        },
+        {
+            "id": 20,
+            "value": 5,
+            "name": "prednisolone|prednisolone|prednisolone|prednisolone|prednisolone",
+            "group": 5
+        },
+        {
+            "id": 21,
+            "value": 2,
+            "name": "recultivation|recultivation",
+            "group": 3
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "administration",
+            "group": 4
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "application",
+            "group": 4
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "treatment",
+            "group": 4
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "antimycotic drugs",
+            "group": 5
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "patients",
+            "group": 6
+        }
+    ],
+    "links": [
+        {
+            "source": 16,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 26,
+            "value": 2
+        }
+    ]
+}

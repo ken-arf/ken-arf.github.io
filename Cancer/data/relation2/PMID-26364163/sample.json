@@ -3,7 +3,7 @@
         {
             "id": "T2",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T1",
             "name": "susceptibility",
-            "group": 2,
+            "group": 0,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T9",
             "name": "associated",
-            "group": 2,
+            "group": 0,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -67,7 +67,7 @@
         {
             "id": "T8",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T14",
             "name": "associated",
-            "group": 2,
+            "group": 0,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T15",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23

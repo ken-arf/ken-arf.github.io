@@ -1,0 +1,1040 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "angiogenic",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T82",
+            "name": "tumor",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T83",
+            "name": "effects",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "protein kinase Cbeta",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T1000",
+            "name": "human",
+            "group": 10,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T4",
+            "name": "breast cancer",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "ovarian cancer xenografts",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T77",
+            "name": "cell",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T78",
+            "name": "culture",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "317615 2HCl",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 14
+        },
+        {
+            "id": "T15",
+            "name": "inhibitor",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "VEGF",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T9",
+            "name": "stimulated",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T11",
+            "name": "HUVEC",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T7",
+            "name": "proliferation",
+            "group": 11,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T13",
+            "name": "effective against",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T12",
+            "name": "MX-1 breast cancer cells",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T14",
+            "name": "SKOV-3 ovarian carcinoma cells",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T30",
+            "name": "Exposure",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T16",
+            "name": "paclitaxel",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "carboplatin",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T18",
+            "name": "317615 x 2HCl",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 14
+        },
+        {
+            "id": "T19",
+            "name": "MX-1 cells",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T60",
+            "name": "resulted",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T79",
+            "name": "cell",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "survival",
+            "group": 3,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "Exposure",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T20",
+            "name": "SKOV-3 cells",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T21",
+            "name": "paclitaxel",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T22",
+            "name": "carboplatin",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T23",
+            "name": "317615 2HCl",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 14
+        },
+        {
+            "id": "T62",
+            "name": "resulted",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T80",
+            "name": "cell",
+            "group": 12,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T61",
+            "name": "survivals",
+            "group": 3,
+            "type": "Death",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T24",
+            "name": "317615 x 2HCl",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 14
+        },
+        {
+            "id": "T25",
+            "name": "paclitaxel",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "carboplatin",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T63",
+            "name": "Administration",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T27",
+            "name": "317615 x 2HCI",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 14
+        },
+        {
+            "id": "T1001",
+            "name": "nude mice",
+            "group": 10,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T28",
+            "name": "MX-1 tumors",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T29",
+            "name": "SKOV-3 tumors",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T64",
+            "name": "resulted",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T32",
+            "name": "decreased",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T33",
+            "name": "intratumoral vessels",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T34",
+            "name": "CD31",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T35",
+            "name": "CD105",
+            "group": 9,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T36",
+            "name": "MX-1 tumors",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T37",
+            "name": "SKOV-3 tumors",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T38",
+            "name": "317615 x 2HCl",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 13
+        },
+        {
+            "id": "T84",
+            "name": "tumor",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T65",
+            "name": "against",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T39",
+            "name": "MX-1 xenograft",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T70",
+            "name": "increased",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "tumor",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T66",
+            "name": "growth",
+            "group": 8,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T67",
+            "name": "delay",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T41",
+            "name": "paclitaxel",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T42",
+            "name": "tumor",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T68",
+            "name": "growth",
+            "group": 8,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T69",
+            "name": "delay",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "carboplatin",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T71",
+            "name": "Administration",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "317615 x 2HCl",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 13
+        },
+        {
+            "id": "T72",
+            "name": "increased",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "tumor",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T73",
+            "name": "growth",
+            "group": 8,
+            "type": "Growth",
+            "trigger": 1,
+            "value": 24
+        },
+        {
+            "id": "T74",
+            "name": "delay",
+            "group": 2,
+            "type": "Negative_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T46",
+            "name": "MX-1 tumor",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T75",
+            "name": "Treatment",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "317615 x 2HCl",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 13
+        },
+        {
+            "id": "T48",
+            "name": "SKOV-3 xenografts",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T49",
+            "name": "paclitaxel",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T50",
+            "name": "317615 x 2HCl",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 13
+        },
+        {
+            "id": "T51",
+            "name": "SKOV-3",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T76",
+            "name": "Administration",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T52",
+            "name": "317615 x 2HCl",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 13
+        },
+        {
+            "id": "T53",
+            "name": "carboplatin",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T54",
+            "name": "SKOV-3 tumor",
+            "group": 6,
+            "type": "Pathological_formation",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T55",
+            "name": "carboplatin",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T56",
+            "name": "317615 x 2HCl",
+            "group": 4,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 14
+        },
+        {
+            "id": "T58",
+            "name": "angiogenic",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        }
+    ],
+    "links": [
+        {
+            "source": "T9",
+            "target": "T10",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T9",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T32",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T7",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T13",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T13",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T13",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T13",
+            "target": "T14",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T15",
+            "target": "T6",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T15",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T30",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T30",
+            "target": "T16",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T30",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T57",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T57",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T57",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T59",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T60",
+            "target": "T59",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T60",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T61",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T62",
+            "target": "T61",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T62",
+            "target": "T57",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T30",
+            "target": "T19",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T30",
+            "target": "T17",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T30",
+            "target": "T18",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T60",
+            "target": "T59",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T60",
+            "target": "T30",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T57",
+            "target": "T22",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T57",
+            "target": "T23",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T57",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T62",
+            "target": "T61",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T62",
+            "target": "T57",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T63",
+            "target": "T1001",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T63",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T64",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T64",
+            "target": "T63",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T65",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T65",
+            "target": "T39",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T66",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T67",
+            "target": "T66",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T67",
+            "target": "T41",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T68",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T69",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T69",
+            "target": "T68",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T70",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T70",
+            "target": "T67",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T70",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T70",
+            "target": "T69",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T71",
+            "target": "T44",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T72",
+            "target": "T74",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T72",
+            "target": "T71",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T73",
+            "target": "T45",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T74",
+            "target": "T73",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T75",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T76",
+            "target": "T52",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T76",
+            "target": "T53",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T78",
+            "target": "T77",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T1",
+            "target": "T5",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T1",
+            "target": "T4",
+            "value": 2,
+            "link_name": "AtLoc"
+        },
+        {
+            "source": "T83",
+            "target": "T82",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T83",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T83",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T4",
+            "target": "T5",
+            "value": 1,
+            "link_name": "frag"
+        }
+    ]
+}

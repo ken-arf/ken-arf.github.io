@@ -1,0 +1,119 @@
+T1	Entity 154 159	hTERT
+T2	SNP 160 173	polymorphisms
+R1	SNP_location Arg1:T2 Arg2:T1	
+T3	Cancer 178 191	breast cancer
+T4	Cancer 193 195	BC
+R2	Equiv Arg1:T4 Arg2:T3	
+T5	Spec 120 127	explore
+T6	Association 132 150	clinical relevance
+E1	Association:T6 snp_int:T2 bc:T3
+R3	Speculation_marker Arg1:E1 Arg2:T5	
+T7	Entity 391 396	hTERT
+T8	SNP 452 461	rs2736098
+R4	SNP_coupled_gene Arg1:T8 Arg2:T7	
+T9	Cancer 409 411	BC
+T10	Association 493 497	risk
+E2	Association:T10 snp_int:T8 bc:T9
+A1	Effect_Type E2 Increase
+T11	Effect_Type 482 492	increasing
+R5	Effect_type_marker Arg1:E2 Arg2:T11	
+T12	SNP 512 522	rs10069690
+T13	SNP 527 536	rs2853676
+T14	Association 560 572	risk factors
+E3	Association:T14 bc:T15 snp_int:T13 snp_int2:T12
+T15	Cancer 577 579	BC
+T16	SNP 598 607	rs2736100
+T17	Association 621 632	risk factor
+E4	Association:T17 snp_int:T16 bc:T18
+T18	Cancer 637 639	BC
+R6	SNP_coupled_gene Arg1:T16 Arg2:T7	
+R7	SNP_coupled_gene Arg1:T12 Arg2:T7	
+R8	SNP_coupled_gene Arg1:T13 Arg2:T7	
+T20	SNP 890 900	rs10069690
+T21	Association 905 915	associated
+E5	Association:T21 snp_int:T20 bc:T22 bc2:T24
+T22	Cancer 923 940;946 954;975 982	estrogen receptor negative subtype
+T23	Entity 942 944	ER
+T24	Cancer 959 982	triple negative subtype
+A2	Cancer_Type T24 TNBC_and_or_Basal_like
+T25	Neg 946 954	negative
+T26	Spec 988 1031	other authors did not find the same results
+R9	Speculation_marker Arg1:E5 Arg2:T26	
+T27	Organic_inorganic_molecules_affected 905 915	associated
+E6	Organic_inorganic_molecules_affected:T27 Theme:T28 Agent:T20
+R10	Speculation_marker Arg1:E6 Arg2:T26	
+T28	Entity 923 940	estrogen receptor
+R11	Equiv Arg1:T23 Arg2:T28	
+R12	Negation_marker Arg1:E6 Arg2:T25	
+A3	Cancer_Type T22 ER-
+T29	SNP 1065 1073	rs273618
+T30	Cancer 1079 1104;1109 1116	ER-/progesterone receptor + cases
+T31	Association 1050 1061	association
+E7	Association:T31 snp_int:T29 bc:T30
+T33	Entity 1079 1081	ER
+T34	Neg 1081 1082	-
+T36	Entity 1106 1108	PR
+T37	Entity 1083 1104	progesterone receptor
+R13	Equiv Arg1:T37 Arg2:T36	
+T32	Organic_inorganic_molecules_affected 1050 1061	association
+E8	Organic_inorganic_molecules_affected:T32 Agent:T29 Theme:T33
+R14	Negation_marker Arg1:E8 Arg2:T34	
+E9	Organic_inorganic_molecules_affected:T32 Agent:T29 Theme:T37
+T38	Effect_Type 1109 1110	+
+R15	Effect_type_marker Arg1:E9 Arg2:T38	
+A4	Effect_Type E9 Increase
+T39	SNP 1122 1132	rs10069690
+T40	SNP 1134 1143	rs2735940
+T41	SNP 1145 1154	rs4246742
+T42	SNP 1159 1168	rs2736100
+A6	Cancer_Type T30 Horm+ve_other
+T43	Neg 1179 1187	negative
+T44	Cancer 1174 1197	both negative receptors
+A7	Cancer_Type T44 Horm-ve_other
+T45	Entity 1188 1197	receptors
+R16	Member Arg1:T45 Arg2:T33	
+R17	Member Arg1:T45 Arg2:T36	
+T46	Association 1169 1173	with
+E10	Association:T46 snp_int:T42 snp_int2:T41 snp_int3:T40 snp_int4:T39 bc:T44
+T47	Organic_inorganic_molecules_affected 1203 1212	described
+E11	Organic_inorganic_molecules_affected:T47 Agent:T39 Agent2:T40 Agent3:T41 Agent4:T42 Theme:T45
+R18	Negation_marker Arg1:E11 Arg2:T43	
+T48	SNP 1263 1272	rs2735940
+T49	SNP 1277 1286	rs2736100
+T50	Association 1292 1302	associated
+E12	Association:T50 snp_int:T49 snp_int2:T48 bc:T35
+T51	Entity 1308 1310	ER
+T52	Entity 1312 1314	PR
+T53	Neg 1314 1315	-
+T54	Organic_inorganic_molecules_affected 1292 1302	associated
+E13	Organic_inorganic_molecules_affected:T54 Agent:T49 Agent2:T48 Theme:T51 Theme2:T52
+R19	Negation_marker Arg1:E13 Arg2:T53	
+T57	SNP 1364 1373	rs2736100
+T58	SNP 1424 1433	rs2736118
+T59	Association 1378 1388	associated
+E14	Association:T59 snp_int:T57 bc:T55
+T60	Association 1438 1448	associated
+E15	Association:T60 snp_int:T58 bc:T63 bc2:T56
+T63	Cancer 1452 1459	ER+/PR+
+T35	Cancer 1308 1315;1342 1344	ER-/PR- BC
+A5	Cancer_Type T35 Horm-ve_other
+R20	Equiv Arg1:T44 Arg2:T35	
+T55	Cancer 1394 1407	ER+/PR+ cases
+A8	Cancer_Type T55 Horm+ve_other
+A9	Cancer_Type T63 Horm+ve_other
+T56	Cancer 1464 1471	ER-/PR+
+A10	Cancer_Type T56 Horm-ve_other
+T61	SNP 1510 1518	variants
+T62	Entity 1504 1509	hTERT
+R21	SNP_coupled_gene Arg1:T61 Arg2:T62	
+T64	Cancer 1523 1525	BC
+T65	Association 1483 1495	associations
+E16	Association:T65 snp_int:T61 bc:T64
+T66	Spec 1704 1717	controversies
+R22	Speculation_marker Arg1:E16 Arg2:T66	
+T67	SNP 33 45	polymorphism
+T68	Entity 22 32	telomerase
+R23	SNP_coupled_gene Arg1:T67 Arg2:T68	
+T69	Association 0 18	Clinical relevance
+E17	Association:T69 snp_int:T67 bc:T70
+T70	Cancer 50 63	breast cancer

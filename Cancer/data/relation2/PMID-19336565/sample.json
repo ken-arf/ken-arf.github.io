@@ -3,7 +3,7 @@
         {
             "id": "T4",
             "name": "Folate intake",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T1",
             "name": "methylenetetrahydrofolate reductase",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -19,7 +19,7 @@
         {
             "id": "T2",
             "name": "polymorphisms",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T5",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T3",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -43,7 +43,7 @@
         {
             "id": "T6",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T9",
             "name": "Single nucleotide polymorphisms",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -59,7 +59,7 @@
         {
             "id": "T8",
             "name": "SNP",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 24
@@ -67,7 +67,7 @@
         {
             "id": "T7",
             "name": "MTHFR",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -75,7 +75,7 @@
         {
             "id": "T10",
             "name": "may",
-            "group": 6,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T11",
             "name": "associations",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T12",
             "name": "folate intake",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -99,7 +99,7 @@
         {
             "id": "T13",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T14",
             "name": "examined",
-            "group": 6,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T19",
             "name": "association",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -123,7 +123,7 @@
         {
             "id": "T15",
             "name": "tertiles of dietary folate equivalents",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -131,7 +131,7 @@
         {
             "id": "T16",
             "name": "dietary folate equivalents",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -139,7 +139,7 @@
         {
             "id": "T17",
             "name": "DFE",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T18",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T20",
             "name": "MTHFR",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -163,7 +163,7 @@
         {
             "id": "T23",
             "name": "677",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -171,7 +171,7 @@
         {
             "id": "T24",
             "name": "C>T",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -179,7 +179,7 @@
         {
             "id": "T21",
             "name": "rs1801133",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -187,7 +187,7 @@
         {
             "id": "T31",
             "name": "rs1801133",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -195,7 +195,7 @@
         {
             "id": "T40",
             "name": "rs1801133",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -203,7 +203,7 @@
         {
             "id": "T25",
             "name": "1298",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -211,7 +211,7 @@
         {
             "id": "T26",
             "name": "A>C",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -219,7 +219,7 @@
         {
             "id": "T22",
             "name": "rs1801131",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -227,7 +227,7 @@
         {
             "id": "T32",
             "name": "rs1801131",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -235,7 +235,7 @@
         {
             "id": "T43",
             "name": "rs1801131",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -243,7 +243,7 @@
         {
             "id": "T27",
             "name": "if",
-            "group": 6,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T28",
             "name": "polymorphisms",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T29",
             "name": "associated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -267,7 +267,7 @@
         {
             "id": "T30",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -275,7 +275,7 @@
         {
             "id": "T33",
             "name": "MTHFR",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -283,7 +283,7 @@
         {
             "id": "T34",
             "name": "SNPs",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -291,7 +291,7 @@
         {
             "id": "T47",
             "name": "DFE",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -299,7 +299,7 @@
         {
             "id": "T35",
             "name": "associated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 24
@@ -307,7 +307,7 @@
         {
             "id": "T36",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -315,7 +315,7 @@
         {
             "id": "T37",
             "name": "MTHFR",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -323,7 +323,7 @@
         {
             "id": "T39",
             "name": "677CT",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 21
@@ -331,7 +331,7 @@
         {
             "id": "T46",
             "name": "677 TT",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -339,7 +339,7 @@
         {
             "id": "T38",
             "name": "CT",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -347,7 +347,7 @@
         {
             "id": "T45",
             "name": "TT",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -355,7 +355,7 @@
         {
             "id": "T41",
             "name": "1298AA",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -363,7 +363,7 @@
         {
             "id": "T42",
             "name": "AA",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -371,7 +371,7 @@
         {
             "id": "T44",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -379,7 +379,7 @@
         {
             "id": "T48",
             "name": "inversely",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -387,7 +387,7 @@
         {
             "id": "T49",
             "name": "associated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 24
@@ -395,7 +395,7 @@
         {
             "id": "T50",
             "name": "compound heterozygous",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -403,7 +403,7 @@
         {
             "id": "T52",
             "name": "heterozygous",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -411,7 +411,7 @@
         {
             "id": "T51",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -419,7 +419,7 @@
         {
             "id": "T54",
             "name": "Interaction",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -427,7 +427,7 @@
         {
             "id": "T55",
             "name": "DFE",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -435,7 +435,7 @@
         {
             "id": "T56",
             "name": "1298C",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -443,7 +443,7 @@
         {
             "id": "T53",
             "name": "C allele",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -451,7 +451,7 @@
         {
             "id": "T57",
             "name": "677T",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 20
@@ -459,7 +459,7 @@
         {
             "id": "T58",
             "name": "T allele",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -467,7 +467,7 @@
         {
             "id": "T60",
             "name": "increased",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -475,7 +475,7 @@
         {
             "id": "T61",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -483,7 +483,7 @@
         {
             "id": "T59",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -491,7 +491,7 @@
         {
             "id": "T62",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -499,7 +499,7 @@
         {
             "id": "T63",
             "name": "above 55 years",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -507,7 +507,7 @@
         {
             "id": "T68",
             "name": "Homozygosis",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -515,7 +515,7 @@
         {
             "id": "T66",
             "name": "1298C",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -523,7 +523,7 @@
         {
             "id": "T67",
             "name": "C allele",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -531,7 +531,7 @@
         {
             "id": "T70",
             "name": "increased",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -539,7 +539,7 @@
         {
             "id": "T69",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -547,7 +547,7 @@
         {
             "id": "T64",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -555,7 +555,7 @@
         {
             "id": "T65",
             "name": "between 45 and 55 years",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -563,7 +563,7 @@
         {
             "id": "T71",
             "name": "association",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -571,7 +571,7 @@
         {
             "id": "T72",
             "name": "DFE",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -579,7 +579,7 @@
         {
             "id": "T73",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -587,7 +587,7 @@
         {
             "id": "T74",
             "name": "MTHFR",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -595,7 +595,7 @@
         {
             "id": "T79",
             "name": "677CT",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 20
@@ -603,7 +603,7 @@
         {
             "id": "T80",
             "name": "677 TT",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -611,7 +611,7 @@
         {
             "id": "T78",
             "name": "CT",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -619,7 +619,7 @@
         {
             "id": "T77",
             "name": "TT",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -627,7 +627,7 @@
         {
             "id": "T75",
             "name": "1298AA",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -635,7 +635,7 @@
         {
             "id": "T76",
             "name": "AA",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -643,7 +643,7 @@
         {
             "id": "T81",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -651,7 +651,7 @@
         {
             "id": "T87",
             "name": "inverse",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -659,7 +659,7 @@
         {
             "id": "T88",
             "name": "association",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -667,7 +667,7 @@
         {
             "id": "T90",
             "name": "677CT",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 20
@@ -675,7 +675,7 @@
         {
             "id": "T93",
             "name": "C",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -683,7 +683,7 @@
         {
             "id": "T91",
             "name": "1298AC",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -691,7 +691,7 @@
         {
             "id": "T94",
             "name": "AC",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -699,7 +699,7 @@
         {
             "id": "T89",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -707,7 +707,7 @@
         {
             "id": "T82",
             "name": "677T",
-            "group": 4,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 20
@@ -715,7 +715,7 @@
         {
             "id": "T84",
             "name": "higher",
-            "group": 5,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -723,7 +723,7 @@
         {
             "id": "T92",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -731,7 +731,7 @@
         {
             "id": "T83",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -739,7 +739,7 @@
         {
             "id": "T85",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -747,7 +747,7 @@
         {
             "id": "T86",
             "name": "above 55 years of age",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18

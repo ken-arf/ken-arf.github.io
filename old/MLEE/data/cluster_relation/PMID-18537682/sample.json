@@ -1,0 +1,47 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 10,
+            "name": "endostatin|Endostatin|endostatin|endostatin|endostatin|endostatin|endostatin|endostatin|endostatin|endostatin",
+            "group": 2
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "collagen XVIII",
+            "group": 2
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "angiogenesis|angiogenesis",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "angiogenic",
+            "group": 0
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "effects",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "angiosuppressive|angiostimulatory",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 4,
+            "target": 3,
+            "value": 2
+        }
+    ]
+}

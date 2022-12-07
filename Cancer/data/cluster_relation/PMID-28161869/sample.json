@@ -4,55 +4,64 @@
             "id": 0,
             "value": 5,
             "name": "BRCA1 c.4964_4982del19|c.4964_4982del19|c.4964_4982del19|BRCA1 c.4964_4982del19|BRCA1 c.4964_4982del19 variant",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 1,
             "value": 4,
             "name": "BRCA1|BRCA1|BRCA1|BRCA1",
-            "group": 0
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 2,
             "value": 3,
             "name": "rs80359876|rs80359876|rs80359876",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 3,
             "value": 2,
             "name": "Calabrian Italian|Calabria Italy",
-            "group": 0
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 4,
             "value": 1,
             "name": "pathogenic",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 5,
             "value": 1,
             "name": "variants",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "hereditary breast cancer-related breast cancer\u00a0type\u00a01 and type 2 susceptibility proteins (BRCA1/2)",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 7,
             "value": 1,
             "name": "Heterozygote",
-            "group": 0
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 8,
             "value": 1,
             "name": "founder variant",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         }
     ],
     "links": [

@@ -4,439 +4,512 @@
             "id": 0,
             "value": 1,
             "name": "ethanol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 1,
             "value": 1,
             "name": "exposure",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 2,
             "value": 1,
             "name": "disrupts",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 3,
             "value": 1,
             "name": "VEGF receptor",
-            "group": 16
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 4,
             "value": 1,
             "name": "cell signaling",
-            "group": 1
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 5,
             "value": 2,
             "name": "endothelial cells|endothelial cells",
-            "group": 12
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 6,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 7,
             "value": 1,
             "name": "regulated",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 8,
             "value": 1,
             "name": "vascular endothelial growth factor (VEGF) receptors",
-            "group": 16
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 9,
             "value": 1,
             "name": "ethanol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 10,
             "value": 1,
             "name": "blood",
-            "group": 2
+            "trigger": 0,
+            "group": 17
         },
         {
             "id": 11,
             "value": 1,
             "name": "alcohol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 12,
             "value": 2,
             "name": "impairs|impairs",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 13,
             "value": 3,
             "name": "angiogenesis|angiogenesis|angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 14,
             "value": 1,
             "name": "murine",
-            "group": 10
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 15,
             "value": 3,
             "name": "wounds|wounds|wounds",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 16,
             "value": 5,
             "name": "VEGF|VEGF|VEGF|VEGF|VEGF",
-            "group": 16
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 17,
             "value": 1,
             "name": "effects",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 18,
             "value": 2,
             "name": "ethanol|ethanol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 19,
             "value": 1,
             "name": "endothelial cell",
-            "group": 12
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 20,
             "value": 1,
             "name": "signaling",
-            "group": 1
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 21,
             "value": 1,
             "name": "influences",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 22,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 23,
             "value": 1,
             "name": "ethanol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 24,
             "value": 1,
             "name": "exposure",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 25,
             "value": 1,
             "name": "effects",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 26,
             "value": 2,
             "name": "induced|induced",
+            "trigger": 1,
             "group": 14
         },
         {
             "id": 27,
             "value": 1,
             "name": "capillary network",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 28,
             "value": 1,
             "name": "formation",
-            "group": 13
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 29,
             "value": 1,
             "name": "Ethanol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 30,
             "value": 4,
             "name": "exposure|exposure|exposure|exposure",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 31,
             "value": 1,
             "name": "resulted",
+            "trigger": 1,
             "group": 14
         },
         {
             "id": 32,
             "value": 2,
             "name": "reduced|reduced",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 33,
             "value": 1,
             "name": "cord",
-            "group": 0
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 34,
             "value": 2,
             "name": "formation|formation",
-            "group": 13
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 35,
             "value": 1,
             "name": "collagen",
-            "group": 16
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 36,
             "value": 1,
             "name": "capillary network",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 37,
             "value": 2,
             "name": "ethanol|ethanol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 38,
             "value": 1,
             "name": "decreased",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 39,
             "value": 1,
             "name": "expression",
-            "group": 17
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 40,
             "value": 2,
             "name": "VEGF receptor-2|VEGF receptor-2",
-            "group": 16
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 41,
             "value": 1,
             "name": "phosphorylation",
-            "group": 11
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 42,
             "value": 1,
             "name": "Inhibition",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 43,
             "value": 1,
             "name": "ethanol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 44,
             "value": 1,
             "name": "metabolism",
-            "group": 3
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 45,
             "value": 1,
             "name": "4-methylpyrazole",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 46,
             "value": 1,
             "name": "abrogated",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 47,
             "value": 1,
             "name": "effect",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 48,
             "value": 1,
             "name": "ethanol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 49,
             "value": 1,
             "name": "endothelial cell cord",
-            "group": 0
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 50,
             "value": 1,
             "name": "mice",
-            "group": 10
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 51,
             "value": 1,
             "name": "treated",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 52,
             "value": 1,
             "name": "t-butanol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 53,
             "value": 1,
             "name": "alcohol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 54,
             "value": 2,
             "name": "metabolized|metabolized",
-            "group": 3
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 55,
             "value": 1,
             "name": "alcohol dehydrogenase",
-            "group": 16
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 56,
             "value": 1,
             "name": "ethanol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 57,
             "value": 1,
             "name": "metabolism",
-            "group": 3
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 58,
             "value": 1,
             "name": "important",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 59,
             "value": 1,
             "name": "ethanol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 60,
             "value": 1,
             "name": "induced",
+            "trigger": 1,
             "group": 14
         },
         {
             "id": 61,
             "value": 1,
             "name": "changes",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 62,
             "value": 2,
             "name": "endothelial cell|endothelial cell",
-            "group": 12
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 63,
             "value": 2,
             "name": "responsiveness|responsiveness",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 64,
             "value": 1,
             "name": "decreased",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 65,
             "value": 1,
             "name": "angiogenesis",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 66,
             "value": 1,
             "name": "ethanol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 67,
             "value": 1,
             "name": "ethanol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 68,
             "value": 1,
             "name": "diminished",
-            "group": 15
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 69,
             "value": 1,
             "name": "hypoxia-inducible factor-1alpha",
-            "group": 16
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 70,
             "value": 1,
             "name": "ethanol",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 71,
             "value": 1,
             "name": "mediated",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 72,
             "value": 1,
             "name": "changes",
-            "group": 7
+            "trigger": 1,
+            "group": 15
         }
     ],
     "links": [

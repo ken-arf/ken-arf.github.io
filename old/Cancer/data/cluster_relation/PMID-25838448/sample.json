@@ -1,0 +1,138 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "truncating",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "BRCA2|BRCA2",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "value": 3,
+            "name": "rs11571833|rs11571833|rs11571833",
+            "group": 1
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "K3326X",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "associated",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "modest",
+            "group": 6
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "increase",
+            "group": 5
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 2
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "European populations",
+            "group": 3
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "Latin American populations",
+            "group": 3
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "Indian populations",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "Japanese populations",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 4,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 10,
+            "value": 1
+        }
+    ]
+}

@@ -3,7 +3,7 @@
         {
             "id": "T2",
             "name": "Reproductive aging",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T1",
             "name": "genetic variants",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T3",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T4",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T5",
             "name": "white women of European ancestry",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -43,7 +43,7 @@
         {
             "id": "T6",
             "name": "age at menarche",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -51,7 +51,7 @@
         {
             "id": "T7",
             "name": "rs1079866",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -59,7 +59,7 @@
         {
             "id": "T8",
             "name": "rs7821178",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -67,7 +67,7 @@
         {
             "id": "T9",
             "name": "age at natural menopause",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -75,7 +75,7 @@
         {
             "id": "T10",
             "name": "rs2517388",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -83,7 +83,7 @@
         {
             "id": "T11",
             "name": "associated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T12",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -99,7 +99,7 @@
         {
             "id": "T17",
             "name": "These associations",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 22
@@ -107,7 +107,7 @@
         {
             "id": "T14",
             "name": "suggests",
-            "group": 5,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T13",
             "name": "three genetic variants",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 20
@@ -123,7 +123,7 @@
         {
             "id": "T18",
             "name": "independent",
-            "group": 4,
+            "group": 3,
             "type": "Neg",
             "trigger": 0,
             "value": 23
@@ -131,7 +131,7 @@
         {
             "id": "T19",
             "name": "age at menarche",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -139,7 +139,7 @@
         {
             "id": "T20",
             "name": "natural menopause",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -147,7 +147,7 @@
         {
             "id": "T15",
             "name": "associated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T16",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23

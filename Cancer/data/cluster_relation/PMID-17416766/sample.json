@@ -4,157 +4,183 @@
             "id": 0,
             "value": 1,
             "name": "evaluate",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 1,
             "value": 1,
             "name": "genetic variation",
-            "group": 0
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 2,
             "value": 4,
             "name": "IL6|IL6|IL6|IL6",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 3,
             "value": 1,
             "name": "risk",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 4,
             "value": 3,
             "name": "breast cancer|breast cancer|breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 5,
             "value": 2,
             "name": "non-Hispanic white|Hispanic/Native American",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 6,
             "value": 1,
             "name": "women southwestern United States",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 7,
             "value": 1,
             "name": "Five SNP",
-            "group": 0
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 8,
             "value": 1,
             "name": "haplotypes",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 9,
             "value": 1,
             "name": "postmenopausal",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 10,
             "value": 2,
             "name": "not recently exposed to hormones|not recently exposed to hormones",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 11,
             "value": 2,
             "name": "AG/GG|GC/CC",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 12,
             "value": 3,
             "name": "rs1800797|rs1800795|rs1800796",
-            "group": 0
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 13,
             "value": 1,
             "name": "-596",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 14,
             "value": 2,
             "name": "A>G|G>C",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 15,
             "value": 1,
             "name": "-174",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 16,
             "value": 2,
             "name": "significantly|significantly",
-            "group": 8
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 17,
             "value": 1,
             "name": "reduced",
-            "group": 6
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 18,
             "value": 1,
             "name": "risk",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 19,
             "value": 1,
             "name": "genotype",
-            "group": 0
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 20,
             "value": 1,
             "name": "haplotype",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 21,
             "value": 1,
             "name": "modified",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 22,
             "value": 1,
             "name": "aspirin",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 23,
             "value": 1,
             "name": "greatest",
-            "group": 8
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 24,
             "value": 1,
             "name": "modification",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 25,
             "value": 3,
             "name": "-572G>C|-572|G>C",
-            "group": 0
+            "trigger": 0,
+            "group": 8
         }
     ],
     "links": [

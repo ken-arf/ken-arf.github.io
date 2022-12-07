@@ -4,325 +4,379 @@
             "id": 0,
             "value": 10,
             "name": "VEGF165|VEGF165|VEGF165|VEGF165|VEGF165|VEGF121|VEGF165|VEGF165|VEGF165|VEGF165",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 1,
             "value": 1,
             "name": "mediates",
-            "group": 4
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 2,
             "value": 1,
             "name": "formation",
-            "group": 5
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 3,
             "value": 2,
             "name": "VEGFR-2|VEGFR-2",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 4,
             "value": 1,
             "name": "neuropilin-1",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 5,
             "value": 1,
             "name": "enhance",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 6,
             "value": 1,
             "name": "binding",
-            "group": 5
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 7,
             "value": 1,
             "name": "Co-expression",
-            "group": 10
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 8,
             "value": 13,
             "name": "NRP1|NRP1|NRP1|NRP1|NRP1|NRP1|NRP1|NRP1|NRP1|NRP1|NRP1|NRP1|NRP1",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 9,
             "value": 1,
             "name": "KDR",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 10,
             "value": 1,
             "name": "endothelial cells",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 11,
             "value": 1,
             "name": "EC",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 12,
             "value": 1,
             "name": "enhances",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 13,
             "value": 3,
             "name": "binding|binding|binding",
-            "group": 5
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 14,
             "value": 3,
             "name": "KDR|KDR|KDR",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 15,
             "value": 1,
             "name": "EC",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 16,
             "value": 1,
             "name": "chemotaxis",
-            "group": 1
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 17,
             "value": 1,
             "name": "response",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 18,
             "value": 1,
             "name": "Overexpression",
-            "group": 10
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 19,
             "value": 1,
             "name": "prostate tumor cells",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 20,
             "value": 1,
             "name": "increased",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 21,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 2
         },
         {
             "id": 22,
             "value": 1,
             "name": "angiogenesis",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 23,
             "value": 1,
             "name": "growth",
-            "group": 0
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 24,
             "value": 1,
             "name": "mediated",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 25,
             "value": 1,
             "name": "angiogenesis",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 26,
             "value": 1,
             "name": "association",
-            "group": 5
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 27,
             "value": 5,
             "name": "KDR|KDR|KDR|KDR|KDR",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 28,
             "value": 1,
             "name": "EC",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 29,
             "value": 1,
             "name": "anti-NRP1 antibodies",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 30,
             "value": 1,
             "name": "bind",
-            "group": 5
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 31,
             "value": 1,
             "name": "support",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 32,
             "value": 1,
             "name": "complex formation",
-            "group": 5
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 33,
             "value": 1,
             "name": "formed",
-            "group": 5
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 34,
             "value": 1,
             "name": "co-culture",
-            "group": 6
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 35,
             "value": 1,
             "name": "EC",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 36,
             "value": 1,
             "name": "expressing",
-            "group": 10
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 37,
             "value": 2,
             "name": "KDR|KDR",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 38,
             "value": 2,
             "name": "cells|cells",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 39,
             "value": 2,
             "name": "expressing|expressing",
-            "group": 10
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 40,
             "value": 1,
             "name": "breast carcinoma cells",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 41,
             "value": 1,
             "name": "mediated",
-            "group": 4
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 42,
             "value": 1,
             "name": "binding",
-            "group": 5
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 43,
             "value": 1,
             "name": "formation",
-            "group": 5
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 44,
             "value": 1,
             "name": "increased",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 45,
             "value": 1,
             "name": "125I-VEGF165",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 46,
             "value": 1,
             "name": "formation",
-            "group": 5
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 47,
             "value": 1,
             "name": "potentiates",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 48,
             "value": 1,
             "name": "formed",
-            "group": 5
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 49,
             "value": 1,
             "name": "EC",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 50,
             "value": 1,
             "name": "association",
-            "group": 5
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 51,
             "value": 1,
             "name": "tumor cell",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 52,
             "value": 1,
             "name": "EC",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 53,
             "value": 1,
             "name": "KDR",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         }
     ],
     "links": [

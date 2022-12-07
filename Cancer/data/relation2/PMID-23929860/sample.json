@@ -3,7 +3,7 @@
         {
             "id": "T7",
             "name": "evaluates",
-            "group": 4,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T1",
             "name": "joint effect",
-            "group": 5,
+            "group": 4,
             "type": "Interaction",
             "trigger": 1,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T2",
             "name": "23 SNP",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -27,7 +27,7 @@
         {
             "id": "T3",
             "name": "six steroid hormone metabolisms",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -35,7 +35,7 @@
         {
             "id": "T4",
             "name": "signaling-related genes",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -43,7 +43,7 @@
         {
             "id": "T5",
             "name": "involved",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T6",
             "name": "breast carcinogenesis",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23

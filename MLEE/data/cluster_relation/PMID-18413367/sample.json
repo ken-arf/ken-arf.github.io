@@ -4,402 +4,469 @@
             "id": 0,
             "value": 2,
             "name": "thrombospondin-1|Thrombospondin (TSP)-1",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 1,
             "value": 2,
             "name": "cervical|cervical",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 2,
             "value": 1,
             "name": "inhibit",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 3,
             "value": 1,
             "name": "stroma",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 4,
             "value": 1,
             "name": "inhibiting",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 5,
             "value": 2,
             "name": "activated|activated",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 6,
             "value": 3,
             "name": "fibroblasts|fibroblasts|fibroblasts",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 7,
             "value": 2,
             "name": "invading|invading",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 8,
             "value": 1,
             "name": "cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 9,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 10,
             "value": 1,
             "name": "cell",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 11,
             "value": 1,
             "name": "role",
-            "group": 6
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 12,
             "value": 8,
             "name": "TSP-1|TSP-1|TSP-1|TSP-1|TSP-1|TSP-1|TSP-1|TSP-1",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 13,
             "value": 2,
             "name": "tumor|tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 14,
             "value": 2,
             "name": "stroma|stroma",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 15,
             "value": 2,
             "name": "reaction|reaction",
-            "group": 7
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 16,
             "value": 1,
             "name": "fibroblast",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 17,
             "value": 1,
             "name": "activation",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 18,
             "value": 1,
             "name": "tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 19,
             "value": 1,
             "name": "progression",
-            "group": 11
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 20,
             "value": 1,
             "name": "human",
-            "group": 9
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 21,
             "value": 1,
             "name": "downregulation",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 22,
             "value": 1,
             "name": "upregulation",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 23,
             "value": 1,
             "name": "stroma markers",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 24,
             "value": 1,
             "name": "alpha-smooth muscle actin",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 25,
             "value": 4,
             "name": "alpha-SMA|alpha-SMA|alpha-SMA|alpha-SMA",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 26,
             "value": 4,
             "name": "desmin|desmin|desmin|desmin",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 27,
             "value": 2,
             "name": "Transfection|Transfection",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 28,
             "value": 1,
             "name": "SiHa cervical cancer cells",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 29,
             "value": 1,
             "name": "expressing",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 30,
             "value": 1,
             "name": "angiogenic",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 31,
             "value": 1,
             "name": "activity",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 32,
             "value": 1,
             "name": "resulted",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 33,
             "value": 1,
             "name": "reduced",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 34,
             "value": 2,
             "name": "tumor|tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 35,
             "value": 1,
             "name": "growth",
-            "group": 1
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 36,
             "value": 1,
             "name": "mice",
-            "group": 9
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 37,
             "value": 1,
             "name": "decrease",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 38,
             "value": 1,
             "name": "vascularization",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 39,
             "value": 1,
             "name": "expressions",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 40,
             "value": 1,
             "name": "added",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 41,
             "value": 4,
             "name": "NIH3T3 cells|NIH3T3 cells|NIH3T3 cells|NIH3T3 cells",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 42,
             "value": 1,
             "name": "alter",
-            "group": 6
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 43,
             "value": 1,
             "name": "inhibited",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 44,
             "value": 1,
             "name": "matrix metalloprotease-2",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 45,
             "value": 1,
             "name": "Transforming growth factor-beta",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 46,
             "value": 2,
             "name": "TGF-beta|TGF-beta",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 47,
             "value": 1,
             "name": "activation",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 48,
             "value": 1,
             "name": "increased",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 49,
             "value": 1,
             "name": "expression",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 50,
             "value": 1,
             "name": "cell",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 51,
             "value": 1,
             "name": "migration",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 52,
             "value": 1,
             "name": "invasion",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 53,
             "value": 1,
             "name": "increased",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 54,
             "value": 1,
             "name": "migration",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 55,
             "value": 1,
             "name": "invasive",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 56,
             "value": 1,
             "name": "tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 57,
             "value": 1,
             "name": "treated",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 58,
             "value": 1,
             "name": "inhibited",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 59,
             "value": 1,
             "name": "expression",
-            "group": 15
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 60,
             "value": 1,
             "name": "SiHa cells",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 61,
             "value": 1,
             "name": "effect",
-            "group": 6
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 62,
             "value": 1,
             "name": "invasive",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 63,
             "value": 1,
             "name": "role",
-            "group": 6
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 64,
             "value": 1,
             "name": "inhibit",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 65,
             "value": 1,
             "name": "blockage",
-            "group": 13
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 66,
             "value": 1,
             "name": "cancer cells",
+            "trigger": 0,
             "group": 10
         }
     ],

@@ -3,7 +3,7 @@
         {
             "id": "T4",
             "name": "sequence polymorphisms",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T69",
             "name": "sequence polymorphisms",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T5",
             "name": "mitochondrial displacement loop",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -27,7 +27,7 @@
         {
             "id": "T1",
             "name": "risk factors",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 24
@@ -35,7 +35,7 @@
         {
             "id": "T68",
             "name": "risk factors",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 24
@@ -43,7 +43,7 @@
         {
             "id": "T2",
             "name": "sporadic breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 20
@@ -51,7 +51,7 @@
         {
             "id": "T3",
             "name": "familial breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 20
@@ -59,7 +59,7 @@
         {
             "id": "T11",
             "name": "single nucleotide polymorphisms",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 21
@@ -67,7 +67,7 @@
         {
             "id": "T12",
             "name": "displacement loop",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T7",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T6",
             "name": "identify",
-            "group": 5,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T8",
             "name": "risk-associated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 20
@@ -99,7 +99,7 @@
         {
             "id": "T9",
             "name": "D-loop",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -107,7 +107,7 @@
         {
             "id": "T10",
             "name": "SNPs",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T23",
             "name": "distribution frequencies",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -123,7 +123,7 @@
         {
             "id": "T26",
             "name": "315C/Cinsert",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -131,7 +131,7 @@
         {
             "id": "T40",
             "name": "315",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -139,7 +139,7 @@
         {
             "id": "T54",
             "name": "C/Cinsert",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -147,7 +147,7 @@
         {
             "id": "T27",
             "name": "524C/del",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -155,7 +155,7 @@
         {
             "id": "T41",
             "name": "524",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T55",
             "name": "C/del",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -171,7 +171,7 @@
         {
             "id": "T28",
             "name": "16247A/del",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -179,7 +179,7 @@
         {
             "id": "T42",
             "name": "16247",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -187,7 +187,7 @@
         {
             "id": "T56",
             "name": "A/del",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -195,7 +195,7 @@
         {
             "id": "T29",
             "name": "16248C/del",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -203,7 +203,7 @@
         {
             "id": "T43",
             "name": "16248",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -211,7 +211,7 @@
         {
             "id": "T57",
             "name": "C/del",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -219,7 +219,7 @@
         {
             "id": "T30",
             "name": "16249T/C",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -227,7 +227,7 @@
         {
             "id": "T44",
             "name": "16249",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -235,7 +235,7 @@
         {
             "id": "T58",
             "name": "T/C",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -243,7 +243,7 @@
         {
             "id": "T31",
             "name": "16257C/A",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -251,7 +251,7 @@
         {
             "id": "T45",
             "name": "16257",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -259,7 +259,7 @@
         {
             "id": "T59",
             "name": "C/A",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -267,7 +267,7 @@
         {
             "id": "T32",
             "name": "16258A/del",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -275,7 +275,7 @@
         {
             "id": "T46",
             "name": "16258",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -283,7 +283,7 @@
         {
             "id": "T60",
             "name": "A/del",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -291,7 +291,7 @@
         {
             "id": "T33",
             "name": "16259C/del",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -299,7 +299,7 @@
         {
             "id": "T47",
             "name": "16259",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -307,7 +307,7 @@
         {
             "id": "T61",
             "name": "C/del",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -315,7 +315,7 @@
         {
             "id": "T34",
             "name": "16262C/del",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -323,7 +323,7 @@
         {
             "id": "T48",
             "name": "16262",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -331,7 +331,7 @@
         {
             "id": "T62",
             "name": "C/del",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -339,7 +339,7 @@
         {
             "id": "T35",
             "name": "16268C/del",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -347,7 +347,7 @@
         {
             "id": "T49",
             "name": "16268",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -355,7 +355,7 @@
         {
             "id": "T63",
             "name": "C/del",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -363,7 +363,7 @@
         {
             "id": "T36",
             "name": "16279C/del",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -371,7 +371,7 @@
         {
             "id": "T50",
             "name": "16279",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -379,7 +379,7 @@
         {
             "id": "T64",
             "name": "C/del",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -387,7 +387,7 @@
         {
             "id": "T37",
             "name": "16280A/del",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -395,7 +395,7 @@
         {
             "id": "T51",
             "name": "16280",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -403,7 +403,7 @@
         {
             "id": "T65",
             "name": "A/del",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -411,7 +411,7 @@
         {
             "id": "T38",
             "name": "16297T/C",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 14
@@ -419,7 +419,7 @@
         {
             "id": "T52",
             "name": "16297",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -427,7 +427,7 @@
         {
             "id": "T66",
             "name": "T/C",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -435,7 +435,7 @@
         {
             "id": "T39",
             "name": "16300A/del",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -443,7 +443,7 @@
         {
             "id": "T53",
             "name": "16300",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -451,7 +451,7 @@
         {
             "id": "T67",
             "name": "A/del",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -459,7 +459,7 @@
         {
             "id": "T24",
             "name": "significantly different",
-            "group": 4,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -467,7 +467,7 @@
         {
             "id": "T25",
             "name": "sporadic breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 20
@@ -475,7 +475,7 @@
         {
             "id": "T13",
             "name": "SNP",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -483,7 +483,7 @@
         {
             "id": "T14",
             "name": "nucleotides 310",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -491,7 +491,7 @@
         {
             "id": "T15",
             "name": "nucleotides 315",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -499,7 +499,7 @@
         {
             "id": "T16",
             "name": "nucleotides 16362",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -507,7 +507,7 @@
         {
             "id": "T18",
             "name": "risk-associated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 20
@@ -515,7 +515,7 @@
         {
             "id": "T17",
             "name": "familial breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 20
@@ -523,7 +523,7 @@
         {
             "id": "T19",
             "name": "N haplogroup",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -531,7 +531,7 @@
         {
             "id": "T20",
             "name": "489T",
-            "group": 3,
+            "group": 5,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -539,7 +539,7 @@
         {
             "id": "T21",
             "name": "risk-associated",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 20
@@ -547,7 +547,7 @@
         {
             "id": "T22",
             "name": "familial breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 20

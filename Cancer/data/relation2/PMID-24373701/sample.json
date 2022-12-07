@@ -3,7 +3,7 @@
         {
             "id": "T5",
             "name": "examined",
-            "group": 8,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -11,7 +11,7 @@
         {
             "id": "T6",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T4",
             "name": "susceptibility",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T1",
             "name": "variants",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T2",
             "name": "menstrual factors",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -43,7 +43,7 @@
         {
             "id": "T3",
             "name": "reproductive factors",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T7",
             "name": "women",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T42",
             "name": "age 20-74",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -67,7 +67,7 @@
         {
             "id": "T8",
             "name": "three U.S. states",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -75,7 +75,7 @@
         {
             "id": "T14",
             "name": "evaluated",
-            "group": 8,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T10",
             "name": "associations",
-            "group": 2,
+            "group": 3,
             "type": "Other_effect",
             "trigger": 1,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T11",
             "name": "age at menarche",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -99,7 +99,7 @@
         {
             "id": "T12",
             "name": "age at natural menopause",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -107,7 +107,7 @@
         {
             "id": "T13",
             "name": "reproductive lifespan",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T9",
             "name": "13 previously identified breast cancer variants",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -139,7 +139,7 @@
         {
             "id": "T47",
             "name": "13 variants",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T43",
             "name": "age 43-86",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -163,7 +163,7 @@
         {
             "id": "T17",
             "name": "nor",
-            "group": 6,
+            "group": 4,
             "type": "Neg",
             "trigger": 0,
             "value": 23
@@ -171,7 +171,7 @@
         {
             "id": "T19",
             "name": "13 variants",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -187,7 +187,7 @@
         {
             "id": "T16",
             "name": "individually",
-            "group": 6,
+            "group": 4,
             "type": "Neg",
             "trigger": 0,
             "value": 23
@@ -195,7 +195,7 @@
         {
             "id": "T25",
             "name": "associated",
-            "group": 2,
+            "group": 3,
             "type": "Other_effect",
             "trigger": 1,
             "value": 23
@@ -203,7 +203,7 @@
         {
             "id": "T20",
             "name": "age at menarche",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -211,7 +211,7 @@
         {
             "id": "T21",
             "name": "reproductive lifespan",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -219,7 +219,7 @@
         {
             "id": "T18",
             "name": "minor allele (A)",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -227,7 +227,7 @@
         {
             "id": "T22",
             "name": "rs17468277",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -235,7 +235,7 @@
         {
             "id": "T23",
             "name": "CASP8",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -243,7 +243,7 @@
         {
             "id": "T26",
             "name": "decrease",
-            "group": 4,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T27",
             "name": "decrease",
-            "group": 2,
+            "group": 3,
             "type": "Other_effect",
             "trigger": 1,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T29",
             "name": "menopause age",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -267,7 +267,7 @@
         {
             "id": "T24",
             "name": "minor allele",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -275,7 +275,7 @@
         {
             "id": "T48",
             "name": "G",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -283,7 +283,7 @@
         {
             "id": "T30",
             "name": "rs10941679",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -291,7 +291,7 @@
         {
             "id": "T31",
             "name": "5p12",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -299,7 +299,7 @@
         {
             "id": "T32",
             "name": "increase",
-            "group": 4,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -307,7 +307,7 @@
         {
             "id": "T34",
             "name": "increase",
-            "group": 2,
+            "group": 3,
             "type": "Other_effect",
             "trigger": 1,
             "value": 23
@@ -315,7 +315,7 @@
         {
             "id": "T33",
             "name": "age at natural menopause",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -323,7 +323,7 @@
         {
             "id": "T35",
             "name": "evaluated variants",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 21
@@ -331,7 +331,7 @@
         {
             "id": "T39",
             "name": "reproductive experiences",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -339,7 +339,7 @@
         {
             "id": "T36",
             "name": "may",
-            "group": 8,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -347,7 +347,7 @@
         {
             "id": "T37",
             "name": "work through separate pathways",
-            "group": 2,
+            "group": 3,
             "type": "Other_effect",
             "trigger": 1,
             "value": 19
@@ -355,7 +355,7 @@
         {
             "id": "T40",
             "name": "influence",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -363,7 +363,7 @@
         {
             "id": "T38",
             "name": "breast cancer",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -371,7 +371,7 @@
         {
             "id": "T41",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23

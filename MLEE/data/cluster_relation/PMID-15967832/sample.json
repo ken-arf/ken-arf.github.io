@@ -4,127 +4,148 @@
             "id": 0,
             "value": 1,
             "name": "VEGF",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 1,
             "value": 2,
             "name": "angiogenesis|angiogenesis",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 2,
             "value": 1,
             "name": "vasculature",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 3,
             "value": 1,
             "name": "endothelial cells",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 4,
             "value": 1,
             "name": "dividing",
-            "group": 4
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 5,
             "value": 1,
             "name": "growth",
-            "group": 0
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 6,
             "value": 1,
             "name": "tumors",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 7,
             "value": 1,
             "name": "requires",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 8,
             "value": 1,
             "name": "vascular",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 9,
             "value": 1,
             "name": "growth",
-            "group": 0
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 10,
             "value": 1,
             "name": "remodeling",
+            "trigger": 1,
             "group": 9
         },
         {
             "id": 11,
             "value": 1,
             "name": "solid tumors",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 12,
             "value": 1,
             "name": "grow",
-            "group": 0
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 13,
             "value": 1,
             "name": "Vascular endothelial growth factor",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 14,
             "value": 1,
             "name": "VEGF",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 15,
             "value": 1,
             "name": "angiogenesis",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 16,
             "value": 1,
             "name": "VEGF",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 17,
             "value": 1,
             "name": "treatment",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 18,
             "value": 1,
             "name": "breast",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 19,
             "value": 1,
             "name": "lung",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 20,
             "value": 1,
             "name": "colorectal cancers",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         }
     ],
     "links": [

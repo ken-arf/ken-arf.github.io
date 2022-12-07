@@ -4,61 +4,71 @@
             "id": 0,
             "value": 1,
             "name": "women",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 1,
             "value": 1,
             "name": "increased",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 2,
             "value": 1,
             "name": "BRCA1 promoter",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 3,
             "value": 1,
             "name": "methylation",
-            "group": 1
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 4,
             "value": 1,
             "name": "ACA/ACA",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 5,
             "value": 3,
             "name": "Thr594Thr|Thr594Thr|Thr594",
-            "group": 0
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 6,
             "value": 1,
             "name": "ESR",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 7,
             "value": 1,
             "name": "estrogen receptor gene",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 8,
             "value": 1,
             "name": "associated",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 9,
             "value": 1,
             "name": "breast cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         }
     ],
     "links": [

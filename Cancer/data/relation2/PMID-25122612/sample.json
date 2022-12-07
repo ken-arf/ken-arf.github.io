@@ -3,7 +3,7 @@
         {
             "id": "T1",
             "name": "more than 70 common variants",
-            "group": 4,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -11,7 +11,7 @@
         {
             "id": "T2",
             "name": "associated",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T3",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T4",
             "name": "non-protein-coding regions",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -35,7 +35,7 @@
         {
             "id": "T5",
             "name": "gene deserts",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -43,7 +43,7 @@
         {
             "id": "T36",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T38",
             "name": "2q35",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -59,7 +59,7 @@
         {
             "id": "T31",
             "name": "putative",
-            "group": 8,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -67,7 +67,7 @@
         {
             "id": "T19",
             "name": "regulatory elements",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T35",
             "name": "regulatory",
-            "group": 6,
+            "group": 1,
             "type": "Gene_Regulation",
             "trigger": 1,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T21",
             "name": "Target protein-coding genes",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -91,7 +91,7 @@
         {
             "id": "T22",
             "name": "IGFBP5",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -99,7 +99,7 @@
         {
             "id": "T23",
             "name": "KLF4",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -107,7 +107,7 @@
         {
             "id": "T24",
             "name": "NSMCE2",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -115,7 +115,7 @@
         {
             "id": "T25",
             "name": "MYC",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 22
@@ -123,7 +123,7 @@
         {
             "id": "T26",
             "name": "target lncRNAs",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -131,7 +131,7 @@
         {
             "id": "T27",
             "name": "DIRC3",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -139,7 +139,7 @@
         {
             "id": "T28",
             "name": "PVT1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -147,7 +147,7 @@
         {
             "id": "T29",
             "name": "CCDC26",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -155,7 +155,7 @@
         {
             "id": "T12",
             "name": "one gene desert",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -163,7 +163,7 @@
         {
             "id": "T10",
             "name": "rs12613955",
-            "group": 4,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -171,7 +171,7 @@
         {
             "id": "T11",
             "name": "rs4442975",
-            "group": 4,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -179,7 +179,7 @@
         {
             "id": "T32",
             "name": "highly",
-            "group": 5,
+            "group": 4,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -195,7 +195,7 @@
         {
             "id": "T34",
             "name": "published risk variant",
-            "group": 4,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 20
@@ -203,7 +203,7 @@
         {
             "id": "T37",
             "name": "published risk",
-            "group": 1,
+            "group": 6,
             "type": "Association",
             "trigger": 1,
             "value": 22
@@ -211,7 +211,7 @@
         {
             "id": "T30",
             "name": "within the bait end of an interaction peak",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -219,7 +219,7 @@
         {
             "id": "T13",
             "name": "rs4442975",
-            "group": 4,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -227,7 +227,7 @@
         {
             "id": "T14",
             "name": "binding of",
-            "group": 6,
+            "group": 1,
             "type": "Gene_Regulation",
             "trigger": 1,
             "value": 22
@@ -235,7 +235,7 @@
         {
             "id": "T15",
             "name": "FOXA1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -243,7 +243,7 @@
         {
             "id": "T16",
             "name": "putative",
-            "group": 8,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T17",
             "name": "functional variant",
-            "group": 2,
+            "group": 5,
             "type": "Other_effect",
             "trigger": 1,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T18",
             "name": "functional variant",
-            "group": 4,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23

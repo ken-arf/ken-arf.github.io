@@ -4,181 +4,211 @@
             "id": 0,
             "value": 1,
             "name": "Role",
-            "group": 2
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 1,
             "value": 2,
             "name": "interferon|Interferon",
-            "group": 8
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 2,
             "value": 2,
             "name": "inducible|inducible",
-            "group": 6
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 3,
             "value": 8,
             "name": "IFI16|IFI16|IFI16|IFI16|IFI16|IFI16|IFI16|IFI16",
-            "group": 8
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 4,
             "value": 1,
             "name": "induction",
-            "group": 6
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 5,
             "value": 3,
             "name": "ICAM-1|ICAM-1|ICAM-1",
-            "group": 8
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 6,
             "value": 3,
             "name": "TNF-alpha|TNF-alpha|TNF-alpha",
-            "group": 8
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 7,
             "value": 1,
             "name": "HIN200",
-            "group": 8
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 8,
             "value": 1,
             "name": "activated",
-            "group": 6
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 9,
             "value": 1,
             "name": "cell",
-            "group": 4
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 10,
             "value": 1,
             "name": "Interferons",
-            "group": 8
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 11,
             "value": 1,
             "name": "regulation",
-            "group": 2
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 12,
             "value": 1,
             "name": "endothelial cell",
-            "group": 4
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 13,
             "value": 1,
             "name": "proliferation",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 14,
             "value": 1,
             "name": "vessel",
+            "trigger": 0,
             "group": 1
         },
         {
             "id": 15,
             "value": 1,
             "name": "formation",
-            "group": 5
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 16,
             "value": 1,
             "name": "IFN-gamma",
-            "group": 8
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 17,
             "value": 2,
             "name": "NF-kappaB|NF-kappaB",
-            "group": 8
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 18,
             "value": 1,
             "name": "induction",
-            "group": 6
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 19,
             "value": 1,
             "name": "extended",
-            "group": 6
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 20,
             "value": 1,
             "name": "tumor necrosis factor (TNF)-alpha",
-            "group": 8
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 21,
             "value": 1,
             "name": "knock down",
-            "group": 3
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 22,
             "value": 1,
             "name": "expression",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 23,
             "value": 1,
             "name": "stimulate",
-            "group": 6
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 24,
             "value": 1,
             "name": "intercellular adhesion molecule-1",
-            "group": 8
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 25,
             "value": 1,
             "name": "CD54",
-            "group": 8
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 26,
             "value": 1,
             "name": "expression",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 27,
             "value": 1,
             "name": "mediates",
-            "group": 2
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 28,
             "value": 1,
             "name": "stimulation",
-            "group": 6
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 29,
             "value": 1,
             "name": "pathway",
-            "group": 0
+            "trigger": 1,
+            "group": 7
         }
     ],
     "links": [

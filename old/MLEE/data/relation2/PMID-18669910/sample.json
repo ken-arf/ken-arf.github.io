@@ -1,0 +1,692 @@
+{
+    "nodes": [
+        {
+            "id": "T1",
+            "name": "injection",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T2",
+            "name": "fetal membrane-derived mesenchymal stem cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T8",
+            "name": "induces",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T5",
+            "name": "angiogenesis",
+            "group": 7,
+            "type": "Blood_vessel_development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1000",
+            "name": "rat",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "hind limb",
+            "group": 3,
+            "type": "Organism_subdivision",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T7",
+            "name": "Bone marrow-derived mesenchymal stem cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T9",
+            "name": "BM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T60",
+            "name": "cell",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T57",
+            "name": "tissue",
+            "group": 9,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T58",
+            "name": "regeneration",
+            "group": 4,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T59",
+            "name": "repair",
+            "group": 4,
+            "type": "Development",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T10",
+            "name": "transplantation",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T11",
+            "name": "mesenchymal stem cells",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T12",
+            "name": "MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T13",
+            "name": "fetal membranes",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "FM",
+            "group": 1,
+            "type": "Multi-tissue_structure",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T15",
+            "name": "FM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T48",
+            "name": "obtained",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1001",
+            "name": "rats",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "BM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T17",
+            "name": "BM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T19",
+            "name": "FM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T18",
+            "name": "secreted",
+            "group": 6,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T20",
+            "name": "hepatocyte growth factor",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T21",
+            "name": "vascular endothelial growth factor",
+            "group": 10,
+            "type": "Gene_or_gene_product",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T22",
+            "name": "FM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T23",
+            "name": "BM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T24",
+            "name": "lymphocyte",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T49",
+            "name": "proliferation",
+            "group": 12,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T25",
+            "name": "lymphocyte",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T26",
+            "name": "FM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T27",
+            "name": "BM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T50",
+            "name": "obtained",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1002",
+            "name": "rats",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T51",
+            "name": "injected",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1003",
+            "name": "rat",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T28",
+            "name": "hind limb",
+            "group": 3,
+            "type": "Organism_subdivision",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T29",
+            "name": "blood",
+            "group": 2,
+            "type": "Organism_substance",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T3",
+            "name": "capillary",
+            "group": 9,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T30",
+            "name": "FM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T31",
+            "name": "BM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T4",
+            "name": "phosphate-buffered saline",
+            "group": 8,
+            "type": "Drug_or_compound",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T32",
+            "name": "FM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T33",
+            "name": "BM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T52",
+            "name": "observed",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T34",
+            "name": "hind limb tissues",
+            "group": 9,
+            "type": "Tissue",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T36",
+            "name": "FM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T37",
+            "name": "BM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T35",
+            "name": "injection",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T38",
+            "name": "T lymphocyte",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T53",
+            "name": "infiltration",
+            "group": 6,
+            "type": "Localization",
+            "trigger": 1,
+            "value": 22
+        },
+        {
+            "id": "T39",
+            "name": "injection",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T40",
+            "name": "splenic lymphocytes",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 22
+        },
+        {
+            "id": "T42",
+            "name": "FM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T41",
+            "name": "injection",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T56",
+            "name": "elicit",
+            "group": 0,
+            "type": "Positive_regulation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T43",
+            "name": "lymphocyte",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T55",
+            "name": "proliferative response",
+            "group": 12,
+            "type": "Cell_proliferation",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T1004",
+            "name": "rat",
+            "group": 11,
+            "type": "Organism",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T44",
+            "name": "hind limb",
+            "group": 3,
+            "type": "Organism_subdivision",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T45",
+            "name": "BM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T46",
+            "name": "injection",
+            "group": 5,
+            "type": "Planned_process",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T47",
+            "name": "FM-MSC",
+            "group": 13,
+            "type": "Cell",
+            "trigger": 0,
+            "value": 18
+        }
+    ],
+    "links": [
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T10",
+            "target": "T11",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2,
+            "link_name": "FromLoc"
+        },
+        {
+            "source": "T18",
+            "target": "T20",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T35",
+            "target": "T37",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T39",
+            "target": "T40",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T41",
+            "target": "T42",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T46",
+            "target": "T47",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T8",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T8",
+            "target": "T5",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T48",
+            "target": "T15",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T18",
+            "target": "T19",
+            "value": 2,
+            "link_name": "FromLoc"
+        },
+        {
+            "source": "T18",
+            "target": "T21",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T49",
+            "target": "T24",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T50",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T50",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T1003",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T27",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T51",
+            "target": "T1003",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T51",
+            "target": "T26",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T52",
+            "target": "T33",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T52",
+            "target": "T32",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T35",
+            "target": "T36",
+            "value": 2,
+            "link_name": "Instrument"
+        },
+        {
+            "source": "T53",
+            "target": "T38",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T55",
+            "target": "T43",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T56",
+            "target": "T41",
+            "value": 2,
+            "link_name": "Cause"
+        },
+        {
+            "source": "T56",
+            "target": "T55",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T58",
+            "target": "T57",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T59",
+            "target": "T57",
+            "value": 2,
+            "link_name": "Theme"
+        }
+    ]
+}

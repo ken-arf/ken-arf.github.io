@@ -4,325 +4,379 @@
             "id": 0,
             "value": 1,
             "name": "Role",
-            "group": 11
+            "trigger": 1,
+            "group": 18
         },
         {
             "id": 1,
             "value": 3,
             "name": "thrombin|thrombin|thrombin",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 2,
             "value": 1,
             "name": "angiogenesis",
-            "group": 1
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 3,
             "value": 1,
             "name": "tumor",
-            "group": 0
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 4,
             "value": 1,
             "name": "progression",
+            "trigger": 1,
             "group": 13
         },
         {
             "id": 5,
             "value": 1,
             "name": "coagulation system",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 6,
             "value": 1,
             "name": "activated",
-            "group": 17
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 7,
             "value": 1,
             "name": "cancer",
-            "group": 0
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 8,
             "value": 1,
             "name": "patients",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 9,
             "value": 1,
             "name": "plays an important role",
-            "group": 11
+            "trigger": 1,
+            "group": 18
         },
         {
             "id": 10,
             "value": 1,
             "name": "tumor",
-            "group": 0
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 11,
             "value": 1,
             "name": "activates",
-            "group": 17
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 12,
             "value": 2,
             "name": "angiogenesis|angiogenesis",
-            "group": 1
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 13,
             "value": 1,
             "name": "essential",
-            "group": 17
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 14,
             "value": 1,
             "name": "tumor",
-            "group": 0
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 15,
             "value": 1,
             "name": "growth",
-            "group": 9
+            "trigger": 1,
+            "group": 16
         },
         {
             "id": 16,
             "value": 1,
             "name": "metastasis",
-            "group": 10
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 17,
             "value": 1,
             "name": "fibrin",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 18,
             "value": 1,
             "name": "formation",
-            "group": 5
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 19,
             "value": 1,
             "name": "activation",
-            "group": 17
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 20,
             "value": 4,
             "name": "Thrombin|Thrombin|Thrombin|thrombin",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 21,
             "value": 1,
             "name": "decreases",
-            "group": 3
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 22,
             "value": 1,
             "name": "endothelial cells",
-            "group": 16
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 23,
             "value": 1,
             "name": "attach",
-            "group": 15
+            "trigger": 1,
+            "group": 17
         },
         {
             "id": 24,
             "value": 1,
             "name": "basement membrane",
+            "trigger": 0,
             "group": 14
         },
         {
             "id": 25,
             "value": 1,
             "name": "potentiates",
-            "group": 11
+            "trigger": 1,
+            "group": 18
         },
         {
             "id": 26,
             "value": 1,
             "name": "vascular endothelial growth factor",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 27,
             "value": 1,
             "name": "VEGF",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 28,
             "value": 1,
             "name": "induced",
-            "group": 17
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 29,
             "value": 1,
             "name": "endothelial cell",
-            "group": 16
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 30,
             "value": 1,
             "name": "proliferation",
-            "group": 18
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 31,
             "value": 1,
             "name": "up-regulation",
-            "group": 17
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 32,
             "value": 1,
             "name": "expression",
-            "group": 7
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 33,
             "value": 2,
             "name": "VEGF|VEGF",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 34,
             "value": 1,
             "name": "kinase insert domain-containing receptor",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 35,
             "value": 1,
             "name": "KDR",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 36,
             "value": 1,
             "name": "fms-like tyrosine kinase",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 37,
             "value": 1,
             "name": "Flt-1",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 38,
             "value": 2,
             "name": "increases|increases",
-            "group": 17
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 39,
             "value": 1,
             "name": "mRNA",
-            "group": 2
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 40,
             "value": 1,
             "name": "protein levels",
-            "group": 7
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 41,
             "value": 2,
             "name": "alpha (v)beta (3) integrin|alpha (v)beta (3) integrin",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 42,
             "value": 1,
             "name": "secretion",
-            "group": 10
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 43,
             "value": 1,
             "name": "enhances",
-            "group": 17
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 44,
             "value": 1,
             "name": "expression",
-            "group": 7
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 45,
             "value": 1,
             "name": "protein synthesis",
-            "group": 12
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 46,
             "value": 1,
             "name": "matrix metalloprotease-9",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 47,
             "value": 1,
             "name": "human",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 48,
             "value": 1,
             "name": "prostate cancer PC-3 cells",
-            "group": 16
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 49,
             "value": 1,
             "name": "angiogenic",
-            "group": 1
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 50,
             "value": 1,
             "name": "tumor",
-            "group": 0
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 51,
             "value": 1,
             "name": "promoting",
-            "group": 17
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 52,
             "value": 1,
             "name": "thrombin",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 53,
             "value": 1,
             "name": "thrombin receptor",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         }
     ],
     "links": [

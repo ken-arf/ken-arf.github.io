@@ -1,0 +1,98 @@
+T1	SNP 34 50	genetic variants
+T2	Entity 65 69	5p12
+R1	SNP_location Arg1:T1 Arg2:T2	
+T4	Cancer 103 116	breast cancer
+T5	Spec 13 23	assessment
+T6	Association 117 121	risk
+E2	Association:T6 bc:T4 snp_int:T1
+R2	Speculation_marker Arg1:E2 Arg2:T5	
+T3	Entity 74 97	hormone receptor status
+R3	Risk_Factor Arg1:T1 Arg2:T3	
+T7	SNP 303 313	rs10941679
+T8	SNP 315 324	rs4415084
+T9	SNP 330 338	rs981782
+T11	Entity 366 370	5p12
+R4	SNP_location Arg1:T7 Arg2:T11	
+R5	SNP_location Arg1:T8 Arg2:T11	
+R6	SNP_location Arg1:T9 Arg2:T11	
+T12	Association 380 390	implicated
+E3	Association:T12 bc:T13 snp_int:T9 snp_int2:T8 snp_int3:T7
+T13	Cancer 394 396	BC
+T14	Spec 437 458	contradictory results
+R7	Speculation_marker Arg1:E3 Arg2:T14	
+T15	Level 637 650	significantly
+T16	Effect_Type 651 659	elevated
+T17	Association 663 667	risk
+E4	Association:T17 bc:T18 snp_int:T19 snp_int2:T20 snp_int3:T21
+T18	Cancer 660 662	BC
+R8	Effect_type_marker Arg1:E4 Arg2:T16	
+R9	Level_marker Arg1:E4 Arg2:T15	
+A4	Effect_Type E4 Increase
+A5	Level E4 High
+T19	SNP 688 698	rs10941679
+T20	SNP 700 709	rs4415084
+T21	SNP 715 723	rs981782
+T23	Entity 921 931	Caucasians
+T24	Entity 936 947	East Asians
+T25	Association 852 857	risks
+E6	Association:T25 bc:T18 snp_int:T28 snp_int2:T33
+A6	Effect_Type E6 Increase
+A7	Level E6 High
+T26	Level 828 841	significantly
+T27	Effect_Type 842 851	increased
+R10	Effect_type_marker Arg1:E6 Arg2:T27	
+R11	Level_marker Arg1:E6 Arg2:T26	
+T28	SNP 877 887	rs10941679
+T29	SNP 892 901	rs4415084
+T30	Association 970 982	associations
+E7	Association:T30 bc:T18 snp_int:T32 snp_int2:T29
+T31	Level 955 969	no significant
+R12	Level_marker Arg1:E7 Arg2:T31	
+A8	Level E7 Low
+T32	SNP 877 887	rs10941679
+T33	SNP 892 901	rs4415084
+T10	Entity 1068 1072	5p12
+T22	SNP 1073 1081	rs981782
+T35	Association 1095 1107	associations
+E5	Association:T35 snp_int:T22 bc:T37
+A10	Level E5 High
+T34	Level 1083 1094	significant
+R13	Level_marker Arg1:E5 Arg2:T34	
+R14	SNP_location Arg1:T22 Arg2:T10	
+T36	Entity 1133 1143	Caucasians
+R15	Population_assignment Arg1:T22 Arg2:T36	
+T37	Cancer 1579 1581	BC
+T38	SNP 1172 1182	rs10941679
+T39	SNP 1187 1196	rs4415084
+T40	Entity 1200 1204	5p12
+T41	Association 1205 1216	confer risk
+E1	Association:T41 snp_int:T38 snp_int2:T39 bc:T42
+R16	SNP_location Arg1:T39 Arg2:T40	
+R17	SNP_location Arg1:T38 Arg2:T40	
+T42	Cancer 1234 1251;1257 1272	estrogen receptor positive tumors
+T43	Entity 1253 1255	ER
+A11	Cancer_Type T42 ER+
+R19	Population_assignment Arg1:T28 Arg2:T23	
+R20	Population_assignment Arg1:T28 Arg2:T24	
+T44	Entity 1026 1033	African
+T45	Entity 1038 1062	other ethnic populations
+R21	Population_assignment Arg1:T32 Arg2:T44	
+R22	Population_assignment Arg1:T32 Arg2:T45	
+R23	Population_assignment Arg1:T33 Arg2:T23	
+R24	Population_assignment Arg1:T33 Arg2:T24	
+R25	Population_assignment Arg1:T29 Arg2:T44	
+R26	Population_assignment Arg1:T29 Arg2:T45	
+T46	Entity 1234 1251	estrogen receptor
+T47	Organic_inorganic_molecules_affected 1205 1216	confer risk
+E8	Organic_inorganic_molecules_affected:T47 Theme:T46 Agent:T38 Agent2:T39
+T48	Effect_Type 1257 1265	positive
+A12	Effect_Type E8 Increase
+R27	Effect_type_marker Arg1:E8 Arg2:T48	
+A1	SNP_Class T1 Common_variant
+T49	Entity 724 735	risk allele
+R29	SNP_allele Arg1:T21 Arg2:T49	
+R30	Member Arg1:T1 Arg2:T28	
+R31	Member Arg1:T1 Arg2:T33	
+R32	Member Arg1:T1 Arg2:T22	
+R28	Equiv Arg1:T13 Arg2:T4	
+R18	Equiv Arg1:T43 Arg2:T46	

@@ -1,0 +1,200 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 3,
+            "name": "Percent dense volume|absolute dense volume|absolute dense volume",
+            "group": 3
+        },
+        {
+            "id": 1,
+            "value": 2,
+            "name": "rs10995190|rs9485372",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "ZNF365",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "TAB2",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "rs9383938",
+            "group": 0
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "ESR1|ESR1",
+            "group": 2
+        },
+        {
+            "id": 6,
+            "value": 2,
+            "name": "rs2046210|rs6001930",
+            "group": 0
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "MLK1",
+            "group": 2
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "rs17356907",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "NTN4",
+            "group": 2
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "non",
+            "group": 4
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "dense volume",
+            "group": 3
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "estimates weaker",
+            "group": 1
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "breast tissues",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 12,
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,956 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 14,
+            "name": "M-CSF|M-CSF|M-CSF|M-CSF|M-CSF|M-CSF|M-CSF|M-CSF|M-CSF|M-CSF|M-CSF|M-CSF|M-CSF|M-CSF",
+            "group": 16
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "signals",
+            "group": 7
+        },
+        {
+            "id": 2,
+            "value": 2,
+            "name": "MAPK|MAPK",
+            "group": 16
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "ERK|ERK",
+            "group": 16
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "pathway",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 4,
+            "name": "Sp1|Sp1|Sp1|Sp1",
+            "group": 16
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "induce",
+            "group": 14
+        },
+        {
+            "id": 7,
+            "value": 11,
+            "name": "VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF|VEGF",
+            "group": 16
+        },
+        {
+            "id": 8,
+            "value": 4,
+            "name": "production|production|production|production",
+            "group": 17
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 5
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "recruits",
+            "group": 7
+        },
+        {
+            "id": 11,
+            "value": 2,
+            "name": "mononuclear phagocytes|mononuclear phagocytes",
+            "group": 12
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "regulate",
+            "group": 7
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 5
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "metastases",
+            "group": 2
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "tumors",
+            "group": 3
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "VEGF",
+            "group": 16
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "activator",
+            "group": 14
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 5
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "promotes",
+            "group": 14
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "endothelial cell",
+            "group": 12
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "proliferation",
+            "group": 15
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "blood vessel",
+            "group": 4
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "formation",
+            "group": 13
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "induces",
+            "group": 14
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "expression",
+            "group": 17
+        },
+        {
+            "id": 26,
+            "value": 2,
+            "name": "human|human",
+            "group": 11
+        },
+        {
+            "id": 27,
+            "value": 2,
+            "name": "monocytes|monocytes",
+            "group": 12
+        },
+        {
+            "id": 28,
+            "value": 4,
+            "name": "induced|induced|induced|induced",
+            "group": 14
+        },
+        {
+            "id": 29,
+            "value": 3,
+            "name": "promoter|promoter|promoter",
+            "group": 6
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "linked",
+            "group": 9
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "luciferase",
+            "group": 16
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "reducing",
+            "group": 0
+        },
+        {
+            "id": 33,
+            "value": 1,
+            "name": "HIF",
+            "group": 16
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "binding",
+            "group": 10
+        },
+        {
+            "id": 35,
+            "value": 1,
+            "name": "effect",
+            "group": 7
+        },
+        {
+            "id": 36,
+            "value": 1,
+            "name": "luciferase",
+            "group": 16
+        },
+        {
+            "id": 37,
+            "value": 1,
+            "name": "production",
+            "group": 17
+        },
+        {
+            "id": 38,
+            "value": 1,
+            "name": "induced",
+            "group": 14
+        },
+        {
+            "id": 39,
+            "value": 1,
+            "name": "stimulation",
+            "group": 14
+        },
+        {
+            "id": 40,
+            "value": 2,
+            "name": "induced|induced",
+            "group": 14
+        },
+        {
+            "id": 41,
+            "value": 1,
+            "name": "signaling pathway",
+            "group": 1
+        },
+        {
+            "id": 42,
+            "value": 1,
+            "name": "inhibition",
+            "group": 0
+        },
+        {
+            "id": 43,
+            "value": 3,
+            "name": "ERK|ERK|ERK",
+            "group": 16
+        },
+        {
+            "id": 44,
+            "value": 2,
+            "name": "Sp1|Sp1",
+            "group": 16
+        },
+        {
+            "id": 45,
+            "value": 1,
+            "name": "suppressed",
+            "group": 0
+        },
+        {
+            "id": 46,
+            "value": 1,
+            "name": "induced",
+            "group": 14
+        },
+        {
+            "id": 47,
+            "value": 1,
+            "name": "nuclear",
+            "group": 8
+        },
+        {
+            "id": 48,
+            "value": 1,
+            "name": "localization",
+            "group": 2
+        },
+        {
+            "id": 49,
+            "value": 1,
+            "name": "blocked",
+            "group": 0
+        },
+        {
+            "id": 50,
+            "value": 1,
+            "name": "inhibition",
+            "group": 0
+        },
+        {
+            "id": 51,
+            "value": 1,
+            "name": "mutating",
+            "group": 9
+        },
+        {
+            "id": 52,
+            "value": 1,
+            "name": "binding sites",
+            "group": 6
+        },
+        {
+            "id": 53,
+            "value": 1,
+            "name": "inhibiting",
+            "group": 0
+        },
+        {
+            "id": 54,
+            "value": 1,
+            "name": "decreased",
+            "group": 0
+        },
+        {
+            "id": 55,
+            "value": 1,
+            "name": "promoter",
+            "group": 6
+        },
+        {
+            "id": 56,
+            "value": 1,
+            "name": "treated",
+            "group": 9
+        },
+        {
+            "id": 57,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 5
+        },
+        {
+            "id": 58,
+            "value": 1,
+            "name": "ability",
+            "group": 7
+        },
+        {
+            "id": 59,
+            "value": 1,
+            "name": "recruit",
+            "group": 2
+        },
+        {
+            "id": 60,
+            "value": 1,
+            "name": "increase",
+            "group": 14
+        },
+        {
+            "id": 61,
+            "value": 1,
+            "name": "VEGF",
+            "group": 16
+        },
+        {
+            "id": 62,
+            "value": 1,
+            "name": "enhance",
+            "group": 14
+        },
+        {
+            "id": 63,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 5
+        },
+        {
+            "id": 64,
+            "value": 1,
+            "name": "VEGF",
+            "group": 16
+        },
+        {
+            "id": 65,
+            "value": 1,
+            "name": "VEGF antibody",
+            "group": 16
+        },
+        {
+            "id": 66,
+            "value": 1,
+            "name": "abolished",
+            "group": 0
+        },
+        {
+            "id": 67,
+            "value": 1,
+            "name": "induced",
+            "group": 14
+        },
+        {
+            "id": 68,
+            "value": 1,
+            "name": "blood vessel",
+            "group": 4
+        },
+        {
+            "id": 69,
+            "value": 1,
+            "name": "formation",
+            "group": 13
+        },
+        {
+            "id": 70,
+            "value": 1,
+            "name": "ERK",
+            "group": 16
+        },
+        {
+            "id": 71,
+            "value": 1,
+            "name": "dependent",
+            "group": 14
+        },
+        {
+            "id": 72,
+            "value": 2,
+            "name": "induce|induce",
+            "group": 14
+        },
+        {
+            "id": 73,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 5
+        },
+        {
+            "id": 74,
+            "value": 1,
+            "name": "VEGF",
+            "group": 16
+        }
+    ],
+    "links": [
+        {
+            "source": 8,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 34,
+            "value": 2
+        },
+        {
+            "source": 34,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 34,
+            "target": 29,
+            "value": 2
+        },
+        {
+            "source": 34,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 37,
+            "target": 36,
+            "value": 2
+        },
+        {
+            "source": 39,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 45,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 45,
+            "target": 42,
+            "value": 2
+        },
+        {
+            "source": 42,
+            "target": 43,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 46,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 46,
+            "target": 48,
+            "value": 2
+        },
+        {
+            "source": 48,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 48,
+            "target": 47,
+            "value": 2
+        },
+        {
+            "source": 50,
+            "target": 43,
+            "value": 2
+        },
+        {
+            "source": 51,
+            "target": 52,
+            "value": 2
+        },
+        {
+            "source": 53,
+            "target": 43,
+            "value": 2
+        },
+        {
+            "source": 54,
+            "target": 55,
+            "value": 2
+        },
+        {
+            "source": 54,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 54,
+            "target": 53,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 60,
+            "target": 61,
+            "value": 2
+        },
+        {
+            "source": 60,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 29,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 31,
+            "value": 2
+        },
+        {
+            "source": 38,
+            "target": 39,
+            "value": 2
+        },
+        {
+            "source": 38,
+            "target": 37,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 37,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 40,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 40,
+            "target": 40,
+            "value": 2
+        },
+        {
+            "source": 40,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 40,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 42,
+            "target": 44,
+            "value": 2
+        },
+        {
+            "source": 45,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 45,
+            "target": 42,
+            "value": 2
+        },
+        {
+            "source": 49,
+            "target": 50,
+            "value": 2
+        },
+        {
+            "source": 49,
+            "target": 48,
+            "value": 2
+        },
+        {
+            "source": 56,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 56,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 54,
+            "target": 55,
+            "value": 2
+        },
+        {
+            "source": 54,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 54,
+            "target": 51,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 59,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 58,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 58,
+            "target": 59,
+            "value": 2
+        },
+        {
+            "source": 62,
+            "target": 63,
+            "value": 2
+        },
+        {
+            "source": 62,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 66,
+            "target": 69,
+            "value": 2
+        },
+        {
+            "source": 66,
+            "target": 65,
+            "value": 2
+        },
+        {
+            "source": 67,
+            "target": 69,
+            "value": 2
+        },
+        {
+            "source": 67,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 69,
+            "target": 68,
+            "value": 2
+        },
+        {
+            "source": 71,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 71,
+            "target": 44,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 71,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 71,
+            "target": 70,
+            "value": 2
+        },
+        {
+            "source": 72,
+            "target": 73,
+            "value": 2
+        },
+        {
+            "source": 72,
+            "target": 72,
+            "value": 2
+        },
+        {
+            "source": 72,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 72,
+            "target": 74,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 41,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 41,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 2
+        }
+    ]
+}

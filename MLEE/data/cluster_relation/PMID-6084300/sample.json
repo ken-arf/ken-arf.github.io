@@ -4,97 +4,113 @@
             "id": 0,
             "value": 2,
             "name": "vasoproliferation|vasoproliferation",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 1,
             "value": 1,
             "name": "neovascularization",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 2,
             "value": 1,
             "name": "formed",
-            "group": 4
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 3,
             "value": 1,
             "name": "blood vessels",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 4,
             "value": 1,
             "name": "vessels",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 5,
             "value": 1,
             "name": "proliferating",
-            "group": 1
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 6,
             "value": 1,
             "name": "vascular networks",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 7,
             "value": 2,
             "name": "vessels|vessels",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 8,
             "value": 1,
             "name": "venules",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 9,
             "value": 1,
             "name": "capillaries",
-            "group": 0
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 10,
             "value": 1,
             "name": "evolution",
-            "group": 4
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 11,
             "value": 1,
             "name": "proliferating",
-            "group": 1
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 12,
             "value": 1,
             "name": "arterioles",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 13,
             "value": 1,
             "name": "venules",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 14,
             "value": 1,
             "name": "vascular",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 15,
             "value": 1,
             "name": "ocular",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         }
     ],
     "links": [

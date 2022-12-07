@@ -1,0 +1,309 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 4,
+            "name": "TNF|TNF|TNF|TNF",
+            "group": 13
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "Treatment",
+            "group": 8
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "Cancer",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "Tumor necrosis factor-alpha",
+            "group": 13
+        },
+        {
+            "id": 4,
+            "value": 5,
+            "name": "TNF-alpha|TNF-alpha|TNF-alpha|TNF-alpha|TNF-alpha",
+            "group": 13
+        },
+        {
+            "id": 5,
+            "value": 2,
+            "name": "kill|kill",
+            "group": 7
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "tumor cells",
+            "group": 10
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "immune cell",
+            "group": 10
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "major players",
+            "group": 6
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "tumor",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "initiation",
+            "group": 11
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "proliferation",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "invasion",
+            "group": 2
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 5
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "metastasis",
+            "group": 2
+        },
+        {
+            "id": 15,
+            "value": 2,
+            "name": "bowel|bowel",
+            "group": 14
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "etanercept",
+            "group": 9
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "Enbrel",
+            "group": 9
+        },
+        {
+            "id": 18,
+            "value": 2,
+            "name": "TNF|TNF",
+            "group": 13
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "infliximab",
+            "group": 9
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "Remicade",
+            "group": 9
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "adalimumab",
+            "group": 9
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "Humira",
+            "group": 9
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "anti-TNF antibodies",
+            "group": 13
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "treatment",
+            "group": 8
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "suppress",
+            "group": 12
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "expression",
+            "group": 0
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "signaling",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 26,
+            "value": 2
+        },
+        {
+            "source": 26,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 0,
+            "value": 2
+        }
+    ]
+}

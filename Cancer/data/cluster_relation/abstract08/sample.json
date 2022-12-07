@@ -4,85 +4,99 @@
             "id": 0,
             "value": 2,
             "name": "functional genetic variant|functional causal variant",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 1,
             "value": 3,
             "name": "16q12.1|16q12.1|16q12.1",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 2,
             "value": 6,
             "name": "breast cancer|breast cancer|breast cancer|breast cancer|breast cancer|breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 3,
             "value": 1,
             "name": "risk",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 4,
             "value": 3,
             "name": "rs4784227|rs4784227|rs4784227",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 5,
             "value": 2,
             "name": "associated|associated",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "Asian",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 7,
             "value": 2,
             "name": "This SNP|this SNP",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 8,
             "value": 2,
             "name": "European Americans|Europeans",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 9,
             "value": 1,
             "name": "risk",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 10,
             "value": 1,
             "name": "association",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 11,
             "value": 1,
             "name": "highly statistically significant",
-            "group": 5
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 12,
             "value": 1,
             "name": "Asians",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 13,
             "value": 1,
             "name": "strong evidence",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         }
     ],
     "links": [

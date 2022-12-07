@@ -3,7 +3,7 @@
         {
             "id": "T60",
             "name": "Breast Cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T59",
             "name": "Susceptibility",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T58",
             "name": "Variants",
-            "group": 3,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T27",
             "name": "Mammographic Density",
-            "group": 5,
+            "group": 6,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 21
@@ -35,7 +35,7 @@
         {
             "id": "T26",
             "name": "Mammographic density measures",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -43,7 +43,7 @@
         {
             "id": "T28",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T46",
             "name": "estimated",
-            "group": 8,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 22
@@ -59,7 +59,7 @@
         {
             "id": "T47",
             "name": "77 common breast cancer susceptibility variants",
-            "group": 3,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -67,7 +67,7 @@
         {
             "id": "T38",
             "name": "breast",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T48",
             "name": "absolute dense area",
-            "group": 5,
+            "group": 6,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 20
@@ -83,7 +83,7 @@
         {
             "id": "T52",
             "name": "absolute dense area",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -91,7 +91,7 @@
         {
             "id": "T49",
             "name": "percent dense area",
-            "group": 5,
+            "group": 6,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 20
@@ -99,7 +99,7 @@
         {
             "id": "T53",
             "name": "percent dense area",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -107,7 +107,7 @@
         {
             "id": "T51",
             "name": "absolute dense area",
-            "group": 5,
+            "group": 6,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 19
@@ -115,7 +115,7 @@
         {
             "id": "T54",
             "name": "absolute dense area",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -123,7 +123,7 @@
         {
             "id": "T50",
             "name": "non",
-            "group": 6,
+            "group": 4,
             "type": "Neg",
             "trigger": 0,
             "value": 24
@@ -131,7 +131,7 @@
         {
             "id": "T29",
             "name": "study",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -139,7 +139,7 @@
         {
             "id": "T30",
             "name": "age",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T31",
             "name": "BMI",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -155,7 +155,7 @@
         {
             "id": "T1",
             "name": "strong support",
-            "group": 4,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T3",
             "name": "rs10995190",
-            "group": 3,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -171,7 +171,7 @@
         {
             "id": "T4",
             "name": "ZNF365",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -179,7 +179,7 @@
         {
             "id": "T5",
             "name": "rs2046210",
-            "group": 3,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -187,7 +187,7 @@
         {
             "id": "T6",
             "name": "ESR1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -203,7 +203,7 @@
         {
             "id": "T7",
             "name": "rs3817198",
-            "group": 3,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -211,7 +211,7 @@
         {
             "id": "T8",
             "name": "LSP1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -219,7 +219,7 @@
         {
             "id": "T9",
             "name": "absolute dense areas",
-            "group": 5,
+            "group": 6,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 20
@@ -227,7 +227,7 @@
         {
             "id": "T2",
             "name": "percent dense areas",
-            "group": 5,
+            "group": 6,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 20
@@ -235,7 +235,7 @@
         {
             "id": "T23",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -243,7 +243,7 @@
         {
             "id": "T39",
             "name": "breast",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T24",
             "name": "susceptibility",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T16",
             "name": "rs1432679",
-            "group": 3,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -267,7 +267,7 @@
         {
             "id": "T17",
             "name": "EBF1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -275,7 +275,7 @@
         {
             "id": "T15",
             "name": "rs17817449",
-            "group": 3,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -283,7 +283,7 @@
         {
             "id": "T18",
             "name": "MIR1972-2: FTO",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -291,7 +291,7 @@
         {
             "id": "T14",
             "name": "rs12710696",
-            "group": 3,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -299,7 +299,7 @@
         {
             "id": "T19",
             "name": "2p24.1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -315,7 +315,7 @@
         {
             "id": "T13",
             "name": "rs3757318",
-            "group": 3,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -323,7 +323,7 @@
         {
             "id": "T20",
             "name": "ESR1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -331,7 +331,7 @@
         {
             "id": "T55",
             "name": "absolute dense areas",
-            "group": 5,
+            "group": 6,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 20
@@ -339,7 +339,7 @@
         {
             "id": "T25",
             "name": "percent dense areas",
-            "group": 5,
+            "group": 6,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 20
@@ -347,7 +347,7 @@
         {
             "id": "T32",
             "name": "rs6001930",
-            "group": 3,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -355,7 +355,7 @@
         {
             "id": "T33",
             "name": "MKL1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -363,7 +363,7 @@
         {
             "id": "T34",
             "name": "absolute dense",
-            "group": 5,
+            "group": 6,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 24
@@ -371,7 +371,7 @@
         {
             "id": "T21",
             "name": "non",
-            "group": 6,
+            "group": 4,
             "type": "Neg",
             "trigger": 0,
             "value": 24
@@ -379,7 +379,7 @@
         {
             "id": "T10",
             "name": "dense areas",
-            "group": 5,
+            "group": 6,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 20
@@ -387,7 +387,7 @@
         {
             "id": "T22",
             "name": "rs17356907",
-            "group": 3,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -395,7 +395,7 @@
         {
             "id": "T35",
             "name": "NTN4",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -403,7 +403,7 @@
         {
             "id": "T36",
             "name": "absolute dense area",
-            "group": 5,
+            "group": 6,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 18
@@ -411,7 +411,7 @@
         {
             "id": "T37",
             "name": "non",
-            "group": 6,
+            "group": 4,
             "type": "Neg",
             "trigger": 0,
             "value": 24
@@ -419,7 +419,7 @@
         {
             "id": "T40",
             "name": "18% of breast cancer susceptibility variants",
-            "group": 3,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -427,7 +427,7 @@
         {
             "id": "T56",
             "name": "breast",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -435,7 +435,7 @@
         {
             "id": "T41",
             "name": "mammographic density",
-            "group": 5,
+            "group": 6,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 21
@@ -443,7 +443,7 @@
         {
             "id": "T42",
             "name": "Genetic variants at multiple loci",
-            "group": 3,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -451,7 +451,7 @@
         {
             "id": "T43",
             "name": "associated",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -459,7 +459,7 @@
         {
             "id": "T44",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -467,7 +467,7 @@
         {
             "id": "T57",
             "name": "breast",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -475,7 +475,7 @@
         {
             "id": "T45",
             "name": "mammographic density measures",
-            "group": 5,
+            "group": 6,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 19

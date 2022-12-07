@@ -3,7 +3,7 @@
         {
             "id": "T1",
             "name": "variants",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T2",
             "name": "ATM",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -19,7 +19,7 @@
         {
             "id": "T6",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -27,7 +27,7 @@
         {
             "id": "T5",
             "name": "effect",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T4",
             "name": "variants",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -43,7 +43,7 @@
         {
             "id": "T3",
             "name": "contentious",
-            "group": 8,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T7",
             "name": "five SNP",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -59,7 +59,7 @@
         {
             "id": "T8",
             "name": "single nucleotide polymorphisms",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 21
@@ -67,7 +67,7 @@
         {
             "id": "T9",
             "name": "SNP",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T10",
             "name": "ATM",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -83,7 +83,7 @@
         {
             "id": "T11",
             "name": "S49C",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -91,7 +91,7 @@
         {
             "id": "T42",
             "name": "S49C",
-            "group": 4,
+            "group": 5,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 18
@@ -99,7 +99,7 @@
         {
             "id": "T47",
             "name": "S49",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -107,7 +107,7 @@
         {
             "id": "T12",
             "name": "S707P",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -115,7 +115,7 @@
         {
             "id": "T43",
             "name": "S707P",
-            "group": 4,
+            "group": 5,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 17
@@ -123,7 +123,7 @@
         {
             "id": "T48",
             "name": "S707",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -131,7 +131,7 @@
         {
             "id": "T13",
             "name": "F858L",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -139,7 +139,7 @@
         {
             "id": "T44",
             "name": "F858L",
-            "group": 4,
+            "group": 5,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 17
@@ -147,7 +147,7 @@
         {
             "id": "T49",
             "name": "F858",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -155,7 +155,7 @@
         {
             "id": "T14",
             "name": "P1054R",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -163,7 +163,7 @@
         {
             "id": "T45",
             "name": "P1054R",
-            "group": 4,
+            "group": 5,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 16
@@ -171,7 +171,7 @@
         {
             "id": "T50",
             "name": "P1054",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -179,7 +179,7 @@
         {
             "id": "T15",
             "name": "L1420F",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -187,7 +187,7 @@
         {
             "id": "T46",
             "name": "L1420F",
-            "group": 4,
+            "group": 5,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 17
@@ -195,7 +195,7 @@
         {
             "id": "T51",
             "name": "L1420",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -211,7 +211,7 @@
         {
             "id": "T33",
             "name": "all five SNPs",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -219,7 +219,7 @@
         {
             "id": "T34",
             "name": "odds ratio",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -227,7 +227,7 @@
         {
             "id": "T35",
             "name": "OR",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -235,7 +235,7 @@
         {
             "id": "T37",
             "name": "OR",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -243,7 +243,7 @@
         {
             "id": "T41",
             "name": "OR",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T36",
             "name": "1.05",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 17
@@ -259,7 +259,7 @@
         {
             "id": "T39",
             "name": "heterozygote",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -267,7 +267,7 @@
         {
             "id": "T38",
             "name": "1.51",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 17
@@ -275,7 +275,7 @@
         {
             "id": "T40",
             "name": "homozygote",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -283,7 +283,7 @@
         {
             "id": "T52",
             "name": "any of the SNPs",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -291,7 +291,7 @@
         {
             "id": "T29",
             "name": "OR",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -299,7 +299,7 @@
         {
             "id": "T31",
             "name": "bilateral and familial cases",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 18
@@ -307,7 +307,7 @@
         {
             "id": "T30",
             "name": "1.12",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 16
@@ -315,7 +315,7 @@
         {
             "id": "T16",
             "name": "these five SNPs",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -323,7 +323,7 @@
         {
             "id": "T17",
             "name": "ATM",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -331,7 +331,7 @@
         {
             "id": "T19",
             "name": "small",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -339,7 +339,7 @@
         {
             "id": "T20",
             "name": "increased",
-            "group": 3,
+            "group": 6,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -347,7 +347,7 @@
         {
             "id": "T21",
             "name": "risk",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -355,7 +355,7 @@
         {
             "id": "T22",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -363,7 +363,7 @@
         {
             "id": "T23",
             "name": "Testing",
-            "group": 8,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 21
@@ -379,7 +379,7 @@
         {
             "id": "T24",
             "name": "variants",
-            "group": 5,
+            "group": 8,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -387,7 +387,7 @@
         {
             "id": "T25",
             "name": "known breast cancer genes",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -395,7 +395,7 @@
         {
             "id": "T26",
             "name": "should clarify",
-            "group": 8,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -403,7 +403,7 @@
         {
             "id": "T27",
             "name": "overall contribution",
-            "group": 1,
+            "group": 4,
             "type": "Association",
             "trigger": 1,
             "value": 22
@@ -411,7 +411,7 @@
         {
             "id": "T28",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23

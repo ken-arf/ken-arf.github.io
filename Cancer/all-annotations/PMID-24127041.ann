@@ -1,0 +1,39 @@
+T1	Entity 17 21	ESR1
+T2	Entity 26 34	FLJ43663
+T3	SNP 0 13	Polymorphisms
+R1	SNP_coupled_gene Arg1:T3 Arg2:T1	
+R2	SNP_coupled_gene Arg1:T3 Arg2:T2	
+T4	Association 39 49	associated
+E1	Association:T4 bc:T5 snp_int:T3
+T5	Cancer 55 68	breast cancer
+T6	Entity 81 95	Han population
+R3	Population_assignment Arg1:T3 Arg2:T6	
+T7	SNP 602 611	rs3734805
+T8	Entity 619 623	ESR1
+R4	SNP_coupled_gene Arg1:T7 Arg2:T8	
+T9	SNP 633 642	rs2048672
+T10	Entity 650 658	FLJ43663
+R5	SNP_coupled_gene Arg1:T9 Arg2:T10	
+T11	Association 669 679	associated
+E2	Association:T11 bc:T12 snp_int:T7 snp_int2:T9
+T12	Cancer 685 698	breast cancer
+T13	Entity 713 714	C
+T14	SNP 719 728	rs3734805
+R6	SNP_allele Arg1:T14 Arg2:T13	
+T15	Association 733 743	associated
+E3	Association:T15 bc:T17 snp_int:T14
+T16	Effect_Type 749 758	increased
+T17	Cancer 759 772	breast cancer
+R7	Effect_type_marker Arg1:E3 Arg2:T16	
+R8	SNP_coupled_gene Arg1:T14 Arg2:T8	
+A1	Effect_Type E3 Decrease
+T18	Entity 926 928	GG
+T19	SNP 933 942	rs2048672
+R9	Genotype Arg1:T19 Arg2:T18	
+T20	Protective_effect 951 970	protective genotype
+E4	Protective_effect:T20 Agent:T19 Theme:T21
+T21	Cancer 978 991	breast cancer
+R10	Member Arg1:T3 Arg2:T7	
+R11	Member Arg1:T3 Arg2:T9	
+R12	Population_assignment Arg1:T14 Arg2:T6	
+R13	Population_assignment Arg1:T19 Arg2:T6	

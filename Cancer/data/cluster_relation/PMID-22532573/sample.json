@@ -4,211 +4,246 @@
             "id": 0,
             "value": 1,
             "name": "11 single nucleotide polymorphisms",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 1,
             "value": 2,
             "name": "associated|associated",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 2,
             "value": 1,
             "name": "breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 3,
             "value": 1,
             "name": "BC",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 4,
             "value": 1,
             "name": "BC",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "risk",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 6,
             "value": 10,
             "name": "rs17468277|rs1982073|rs2981582|rs13281615|rs3817198|rs889312|rs13387042|rs4973768|rs6504950|rs10941679",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 7,
             "value": 1,
             "name": "CASP8",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 8,
             "value": 2,
             "name": "TGFB1|FGFR2",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 9,
             "value": 3,
             "name": "8q24|2q35|5p12",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 10,
             "value": 1,
             "name": "LSP1",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "MAP3K1",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 12,
             "value": 4,
             "name": "rs3803662|rs3803662|rs3803662|rs3803662",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 13,
             "value": 3,
             "name": "TOX3|TOX3|TOX3",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 14,
             "value": 1,
             "name": "SLC4A7",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 15,
             "value": 1,
             "name": "COX11",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 16,
             "value": 1,
             "name": "test",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 17,
             "value": 1,
             "name": "these SNPs",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 18,
             "value": 2,
             "name": "overall survival|overall survival",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 19,
             "value": 2,
             "name": "OS|OS",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 20,
             "value": 1,
             "name": "BC-specific survival",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 21,
             "value": 1,
             "name": "BC",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 22,
             "value": 1,
             "name": "survival",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 23,
             "value": 2,
             "name": "BCS|BCS",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 24,
             "value": 1,
             "name": "62 candidate/GWAS SNPs",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 25,
             "value": 1,
             "name": "associated",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 26,
             "value": 1,
             "name": "survival",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 27,
             "value": 1,
             "name": "suggested",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 28,
             "value": 1,
             "name": "recessive",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 29,
             "value": 1,
             "name": "no evidence",
+            "trigger": 0,
             "group": 6
         },
         {
             "id": 30,
             "value": 1,
             "name": "evidence",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 31,
             "value": 1,
             "name": "any of the SNPs",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 32,
             "value": 1,
             "name": "BC",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 33,
             "value": 1,
             "name": "BC",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 34,
             "value": 1,
             "name": "survival",
-            "group": 2
+            "trigger": 1,
+            "group": 3
         }
     ],
     "links": [

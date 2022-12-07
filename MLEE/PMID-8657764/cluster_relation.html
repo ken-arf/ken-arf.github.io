@@ -7,14 +7,30 @@
   stroke-opacity: 0.6;
 }
 
+
 .nodes circle {
-  stroke: #fff;
   stroke-width: 1.5px;
 }
 
+.nodes circle-trigger {
+  stroke: red;
+  stroke-width: 1.5px;
+}
+
+.line-normal {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.line-selected {
+  stroke: red;
+  stroke-opacity: 0.6;
+}
+
+
 text {
   font-family: sans-serif;
-  font-size: 10px;
+  font-size: 8px;
 }
 
 </style>
@@ -52,9 +68,37 @@ d3.json("../data/cluster_relation/PMID-8657764/sample.json", function(error, gra
     .enter().append("g")
 
   var circles = node.append("circle")
-    //.attr("r", 5)
-    .attr("r", function(d) { return 5 + 3 * d.value})
-    .attr("fill", function(d) { return color(d.group); });
+    .attr("r", function(d) { return 5 + 2 * d.value})
+    .attr("fill", function(d) { return color(d.group); })
+    .attr("stroke", function(d) {
+        if (d.trigger === 1) {
+            return "red"
+        }
+        else {
+            return "white"
+        }
+    })
+    .on("click", function(d) {
+        if (d.trigger === 1) {
+            const nId = d.id;
+            var count = 0;
+            var source;
+            var target = [];
+            source = "<Event>\n=Trigger= " + d.name + "[" + d.type + "]";
+            d3.selectAll("line").classed("line-selected", function(a) {
+                if ((a.source.id === nId || a.target.id === nId) && a.value === 2) {
+                    target[count] = "->" + a.link_name + "->" + a.target.name + "[" + a.target.type + "]";
+                    count += 1;
+                    return true;
+                } else {
+                    return false;
+                }
+
+            });
+            alert(source + "\n" + target.join("\n"));
+            
+        }
+    });
 
   // Create a drag handler and append it to the node object instead
   var drag_handler = d3.drag()

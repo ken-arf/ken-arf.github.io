@@ -1,0 +1,54 @@
+T1	SNP 43 58	exonic variants
+T2	Association 62 74	relationship
+E1	Association:T2 snp_int:T1 bc:T3
+T3	Cancer 100 106;80 86	cancer breast
+T4	Entity 117 139	multiethnic population
+R1	Population_assignment Arg1:T1 Arg2:T4	
+T5	Cancer 530 543	breast cancer
+T6	Level 549 558	strongest
+T7	Association 559 571	associations
+E2	Association:T7 bc:T5 snp_int:T15 snp_int2:E3
+R2	Level_marker Arg1:E2 Arg2:T6	
+A1	Level E2 High
+T8	Entity 628 635	LDLRAD1
+T9	Entity 637 644	SLC19A1
+T10	Entity 646 652	FGFBP3
+T11	Entity 654 659	CASP5
+T12	Entity 661 665	MMAB
+T13	Entity 667 674	SLC16A6
+T14	Entity 680 688	INS-IGF2
+T15	SNP 588 592	SNPs
+R3	SNP_coupled_gene Arg1:T15 Arg2:T8	
+R4	SNP_coupled_gene Arg1:T15 Arg2:T9	
+R5	SNP_coupled_gene Arg1:T15 Arg2:T10	
+R6	SNP_coupled_gene Arg1:T15 Arg2:T11	
+R7	SNP_coupled_gene Arg1:T15 Arg2:T12	
+R8	SNP_coupled_gene Arg1:T15 Arg2:T13	
+R9	SNP_coupled_gene Arg1:T15 Arg2:T14	
+T16	Interaction 599 617	gene burden scores
+E3	Interaction:T16 Entity:T15
+T17	SNP 1224 1235	rs145889899
+T18	Entity 1239 1246	LDLRAD1
+R10	SNP_coupled_gene Arg1:T17 Arg2:T18	
+T19	Entity 1278 1295	African Americans
+R11	Population_assignment Arg1:T17 Arg2:T19	
+T20	Level 1344 1369	statistically significant
+T21	Association 1210 1222	associations
+E4	Association:T21 bc:T22 snp_int:T17
+A2	Level E4 High
+T22	Cancer 1309 1315;1328 1334	breast cancer
+R12	Level_marker Arg1:E4 Arg2:T20	
+T23	Spec 1941 1954	better define
+T24	Association 1959 1963	role
+E5	Association:T24 snp_int:T25 bc:T26
+R13	Speculation_marker Arg1:E5 Arg2:T23	
+T25	SNP 1991 2007	coding variation
+A3	SNP_Class T25 Rare_variant
+T26	Cancer 2024 2037	breast cancer
+A4	SNP_Class T15 Rare_variant
+T27	Other_effect 32 42	functional
+E6	Other_effect:T27 Agent:T1
+T28	Spec 23 31	putative
+R14	Speculation_marker Arg1:E6 Arg2:T28	
+R15	Member Arg1:T1 Arg2:T17	
+R16	Member Arg1:T15 Arg2:T17	

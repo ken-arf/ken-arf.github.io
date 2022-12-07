@@ -4,25 +4,29 @@
             "id": 0,
             "value": 1,
             "name": "detecting",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 1,
             "value": 1,
             "name": "interactions",
-            "group": 0
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 2,
             "value": 1,
             "name": "CXCL12-related genes",
+            "trigger": 0,
             "group": 1
         },
         {
             "id": 3,
             "value": 1,
             "name": "breast cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         }
     ],
     "links": [

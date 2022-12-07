@@ -3,7 +3,7 @@
         {
             "id": "T15",
             "name": "truncating",
-            "group": 4,
+            "group": 3,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T3",
             "name": "BRCA2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -19,7 +19,7 @@
         {
             "id": "T1",
             "name": "rs11571833",
-            "group": 5,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -27,7 +27,7 @@
         {
             "id": "T2",
             "name": "K3326X",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -35,7 +35,7 @@
         {
             "id": "T7",
             "name": "associated",
-            "group": 1,
+            "group": 2,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T5",
             "name": "increase",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T6",
             "name": "breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -67,7 +67,7 @@
         {
             "id": "T9",
             "name": "BRCA2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -75,7 +75,7 @@
         {
             "id": "T8",
             "name": "rs11571833",
-            "group": 5,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -83,7 +83,7 @@
         {
             "id": "T10",
             "name": "rs11571833",
-            "group": 5,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -91,7 +91,7 @@
         {
             "id": "T11",
             "name": "European populations",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -99,7 +99,7 @@
         {
             "id": "T12",
             "name": "Latin American populations",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -107,7 +107,7 @@
         {
             "id": "T13",
             "name": "Indian populations",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -115,7 +115,7 @@
         {
             "id": "T14",
             "name": "Japanese populations",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20

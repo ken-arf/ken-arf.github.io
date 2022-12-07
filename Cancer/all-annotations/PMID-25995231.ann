@@ -1,0 +1,7 @@
+T1	SNP 778 787	rs4784227
+T2	Association 807 817	associated
+E1	Association:T2 bc:T3 snp_int:T1
+T3	Cancer 788 801	breast cancer
+T4	Gene_Regulation 841 849;859 877	affinity for the chromatin.
+E2	Gene_Regulation:T4 Theme:T5 Agent:T1
+T5	Entity 853 858	FOXA1

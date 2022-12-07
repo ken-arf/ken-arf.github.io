@@ -1,0 +1,319 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "nitric oxide",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 4,
+            "name": "dependent|dependent|dependent|dependent",
+            "group": 7
+        },
+        {
+            "id": 2,
+            "value": 5,
+            "name": "angiogenesis|angiogenesis|angiogenesis|angiogenesis|angiogenesis",
+            "group": 1
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "Nitric oxide",
+            "group": 4
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "NO",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "NO",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "vasculature",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "vascular endothelial growth factor",
+            "group": 9
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "VEGF",
+            "group": 9
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "induced",
+            "group": 7
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 1
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "NO",
+            "group": 4
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "metabolic pathway",
+            "group": 0
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "endothelial cells",
+            "group": 6
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 1
+        },
+        {
+            "id": 15,
+            "value": 3,
+            "name": "NO|NO|NO",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "mouse",
+            "group": 5
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "neovascularization",
+            "group": 1
+        },
+        {
+            "id": 18,
+            "value": 2,
+            "name": "mice|mice",
+            "group": 5
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "eNOS",
+            "group": 9
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "eNOS knockout mice",
+            "group": 5
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "knockout",
+            "group": 2
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "injected",
+            "group": 2
+        },
+        {
+            "id": 23,
+            "value": 2,
+            "name": "VEGF|VEGF",
+            "group": 9
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "stimulation",
+            "group": 7
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 1
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "NO",
+            "group": 4
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "injected",
+            "group": 2
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "inhibitory effect",
+            "group": 8
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "NOS",
+            "group": 9
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "N(G)-iminoethyl-L-ornithine",
+            "group": 4
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "mediated",
+            "group": 7
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "value": 2
+        },
+        {
+            "source": 27,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 2
+        }
+    ]
+}

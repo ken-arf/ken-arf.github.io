@@ -3,7 +3,7 @@
         {
             "id": "T5",
             "name": "Premenopausal",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -11,7 +11,7 @@
         {
             "id": "T2",
             "name": "HFE",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T1",
             "name": "polymorphisms",
-            "group": 3,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 22
@@ -27,7 +27,7 @@
         {
             "id": "T3",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T4",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -43,7 +43,7 @@
         {
             "id": "T6",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T8",
             "name": "examining",
-            "group": 6,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T12",
             "name": "prediagnostic plasma ferritin",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -67,7 +67,7 @@
         {
             "id": "T11",
             "name": "15 single-nucleotide polymorphisms",
-            "group": 3,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -75,7 +75,7 @@
         {
             "id": "T7",
             "name": "hemochromatosis",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -83,7 +83,7 @@
         {
             "id": "T10",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T9",
             "name": "risk",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -99,7 +99,7 @@
         {
             "id": "T13",
             "name": "HFE",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -107,7 +107,7 @@
         {
             "id": "T14",
             "name": "SNPs",
-            "group": 3,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T17",
             "name": "No significantly",
-            "group": 4,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 18
@@ -123,7 +123,7 @@
         {
             "id": "T15",
             "name": "HFE",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -131,7 +131,7 @@
         {
             "id": "T16",
             "name": "SNPs",
-            "group": 3,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -139,7 +139,7 @@
         {
             "id": "T18",
             "name": "associated",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T19",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T25",
             "name": "ferritin",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -163,7 +163,7 @@
         {
             "id": "T23",
             "name": "nominally",
-            "group": 4,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -171,7 +171,7 @@
         {
             "id": "T38",
             "name": "associated",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -179,7 +179,7 @@
         {
             "id": "T20",
             "name": "rs9366637",
-            "group": 3,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -187,7 +187,7 @@
         {
             "id": "T21",
             "name": "rs6918586",
-            "group": 3,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -195,7 +195,7 @@
         {
             "id": "T22",
             "name": "rs13161",
-            "group": 3,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 18
@@ -203,7 +203,7 @@
         {
             "id": "T24",
             "name": "not significant",
-            "group": 4,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 20
@@ -211,7 +211,7 @@
         {
             "id": "T26",
             "name": "Ferritin",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -219,7 +219,7 @@
         {
             "id": "T27",
             "name": "HFE",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -227,7 +227,7 @@
         {
             "id": "T28",
             "name": "SNPs",
-            "group": 3,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -235,7 +235,7 @@
         {
             "id": "T39",
             "name": "SNPs",
-            "group": 3,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -243,7 +243,7 @@
         {
             "id": "T29",
             "name": "not",
-            "group": 5,
+            "group": 4,
             "type": "Neg",
             "trigger": 0,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T30",
             "name": "associated",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 24
@@ -259,7 +259,7 @@
         {
             "id": "T31",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -267,7 +267,7 @@
         {
             "id": "T32",
             "name": "Components of red meat",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -275,7 +275,7 @@
         {
             "id": "T33",
             "name": "likely",
-            "group": 6,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -283,7 +283,7 @@
         {
             "id": "T34",
             "name": "association",
-            "group": 1,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -291,7 +291,7 @@
         {
             "id": "T35",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -299,7 +299,7 @@
         {
             "id": "T36",
             "name": "premenopausal",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -307,7 +307,7 @@
         {
             "id": "T37",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23

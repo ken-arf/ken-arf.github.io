@@ -4,103 +4,120 @@
             "id": 0,
             "value": 1,
             "name": "people",
-            "group": 4
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 1,
             "value": 1,
             "name": "rabbits",
-            "group": 4
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 2,
             "value": 1,
             "name": "blood",
-            "group": 0
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 3,
             "value": 2,
             "name": "alpha2 (I) collagen|alpha1 (V) collagen",
-            "group": 8
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 4,
             "value": 6,
             "name": "COL-I|COL-IV|COL-V|COL-IV|COL-I|COL-V",
-            "group": 8
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "type IV collagen",
-            "group": 8
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 6,
             "value": 1,
             "name": "vascular endothelial growth factor",
-            "group": 8
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 7,
             "value": 2,
             "name": "VEGF|VEGF",
-            "group": 8
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 8,
             "value": 1,
             "name": "expression",
-            "group": 9
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 9,
             "value": 1,
             "name": "promoting",
-            "group": 5
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 10,
             "value": 1,
             "name": "angiogenesis",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 11,
             "value": 1,
             "name": "activity",
-            "group": 5
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 12,
             "value": 1,
             "name": "effect",
-            "group": 3
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 13,
             "value": 1,
             "name": "matrix",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 14,
             "value": 1,
             "name": "remodeling",
-            "group": 7
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 15,
             "value": 1,
             "name": "rabbit",
-            "group": 4
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 16,
             "value": 1,
             "name": "ear",
-            "group": 6
+            "trigger": 0,
+            "group": 3
         }
     ],
     "links": [

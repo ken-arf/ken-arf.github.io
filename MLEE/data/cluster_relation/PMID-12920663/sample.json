@@ -4,187 +4,218 @@
             "id": 0,
             "value": 1,
             "name": "ocular",
-            "group": 11
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 1,
             "value": 3,
             "name": "angiogenic|angiogenic|angiogenic",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 2,
             "value": 2,
             "name": "pigment epithelium-derived factor|pigment epithelium-derived factor",
-            "group": 10
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 3,
             "value": 2,
             "name": "PEDF|PEDF",
-            "group": 10
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 4,
             "value": 5,
             "name": "aqueous humor|aqueous humor|Aqueous humor|aqueous humor|aqueous humor",
-            "group": 1
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 5,
             "value": 1,
             "name": "microvascular",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 6,
             "value": 1,
             "name": "eye",
-            "group": 11
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 7,
             "value": 1,
             "name": "collected",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 8,
             "value": 3,
             "name": "patients|patients|patients",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 9,
             "value": 1,
             "name": "controls",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 10,
             "value": 1,
             "name": "angiogenic",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "vascular endothelial growth factor",
-            "group": 10
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 12,
             "value": 3,
             "name": "VEGF|VEGF|VEGF",
-            "group": 10
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 13,
             "value": 1,
             "name": "angiogenic",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 14,
             "value": 2,
             "name": "Angiogenic|Angiogenic",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 15,
             "value": 1,
             "name": "effect",
-            "group": 4
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 16,
             "value": 1,
             "name": "migration",
-            "group": 2
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 17,
             "value": 1,
             "name": "capillary endothelial cells",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 18,
             "value": 1,
             "name": "aqueous fluid",
-            "group": 1
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 19,
             "value": 1,
             "name": "increased",
+            "trigger": 1,
             "group": 8
         },
         {
             "id": 20,
             "value": 7,
             "name": "PEDF|PEDF|PEDF|PEDF|PEDF|PEDF|PEDF",
-            "group": 10
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 21,
             "value": 1,
             "name": "decreased",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 22,
             "value": 1,
             "name": "decrease",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 23,
             "value": 1,
             "name": "patients",
-            "group": 6
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 24,
             "value": 1,
             "name": "inhibitory",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 25,
             "value": 1,
             "name": "inhibition",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 26,
             "value": 2,
             "name": "blocked|blocked",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 27,
             "value": 2,
             "name": "neutralizing antibodies to PEDF|antibodies to PEDF",
-            "group": 10
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 28,
             "value": 1,
             "name": "angiogenic",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 29,
             "value": 1,
             "name": "negative regulator",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 30,
             "value": 1,
             "name": "angiogenic",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         }
     ],
     "links": [

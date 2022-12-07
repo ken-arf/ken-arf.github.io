@@ -1,0 +1,228 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "multiple primary cancers",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "EMBP1",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 4,
+            "name": "rs11249433|rs11249433|rs11249433|rs11249433",
+            "group": 0
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "TOX3",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "rs3803662",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "significantly",
+            "group": 7
+        },
+        {
+            "id": 7,
+            "value": 2,
+            "name": "associated|associated",
+            "group": 6
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "IMPC|MPC",
+            "group": 4
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "associations",
+            "group": 2
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "removing",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 2,
+            "name": "subjects breast cancers|subjects lung cancers",
+            "group": 4
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "not",
+            "group": 5
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "significant",
+            "group": 7
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "heterogeneity",
+            "group": 2
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "smoking status",
+            "group": 4
+        },
+        {
+            "id": 16,
+            "value": 2,
+            "name": "risk variant|risk",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 7,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 0,
+            "value": 1
+        }
+    ]
+}

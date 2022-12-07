@@ -4,103 +4,120 @@
             "id": 0,
             "value": 1,
             "name": "Role",
-            "group": 6
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 1,
             "value": 3,
             "name": "fibrinolytic|fibrinolytic|fibrinolytic",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 2,
             "value": 2,
             "name": "matrix metalloproteinase|matrix metalloproteinase",
-            "group": 11
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 3,
             "value": 3,
             "name": "systems|systems|systems",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 4,
             "value": 1,
             "name": "development",
-            "group": 9
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 5,
             "value": 1,
             "name": "adipose tissue",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 6,
             "value": 1,
             "name": "cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 7,
             "value": 1,
             "name": "modifications",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 8,
             "value": 1,
             "name": "adipose tissue",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 9,
             "value": 1,
             "name": "angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 10,
             "value": 1,
             "name": "extracellular matrix",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 11,
             "value": 1,
             "name": "proteolysis",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 12,
             "value": 1,
             "name": "plasminogen",
-            "group": 11
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 13,
             "value": 1,
             "name": "plasmin",
-            "group": 11
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 14,
             "value": 2,
             "name": "MMP|MMP",
-            "group": 11
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 15,
             "value": 1,
             "name": "transgenic",
-            "group": 7
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 16,
             "value": 1,
             "name": "mice",
-            "group": 8
+            "trigger": 0,
+            "group": 10
         }
     ],
     "links": [

@@ -4,121 +4,141 @@
             "id": 0,
             "value": 4,
             "name": "ESR1|ESR1|ESR1|ESR1",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 1,
             "value": 3,
             "name": "EGF|EGF|EGF",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 2,
             "value": 2,
             "name": "genetic variation|genetic variation",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 3,
             "value": 1,
             "name": "in relation to",
-            "group": 6
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 4,
             "value": 4,
             "name": "breast cancer|breast cancer|breast cancer|breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 5,
             "value": 3,
             "name": "survival|survival|survival",
-            "group": 2
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 6,
             "value": 1,
             "name": "Oestrogen receptor alpha",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 7,
             "value": 1,
             "name": "if",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 8,
             "value": 2,
             "name": "genetic variation|genetic variation",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 9,
             "value": 1,
             "name": "affects",
-            "group": 6
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 10,
             "value": 2,
             "name": "tumour|tumour",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 11,
             "value": 2,
             "name": "characteristics|characteristics",
+            "trigger": 1,
             "group": 5
         },
         {
             "id": 12,
             "value": 1,
             "name": "Swedish",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 13,
             "value": 1,
             "name": "suggested",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 14,
             "value": 2,
             "name": "rs3003925|rs2144025",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 15,
             "value": 1,
             "name": "association",
-            "group": 6
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 16,
             "value": 1,
             "name": "not strong",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 17,
             "value": 1,
             "name": "support",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 18,
             "value": 1,
             "name": "association",
-            "group": 6
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 19,
             "value": 2,
             "name": "variants|variants",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         }
     ],
     "links": [

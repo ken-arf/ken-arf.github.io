@@ -4,228 +4,266 @@
             "id": 0,
             "value": 1,
             "name": "induced",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 1,
             "value": 2,
             "name": "coronary|coronary",
+            "trigger": 0,
             "group": 1
         },
         {
             "id": 2,
             "value": 2,
             "name": "angiogenesis|angiogenesis",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 3,
             "value": 1,
             "name": "dependent",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 4,
             "value": 2,
             "name": "vascular endothelial growth factor|vascular endothelial growth factor",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "VEGF",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 6,
             "value": 1,
             "name": "endothelial cell",
+            "trigger": 0,
             "group": 7
         },
         {
             "id": 7,
             "value": 1,
             "name": "angiogenesis",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 8,
             "value": 1,
             "name": "upregulated",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 9,
             "value": 1,
             "name": "heart",
-            "group": 11
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 10,
             "value": 1,
             "name": "rats",
-            "group": 5
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 11,
             "value": 1,
             "name": "administering",
-            "group": 4
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 12,
             "value": 7,
             "name": "alinidine|alinidine|alinidine|alinidine|alinidine|alinidine|alinidine",
-            "group": 6
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 13,
             "value": 1,
             "name": "Arterial",
+            "trigger": 0,
             "group": 1
         },
         {
             "id": 14,
             "value": 1,
             "name": "Left ventricular capillary",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 15,
             "value": 2,
             "name": "increased|increased",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 16,
             "value": 1,
             "name": "administration",
-            "group": 4
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 17,
             "value": 2,
             "name": "increase|increase",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 18,
             "value": 3,
             "name": "treatment|treatment|treatment",
-            "group": 4
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 19,
             "value": 1,
             "name": "Left ventricular",
+            "trigger": 0,
             "group": 1
         },
         {
             "id": 20,
             "value": 1,
             "name": "increase",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 21,
             "value": 1,
             "name": "capillary",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 22,
             "value": 5,
             "name": "VEGF|VEGF|VEGF|VEGF|VEGF",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 23,
             "value": 1,
             "name": "declined",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 24,
             "value": 1,
             "name": "treated",
-            "group": 4
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 25,
             "value": 1,
             "name": "rats",
-            "group": 5
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 26,
             "value": 1,
             "name": "increased",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 27,
             "value": 1,
             "name": "Injection",
-            "group": 4
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 28,
             "value": 1,
             "name": "VEGF-neutralizing antibodies",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 29,
             "value": 1,
             "name": "blocked",
-            "group": 9
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 30,
             "value": 1,
             "name": "stimulated",
-            "group": 8
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 31,
             "value": 1,
             "name": "angiogenesis",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 32,
             "value": 1,
             "name": "bFGF",
-            "group": 10
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 33,
             "value": 1,
             "name": "altered",
-            "group": 3
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 34,
             "value": 1,
             "name": "plays a key role",
-            "group": 3
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 35,
             "value": 1,
             "name": "angiogenic",
+            "trigger": 1,
             "group": 2
         },
         {
             "id": 36,
             "value": 1,
             "name": "associated",
-            "group": 3
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 37,
             "value": 1,
             "name": "angiogenesis",
+            "trigger": 1,
             "group": 2
         }
     ],

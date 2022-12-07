@@ -4,301 +4,351 @@
             "id": 0,
             "value": 2,
             "name": "Vascular endothelial growth factor-B|vascular endothelial growth factor-C",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 1,
             "value": 2,
             "name": "expression|expression",
-            "group": 16
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 2,
             "value": 2,
             "name": "renal cell carcinomas|renal cell cancers",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 3,
             "value": 2,
             "name": "von Hippel-Lindau|von Hippel-Lindau",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 4,
             "value": 1,
             "name": "Angiogenesis",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 5,
             "value": 1,
             "name": "essential",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 6,
             "value": 1,
             "name": "tumor",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 7,
             "value": 1,
             "name": "growth",
-            "group": 3
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 8,
             "value": 1,
             "name": "metastasis",
-            "group": 4
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 9,
             "value": 1,
             "name": "angiogenic",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 10,
             "value": 1,
             "name": "vascular endothelial growth factor",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 11,
             "value": 1,
             "name": "VEGF",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 12,
             "value": 13,
             "name": "VEGF-B|VEGF-C|VEGF-A|VEGF-B|VEGF-C|VEGF-B|VEGF-C|VEGF-C|VEGF-B|VEGF-B|VEGF-C|VEGF-B|VEGF-C",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 13,
             "value": 1,
             "name": "VEGF",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 14,
             "value": 1,
             "name": "bind",
-            "group": 9
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 15,
             "value": 10,
             "name": "flt-1|flt-4|flt-1|flt-4|flt-4|flt-1|flt-1|flt-4|flt-1|flt-4",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 16,
             "value": 3,
             "name": "VEGFR1|VEGFR2|VEGFR3",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 17,
             "value": 5,
             "name": "KDR|KDR|KDR|KDR|KDR",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 18,
             "value": 1,
             "name": "renal carcinomas",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 19,
             "value": 1,
             "name": "kidney tumors",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 20,
             "value": 1,
             "name": "RNase",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 21,
             "value": 1,
             "name": "normal kidney samples",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 22,
             "value": 2,
             "name": "up-regulation|up-regulation",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 23,
             "value": 1,
             "name": "neoplastic kidney",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 24,
             "value": 1,
             "name": "normal tissues",
-            "group": 1
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 25,
             "value": 1,
             "name": "VEGF receptors",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 26,
             "value": 1,
             "name": "tumors",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 27,
             "value": 1,
             "name": "kidney",
-            "group": 14
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 28,
             "value": 1,
             "name": "increase",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 29,
             "value": 1,
             "name": "clear cell",
+            "trigger": 0,
             "group": 12
         },
         {
             "id": 30,
             "value": 1,
             "name": "chromophil (papillary) carcinomas",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 31,
             "value": 2,
             "name": "patient|patient",
-            "group": 11
+            "trigger": 0,
+            "group": 16
         },
         {
             "id": 32,
             "value": 1,
             "name": "tumor",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 33,
             "value": 1,
             "name": "effect",
-            "group": 8
+            "trigger": 1,
+            "group": 15
         },
         {
             "id": 34,
             "value": 1,
             "name": "VHL",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 35,
             "value": 6,
             "name": "VEGF-B|VEGF-C|VEGF-A|VEGF-C|VEGF-C|VEGF-B",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 36,
             "value": 7,
             "name": "expression|expression|reduced|repression|regulated|regulating|regulate",
-            "group": 16
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 37,
             "value": 1,
             "name": "renal carcinoma",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 38,
             "value": 1,
             "name": "786-0",
+            "trigger": 0,
             "group": 12
         },
         {
             "id": 39,
             "value": 3,
             "name": "transfected|growing|cells",
-            "group": 10
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 40,
             "value": 5,
             "name": "VHL|VHL|VHL|VHL|VHL",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 41,
             "value": 2,
             "name": "wild-type VHL cells|mutant VHL cell lines",
+            "trigger": 0,
             "group": 12
         },
         {
             "id": 42,
             "value": 2,
             "name": "up-regulated|up-regulation",
-            "group": 13
+            "trigger": 1,
+            "group": 14
         },
         {
             "id": 43,
             "value": 3,
             "name": "clear cell carcinomas|clear cell tumors|clear cell tumors",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 44,
             "value": 3,
             "name": "angiogenesis|angiogenic|angiogenesis",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 45,
             "value": 1,
             "name": "lymphangiogenesis",
-            "group": 7
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 46,
             "value": 2,
             "name": "chromophil|papillary",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 47,
             "value": 1,
             "name": "VEGFR1",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 48,
             "value": 1,
             "name": "flt-l",
-            "group": 15
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 49,
             "value": 1,
             "name": "tumor",
-            "group": 5
+            "trigger": 0,
+            "group": 4
         }
     ],
     "links": [

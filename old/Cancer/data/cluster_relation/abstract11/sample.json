@@ -1,0 +1,292 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "evaluate",
+            "group": 2
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "risk",
+            "group": 5
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "genotype",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 2,
+            "name": "breast carcinogens|breast carcinogens",
+            "group": 4
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "ionizing radiation",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "United States cohort",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "Radiologic Technologists",
+            "group": 4
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "not significant",
+            "group": 6
+        },
+        {
+            "id": 8,
+            "value": 2,
+            "name": "radiation-related breast cancer|radiation-associated breast cancer",
+            "group": 1
+        },
+        {
+            "id": 9,
+            "value": 2,
+            "name": "radiation|radiation",
+            "group": 4
+        },
+        {
+            "id": 10,
+            "value": 2,
+            "name": "risk|risk",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "RAD51L1",
+            "group": 4
+        },
+        {
+            "id": 12,
+            "value": 4,
+            "name": "rs10483813|rs10941679|rs2067980|rs4415084",
+            "group": 0
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "14q24.1",
+            "group": 4
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "exploratory analyses",
+            "group": 2
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "significantly",
+            "group": 6
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "linked markers",
+            "group": 3
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "5p12",
+            "group": 4
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "rs930395",
+            "group": 0
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "mitochondrial ribosomal protein S30 gene",
+            "group": 4
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "MRPS30",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 12,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 19,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 9,
+            "value": 1
+        }
+    ]
+}

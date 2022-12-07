@@ -4,103 +4,120 @@
             "id": 0,
             "value": 4,
             "name": "Punica granatum|Punica granatum|Punica granatum|Punica granatum",
-            "group": 5
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 1,
             "value": 1,
             "name": "cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 2,
             "value": 1,
             "name": "seed",
-            "group": 9
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 3,
             "value": 1,
             "name": "juice",
-            "group": 1
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 4,
             "value": 4,
             "name": "peel|peels|peel|peel",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "leaf",
-            "group": 10
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 6,
             "value": 1,
             "name": "flower",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 7,
             "value": 1,
             "name": "bark",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 8,
             "value": 1,
             "name": "roots",
-            "group": 10
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "Juice",
-            "group": 1
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 10,
             "value": 2,
             "name": "juice|juice",
-            "group": 1
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 11,
             "value": 2,
             "name": "oil|oil",
-            "group": 1
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 12,
             "value": 1,
             "name": "tumor cell",
-            "group": 6
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 13,
             "value": 1,
             "name": "proliferation",
-            "group": 8
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 14,
             "value": 1,
             "name": "cell",
-            "group": 6
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 15,
             "value": 1,
             "name": "invasion",
-            "group": 2
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 16,
             "value": 1,
             "name": "angiogenesis",
-            "group": 4
+            "trigger": 1,
+            "group": 0
         }
     ],
     "links": [

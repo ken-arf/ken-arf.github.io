@@ -4,193 +4,225 @@
             "id": 0,
             "value": 2,
             "name": "Risk|Risk",
-            "group": 7
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 1,
             "value": 2,
             "name": "estrogen receptor|estrogen receptor",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 2,
             "value": 1,
             "name": "positive",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 3,
             "value": 3,
             "name": "negative breast cancer estrogen receptor-|breast cancer estrogen receptor-positive|estrogen receptor -positive breast cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 4,
             "value": 1,
             "name": "negative",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 5,
             "value": 3,
             "name": "2q35|2q35|2q35",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 6,
             "value": 6,
             "name": "rs13387042|rs13387042|rs13387042|rs13387042|rs13387042|rs13387042",
-            "group": 2
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 7,
             "value": 2,
             "name": "susceptibility|susceptibility",
-            "group": 7
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 8,
             "value": 1,
             "name": "ER",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 9,
             "value": 1,
             "name": "positive",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 10,
             "value": 1,
             "name": "women",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "evidence",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 12,
             "value": 1,
             "name": "association",
-            "group": 7
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 13,
             "value": 1,
             "name": "breast cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 14,
             "value": 1,
             "name": "white women of European origin",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 15,
             "value": 1,
             "name": "not",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 16,
             "value": 1,
             "name": "age",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 17,
             "value": 1,
             "name": "ethnicity",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 18,
             "value": 1,
             "name": "it",
-            "group": 7
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 19,
             "value": 1,
             "name": "higher",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 20,
             "value": 1,
             "name": "strong family history",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 21,
             "value": 2,
             "name": "association|association",
-            "group": 7
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 22,
             "value": 2,
             "name": "ER-positive disease|ER-positive",
-            "group": 3
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 23,
             "value": 2,
             "name": "ER|ER",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 24,
             "value": 3,
             "name": "positive|positive|positive",
-            "group": 6
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 25,
             "value": 3,
             "name": "ER-negative disease|PR-negative disease|ER-negative breast cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 26,
             "value": 3,
             "name": "negative|negative|negative",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 27,
             "value": 1,
             "name": "progesterone receptor positive disease",
-            "group": 3
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 28,
             "value": 1,
             "name": "progesterone receptor",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 29,
             "value": 1,
             "name": "PR",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 30,
             "value": 2,
             "name": "associated|associated",
-            "group": 7
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 31,
             "value": 1,
             "name": "European women",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         }
     ],
     "links": [

@@ -3,7 +3,7 @@
         {
             "id": "T7",
             "name": "Percent dense volume",
-            "group": 2,
+            "group": 3,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 19
@@ -11,7 +11,7 @@
         {
             "id": "T6",
             "name": "absolute dense volume",
-            "group": 2,
+            "group": 3,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 19
@@ -19,7 +19,7 @@
         {
             "id": "T1",
             "name": "rs10995190",
-            "group": 1,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -35,7 +35,7 @@
         {
             "id": "T3",
             "name": "rs9485372",
-            "group": 1,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -51,7 +51,7 @@
         {
             "id": "T5",
             "name": "rs9383938",
-            "group": 1,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -67,7 +67,7 @@
         {
             "id": "T13",
             "name": "rs2046210",
-            "group": 1,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -83,7 +83,7 @@
         {
             "id": "T20",
             "name": "absolute dense volume",
-            "group": 2,
+            "group": 3,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 20
@@ -91,7 +91,7 @@
         {
             "id": "T14",
             "name": "rs6001930",
-            "group": 1,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -107,7 +107,7 @@
         {
             "id": "T15",
             "name": "rs17356907",
-            "group": 1,
+            "group": 4,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -123,7 +123,7 @@
         {
             "id": "T21",
             "name": "non",
-            "group": 3,
+            "group": 2,
             "type": "Neg",
             "trigger": 0,
             "value": 24
@@ -131,7 +131,7 @@
         {
             "id": "T22",
             "name": "dense volume",
-            "group": 2,
+            "group": 3,
             "type": "Cell_types_tissues_affected",
             "trigger": 1,
             "value": 20
@@ -139,7 +139,7 @@
         {
             "id": "T23",
             "name": "estimates weaker",
-            "group": 4,
+            "group": 1,
             "type": "Spec",
             "trigger": 0,
             "value": 20

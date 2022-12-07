@@ -4,145 +4,169 @@
             "id": 0,
             "value": 1,
             "name": "localization",
-            "group": 2
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 1,
             "value": 1,
             "name": "mitochondrial ATP synthase",
-            "group": 12
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 2,
             "value": 1,
             "name": "target",
-            "group": 6
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 3,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 4,
             "value": 1,
             "name": "intervention",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 5,
             "value": 5,
             "name": "angiostatin|angiostatin|angiostatin|angiostatin|angiostatin",
-            "group": 12
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 6,
             "value": 1,
             "name": "identified",
-            "group": 2
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 7,
             "value": 1,
             "name": "endothelial cells",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 8,
             "value": 1,
             "name": "F(1)-F(0) ATP synthase",
-            "group": 12
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 9,
             "value": 3,
             "name": "ATP synthase|ATP synthase|ATP synthase",
-            "group": 12
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 10,
             "value": 1,
             "name": "catalyzes",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 11,
             "value": 3,
             "name": "ATP|ATP|ATP",
-            "group": 8
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 12,
             "value": 2,
             "name": "synthesis|synthesis",
-            "group": 0
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 13,
             "value": 1,
             "name": "inhibited",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 14,
             "value": 2,
             "name": "Endothelial cells|endothelial cells",
+            "trigger": 0,
             "group": 9
         },
         {
             "id": 15,
             "value": 2,
             "name": "grown|grown",
-            "group": 1
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 16,
             "value": 1,
             "name": "inhibition",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 17,
             "value": 1,
             "name": "tumor",
-            "group": 3
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 18,
             "value": 1,
             "name": "Angiostatin",
-            "group": 12
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 19,
             "value": 1,
             "name": "inhibits",
-            "group": 11
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 20,
             "value": 1,
             "name": "hydrolysis",
-            "group": 4
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 21,
             "value": 1,
             "name": "administered",
-            "group": 7
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 22,
             "value": 2,
             "name": "angiostatin-mimetics|angiostatin-mimetic",
-            "group": 8
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 23,
             "value": 1,
             "name": "polyclonal antibody against the beta catalytic subunit of ATP synthase",
-            "group": 12
+            "trigger": 0,
+            "group": 6
         }
     ],
     "links": [

@@ -4,307 +4,358 @@
             "id": 0,
             "value": 1,
             "name": "Inhibition",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 1,
             "value": 1,
             "name": "PDGF",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 2,
             "value": 1,
             "name": "stimulated",
-            "group": 11
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 3,
             "value": 1,
             "name": "matrix",
+            "trigger": 0,
             "group": 1
         },
         {
             "id": 4,
             "value": 1,
             "name": "mediated",
-            "group": 11
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 5,
             "value": 1,
             "name": "proliferation",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 6,
             "value": 2,
             "name": "human|human",
-            "group": 5
+            "trigger": 0,
+            "group": 12
         },
         {
             "id": 7,
             "value": 5,
             "name": "vascular smooth muscle cells|arterial smooth muscle cell|smooth muscle cells|smooth muscle cell|smooth muscle cell",
-            "group": 9
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 8,
             "value": 7,
             "name": "SPARC|SPARC|SPARC|SPARC|SPARC|SPARC|SPARC",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 9,
             "value": 1,
             "name": "independent",
-            "group": 2
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 10,
             "value": 1,
             "name": "changes",
-            "group": 10
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 11,
             "value": 2,
             "name": "cell|cell",
-            "group": 9
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 12,
             "value": 4,
             "name": "cyclin-dependent kinase inhibitors|cyclin-dependent kinase inhibitors|Cyclin-dependent kinase-2|cyclin-dependent kinase-2",
-            "group": 6
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 13,
             "value": 1,
             "name": "Interactions",
-            "group": 3
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 14,
             "value": 1,
             "name": "cells",
-            "group": 9
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 15,
             "value": 1,
             "name": "extracellular matrix",
+            "trigger": 0,
             "group": 1
         },
         {
             "id": 16,
             "value": 1,
             "name": "regulate",
-            "group": 2
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 17,
             "value": 1,
             "name": "proliferation",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 18,
             "value": 1,
             "name": "SPARC",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 19,
             "value": 1,
             "name": "secreted protein, acidic, and rich in cysteine",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 20,
             "value": 1,
             "name": "matrix",
+            "trigger": 0,
             "group": 1
         },
         {
             "id": 21,
             "value": 1,
             "name": "associated",
-            "group": 3
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 22,
             "value": 1,
             "name": "modulates",
-            "group": 2
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 23,
             "value": 1,
             "name": "adhesion",
-            "group": 3
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 24,
             "value": 1,
             "name": "proliferation",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 25,
             "value": 1,
             "name": "vascular cells",
-            "group": 9
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 26,
             "value": 1,
             "name": "inhibits",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 27,
             "value": 3,
             "name": "proliferation|proliferation|proliferation",
-            "group": 0
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 28,
             "value": 1,
             "name": "stimulated",
-            "group": 11
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 29,
             "value": 2,
             "name": "platelet-derived growth factor|platelet-derived growth factor",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 30,
             "value": 1,
             "name": "adhesion",
-            "group": 3
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 31,
             "value": 1,
             "name": "monomeric type I collagen",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 32,
             "value": 1,
             "name": "Binding",
-            "group": 3
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 33,
             "value": 1,
             "name": "SPARC peptides",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 34,
             "value": 1,
             "name": "interaction",
-            "group": 3
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 35,
             "value": 1,
             "name": "C-terminal Ca2+-binding region",
-            "group": 4
+            "trigger": 0,
+            "group": 13
         },
         {
             "id": 36,
             "value": 1,
             "name": "arrests",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 37,
             "value": 2,
             "name": "collagen|collagen",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 38,
             "value": 1,
             "name": "supported",
-            "group": 11
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 39,
             "value": 1,
             "name": "cell",
-            "group": 9
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 40,
             "value": 1,
             "name": "effect",
-            "group": 2
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 41,
             "value": 1,
             "name": "p107",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 42,
             "value": 1,
             "name": "cyclin A",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 43,
             "value": 1,
             "name": "retinoblastoma protein",
-            "group": 13
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 44,
             "value": 1,
             "name": "phosphorylation",
-            "group": 8
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 45,
             "value": 1,
             "name": "reduced",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 46,
             "value": 1,
             "name": "response",
-            "group": 11
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 47,
             "value": 1,
             "name": "addition",
-            "group": 7
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 48,
             "value": 1,
             "name": "binding",
-            "group": 3
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 49,
             "value": 1,
             "name": "antagonizes",
-            "group": 12
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 50,
             "value": 1,
             "name": "mediated",
-            "group": 2
+            "trigger": 1,
+            "group": 11
         }
     ],
     "links": [

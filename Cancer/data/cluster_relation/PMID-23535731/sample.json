@@ -4,247 +4,288 @@
             "id": 0,
             "value": 1,
             "name": "Multiple variants",
-            "group": 1
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 1,
             "value": 2,
             "name": "independent|independent",
-            "group": 5
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 2,
             "value": 2,
             "name": "TERT|TERT",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 3,
             "value": 1,
             "name": "telomere",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 4,
             "value": 1,
             "name": "length",
-            "group": 2
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "risks",
-            "group": 8
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 6,
             "value": 1,
             "name": "cancer breast",
-            "group": 3
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 7,
             "value": 1,
             "name": "SNPs",
-            "group": 1
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 8,
             "value": 2,
             "name": "leukocyte|leukocyte",
+            "trigger": 1,
             "group": 7
         },
         {
             "id": 9,
             "value": 1,
             "name": "telomere",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 10,
             "value": 1,
             "name": "measures",
-            "group": 2
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 11,
             "value": 3,
             "name": "minor allele at the peak 1|minor allele at the peak 2|minor alleles at the peak 3",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 12,
             "value": 2,
             "name": "rs2736108|rs7705526",
-            "group": 1
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 13,
             "value": 4,
             "name": "longer|longer|longer|longer",
-            "group": 2
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 14,
             "value": 2,
             "name": "telomeres|telomeres",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 15,
             "value": 1,
             "name": "lower",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 16,
             "value": 2,
             "name": "risks|risks",
-            "group": 8
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 17,
             "value": 1,
             "name": "estrogen receptor",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 18,
             "value": 1,
             "name": "estrogen receptor (ER)-negative",
-            "group": 3
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 19,
             "value": 1,
             "name": "ER",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 20,
             "value": 2,
             "name": "negative|negative",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 21,
             "value": 2,
             "name": "BRCA1 mutation carrier breast cancers|BRCA1 mutation carrier breast cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 22,
             "value": 1,
             "name": "altered assay signal",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 23,
             "value": 1,
             "name": "promoter",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 24,
             "value": 1,
             "name": "greater",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 25,
             "value": 1,
             "name": "promoter",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 26,
             "value": 1,
             "name": "activity",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 27,
             "value": 2,
             "name": "rs10069690|rs10069690",
-            "group": 1
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 28,
             "value": 2,
             "name": "rs2242652|rs2242652",
-            "group": 1
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 29,
             "value": 1,
             "name": "increase",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 30,
             "value": 1,
             "name": "ER-negative breast cancer",
-            "group": 3
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 31,
             "value": 1,
             "name": "ER",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 32,
             "value": 2,
             "name": "risks|risks",
-            "group": 8
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 33,
             "value": 1,
             "name": "not",
+            "trigger": 0,
             "group": 10
         },
         {
             "id": 34,
             "value": 1,
             "name": "altered length",
-            "group": 2
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 35,
             "value": 1,
             "name": "telomere",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 36,
             "value": 1,
             "name": "cancer risk alleles",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 37,
             "value": 1,
             "name": "increase",
-            "group": 9
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 38,
             "value": 1,
             "name": "silencing",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 39,
             "value": 1,
             "name": "truncated",
-            "group": 2
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 40,
             "value": 1,
             "name": "TERT splice variant",
-            "group": 6
+            "trigger": 0,
+            "group": 1
         }
     ],
     "links": [

@@ -1,0 +1,203 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "Morphogenesis",
+            "group": 7
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "embryonic CNS vessels",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "blood vessel",
+            "group": 0
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "formation",
+            "group": 7
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "central nervous system",
+            "group": 4
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "CNS",
+            "group": 4
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "brain",
+            "group": 10
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "spinal cord",
+            "group": 10
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "avian",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "embryos",
+            "group": 9
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "cell",
+            "group": 6
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "proliferation",
+            "group": 8
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "interactions",
+            "group": 3
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "endothelial cells",
+            "group": 6
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "pericytes",
+            "group": 6
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "smooth muscle cells",
+            "group": 6
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "macrophages",
+            "group": 6
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "control",
+            "group": 2
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "CNS",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "angiogenesis",
+            "group": 1
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "assembly",
+            "group": 7
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "vasculature",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 2
+        }
+    ]
+}

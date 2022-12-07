@@ -4,91 +4,106 @@
             "id": 0,
             "value": 2,
             "name": "Collagen|collagen",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 1,
             "value": 2,
             "name": "poly glycolic acid|poly glycolic acid",
-            "group": 2
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 2,
             "value": 2,
             "name": "basic fibroblast growth factor|basic fibroblast growth factor",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 3,
             "value": 1,
             "name": "accelerated",
-            "group": 5
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 4,
             "value": 2,
             "name": "angiogenesis|angiogenesis",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 5,
             "value": 2,
             "name": "granulation tissue|granulation tissue",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 6,
             "value": 2,
             "name": "formation|formation",
-            "group": 4
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 7,
             "value": 1,
             "name": "mice",
-            "group": 3
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 8,
             "value": 2,
             "name": "skin|skin",
-            "group": 8
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "impaired",
-            "group": 6
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 10,
             "value": 2,
             "name": "angiogenesis|angiogenesis",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "improve",
-            "group": 5
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 12,
             "value": 1,
             "name": "Lepr(db) mice",
-            "group": 3
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 13,
             "value": 1,
             "name": "Lepr",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 14,
             "value": 1,
             "name": "promotes",
-            "group": 5
+            "trigger": 1,
+            "group": 7
         }
     ],
     "links": [

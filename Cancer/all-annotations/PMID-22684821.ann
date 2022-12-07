@@ -1,0 +1,107 @@
+T1	Entity 21 47	base excision repair genes
+T2	SNP 0 17	Germline variants
+R1	SNP_coupled_gene Arg1:T2 Arg2:T1	
+T3	Cancer 52 65	breast cancer
+T4	Association 48 51	and
+E1	Association:T4 bc:T3 snp_int:T2
+T5	SNP 69 81	polymorphism
+T6	Entity 85 105	DNA polymerase gamma
+T7	Gene_Regulation 115 130	gene expression
+E2	Gene_Regulation:T7 Agent:T5 Theme:T6
+R2	SNP_coupled_gene Arg1:T5 Arg2:T6	
+T8	Association 149 153	risk
+E3	Association:T8 bc:T9 snp_int:T5
+T9	Cancer 135 148	breast cancer
+T10	SNP 309 326	Genetic variation
+T11	Entity 156 176	Base excision repair
+T12	Entity 352 355	BER
+R3	Equiv Arg1:T12 Arg2:T11	
+T13	Spec 356 361	might
+T14	Effect_Type 367 375	increase
+T15	Association 390 394	risk
+E4	Association:T15 bc:T16 snp_int:T10
+A1	Effect_Type E4 Increase
+R4	Effect_type_marker Arg1:E4 Arg2:T14	
+R5	Speculation_marker Arg1:E4 Arg2:T13	
+T16	Cancer 376 389	breast cancer
+T17	Patho_physiology 352 355	BER
+E5	Patho_physiology:T17 Agent:T10
+R6	SNP_coupled_gene Arg1:T10 Arg2:T1	
+T18	Level 863 874	Significant
+T19	Association 875 887	associations
+E6	Association:T19 snp_int:T20 bc:T21
+A2	Level E6 High
+R7	Level_marker Arg1:E6 Arg2:T18	
+T20	SNP 896 909	polymorphisms
+T21	Cancer 914 927	breast cancer
+T22	SNP 948 955	one SNP
+T23	Entity 959 964	PARP2
+R8	SNP_coupled_gene Arg1:T22 Arg2:T23	
+T24	SNP 969 979	three SNPs
+T26	Entity 1023 1027	POLG
+R10	SNP_coupled_gene Arg1:T24 Arg2:T26	
+R11	Member Arg1:T20 Arg2:T22	
+R12	Member Arg1:T20 Arg2:T24	
+T25	Entity 1042 1050	promoter
+T27	Entity 1061 1065	POLG
+T28	SNP 1067 1076	rs2856268
+R9	SNP_coupled_gene Arg1:T28 Arg2:T27	
+R13	SNP_location Arg1:T28 Arg2:T25	
+T29	Entity 1078 1081	A>G
+R14	Nucleotide_substitution Arg1:T28 Arg2:T29	
+T30	Entity 1125 1127	GG
+R15	Genotype Arg1:T28 Arg2:T30	
+T31	Association 1092 1109	protective effect
+E7	Association:T31 bc:T21 snp_int:T28
+T32	Organic_inorganic_molecules_affected 1393 1399	levels
+E8	Organic_inorganic_molecules_affected:T32 Agent:T35 Theme:T38
+T33	Effect_Type 1381 1387	higher
+R16	Effect_type_marker Arg1:E8 Arg2:T33	
+A3	Level E8 High
+T35	SNP 1404 1413	rs2856268
+T36	Entity 1414 1416	GG
+R17	Genotype Arg1:T35 Arg2:T36	
+T37	Entity 1349 1362	breast cancer
+R18	Risk_Factor Arg1:T35 Arg2:T37	
+T38	Entity 1306 1315	POLG mRNA
+T39	Spec 1585 1592	suggest
+T40	SNP 1598 1615	genetic variation
+T41	Entity 1623 1627	POLG
+T42	Entity 1628 1636	promoter
+R19	SNP_coupled_gene Arg1:T40 Arg2:T41	
+R20	SNP_location Arg1:T40 Arg2:T42	
+T43	Organic_inorganic_molecules_affected 1673 1679	levels
+E9	Organic_inorganic_molecules_affected:T43 Theme:T45 Agent:T40
+T34	Gene_Regulation 1388 1399	mRNA levels
+E10	Gene_Regulation:T34 Theme:T44 Agent:T35
+R21	Effect_type_marker Arg1:E10 Arg2:T33	
+A4	Level E10 High
+T44	Entity 1306 1310	POLG
+T45	Entity 1652 1672	DNA polymerase gamma
+T46	Entity 987 1021	mitochondrial DNA polymerase gamma
+R22	Equiv Arg1:T45 Arg2:T46	
+R23	Speculation_marker Arg1:E9 Arg2:T39	
+T47	Spec 1702 1718	could contribute
+T48	Effect_Type 1735 1743	increase
+T49	Other_effect 1747 1779	mitochondrial mutation frequency
+E11	Other_effect:T49 Agent:T40
+R24	Effect_type_marker Arg1:E11 Arg2:T48	
+T50	Association 1809 1816	altered
+E12	Association:T50 bc:T51 snp_int:T40
+T51	Cancer 1817 1830	breast cancer
+A5	Effect_Type E11 Increase
+T52	Patho_physiology 1793 1804	dysfunction
+E13	Patho_physiology:T52 Agent:T40
+R25	Speculation_marker Arg1:E11 Arg2:T47	
+R26	Speculation_marker Arg1:E13 Arg2:T47	
+R27	Speculation_marker Arg1:E12 Arg2:T47	
+T53	Entity 1888 1896	promoter
+T54	Entity 1883 1887	POLG
+T55	SNP 1897 1904	variant
+R28	SNP_location Arg1:T55 Arg2:T53	
+R29	SNP_coupled_gene Arg1:T55 Arg2:T54	
+R30	Member Arg1:T24 Arg2:T28	
+R31	Equiv Arg1:T28 Arg2:T35	
+R32	Member Arg1:T40 Arg2:T35	
+R33	Equiv Arg1:T55 Arg2:T40	
+R34	Equiv Arg1:T5 Arg2:T28	

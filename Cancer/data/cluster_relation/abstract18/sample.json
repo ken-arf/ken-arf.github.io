@@ -4,49 +4,57 @@
             "id": 0,
             "value": 1,
             "name": "associated",
-            "group": 3
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 1,
             "value": 1,
             "name": "breast cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 2,
             "value": 2,
             "name": "rs3803662|rs10941679",
-            "group": 1
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 3,
             "value": 1,
             "name": "16q12.2",
-            "group": 0
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 4,
             "value": 1,
             "name": "TOX3",
-            "group": 0
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 5,
             "value": 1,
             "name": "T allele",
-            "group": 0
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 6,
             "value": 1,
             "name": "5p12",
-            "group": 0
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 7,
             "value": 1,
             "name": "G allele",
-            "group": 0
+            "trigger": 0,
+            "group": 1
         }
     ],
     "links": [

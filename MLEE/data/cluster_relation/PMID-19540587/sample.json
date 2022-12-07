@@ -4,295 +4,344 @@
             "id": 0,
             "value": 1,
             "name": "modulation",
-            "group": 6
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 1,
             "value": 1,
             "name": "platelet",
-            "group": 12
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 2,
             "value": 1,
             "name": "endothelial cell",
-            "group": 12
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 3,
             "value": 2,
             "name": "adhesion|adhesion",
-            "group": 7
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 4,
             "value": 1,
             "name": "vascular graft",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 5,
             "value": 8,
             "name": "perlecan|perlecan|perlecan|perlecan|Perlecan|Perlecan|perlecan|perlecan",
-            "group": 15
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 6,
             "value": 1,
             "name": "Controlled",
-            "group": 6
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 7,
             "value": 1,
             "name": "neo-endothelialisation",
-            "group": 5
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 8,
             "value": 1,
             "name": "vascular grafts",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "Endothelialisation",
-            "group": 5
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 10,
             "value": 2,
             "name": "platelet|platelet",
-            "group": 12
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 11,
             "value": 1,
             "name": "endothelial cell",
-            "group": 12
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 12,
             "value": 1,
             "name": "heparan sulfate (HS) proteoglycan",
-            "group": 15
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 13,
             "value": 1,
             "name": "basement membranes",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 14,
             "value": 1,
             "name": "polytetrafluoroethylene",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 15,
             "value": 1,
             "name": "PTFE",
-            "group": 9
+            "trigger": 0,
+            "group": 11
         },
         {
             "id": 16,
             "value": 1,
             "name": "vascular grafts",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 17,
             "value": 1,
             "name": "coated",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 18,
             "value": 1,
             "name": "Enhanced",
-            "group": 13
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 19,
             "value": 3,
             "name": "endothelial cell|endothelial cell|endothelial cell",
-            "group": 12
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 20,
             "value": 1,
             "name": "growth",
-            "group": 14
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 21,
             "value": 1,
             "name": "reduced",
-            "group": 0
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 22,
             "value": 1,
             "name": "adhesion",
-            "group": 7
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 23,
             "value": 1,
             "name": "coated",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 24,
             "value": 1,
             "name": "grafts",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 25,
             "value": 1,
             "name": "uncoated",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 26,
             "value": 1,
             "name": "implanted",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 27,
             "value": 1,
             "name": "sheep",
-            "group": 10
+            "trigger": 0,
+            "group": 14
         },
         {
             "id": 28,
             "value": 1,
             "name": "stimulate",
-            "group": 13
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 29,
             "value": 1,
             "name": "proliferation",
-            "group": 14
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 30,
             "value": 1,
             "name": "presence",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 31,
             "value": 1,
             "name": "plasma",
-            "group": 2
+            "trigger": 0,
+            "group": 15
         },
         {
             "id": 32,
             "value": 1,
             "name": "fibroblastic growth factor 2",
-            "group": 15
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 33,
             "value": 2,
             "name": "FGF-2|FGF-2",
-            "group": 15
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 34,
             "value": 1,
             "name": "absence",
-            "group": 1
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 35,
             "value": 1,
             "name": "endothelial cell",
-            "group": 12
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 36,
             "value": 1,
             "name": "growth",
-            "group": 14
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 37,
             "value": 1,
             "name": "anti-adhesive",
-            "group": 7
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 38,
             "value": 1,
             "name": "platelets",
-            "group": 12
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 39,
             "value": 1,
             "name": "platelet",
-            "group": 12
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 40,
             "value": 1,
             "name": "adhesion",
-            "group": 7
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 41,
             "value": 1,
             "name": "aggregation",
-            "group": 7
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 42,
             "value": 1,
             "name": "HS chains",
-            "group": 11
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 43,
             "value": 1,
             "name": "graft",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 44,
             "value": 1,
             "name": "promoting",
-            "group": 13
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 45,
             "value": 1,
             "name": "proliferation",
-            "group": 14
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 46,
             "value": 1,
             "name": "modulating",
-            "group": 6
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 47,
             "value": 1,
             "name": "platelet",
-            "group": 12
+            "trigger": 0,
+            "group": 9
         },
         {
             "id": 48,
             "value": 1,
             "name": "adhesion",
-            "group": 7
+            "trigger": 1,
+            "group": 10
         }
     ],
     "links": [

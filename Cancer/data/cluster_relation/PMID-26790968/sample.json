@@ -4,151 +4,176 @@
             "id": 0,
             "value": 1,
             "name": "Polymorphic Variants",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 1,
             "value": 1,
             "name": "Oxidative Stress",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 2,
             "value": 1,
             "name": "and",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 3,
             "value": 1,
             "name": "Acute Toxicity",
-            "group": 6
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 4,
             "value": 2,
             "name": "Breast Cancer|breast cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 5,
             "value": 1,
             "name": "Radiotherapy",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 6,
             "value": 1,
             "name": "Reactive oxygen species",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 7,
             "value": 1,
             "name": "radiation therapy",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 8,
             "value": 1,
             "name": "Genetic variation",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 9,
             "value": 1,
             "name": "genes ROS metabolism",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 10,
             "value": 1,
             "name": "ROS",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "may",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 12,
             "value": 1,
             "name": "RT",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 13,
             "value": 1,
             "name": "adverse effects",
-            "group": 6
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 14,
             "value": 1,
             "name": "potential",
-            "group": 3
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 15,
             "value": 1,
             "name": "association",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 16,
             "value": 1,
             "name": "single nucleotide polymorphism",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 17,
             "value": 1,
             "name": "SNP",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 18,
             "value": 1,
             "name": "radiotherapy",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 19,
             "value": 1,
             "name": "injury",
-            "group": 6
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 20,
             "value": 1,
             "name": "significant association",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 21,
             "value": 1,
             "name": "NOS3",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 22,
             "value": 1,
             "name": "G894T",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 23,
             "value": 1,
             "name": "grade \u2265 2 acute radiation skin toxicity",
-            "group": 6
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 24,
             "value": 1,
             "name": "neo-adjuvant chemotherapy",
-            "group": 4
+            "trigger": 0,
+            "group": 1
         }
     ],
     "links": [

@@ -1,0 +1,427 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 4,
+            "name": "microRNA-binding site|miRNA-binding site|miRNA-binding sites|miRNA-binding site",
+            "group": 4
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "polymorphisms",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 3,
+            "name": "DNA repair genes|20 DNA repair genes|DNA repair gene",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "risk factors",
+            "group": 5
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 2
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "their",
+            "group": 0
+        },
+        {
+            "id": 6,
+            "value": 2,
+            "name": "radiotherapy outcomes|radiotherapy",
+            "group": 7
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "messenger RNAs",
+            "group": 4
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "single-nucleotide polymorphism",
+            "group": 0
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "SNP",
+            "group": 0
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "could",
+            "group": 3
+        },
+        {
+            "id": 11,
+            "value": 2,
+            "name": "mRNA translation|mRNA",
+            "group": 1
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "influence",
+            "group": 5
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "cancer",
+            "group": 2
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "treatment response",
+            "group": 7
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "SNPs",
+            "group": 0
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "3'-untranslated regions",
+            "group": 4
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "putative",
+            "group": 3
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "PARP-1",
+            "group": 4
+        },
+        {
+            "id": 19,
+            "value": 3,
+            "name": "rs8679|rs8679|rs8679",
+            "group": 0
+        },
+        {
+            "id": 20,
+            "value": 2,
+            "name": "PARP1|PARP1",
+            "group": 4
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "homozygotes",
+            "group": 4
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "increased",
+            "group": 6
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 2
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "risk",
+            "group": 5
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "radiotherapy",
+            "group": 4
+        },
+        {
+            "id": 26,
+            "value": 1,
+            "name": "RAD51",
+            "group": 4
+        },
+        {
+            "id": 27,
+            "value": 1,
+            "name": "rs7180135",
+            "group": 0
+        },
+        {
+            "id": 28,
+            "value": 1,
+            "name": "minor allele",
+            "group": 4
+        },
+        {
+            "id": 29,
+            "value": 1,
+            "name": "improved",
+            "group": 6
+        },
+        {
+            "id": 30,
+            "value": 1,
+            "name": "cancer",
+            "group": 4
+        },
+        {
+            "id": 31,
+            "value": 1,
+            "name": "survival",
+            "group": 7
+        },
+        {
+            "id": 32,
+            "value": 1,
+            "name": "associations",
+            "group": 5
+        },
+        {
+            "id": 33,
+            "value": 2,
+            "name": "SNPs|SNPs",
+            "group": 0
+        },
+        {
+            "id": 34,
+            "value": 1,
+            "name": "breast cancer",
+            "group": 2
+        },
+        {
+            "id": 35,
+            "value": 2,
+            "name": "radiotherapy outcomes|radiotherapy",
+            "group": 7
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 3,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 11,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 9,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 23,
+            "value": 2
+        },
+        {
+            "source": 24,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 30,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 34,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 34,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 10,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 0,
+            "target": 17,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 18,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 31,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "source": 33,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 33,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 33,
+            "target": 35,
+            "value": 1
+        }
+    ]
+}

@@ -4,79 +4,92 @@
             "id": 0,
             "value": 1,
             "name": "Reproductive aging",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 1,
             "value": 1,
             "name": "genetic variants",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 2,
             "value": 1,
             "name": "risk",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 3,
             "value": 3,
             "name": "breast cancer|breast cancer|breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 4,
             "value": 1,
             "name": "white women of European ancestry",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 5,
             "value": 3,
             "name": "age at menarche|age at natural menopause|age at menarche",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 6,
             "value": 3,
             "name": "rs1079866|rs7821178|rs2517388",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 7,
             "value": 2,
             "name": "associated|associated",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 8,
             "value": 1,
             "name": "These associations",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 9,
             "value": 1,
             "name": "suggests",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 10,
             "value": 1,
             "name": "three genetic variants",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 11,
             "value": 1,
             "name": "independent",
+            "trigger": 0,
             "group": 5
         },
         {
             "id": 12,
             "value": 1,
             "name": "natural menopause",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         }
     ],
     "links": [

@@ -1,0 +1,282 @@
+{
+    "nodes": [
+        {
+            "id": "T15",
+            "name": "breast cancer",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T16",
+            "name": "two risk alleles",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T21",
+            "name": "risk",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T17",
+            "name": "1p11.2",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T18",
+            "name": "14q24.1",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T19",
+            "name": "RAD51L1",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 17
+        },
+        {
+            "id": "T20",
+            "name": "pericentromeric",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 21
+        },
+        {
+            "id": "T2",
+            "name": "1p11.2",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 15
+        },
+        {
+            "id": "T1",
+            "name": "rs11249433",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T3",
+            "name": "NOTCH2",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T4",
+            "name": "FCGR1B",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T5",
+            "name": "stronger",
+            "group": 2,
+            "type": "Association",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T11",
+            "name": "stronger",
+            "group": 7,
+            "type": "Level",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T14",
+            "name": "stronger",
+            "group": 5,
+            "type": "Organic_inorganic_molecules_affected",
+            "trigger": 1,
+            "value": 23
+        },
+        {
+            "id": "T6",
+            "name": "estrogen-receptor-positive tumors",
+            "group": 0,
+            "type": "Cancer",
+            "trigger": 0,
+            "value": 19
+        },
+        {
+            "id": "T12",
+            "name": "estrogen-receptor",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 20
+        },
+        {
+            "id": "T13",
+            "name": "positive",
+            "group": 4,
+            "type": "Effect_Type",
+            "trigger": 0,
+            "value": 23
+        },
+        {
+            "id": "T8",
+            "name": "14q24.1",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 16
+        },
+        {
+            "id": "T7",
+            "name": "rs999737",
+            "group": 6,
+            "type": "SNP",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T9",
+            "name": "RAD51L1",
+            "group": 3,
+            "type": "Entity",
+            "trigger": 0,
+            "value": 18
+        },
+        {
+            "id": "T10",
+            "name": "homologous recombination DNA repair",
+            "group": 1,
+            "type": "Patho_physiology",
+            "trigger": 1,
+            "value": 17
+        }
+    ],
+    "links": [
+        {
+            "source": "T5",
+            "target": "T1",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T5",
+            "target": "T6",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T10",
+            "target": "T7",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T14",
+            "target": "T12",
+            "value": 2,
+            "link_name": "Theme"
+        },
+        {
+            "source": "T14",
+            "target": "T1",
+            "value": 2,
+            "link_name": "Agent"
+        },
+        {
+            "source": "T21",
+            "target": "T16",
+            "value": 2,
+            "link_name": "snp_int"
+        },
+        {
+            "source": "T21",
+            "target": "T15",
+            "value": 2,
+            "link_name": "bc"
+        },
+        {
+            "source": "T1",
+            "target": "T2",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T1",
+            "target": "T3",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T1",
+            "target": "T4",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T7",
+            "target": "T8",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T7",
+            "target": "T9",
+            "value": 1,
+            "link_name": "SNP_coupled_gene"
+        },
+        {
+            "source": "T5",
+            "target": "T11",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T14",
+            "target": "T11",
+            "value": 1,
+            "link_name": "Level_marker"
+        },
+        {
+            "source": "T14",
+            "target": "T13",
+            "value": 1,
+            "link_name": "Effect_type_marker"
+        },
+        {
+            "source": "T1",
+            "target": "T20",
+            "value": 1,
+            "link_name": "SNP_location"
+        },
+        {
+            "source": "T16",
+            "target": "T1",
+            "value": 1,
+            "link_name": "Member"
+        },
+        {
+            "source": "T16",
+            "target": "T7",
+            "value": 1,
+            "link_name": "Member"
+        }
+    ]
+}

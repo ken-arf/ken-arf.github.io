@@ -4,217 +4,253 @@
             "id": 0,
             "value": 2,
             "name": "Heparin|Heparin",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 1,
             "value": 9,
             "name": "PLGA|PLGA|PLGA|PLGA|PLGA|PLGA|PLGA|PLGA|PLGA",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 2,
             "value": 1,
             "name": "angiogenic",
-            "group": 2
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 3,
             "value": 1,
             "name": "poly(D,L-lactic-co-glycolic acid)",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 4,
             "value": 1,
             "name": "PLGA",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 5,
             "value": 1,
             "name": "release",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 6,
             "value": 1,
             "name": "basic fibroblast growth factor",
-            "group": 10
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 7,
             "value": 10,
             "name": "bFGF|bFGF|bFGF|bFGF|bFGF|bFGF|bFGF|bFGF|bFGF|bFGF",
-            "group": 10
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 8,
             "value": 1,
             "name": "induce",
-            "group": 9
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 9,
             "value": 1,
             "name": "angiogenesis",
-            "group": 2
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 10,
             "value": 1,
             "name": "Heparin",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 11,
             "value": 1,
             "name": "loaded",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 12,
             "value": 1,
             "name": "heparin",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 13,
             "value": 4,
             "name": "heparin|heparin|heparin|heparin",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 14,
             "value": 3,
             "name": "loaded|loaded|loaded",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 15,
             "value": 1,
             "name": "release",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 16,
             "value": 1,
             "name": "angiogenic",
-            "group": 2
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 17,
             "value": 1,
             "name": "heparin",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 18,
             "value": 1,
             "name": "released",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 19,
             "value": 1,
             "name": "PLGA",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 20,
             "value": 2,
             "name": "heparin|heparin",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 21,
             "value": 1,
             "name": "controlled",
-            "group": 3
+            "trigger": 1,
+            "group": 9
         },
         {
             "id": 22,
             "value": 1,
             "name": "release",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 23,
             "value": 1,
             "name": "implantation",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 24,
             "value": 1,
             "name": "mice",
-            "group": 7
+            "trigger": 0,
+            "group": 10
         },
         {
             "id": 25,
             "value": 1,
             "name": "induced",
-            "group": 9
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 26,
             "value": 1,
             "name": "formation",
-            "group": 8
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 27,
             "value": 1,
             "name": "vascular microvessels",
-            "group": 0
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 28,
             "value": 1,
             "name": "heparin",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 29,
             "value": 1,
             "name": "immobilization",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 30,
             "value": 1,
             "name": "loading",
-            "group": 4
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 31,
             "value": 1,
             "name": "HP",
-            "group": 6
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 32,
             "value": 1,
             "name": "release",
+            "trigger": 1,
             "group": 1
         },
         {
             "id": 33,
             "value": 1,
             "name": "binding",
-            "group": 5
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 34,
             "value": 1,
             "name": "induced",
-            "group": 9
+            "trigger": 1,
+            "group": 8
         },
         {
             "id": 35,
             "value": 1,
             "name": "angiogenesis",
-            "group": 2
+            "trigger": 1,
+            "group": 0
         }
     ],
     "links": [

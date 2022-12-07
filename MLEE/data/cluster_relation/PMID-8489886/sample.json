@@ -4,49 +4,57 @@
             "id": 0,
             "value": 1,
             "name": "cells",
-            "group": 4
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 1,
             "value": 1,
             "name": "cell",
-            "group": 4
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 2,
             "value": 1,
             "name": "patient",
-            "group": 3
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 3,
             "value": 1,
             "name": "serum",
-            "group": 0
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 4,
             "value": 1,
             "name": "decrease",
-            "group": 6
+            "trigger": 1,
+            "group": 0
         },
         {
             "id": 5,
             "value": 1,
             "name": "edema",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 6,
             "value": 1,
             "name": "promote",
-            "group": 5
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 7,
             "value": 1,
             "name": "angiogenesis",
-            "group": 2
+            "trigger": 1,
+            "group": 1
         }
     ],
     "links": [

@@ -1,0 +1,237 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "GDP",
+            "group": 5
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "AGE",
+            "group": 5
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "peritoneal",
+            "group": 1
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "damage",
+            "group": 3
+        },
+        {
+            "id": 4,
+            "value": 2,
+            "name": "morphological changes|morphological changes",
+            "group": 10
+        },
+        {
+            "id": 5,
+            "value": 4,
+            "name": "peritoneal membrane|peritoneal membrane|peritoneal membrane|peritoneal membrane",
+            "group": 1
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "promoted",
+            "group": 8
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "glucose degradation products",
+            "group": 5
+        },
+        {
+            "id": 8,
+            "value": 3,
+            "name": "GDPs|GDPs|GDPs",
+            "group": 5
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "promote",
+            "group": 8
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "formation",
+            "group": 0
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "advanced glycation endproducts",
+            "group": 5
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "AGEs",
+            "group": 5
+        },
+        {
+            "id": 13,
+            "value": 2,
+            "name": "RAGE|RAGE",
+            "group": 9
+        },
+        {
+            "id": 14,
+            "value": 1,
+            "name": "receptor for AGE",
+            "group": 9
+        },
+        {
+            "id": 15,
+            "value": 1,
+            "name": "AGEs",
+            "group": 5
+        },
+        {
+            "id": 16,
+            "value": 1,
+            "name": "expressed",
+            "group": 11
+        },
+        {
+            "id": 17,
+            "value": 1,
+            "name": "mesothelial cells",
+            "group": 7
+        },
+        {
+            "id": 18,
+            "value": 1,
+            "name": "RAGE",
+            "group": 9
+        },
+        {
+            "id": 19,
+            "value": 1,
+            "name": "RAGE -/- mouse",
+            "group": 6
+        },
+        {
+            "id": 20,
+            "value": 1,
+            "name": "plays a pivotal role",
+            "group": 4
+        },
+        {
+            "id": 21,
+            "value": 1,
+            "name": "structural damage",
+            "group": 3
+        },
+        {
+            "id": 22,
+            "value": 1,
+            "name": "neoangiogenesis",
+            "group": 2
+        },
+        {
+            "id": 23,
+            "value": 1,
+            "name": "peritoneal",
+            "group": 1
+        },
+        {
+            "id": 24,
+            "value": 1,
+            "name": "peritoneal",
+            "group": 1
+        },
+        {
+            "id": 25,
+            "value": 1,
+            "name": "patients",
+            "group": 6
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 21,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 20,
+            "target": 22,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 5,
+            "value": 2
+        }
+    ]
+}

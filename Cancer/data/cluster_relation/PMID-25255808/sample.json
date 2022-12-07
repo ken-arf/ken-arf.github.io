@@ -4,91 +4,106 @@
             "id": 0,
             "value": 2,
             "name": "susceptibility|susceptibility",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 1,
             "value": 3,
             "name": "single-nucleotide polymorphisms|23 single-nucleotide polymorphisms|single-nucleotide polymorphisms",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 2,
             "value": 1,
             "name": "breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 3,
             "value": 1,
             "name": "risk factors",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 4,
             "value": 1,
             "name": "assessed",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 5,
             "value": 1,
             "name": "9 established breast cancer risk factors",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 6,
             "value": 1,
             "name": "breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 7,
             "value": 1,
             "name": "SNPs",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 8,
             "value": 1,
             "name": "non-Hispanic white",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 9,
             "value": 1,
             "name": "estimated",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 10,
             "value": 2,
             "name": "relative excess risk|relative excess risk",
-            "group": 4
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 11,
             "value": 1,
             "name": "statistically significant",
-            "group": 5
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 12,
             "value": 1,
             "name": "RAD51L1",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 13,
             "value": 1,
             "name": "rs10483813",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 14,
             "value": 1,
             "name": "body mass index",
-            "group": 3
+            "trigger": 0,
+            "group": 1
         }
     ],
     "links": [

@@ -3,7 +3,7 @@
         {
             "id": "T36",
             "name": "Genetic variants",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T39",
             "name": "5p12",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -19,7 +19,7 @@
         {
             "id": "T35",
             "name": "associated",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 24
@@ -27,7 +27,7 @@
         {
             "id": "T37",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T38",
             "name": "African American women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -43,7 +43,7 @@
         {
             "id": "T1",
             "name": "rs4415084",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -51,7 +51,7 @@
         {
             "id": "T4",
             "name": "and",
-            "group": 7,
+            "group": 6,
             "type": "Interaction",
             "trigger": 1,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T2",
             "name": "rs10941679",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -67,7 +67,7 @@
         {
             "id": "T3",
             "name": "5p12",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -75,7 +75,7 @@
         {
             "id": "T5",
             "name": "associated",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T6",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T8",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -99,7 +99,7 @@
         {
             "id": "T7",
             "name": "European",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -107,7 +107,7 @@
         {
             "id": "T10",
             "name": "high-LD region",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -115,7 +115,7 @@
         {
             "id": "T11",
             "name": "African American women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -123,7 +123,7 @@
         {
             "id": "T15",
             "name": "association",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -131,7 +131,7 @@
         {
             "id": "T12",
             "name": "rs4415084",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -139,7 +139,7 @@
         {
             "id": "T16",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -147,7 +147,7 @@
         {
             "id": "T42",
             "name": "stronger",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -155,7 +155,7 @@
         {
             "id": "T13",
             "name": "association",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -171,7 +171,7 @@
         {
             "id": "T14",
             "name": "estrogen receptor positive tumors",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 19
@@ -179,7 +179,7 @@
         {
             "id": "T43",
             "name": "estrogen receptor",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -187,7 +187,7 @@
         {
             "id": "T44",
             "name": "positive",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -195,7 +195,7 @@
         {
             "id": "T19",
             "name": "rs6451770",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 15
@@ -203,7 +203,7 @@
         {
             "id": "T20",
             "name": "rs12515012",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -211,7 +211,7 @@
         {
             "id": "T21",
             "name": "rs13156930",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -219,7 +219,7 @@
         {
             "id": "T23",
             "name": "and",
-            "group": 7,
+            "group": 6,
             "type": "Interaction",
             "trigger": 1,
             "value": 23
@@ -227,7 +227,7 @@
         {
             "id": "T22",
             "name": "rs16901937",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -235,7 +235,7 @@
         {
             "id": "T18",
             "name": "risk",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -243,7 +243,7 @@
         {
             "id": "T24",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -251,7 +251,7 @@
         {
             "id": "T17",
             "name": "59 kb HapMap LD block",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 16
@@ -259,7 +259,7 @@
         {
             "id": "T34",
             "name": "YRI",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -267,7 +267,7 @@
         {
             "id": "T26",
             "name": "association",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -275,7 +275,7 @@
         {
             "id": "T25",
             "name": "rs16901937",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 16
@@ -283,7 +283,7 @@
         {
             "id": "T9",
             "name": "significant",
-            "group": 6,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -291,7 +291,7 @@
         {
             "id": "T27",
             "name": "G allele",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -299,7 +299,7 @@
         {
             "id": "T40",
             "name": "increased",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 24
@@ -307,7 +307,7 @@
         {
             "id": "T29",
             "name": "risk",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 24
@@ -315,7 +315,7 @@
         {
             "id": "T28",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -323,7 +323,7 @@
         {
             "id": "T30",
             "name": "increase",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -331,7 +331,7 @@
         {
             "id": "T41",
             "name": "increase",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -347,7 +347,7 @@
         {
             "id": "T31",
             "name": "tumors positive for both estrogen and progesterone receptors",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 17
@@ -355,7 +355,7 @@
         {
             "id": "T50",
             "name": "tumors positive for both estrogen and progesterone receptors",
-            "group": 5,
+            "group": 7,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -363,7 +363,7 @@
         {
             "id": "T46",
             "name": "positive",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -371,7 +371,7 @@
         {
             "id": "T47",
             "name": "estrogen receptors",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -379,7 +379,7 @@
         {
             "id": "T48",
             "name": "progesterone receptors",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -387,7 +387,7 @@
         {
             "id": "T32",
             "name": "African ancestry",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -395,7 +395,7 @@
         {
             "id": "T33",
             "name": "5p12",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19

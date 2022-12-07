@@ -1,0 +1,89 @@
+T1	SNP 695 699;737 740	Five SNP
+T2	Entity 700 703	IL6
+R1	SNP_coupled_gene Arg1:T1 Arg2:T2	
+T3	Interaction 750 760	haplotypes
+E1	Interaction:T3 Entity:T1
+T4	Entity 746 749	IL6
+R2	SNP_coupled_gene Arg1:E1 Arg2:T4	
+T6	Entity 614 619;634 660	women southwestern United States
+R3	Population_assignment Arg1:T1 Arg2:T6	
+T5	Entity 454 472	non-Hispanic white
+T7	Entity 519 543	Hispanic/Native American
+R4	Member Arg1:T6 Arg2:T7	
+R5	Member Arg1:T6 Arg2:T5	
+T8	Spec 238 246	evaluate
+T9	SNP 247 264	genetic variation
+T10	Entity 272 275	IL6
+R6	SNP_coupled_gene Arg1:T9 Arg2:T10	
+T11	Association 286 290	risk
+E2	Association:T11 snp_int:T9 bc:T12
+R7	Speculation_marker Arg1:E2 Arg2:T8	
+T12	Cancer 294 307	breast cancer
+T13	Entity 914 928	postmenopausal
+T14	Entity 935 967	not recently exposed to hormones
+T15	Entity 973 978	AG/GG
+T16	SNP 992 1001	rs1800797
+R8	Genotype Arg1:T16 Arg2:T15	
+T17	Entity 1003 1007	-596
+T18	Entity 1007 1010	A>G
+R9	SNP_location Arg1:T16 Arg2:T17	
+R10	Nucleotide_substitution Arg1:T16 Arg2:T18	
+R11	Risk_Factor Arg1:T16 Arg2:T13	
+R12	Risk_Factor Arg1:T16 Arg2:T14	
+T19	Entity 1020 1025	GC/CC
+T20	SNP 1039 1048	rs1800795
+T21	Entity 1050 1054	-174
+T22	Entity 1054 1057	G>C
+R13	Genotype Arg1:T20 Arg2:T19	
+R14	SNP_location Arg1:T20 Arg2:T21	
+R15	Nucleotide_substitution Arg1:T20 Arg2:T22	
+R16	Risk_Factor Arg1:T20 Arg2:T13	
+R17	Risk_Factor Arg1:T20 Arg2:T14	
+T23	Level 1059 1072	significantly
+T24	Effect_Type 1073 1080	reduced
+T25	Association 1081 1085	risk
+E3	Association:T25 snp_int:T20 snp_int2:T16 bc:T26
+A1	Effect_Type E3 Decrease
+A2	Level E3 High
+R18	Effect_type_marker Arg1:E3 Arg2:T24	
+R19	Level_marker Arg1:E3 Arg2:T23	
+T26	Cancer 1089 1102	breast cancer
+R20	Population_assignment Arg1:T16 Arg2:T6	
+R21	Population_assignment Arg1:T20 Arg2:T6	
+R22	Member Arg1:T1 Arg2:T16	
+R23	Member Arg1:T1 Arg2:T20	
+T27	SNP 1993 2002	rs1800796
+T28	SNP 2006 2013	-572G>C
+T29	Entity 2006 2010	-572
+T30	Entity 2010 2013	G>C
+R24	Nucleotide_substitution Arg1:T28 Arg2:T30	
+R25	SNP_location Arg1:T28 Arg2:T29	
+T32	SNP 1712 1720	genotype
+T33	Interaction 1725 1734	haplotype
+E4	Interaction:T33 
+T34	Entity 1708 1711	IL6
+R26	SNP_coupled_gene Arg1:T32 Arg2:T34	
+R27	SNP_coupled_gene Arg1:E4 Arg2:T34	
+T35	Level 1735 1748	significantly
+T36	Entity 1865 1897	not recently exposed to hormones
+R29	Member Arg1:T1 Arg2:T32	
+R30	Member Arg1:E1 Arg2:E4	
+T37	Therapeutic_response 1749 1757	modified
+E5	Therapeutic_response:T37 Agent:E4 Agent2:T32 Theme:T31
+R32	Level_marker Arg1:E5 Arg2:T35	
+A3	Level E5 High
+T39	Entity 1782 1789	aspirin
+R28	Risk_Factor Arg1:T27 Arg2:T36	
+R31	Risk_Factor Arg1:T28 Arg2:T36	
+T38	Level 1818 1826	greatest
+T40	Therapeutic_response 1834 1846	modification
+E6	Therapeutic_response:T40 Agent:T27 Agent2:T28
+A4	Level E6 High
+R34	Level_marker Arg1:E6 Arg2:T38	
+R33	Member Arg1:T32 Arg2:T28	
+R35	Member Arg1:T32 Arg2:T27	
+R36	Risk_Factor Arg1:T32 Arg2:T39	
+R37	Risk_Factor Arg1:E4 Arg2:T39	
+T31	Cancer 1794 1807	breast cancer
+R38	Risk_Factor Arg1:T27 Arg2:T39	
+R39	Risk_Factor Arg1:T28 Arg2:T39	

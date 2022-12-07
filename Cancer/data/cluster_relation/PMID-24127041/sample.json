@@ -4,85 +4,99 @@
             "id": 0,
             "value": 1,
             "name": "Polymorphisms",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 1,
             "value": 2,
             "name": "ESR1|ESR1",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 2,
             "value": 2,
             "name": "FLJ43663|FLJ43663",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 3,
             "value": 1,
             "name": "associated",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 4,
             "value": 4,
             "name": "breast cancer|breast cancer|breast cancer|breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "Han population",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 6,
             "value": 2,
             "name": "rs3734805|rs3734805",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 7,
             "value": 2,
             "name": "rs2048672|rs2048672",
-            "group": 0
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 8,
             "value": 1,
             "name": "associated",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 9,
             "value": 1,
             "name": "C",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 10,
             "value": 1,
             "name": "associated",
-            "group": 5
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 11,
             "value": 1,
             "name": "increased",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 12,
             "value": 1,
             "name": "GG",
-            "group": 2
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 13,
             "value": 1,
             "name": "protective genotype",
-            "group": 3
+            "trigger": 1,
+            "group": 0
         }
     ],
     "links": [

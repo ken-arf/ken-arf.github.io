@@ -1,0 +1,110 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "value": 1,
+            "name": "chromosomes",
+            "group": 0
+        },
+        {
+            "id": 1,
+            "value": 1,
+            "name": "chromosome",
+            "group": 0
+        },
+        {
+            "id": 2,
+            "value": 1,
+            "name": "vascular cell",
+            "group": 6
+        },
+        {
+            "id": 3,
+            "value": 1,
+            "name": "human",
+            "group": 5
+        },
+        {
+            "id": 4,
+            "value": 1,
+            "name": "atherosclerotic lesions",
+            "group": 1
+        },
+        {
+            "id": 5,
+            "value": 1,
+            "name": "vascular",
+            "group": 2
+        },
+        {
+            "id": 6,
+            "value": 1,
+            "name": "dysfunction",
+            "group": 3
+        },
+        {
+            "id": 7,
+            "value": 1,
+            "name": "prevented",
+            "group": 8
+        },
+        {
+            "id": 8,
+            "value": 1,
+            "name": "activation",
+            "group": 7
+        },
+        {
+            "id": 9,
+            "value": 1,
+            "name": "telomerase",
+            "group": 9
+        },
+        {
+            "id": 10,
+            "value": 1,
+            "name": "Mice",
+            "group": 5
+        },
+        {
+            "id": 11,
+            "value": 1,
+            "name": "neovascularization",
+            "group": 4
+        },
+        {
+            "id": 12,
+            "value": 1,
+            "name": "leukocytes",
+            "group": 6
+        },
+        {
+            "id": 13,
+            "value": 1,
+            "name": "patients",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 6,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 2
+        }
+    ]
+}

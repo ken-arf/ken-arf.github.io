@@ -4,270 +4,315 @@
             "id": 0,
             "value": 2,
             "name": "Fibroblast growth factor receptor 2-positive fibroblasts|Fibroblast growth factor receptor 2",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 1,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 2,
             "value": 1,
             "name": "development",
+            "trigger": 1,
             "group": 9
         },
         {
             "id": 3,
             "value": 1,
             "name": "progression",
+            "trigger": 1,
             "group": 9
         },
         {
             "id": 4,
             "value": 3,
             "name": "esophageal carcinoma|esophageal cancer|esophageal cancer",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 5,
             "value": 1,
             "name": "Tumor fibroblasts",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 6,
             "value": 1,
             "name": "TF",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 7,
             "value": 1,
             "name": "play an essential role",
-            "group": 6
+            "trigger": 1,
+            "group": 12
         },
         {
             "id": 8,
             "value": 1,
             "name": "tumor",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 9,
             "value": 1,
             "name": "stroma",
-            "group": 1
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 10,
             "value": 1,
             "name": "interactions",
-            "group": 7
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 11,
             "value": 1,
             "name": "TF",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 12,
             "value": 4,
             "name": "TFs|TFs|TFs|TFs",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 13,
             "value": 2,
             "name": "fibroblasts|fibroblasts",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 14,
             "value": 1,
             "name": "esophageal squamous cell carcinoma",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 15,
             "value": 2,
             "name": "ESCC|ESCC",
+            "trigger": 0,
             "group": 3
         },
         {
             "id": 16,
             "value": 1,
             "name": "cell",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 17,
             "value": 2,
             "name": "proliferation|proliferation",
-            "group": 11
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 18,
             "value": 1,
             "name": "extracellular matrix",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 19,
             "value": 1,
             "name": "remodeling",
-            "group": 12
+            "trigger": 1,
+            "group": 13
         },
         {
             "id": 20,
             "value": 1,
             "name": "Up-regulation",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 21,
             "value": 1,
             "name": "fibroblast growth factor receptor 2",
-            "group": 13
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 22,
             "value": 4,
             "name": "FGFR2|FGFR2|FGFR2|FGFR2",
-            "group": 13
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 23,
             "value": 2,
             "name": "FGFR2-positive fibroblasts|FGFR2(+)-TFs",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 24,
             "value": 1,
             "name": "tumor tissues",
-            "group": 1
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 25,
             "value": 1,
             "name": "tumor-surrounding stromal tissues",
-            "group": 1
+            "trigger": 0,
+            "group": 5
         },
         {
             "id": 26,
             "value": 1,
             "name": "TF",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 27,
             "value": 1,
             "name": "ESCC tumor cell",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 28,
             "value": 1,
             "name": "growth",
-            "group": 11
+            "trigger": 1,
+            "group": 6
         },
         {
             "id": 29,
             "value": 1,
             "name": "migration",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 30,
             "value": 1,
             "name": "invasion",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 31,
             "value": 1,
             "name": "cancer cells",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 32,
             "value": 1,
             "name": "stimulation",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 33,
             "value": 1,
             "name": "cancer cell",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 34,
             "value": 1,
             "name": "induction",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 35,
             "value": 1,
             "name": "angiogenesis",
-            "group": 5
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 36,
             "value": 1,
             "name": "inhibition",
-            "group": 0
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 37,
             "value": 2,
             "name": "cell|cell",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 38,
             "value": 1,
             "name": "adhesion",
-            "group": 7
+            "trigger": 1,
+            "group": 10
         },
         {
             "id": 39,
             "value": 1,
             "name": "enhancement",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 40,
             "value": 1,
             "name": "mobility",
-            "group": 2
+            "trigger": 1,
+            "group": 7
         },
         {
             "id": 41,
             "value": 1,
             "name": "promotion",
-            "group": 10
+            "trigger": 1,
+            "group": 11
         },
         {
             "id": 42,
             "value": 1,
             "name": "epithelial",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 43,
             "value": 1,
             "name": "mesenchymal",
+            "trigger": 0,
             "group": 8
         },
         {
             "id": 44,
             "value": 1,
             "name": "transition",
+            "trigger": 1,
             "group": 9
         }
     ],

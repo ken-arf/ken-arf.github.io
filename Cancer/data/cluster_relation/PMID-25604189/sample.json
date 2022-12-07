@@ -4,67 +4,78 @@
             "id": 0,
             "value": 1,
             "name": "interactions",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 1,
             "value": 1,
             "name": "breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 2,
             "value": 2,
             "name": "CASP8|LSP1",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 3,
             "value": 1,
             "name": "rs1045485",
-            "group": 0
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 4,
             "value": 1,
             "name": "alcohol consumption",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 5,
             "value": 1,
             "name": "not",
+            "trigger": 0,
             "group": 4
         },
         {
             "id": 6,
             "value": 1,
             "name": "rs3817198",
-            "group": 0
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 7,
             "value": 1,
             "name": "parity",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 8,
             "value": 1,
             "name": "1p11.2",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 9,
             "value": 1,
             "name": "rs11249433",
-            "group": 0
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 10,
             "value": 1,
             "name": "ever being parous",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         }
     ],
     "links": [

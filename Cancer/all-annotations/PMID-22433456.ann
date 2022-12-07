@@ -1,0 +1,42 @@
+T1	SNP 37 53	genetic variants
+A1	SNP_Class T1 Common_variant
+T2	Entity 0 18	Reproductive aging
+R1	Risk_Factor Arg1:T1 Arg2:T2	
+T3	Association 62 66	risk
+E1	Association:T3 bc:T4 snp_int:T1
+T4	Cancer 70 83	breast cancer
+T5	Entity 754 786	white women of European ancestry
+T6	Entity 974 989	age at menarche
+T7	SNP 1007 1016	rs1079866
+T8	SNP 1021 1030	rs7821178
+R2	Risk_Factor Arg1:T7 Arg2:T6	
+R3	Risk_Factor Arg1:T8 Arg2:T6	
+T9	Entity 1040 1064	age at natural menopause
+T10	SNP 1081 1090	rs2517388
+R4	Risk_Factor Arg1:T10 Arg2:T9	
+T11	Association 1097 1107	associated
+E2	Association:T11 bc:T12 snp_int:T10 snp_int2:T8 snp_int3:T7
+T12	Cancer 1113 1126	breast cancer
+T13	SNP 1996 2018	three genetic variants
+T14	Spec 1982 1990	suggests
+R5	Member Arg1:T13 Arg2:T7	
+R6	Member Arg1:T13 Arg2:T8	
+R7	Member Arg1:T13 Arg2:T10	
+R8	Population_assignment Arg1:T7 Arg2:T5	
+R9	Population_assignment Arg1:T8 Arg2:T5	
+R10	Population_assignment Arg1:T10 Arg2:T5	
+T15	Association 2109 2119	associated
+E3	Association:T15 bc:T16 snp_int:T13
+T16	Cancer 2125 2138	breast cancer
+T17	Association 1466 1484	These associations
+E4	Association:T17 
+T18	Neg 2020 2031	independent
+T19	Entity 2059 2074	age at menarche
+T20	Entity 2085 2102	natural menopause
+R11	Negation_marker Arg1:T19 Arg2:T18	
+R12	Negation_marker Arg1:T20 Arg2:T18	
+R13	Risk_Factor Arg1:T13 Arg2:T19	
+R14	Risk_Factor Arg1:T13 Arg2:T20	
+R15	Speculation_marker Arg1:E3 Arg2:T14	
+R16	Equiv Arg1:E4 Arg2:E3	
+R18	Member Arg1:T1 Arg2:T13	

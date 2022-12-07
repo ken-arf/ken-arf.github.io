@@ -4,127 +4,148 @@
             "id": 0,
             "value": 1,
             "name": "Genetic variants",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 1,
             "value": 1,
             "name": "epigenetic genes",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 2,
             "value": 1,
             "name": "breast cancer",
-            "group": 2
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 3,
             "value": 1,
             "name": "risk",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 4,
             "value": 1,
             "name": "some evidence",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 5,
             "value": 1,
             "name": "association",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 6,
             "value": 1,
             "name": "six SNP",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 7,
             "value": 2,
             "name": "DNMT3b|DNMT3b",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 8,
             "value": 2,
             "name": "c31721t|c31721t",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 9,
             "value": 1,
             "name": "PRDM2",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 10,
             "value": 4,
             "name": "c99243 t|t105413c|g-9441a|g41451t",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 11,
             "value": 2,
             "name": "EHMT1|EHMT2",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 12,
             "value": 1,
             "name": "S237S",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 13,
             "value": 1,
             "name": "most significant",
-            "group": 7
+            "trigger": 0,
+            "group": 4
         },
         {
             "id": 14,
             "value": 1,
             "name": "result",
-            "group": 6
+            "trigger": 1,
+            "group": 3
         },
         {
             "id": 15,
             "value": 1,
             "name": "trimethylation",
-            "group": 1
+            "trigger": 1,
+            "group": 2
         },
         {
             "id": 16,
             "value": 1,
             "name": "K9 and K27 of histone H3",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         },
         {
             "id": 17,
             "value": 1,
             "name": "possible",
-            "group": 4
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 18,
             "value": 1,
             "name": "functional consequence",
-            "group": 3
+            "trigger": 1,
+            "group": 5
         },
         {
             "id": 19,
             "value": 1,
             "name": "these genetic variants",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 20,
             "value": 1,
             "name": "histone methyltransferases",
-            "group": 5
+            "trigger": 0,
+            "group": 1
         }
     ],
     "links": [

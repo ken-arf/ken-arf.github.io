@@ -1,0 +1,157 @@
+T1	SNP 0 21	Genetic polymorphisms
+T2	Entity 39 43	Nek2
+T3	Entity 25 34	centrobin
+R2	SNP_coupled_gene Arg1:T1 Arg2:T2	
+T4	Association 48 58	associated
+E1	Association:T4 bc:T5 snp_int:T1 snp_int2:T6
+T5	Cancer 64 77	breast cancer
+T6	SNP 0 21	Genetic polymorphisms
+R1	SNP_coupled_gene Arg1:T6 Arg2:T3	
+T7	Entity 98 120	Chinese Han population
+R3	Population_assignment Arg1:T1 Arg2:T7	
+R4	Population_assignment Arg1:T6 Arg2:T7	
+T9	SNP 431 452	genetic polymorphisms
+T10	Spec 472 475	may
+T11	Association 476 482	affect
+E2	Association:T11 bc:T12
+T12	Cancer 483 496	breast cancer
+R5	Speculation_marker Arg1:E2 Arg2:T10	
+T13	Entity 515 537	Chinese Han population
+R6	Population_assignment Arg1:T9 Arg2:T13	
+R7	Member Arg1:T9 Arg2:T6	
+R8	Member Arg1:T9 Arg2:T1	
+T8	SNP 577 608	single nucleotide polymorphisms
+T14	SNP 572 608	Five single nucleotide polymorphisms
+T15	SNP 610 614	SNPs
+R9	Equiv Arg1:T15 Arg2:T8	
+T16	Entity 619 628	centrobin
+R10	SNP_coupled_gene Arg1:T14 Arg2:T16	
+T17	SNP 633 642	four SNPs
+T18	Entity 646 650	Nek2
+R11	SNP_coupled_gene Arg1:T17 Arg2:T18	
+T19	Entity 766 788	Chinese Han population
+R12	Population_assignment Arg1:T17 Arg2:T19	
+R13	Population_assignment Arg1:T8 Arg2:T19	
+T20	Interaction 814 829	CATCG haplotype
+E3	Interaction:T20 Entity:T26
+T21	Entity 833 842	centrobin
+R14	SNP_coupled_gene Arg1:E3 Arg2:T21	
+T22	Level 847 855	strongly
+T23	Association 896 900	risk
+E4	Association:T23 snp_int:E3 bc:T39
+T24	Effect_Type 872 881	decreased
+R15	Effect_type_marker Arg1:E4 Arg2:T24	
+R16	Level_marker Arg1:E4 Arg2:T22	
+A1	Level E4 High
+A2	Effect_Type E4 Decrease
+T25	Entity 975 983	C allele
+T26	SNP 991 1001	rs11650083
+T27	Entity 1003 1006	A>C
+T28	Entity 1019 1026	exon 12
+T29	SNP 1041 1050	Pro578Gln
+R17	Nucleotide_substitution Arg1:T26 Arg2:T27	
+R18	SNP_allele Arg1:T26 Arg2:T25	
+R19	SNP_location Arg1:T26 Arg2:T28	
+R20	Equiv Arg1:T26 Arg2:T29	
+T30	Organic_inorganic_molecules_affected 1041 1050	Pro578Gln
+E5	Organic_inorganic_molecules_affected:T30 Theme:T31 Agent:T26
+T31	Entity 1041 1047	Pro578
+A3	SNP_Type T26 Missense
+T32	Entity 1084 1088	Nek2
+A4	SNP_Type T29 Missense
+T33	SNP 1065 1080	individual SNPs
+R21	Equiv Arg1:T17 Arg2:T33	
+T34	Neg 1053 1057	None
+T35	Association 1093 1103	associated
+E6	Association:T35 bc:T36 snp_int:T33
+T36	Cancer 1109 1122	breast cancer
+R22	Negation_marker Arg1:E6 Arg2:T34	
+R23	SNP_coupled_gene Arg1:T33 Arg2:T32	
+T37	Interaction 1138 1152	haplotype GTAT
+E7	Interaction:T37 
+T38	Entity 1156 1160	Nek2
+R24	SNP_coupled_gene Arg1:E7 Arg2:T38	
+T39	Cancer 882 895	breast cancer
+T40	Association 1191 1195	risk
+E8	Association:T40 snp_int:E7 bc:T42
+T41	Effect_Type 1181 1190	increased
+A5	Effect_Type E8 Increase
+R25	Effect_type_marker Arg1:E8 Arg2:T41	
+T42	Cancer 1199 1212	breast cancer
+T43	Association 1263 1267	risk
+E9	Association:T43 snp_int:E10 bc:T42
+T44	Level 1272 1285	significantly
+T45	Effect_Type 1286 1294	elevated
+R26	Level_marker Arg1:E9 Arg2:T44	
+R27	Effect_type_marker Arg1:E9 Arg2:T45	
+A6	Effect_Type E9 Increase
+A7	Level E9 High
+T46	Entity 1301 1306	women
+T47	Entity 1317 1341	family history of cancer
+T48	Entity 1355 1389;1397 1405;1407 1416	menarche-first full-term pregnancy interval >11 years
+T49	Entity 1364 1389	first full-term pregnancy
+T50	Entity 1391 1395	FFTP
+R28	Equiv Arg1:T50 Arg2:T49	
+T51	Interaction 1138 1152	haplotype GTAT
+E10	Interaction:T51 
+R29	SNP_coupled_gene Arg1:E10 Arg2:T38	
+R30	Risk_Factor Arg1:E10 Arg2:T47	
+R31	Risk_Factor Arg1:E10 Arg2:T48	
+R32	Population_assignment Arg1:E10 Arg2:T46	
+R33	Population_assignment Arg1:E7 Arg2:T46	
+R34	Population_assignment Arg1:E10 Arg2:T19	
+R35	Population_assignment Arg1:E7 Arg2:T19	
+T52	Interaction 1481 1495	harboring both
+E11	Interaction:T52 Entity:E12 Entity2:E13
+T53	Interaction 1504 1518	haplotype GTAT
+E12	Interaction:T53 
+T54	Interaction 1542 1557	haplotype CATCG
+E13	Interaction:T54 
+T55	Entity 1561 1570	centrobin
+T56	Entity 1522 1526	Nek2
+R36	SNP_coupled_gene Arg1:E12 Arg2:T56	
+R37	SNP_coupled_gene Arg1:E13 Arg2:T55	
+T57	Entity 1475 1480	women
+T58	Effect_Type 1588 1597	decreased
+T59	Association 1612 1616	risk
+E14	Association:T59 snp_int:E11 bc:T60
+A8	Effect_Type E14 Decrease
+R38	Effect_type_marker Arg1:E14 Arg2:T58	
+R39	Population_assignment Arg1:E11 Arg2:T57	
+R40	Population_assignment Arg1:E11 Arg2:T19	
+T60	Cancer 1598 1611	breast cancer
+T62	SNP 1658 1674	genetic variants
+T63	Entity 1678 1682	Nek2
+R41	SNP_coupled_gene Arg1:T62 Arg2:T63	
+T64	Effect_Type 1687 1696	increased
+T65	Cancer 1697 1710	breast cancer
+T66	Association 1711 1715	risk
+E15	Association:T66 bc:T65 snp_int:T62
+A9	Effect_Type E15 Increase
+R42	Effect_type_marker Arg1:E15 Arg2:T64	
+T67	SNP 1732 1748	genetic variants
+T68	Entity 1752 1761	centrobin
+R43	SNP_coupled_gene Arg1:T67 Arg2:T68	
+T69	Association 1531 1541	protective
+E16	Association:T69 snp_int:E13 bc:T65
+T61	Interaction 1638 1649;1720 1728	association modified
+E17	Interaction:T61 Entity:T67 Entity2:T62
+T70	Spec 1618 1628	suggesting
+R44	Speculation_marker Arg1:E17 Arg2:T70	
+E18	Association:T66 snp_int:E17 bc:T65
+T71	SNP 1789 1810	genetic polymorphisms
+T72	Entity 1814 1823	centrobin
+T73	Entity 1828 1832	Nek2
+R45	SNP_coupled_gene Arg1:T71 Arg2:T72	
+T74	SNP 1789 1810	genetic polymorphisms
+R46	SNP_coupled_gene Arg1:T74 Arg2:T73	
+T75	Association 1837 1847	related to
+E19	Association:T75 bc:T76 snp_int:E20
+T76	Cancer 1848 1861	breast cancer
+T77	Interaction 1824 1827	and
+E20	Interaction:T77 Entity:T71 Entity2:T74
+T78	Entity 1880 1897	Chinese Han women
+R47	Population_assignment Arg1:E20 Arg2:T78	
+R48	Population_assignment Arg1:T62 Arg2:T78	
+R49	Population_assignment Arg1:T67 Arg2:T78	
+R50	Equiv Arg1:E20 Arg2:E17	

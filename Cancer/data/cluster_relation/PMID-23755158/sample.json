@@ -4,151 +4,176 @@
             "id": 0,
             "value": 1,
             "name": "Assessing",
-            "group": 2
+            "trigger": 0,
+            "group": 0
         },
         {
             "id": 1,
             "value": 1,
             "name": "SNP-SNP interactions",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 2,
             "value": 1,
             "name": "SNP",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 3,
             "value": 2,
             "name": "breast cancer|breast cancer",
-            "group": 1
+            "trigger": 0,
+            "group": 6
         },
         {
             "id": 4,
             "value": 1,
             "name": "susceptibility",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 5,
             "value": 1,
             "name": "single nucleotide polymorphism",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 6,
             "value": 1,
             "name": "17 SNPs",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 7,
             "value": 1,
             "name": "Caucasian women from Alberta, Canada",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 8,
             "value": 1,
             "name": "APEX1",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 9,
             "value": 3,
             "name": "rs1130409|rs2297381|rs4041245",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 10,
             "value": 2,
             "name": "and|and",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 11,
             "value": 1,
             "name": "RPAP1",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 12,
             "value": 2,
             "name": "MLH1|MLH1",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 13,
             "value": 4,
             "name": "rs1799977|rs1799977|rs1799943|rs1799943",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 14,
             "value": 2,
             "name": "MDM2|MDM2",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 15,
             "value": 2,
             "name": "rs769412|rs769412",
-            "group": 0
+            "trigger": 0,
+            "group": 7
         },
         {
             "id": 16,
             "value": 1,
             "name": "elevated",
-            "group": 7
+            "trigger": 0,
+            "group": 3
         },
         {
             "id": 17,
             "value": 1,
             "name": "risks",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 18,
             "value": 1,
             "name": "interaction",
-            "group": 3
+            "trigger": 1,
+            "group": 1
         },
         {
             "id": 19,
             "value": 1,
             "name": "MBD2",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 20,
             "value": 2,
             "name": "BRCA2|BRCA2",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 21,
             "value": 2,
             "name": "single-locus effects|single-locus effects",
-            "group": 6
+            "trigger": 1,
+            "group": 4
         },
         {
             "id": 22,
             "value": 2,
             "name": "weak statistical significance|stronger statistical significance",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         },
         {
             "id": 23,
             "value": 1,
             "name": "independent",
-            "group": 5
+            "trigger": 0,
+            "group": 8
         },
         {
             "id": 24,
             "value": 1,
             "name": "body mass index",
-            "group": 4
+            "trigger": 0,
+            "group": 2
         }
     ],
     "links": [

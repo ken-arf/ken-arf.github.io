@@ -3,7 +3,7 @@
         {
             "id": "T11",
             "name": "women",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T2",
             "name": "increased",
-            "group": 3,
+            "group": 5,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T13",
             "name": "BRCA1 promoter",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -27,7 +27,7 @@
         {
             "id": "T12",
             "name": "methylation",
-            "group": 6,
+            "group": 1,
             "type": "Gene_Regulation",
             "trigger": 1,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T10",
             "name": "ACA/ACA",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -43,7 +43,7 @@
         {
             "id": "T3",
             "name": "Thr594Thr",
-            "group": 5,
+            "group": 6,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -59,7 +59,7 @@
         {
             "id": "T7",
             "name": "Thr594",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -67,7 +67,7 @@
         {
             "id": "T4",
             "name": "ESR",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T5",
             "name": "estrogen receptor gene",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -83,7 +83,7 @@
         {
             "id": "T8",
             "name": "associated",
-            "group": 1,
+            "group": 3,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T9",
             "name": "breast cancer",
-            "group": 0,
+            "group": 2,
             "type": "Cancer",
             "trigger": 0,
             "value": 23

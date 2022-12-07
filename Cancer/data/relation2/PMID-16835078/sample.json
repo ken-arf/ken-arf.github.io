@@ -11,7 +11,7 @@
         {
             "id": "T5",
             "name": "estradiol",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 22
@@ -19,7 +19,7 @@
         {
             "id": "T6",
             "name": "xenobiotics",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -27,7 +27,7 @@
         {
             "id": "T7",
             "name": "cell-cycle control",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -43,7 +43,7 @@
         {
             "id": "T2",
             "name": "contributors",
-            "group": 1,
+            "group": 2,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T3",
             "name": "breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T10",
             "name": "ethnic background",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -67,7 +67,7 @@
         {
             "id": "T8",
             "name": "smoking",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -75,7 +75,7 @@
         {
             "id": "T9",
             "name": "family history of breast cance",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -83,7 +83,7 @@
         {
             "id": "T14",
             "name": "hPRB",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -99,7 +99,7 @@
         {
             "id": "T33",
             "name": "+331",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -107,7 +107,7 @@
         {
             "id": "T32",
             "name": "G/A",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -115,7 +115,7 @@
         {
             "id": "T15",
             "name": "AR",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 22
@@ -131,7 +131,7 @@
         {
             "id": "T16",
             "name": "CYP19",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -147,7 +147,7 @@
         {
             "id": "T17",
             "name": "CYP1A1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -163,7 +163,7 @@
         {
             "id": "T18",
             "name": "VDR",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -179,7 +179,7 @@
         {
             "id": "T19",
             "name": "XRCC1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -203,7 +203,7 @@
         {
             "id": "T29",
             "name": "Arg194",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -211,7 +211,7 @@
         {
             "id": "T20",
             "name": "XRCC2",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -235,7 +235,7 @@
         {
             "id": "T31",
             "name": "Arg188",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -251,7 +251,7 @@
         {
             "id": "T13",
             "name": "risk factors",
-            "group": 1,
+            "group": 2,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -259,7 +259,7 @@
         {
             "id": "T12",
             "name": "non-hereditary breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 17
@@ -267,7 +267,7 @@
         {
             "id": "T34",
             "name": "TGFBR1",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -291,7 +291,7 @@
         {
             "id": "T37",
             "name": "GSTP",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -315,7 +315,7 @@
         {
             "id": "T40",
             "name": "Ile105",
-            "group": 2,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -339,7 +339,7 @@
         {
             "id": "T43",
             "name": "risk",
-            "group": 1,
+            "group": 2,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -347,7 +347,7 @@
         {
             "id": "T44",
             "name": "sporadic breast cancer",
-            "group": 0,
+            "group": 1,
             "type": "Cancer",
             "trigger": 0,
             "value": 20

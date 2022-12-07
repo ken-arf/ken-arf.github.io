@@ -3,7 +3,7 @@
         {
             "id": "T5",
             "name": "Association",
-            "group": 2,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -11,7 +11,7 @@
         {
             "id": "T2",
             "name": "polymorphisms",
-            "group": 6,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -19,7 +19,7 @@
         {
             "id": "T1",
             "name": "one-carbon metabolism genes",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -27,7 +27,7 @@
         {
             "id": "T3",
             "name": "postmenopausal",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -35,7 +35,7 @@
         {
             "id": "T4",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -43,7 +43,7 @@
         {
             "id": "T7",
             "name": "investigated",
-            "group": 9,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -51,7 +51,7 @@
         {
             "id": "T8",
             "name": "associations",
-            "group": 2,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -59,7 +59,7 @@
         {
             "id": "T6",
             "name": "25 polymorphisms",
-            "group": 6,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -67,7 +67,7 @@
         {
             "id": "T9",
             "name": "nine one-carbon metabolism genes",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -75,7 +75,7 @@
         {
             "id": "T11",
             "name": "postmenopausal",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -83,7 +83,7 @@
         {
             "id": "T10",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -91,7 +91,7 @@
         {
             "id": "T12",
             "name": "Four single nucleotide polymorphisms",
-            "group": 6,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -99,7 +99,7 @@
         {
             "id": "T13",
             "name": "three different genes",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 20
@@ -107,7 +107,7 @@
         {
             "id": "T14",
             "name": "significantly",
-            "group": 7,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -115,7 +115,7 @@
         {
             "id": "T15",
             "name": "associated",
-            "group": 2,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -123,7 +123,7 @@
         {
             "id": "T16",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -131,7 +131,7 @@
         {
             "id": "T17",
             "name": "R134K",
-            "group": 6,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -139,7 +139,7 @@
         {
             "id": "T18",
             "name": "R134K",
-            "group": 5,
+            "group": 6,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 19
@@ -147,7 +147,7 @@
         {
             "id": "T19",
             "name": "R134",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 22
@@ -155,7 +155,7 @@
         {
             "id": "T21",
             "name": "methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase/formyltetrahydrofolate synthase",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 15
@@ -163,7 +163,7 @@
         {
             "id": "T20",
             "name": "MTHFD1",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -171,7 +171,7 @@
         {
             "id": "T22",
             "name": "intronic SNP",
-            "group": 6,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -179,7 +179,7 @@
         {
             "id": "T23",
             "name": "formyltetrahydrofolate dehydrogenase",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -187,7 +187,7 @@
         {
             "id": "T24",
             "name": "FTHFD",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -195,7 +195,7 @@
         {
             "id": "T26",
             "name": "significant",
-            "group": 7,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 23
@@ -203,7 +203,7 @@
         {
             "id": "T27",
             "name": "increase",
-            "group": 4,
+            "group": 7,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -211,7 +211,7 @@
         {
             "id": "T25",
             "name": "risk",
-            "group": 2,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -219,7 +219,7 @@
         {
             "id": "T28",
             "name": "Significantly",
-            "group": 7,
+            "group": 1,
             "type": "Level",
             "trigger": 0,
             "value": 22
@@ -227,7 +227,7 @@
         {
             "id": "T29",
             "name": "decreased",
-            "group": 4,
+            "group": 7,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -235,7 +235,7 @@
         {
             "id": "T30",
             "name": "risk",
-            "group": 2,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -243,7 +243,7 @@
         {
             "id": "T31",
             "name": "intronic SNP",
-            "group": 6,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -251,7 +251,7 @@
         {
             "id": "T32",
             "name": "FTHFD",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -259,7 +259,7 @@
         {
             "id": "T33",
             "name": "A360A",
-            "group": 6,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -267,7 +267,7 @@
         {
             "id": "T36",
             "name": "A360A",
-            "group": 5,
+            "group": 6,
             "type": "Organic_inorganic_molecules_affected",
             "trigger": 1,
             "value": 17
@@ -275,7 +275,7 @@
         {
             "id": "T37",
             "name": "A360",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 19
@@ -283,7 +283,7 @@
         {
             "id": "T34",
             "name": "cystathionine beta-synthase",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -291,7 +291,7 @@
         {
             "id": "T35",
             "name": "CBS",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -299,7 +299,7 @@
         {
             "id": "T39",
             "name": "methylenetetrahydrofolate reductase",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 18
@@ -307,7 +307,7 @@
         {
             "id": "T38",
             "name": "MTHFR",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 21
@@ -315,7 +315,7 @@
         {
             "id": "T40",
             "name": "C677T",
-            "group": 6,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -323,7 +323,7 @@
         {
             "id": "T41",
             "name": "A1298C",
-            "group": 6,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 17
@@ -331,7 +331,7 @@
         {
             "id": "T43",
             "name": "increased",
-            "group": 4,
+            "group": 7,
             "type": "Effect_Type",
             "trigger": 0,
             "value": 23
@@ -339,7 +339,7 @@
         {
             "id": "T42",
             "name": "risk",
-            "group": 2,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -355,7 +355,7 @@
         {
             "id": "T47",
             "name": "associated SNPs",
-            "group": 6,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 19
@@ -363,7 +363,7 @@
         {
             "id": "T46",
             "name": "dietary factors",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -371,7 +371,7 @@
         {
             "id": "T45",
             "name": "inconclusive",
-            "group": 9,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -379,7 +379,7 @@
         {
             "id": "T48",
             "name": "genetic variation",
-            "group": 6,
+            "group": 9,
             "type": "SNP",
             "trigger": 0,
             "value": 23
@@ -387,7 +387,7 @@
         {
             "id": "T49",
             "name": "multiple one-carbon metabolism genes",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 17
@@ -395,7 +395,7 @@
         {
             "id": "T50",
             "name": "may",
-            "group": 9,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -403,7 +403,7 @@
         {
             "id": "T51",
             "name": "risk",
-            "group": 2,
+            "group": 5,
             "type": "Association",
             "trigger": 1,
             "value": 23
@@ -411,7 +411,7 @@
         {
             "id": "T52",
             "name": "postmenopausal",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 24
@@ -419,7 +419,7 @@
         {
             "id": "T53",
             "name": "breast cancer",
-            "group": 0,
+            "group": 3,
             "type": "Cancer",
             "trigger": 0,
             "value": 23
@@ -427,7 +427,7 @@
         {
             "id": "T54",
             "name": "may",
-            "group": 9,
+            "group": 2,
             "type": "Spec",
             "trigger": 0,
             "value": 23
@@ -435,7 +435,7 @@
         {
             "id": "T56",
             "name": "methyl donor",
-            "group": 3,
+            "group": 0,
             "type": "Entity",
             "trigger": 0,
             "value": 23
@@ -443,7 +443,7 @@
         {
             "id": "T55",
             "name": "synthesis",
-            "group": 1,
+            "group": 4,
             "type": "Patho_physiology",
             "trigger": 1,
             "value": 23
