@@ -62,14 +62,19 @@ d3.json("./clustering/Entity.json", function(error, data) {
       .attr("clip-path", function(d) { return "url(#clip-" + d.data.id + ")"; })
     .selectAll("tspan")
       //.data(function(d) { return d.data.name.split(/(?=[A-Z][^A-Z])/g); })
-      .data(function(d) { return d.data.name.split(' '); })
+      //.data(function(d) { return d.data.name.split(' '); })
+      .data(function(d) { 
+        let mention = d.data.name.split(' ');
+        mention.push(d.data.value); 
+        return mention;})
     .enter().append("tspan")
       .attr("x", 4)
       .attr("y", function(d, i) { return 13 + i * 10; })
       .text(function(d) { return d; });
 
   cell.append("title")
-      .text(function(d) { return d.data.id + "\n" + format(d.value); });
+      //.text(function(d) { return d.data.id + "\n" + format(d.value); });
+      .text(function(d) { return d.data.name + "\n" + format(d.data.value); });
 
   d3.selectAll("input")
       .data([sumBySize, sumByCount], function(d) { return d ? d.name : this.value; })
