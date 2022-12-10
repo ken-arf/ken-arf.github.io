@@ -63,9 +63,9 @@ d3.json("../data/relation2/PMID-23940692/sample.json", function(error, graph) {
       .attr("stroke-width", function(d) { return 2 * d.value; })
       .classed("line-normal", true)
      .on("click", function(d) {
-        alert(d.source.name + "[" + d.source.type + "] ->" + 
-            d.link_name + " ->" +
-            d.target.name + "[" + d.target.type + "]")
+        alert("<Relation>\n" + "(" + d.source.name + ":" + d.source.type + ") -" + 
+            "[" + d.link_name +"]" + " ->" +
+            "(" + d.target.name + ":" + d.target.type + ")")
      });
 
   var node = svg.append("g")
@@ -92,10 +92,10 @@ d3.json("../data/relation2/PMID-23940692/sample.json", function(error, graph) {
             var count = 0;
             var source;
             var target = [];
-            source = "<Event>\n=Trigger= " + d.name + "[" + d.type + "]";
+            source = "<Event>\n =Trigger= " + "(" + d.name + ":" + d.type + ")";
             d3.selectAll("line").classed("line-selected", function(a) {
                 if ((a.source.id === nId || a.target.id === nId) && a.value === 2) {
-                    target[count] = "->" + a.link_name + "->" + a.target.name + "[" + a.target.type + "]";
+                    target[count] = "-" + "[" + a.link_name + "]" + "->" + "(" + a.target.name + ":" + a.target.type + ")";
                     count += 1;
                     return true;
                 } else {
